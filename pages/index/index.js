@@ -28,6 +28,9 @@ Page({
   },
 
   onShow() {
+    wx.showShareMenu({
+      menus: ['shareAppMessage', 'shareTimeline']
+    })
     const app = getApp()
     const state = app.getState()
     const plays = app.getPlays()
@@ -135,6 +138,13 @@ Page({
     return {
       title: play ? `我抽到了：${play.title}` : '周末别想了，抽一个上海城市玩法',
       path: '/pages/index/index'
+    }
+  },
+
+  onShareTimeline() {
+    const play = this.data.play
+    return {
+      title: play ? `我抽到了：${play.title}` : '周末别想了，抽一个上海城市玩法'
     }
   }
 })

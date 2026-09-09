@@ -28,6 +28,9 @@ Page({
   },
 
   onShow() {
+    wx.showShareMenu({
+      menus: ['shareAppMessage', 'shareTimeline']
+    })
     if (this.data.justCompleted) return
     this.loadChallenges(this.data.play ? this.data.play.id : '')
   },
@@ -163,6 +166,13 @@ Page({
     return {
       title: play ? `我的本周城市挑战：${play.title}` : '来抽一个上海周末玩法',
       path: '/pages/index/index'
+    }
+  },
+
+  onShareTimeline() {
+    const play = this.data.play || this.data.completedPlay
+    return {
+      title: play ? `我的本周城市挑战：${play.title}` : '来抽一个上海周末玩法'
     }
   }
 })

@@ -25,6 +25,9 @@ Page({
   },
 
   onShow() {
+    wx.showShareMenu({
+      menus: ['shareAppMessage', 'shareTimeline']
+    })
     this.refresh()
   },
 
@@ -89,6 +92,13 @@ Page({
     return {
       title: profile ? `我的上海人格：${profile.title}` : '来发现你的上海城市人格',
       path: '/pages/index/index'
+    }
+  },
+
+  onShareTimeline() {
+    const profile = this.data.profile
+    return {
+      title: profile ? `我的上海人格：${profile.title}` : '来发现你的上海城市人格'
     }
   }
 })
