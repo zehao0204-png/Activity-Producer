@@ -6,6 +6,10 @@
       {
         "value": "tests",
         "type": "folder"
+      },
+      {
+        "value": "scripts",
+        "type": "folder"
       }
     ],
     "include": []

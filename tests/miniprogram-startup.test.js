@@ -3,6 +3,8 @@ const fs = require('fs')
 const path = require('path')
 const vm = require('vm')
 const root = path.resolve(__dirname, '..')
+const packIgnore = require('../project.config.json').packOptions.ignore
+assert.ok(packIgnore.some(item => item.type === 'folder' && item.value === 'scripts'), 'Node build scripts must not be packaged in the WeChat client')
 const cache = new Map()
 const pages = []
 let app
