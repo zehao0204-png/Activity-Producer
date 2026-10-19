@@ -44,8 +44,12 @@ const html = '<table><tr><td>序号</td><td>区县</td><td>馆名</td><td>地址
 const parsed = parseDirectory(html, ['museum', '官方名录', 'https://www.shanghai.gov.cn/'], '2026-10-19')
 assert.deepStrictEqual(parsed.map(place => [place.district, place.name, place.address]), [['杨浦', '甲馆', '杨浦区甲路1号'], ['杨浦', '乙馆', '杨浦区乙路2号']])
 assert.strictEqual(getMapLocation({ address: '杨浦区甲路1号' }), null)
-let copied = ''
-global.wx = { showModal: options => options.success({ confirm: true }), setClipboardData: options => { copied = options.data } }
+const opened = []
+global.wx = { openLocation: options => opened.push(options) }
 openPlayLocation({ location: '甲馆', address: '杨浦区甲路1号' })
-assert.strictEqual(copied, '甲馆 杨浦区甲路1号')
+assert.strictEqual(opened.length, 0, 'address-only activities must not call any clipboard or map API')
+openPlayLocation({ location: '乙馆', address: '杨浦区乙路2号', latitude: 31.3, longitude: 121.5, coordinateSystem: 'gcj02' })
+assert.strictEqual(opened.length, 1)
+assert.strictEqual(opened[0].latitude, 31.3)
+assert.strictEqual(opened[0].name, '乙馆')
 console.log('district, strict theme, venue diversity and address checks passed')

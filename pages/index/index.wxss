@@ -101,6 +101,7 @@
 .source-note { color: #77736b; font-size: 20rpx; line-height: 1.6; }
 .source-note text { display: block; margin-top: 6rpx; }
 .opening-note { margin-top: 20rpx; color: #625e57; font-size: 22rpx; line-height: 1.7; }
+.activity-address { margin: 22rpx 0; color: #4d4943; font-size: 22rpx; line-height: 1.7; }
 
 .mood-heading {
   display: flex;

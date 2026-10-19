@@ -45,13 +45,5 @@ function openPlayLocation(play) {
     wx.openLocation({ ...location, name: play.location, address: play.address, scale: 16 })
     return
   }
-  wx.showModal({
-    title: play.location,
-    content: `${play.address}\n复制后可到微信地图或常用地图搜索。`,
-    confirmText: '复制地址',
-    success: result => {
-      if (result.confirm) wx.setClipboardData({ data: `${play.location} ${play.address}` })
-    }
-  })
 }
 module.exports = { getMapLocation, openPlayLocation, wgs84ToGcj02 }

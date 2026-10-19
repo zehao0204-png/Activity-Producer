@@ -111,10 +111,14 @@
     </view>
     <view wx:if="{{play.openingHours}}" class="opening-note">开放参考：{{play.openingHours}}</view>
 
-    <button class="map-link" bindtap="openMap">
+    <button wx:if="{{play.latitude && play.longitude}}" class="map-link" bindtap="openMap">
       <text>起点 · {{play.location}}</text>
-      <text>{{play.latitude ? '查看地图 ↗' : '复制地址 ↗'}}</text>
+      <text>查看地图 ↗</text>
     </button>
+    <view wx:else class="activity-address">
+      <view>地点 · {{play.location}}</view>
+      <view>{{play.address}}</view>
+    </view>
     <view class="source-note">地点来源：{{play.sourceTitle}}<text>名录核对 {{play.verifiedAt}} · 请出发前确认开放及预约</text></view>
   </view>
 

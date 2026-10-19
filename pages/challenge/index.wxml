@@ -60,7 +60,7 @@
         <view class="step-text">{{item}}</view>
       </view>
 
-      <button class="location-card" bindtap="openMap">
+      <button wx:if="{{play.latitude && play.longitude}}" class="location-card" bindtap="openMap">
         <view>
           <view class="location-label">从这里开始</view>
           <view class="location-name">{{play.location}}</view>
@@ -68,6 +68,13 @@
         </view>
         <view class="location-arrow">↗</view>
       </button>
+      <view wx:else class="location-card">
+        <view>
+          <view class="location-label">活动地点</view>
+          <view class="location-name">{{play.location}}</view>
+          <view class="location-address">{{play.address}}</view>
+        </view>
+      </view>
 
       <view class="safety-tip">提示：{{play.tip}}</view>
     </view>
