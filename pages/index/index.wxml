@@ -4,7 +4,7 @@
       <view class="eyebrow">WEEKEND UNBOXED</view>
       <view class="city-line">上海限定 · SHANGHAI</view>
     </view>
-    <view class="edition">试验版 01</view>
+    <view class="edition">{{catalogCount}} 个玩法</view>
   </view>
 
   <view class="hero">
@@ -19,6 +19,21 @@
       <text class="active-title">{{activeSummary}}</text>
     </view>
     <text class="active-arrow">→</text>
+  </view>
+
+  <view class="district-section">
+    <view class="mood-heading">
+      <text class="section-label">这次去哪一区？</text>
+      <text class="optional">不选就是全上海</text>
+    </view>
+    <button class="district-toggle" bindtap="toggleDistricts" aria-expanded="{{districtsExpanded}}">
+      <view><text class="district-pin">⌖</text><text>{{districtLabel}}</text></view>
+      <text class="district-toggle-label">{{districtsExpanded ? '收起选择 −' : '选择区域 ＋'}}</text>
+    </button>
+    <view wx:if="{{districtsExpanded}}" class="district-grid">
+      <button wx:for="{{districts}}" wx:key="id" data-id="{{item.id}}" bindtap="selectDistrict"
+        class="district-chip {{selectedDistrict === item.id ? 'district-chip--active' : ''}}">{{item.label}}</button>
+    </view>
   </view>
 
   <view class="mood-section">
@@ -41,9 +56,15 @@
         </button>
       </view>
     </view>
+    <view class="filter-summary">{{moodDescription}}</view>
+    <view class="filter-count">{{districtLabel}} · {{availableCount}} 个符合条件的玩法</view>
   </view>
 
-  <view wx:if="{{!play && !isDrawing}}" class="blindbox" bindtap="draw">
+  <view wx:if="{{emptyMessage}}" class="empty-card">
+    <text class="empty-title">这里还没有合适的盲盒</text>
+    <text>{{emptyMessage}}</text>
+  </view>
+  <view wx:if="{{!play && !isDrawing && !emptyMessage}}" class="blindbox" bindtap="draw">
     <view class="box-rays"></view>
     <view class="box-mark">？</view>
     <view class="box-ticket">NO PLANS / NO PROBLEM</view>
@@ -86,14 +107,16 @@
       <view class="mission-label">你的任务</view>
       <view class="mission-text">{{play.mission}}</view>
     </view>
+    <view wx:if="{{play.openingHours}}" class="opening-note">开放参考：{{play.openingHours}}</view>
 
     <button class="map-link" bindtap="openMap">
       <text>起点 · {{play.location}}</text>
-      <text>查看地图 ↗</text>
+      <text>{{play.latitude ? '查看地图 ↗' : '复制地址 ↗'}}</text>
     </button>
+    <view class="source-note">地点来源：{{play.sourceTitle}}<text>名录核对 {{play.verifiedAt}} · 请出发前确认开放及预约</text></view>
   </view>
 
-  <button wx:if="{{!play}}" class="primary-button draw-button" bindtap="draw" loading="{{isDrawing}}">
+  <button wx:if="{{!play && !emptyMessage}}" class="primary-button draw-button" bindtap="draw" loading="{{isDrawing}}" disabled="{{isDrawing}}">
     {{isDrawing ? '正在开盒' : '抽一个周末玩法'}}
   </button>
 

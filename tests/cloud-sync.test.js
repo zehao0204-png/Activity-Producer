@@ -52,8 +52,14 @@ async function run() {
   const saved = storage['weekend-unboxed-state-v1']
   assert.strictEqual(saved.challenges[0].playId, 'remote-play')
   assert.strictEqual(saved.stats.completedCount, 8)
-  assert.strictEqual(app.getPlays().filter(play => play.recommendable !== false).length, 100)
+  assert.strictEqual(app.getPlays().filter(play => play.recommendable !== false).length, catalog.length)
   assert.strictEqual(notified, 2)
+  const oldPlay = require('../data/plays').find(play => play.status === 'legacy')
+  app.catalog = [{ ...oldPlay, recommendable: true, status: 'published' }]
+  assert.strictEqual(app.getPlays().find(play => play.id === oldPlay.id).recommendable, false)
+  const newPlay = catalog[0]
+  app.catalog = [{ ...newPlay, catalogVersion: 1, moods: ['arts', 'healing'] }]
+  assert.deepStrictEqual(app.getPlays().find(play => play.id === newPlay.id).moods, newPlay.moods)
 
   app.acceptChallenge('local-play')
   await app.flushCloudSync()

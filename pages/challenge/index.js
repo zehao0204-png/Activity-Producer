@@ -1,4 +1,4 @@
-const { getMapLocation } = require('../../utils/location')
+const { openPlayLocation } = require('../../utils/location')
 
 function formatDate(timestamp) {
   const date = new Date(timestamp)
@@ -72,14 +72,7 @@ Page({
   openMap() {
     const play = this.data.play
     if (!play) return
-    const location = getMapLocation(play)
-    wx.openLocation({
-      latitude: location.latitude,
-      longitude: location.longitude,
-      name: play.location,
-      address: play.address,
-      scale: 16
-    })
+    openPlayLocation(play)
   },
 
   openFeedback() {

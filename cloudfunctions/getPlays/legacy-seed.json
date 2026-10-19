@@ -1,0 +1,3954 @@
+[
+  {
+    "id": "1933-geometry",
+    "emoji": "📐",
+    "stamp": "空间解谜者",
+    "title": "在1933老场坊完成一场几何寻宝",
+    "kicker": "楼梯、廊桥和光影都是谜面。",
+    "district": "虹口",
+    "location": "1933老场坊",
+    "address": "虹口区溧阳路611号",
+    "latitude": 31.2574,
+    "longitude": 121.4971,
+    "duration": "1.5～2小时",
+    "budget": "¥0～60",
+    "bestTime": "下午",
+    "moods": [
+      "arts",
+      "thrill"
+    ],
+    "traits": [
+      "culture",
+      "curious",
+      "walk"
+    ],
+    "mission": "找到一条最窄的楼梯、一个完美圆形、一组三角阴影和一处看不懂用途的空间。",
+    "steps": [
+      "从主入口进入后先不看导览",
+      "按四个几何目标自由探索",
+      "选一个空间给它编一个新用途"
+    ],
+    "tip": "部分区域可能关闭，勿跨越围挡。",
+    "placeId": "old-millfun",
+    "coordinateSystem": "gcj02",
+    "sourceTitle": "上海市文旅推广网：1933老场坊",
+    "sourceUrl": "https://www.meet-in-shanghai.net/cn/news/happy-shanghai-may-day--happy-spring-market-is-here-828739/",
+    "verifiedAt": "2026-08-18",
+    "status": "published",
+    "recommendable": true,
+    "catalogVersion": 1
+  },
+  {
+    "id": "aurora-art-museum-color-hunt",
+    "placeId": "aurora-art-museum",
+    "emoji": "🎨",
+    "stamp": "色彩采集员",
+    "title": "去震旦美术馆收集四种展厅颜色",
+    "kicker": "把展览压缩成一张私人色卡。",
+    "district": "浦东",
+    "location": "震旦美术馆",
+    "address": "浦东新区富城路99号主楼2-3层",
+    "latitude": 31.2365031,
+    "longitude": 121.495396,
+    "coordinateSystem": "wgs84",
+    "duration": "1.5～2.5小时",
+    "budget": "¥0～60",
+    "bestTime": "周二至周日 10:00-17:00，周五延长至21:00",
+    "moods": [
+      "arts",
+      "healing"
+    ],
+    "traits": [
+      "culture",
+      "curious",
+      "walk",
+      "budget"
+    ],
+    "mission": "收集四种展厅颜色。完成任务即可离开，不需要把震旦美术馆全部逛完。",
+    "steps": [
+      "出发前打开官方来源确认当天开放安排",
+      "到达震旦美术馆后先熟悉公共区域和现场规则",
+      "收集四种展厅颜色，完成后写下一句感受"
+    ],
+    "tip": "部分免费，按展收费；开放安排可能调整，请以官方来源和现场公告为准。",
+    "sourceTitle": "上海市文化和旅游局：2025年上海市美术馆名录",
+    "sourceUrl": "https://whlyj.sh.gov.cn/msg/20250928/db0cbc0a1edf478f99c4900522a56e3b.html",
+    "verifiedAt": "2026-08-18",
+    "status": "published",
+    "recommendable": true,
+    "catalogVersion": 1
+  },
+  {
+    "id": "aurora-art-museum-one-question",
+    "placeId": "aurora-art-museum",
+    "emoji": "❓",
+    "stamp": "问题收藏家",
+    "title": "去震旦美术馆带着一个问题去看展",
+    "kicker": "答案不重要，新的问题才重要。",
+    "district": "浦东",
+    "location": "震旦美术馆",
+    "address": "浦东新区富城路99号主楼2-3层",
+    "latitude": 31.2365031,
+    "longitude": 121.495396,
+    "coordinateSystem": "wgs84",
+    "duration": "1.5～2.5小时",
+    "budget": "¥0～60",
+    "bestTime": "周二至周日 10:00-17:00，周五延长至21:00",
+    "moods": [
+      "arts",
+      "healing"
+    ],
+    "traits": [
+      "culture",
+      "calm",
+      "curious",
+      "budget"
+    ],
+    "mission": "带着一个问题去看展。完成任务即可离开，不需要把震旦美术馆全部逛完。",
+    "steps": [
+      "出发前打开官方来源确认当天开放安排",
+      "到达震旦美术馆后先熟悉公共区域和现场规则",
+      "带着一个问题去看展，完成后写下一句感受"
+    ],
+    "tip": "部分免费，按展收费；开放安排可能调整，请以官方来源和现场公告为准。",
+    "sourceTitle": "上海市文化和旅游局：2025年上海市美术馆名录",
+    "sourceUrl": "https://whlyj.sh.gov.cn/msg/20250928/db0cbc0a1edf478f99c4900522a56e3b.html",
+    "verifiedAt": "2026-08-18",
+    "status": "published",
+    "recommendable": true,
+    "catalogVersion": 1
+  },
+  {
+    "id": "aurora-art-museum-one-work",
+    "placeId": "aurora-art-museum",
+    "emoji": "🖼️",
+    "stamp": "慢看观察员",
+    "title": "去震旦美术馆只认真认识一件作品",
+    "kicker": "少看一点，反而记得更久。",
+    "district": "浦东",
+    "location": "震旦美术馆",
+    "address": "浦东新区富城路99号主楼2-3层",
+    "latitude": 31.2365031,
+    "longitude": 121.495396,
+    "coordinateSystem": "wgs84",
+    "duration": "1.5～2.5小时",
+    "budget": "¥0～60",
+    "bestTime": "周二至周日 10:00-17:00，周五延长至21:00",
+    "moods": [
+      "arts",
+      "healing"
+    ],
+    "traits": [
+      "culture",
+      "calm",
+      "curious",
+      "budget"
+    ],
+    "mission": "只认真认识一件作品。完成任务即可离开，不需要把震旦美术馆全部逛完。",
+    "steps": [
+      "出发前打开官方来源确认当天开放安排",
+      "到达震旦美术馆后先熟悉公共区域和现场规则",
+      "只认真认识一件作品，完成后写下一句感受"
+    ],
+    "tip": "部分免费，按展收费；开放安排可能调整，请以官方来源和现场公告为准。",
+    "sourceTitle": "上海市文化和旅游局：2025年上海市美术馆名录",
+    "sourceUrl": "https://whlyj.sh.gov.cn/msg/20250928/db0cbc0a1edf478f99c4900522a56e3b.html",
+    "verifiedAt": "2026-08-18",
+    "status": "published",
+    "recommendable": true,
+    "catalogVersion": 1
+  },
+  {
+    "id": "aurora-art-museum-rename",
+    "placeId": "aurora-art-museum",
+    "emoji": "✍️",
+    "stamp": "临时策展人",
+    "title": "去震旦美术馆给三件作品重新起名",
+    "kicker": "先不看说明，听听自己的直觉。",
+    "district": "浦东",
+    "location": "震旦美术馆",
+    "address": "浦东新区富城路99号主楼2-3层",
+    "latitude": 31.2365031,
+    "longitude": 121.495396,
+    "coordinateSystem": "wgs84",
+    "duration": "1.5～2.5小时",
+    "budget": "¥0～60",
+    "bestTime": "周二至周日 10:00-17:00，周五延长至21:00",
+    "moods": [
+      "arts",
+      "thrill"
+    ],
+    "traits": [
+      "culture",
+      "curious",
+      "budget"
+    ],
+    "mission": "给三件作品重新起名。完成任务即可离开，不需要把震旦美术馆全部逛完。",
+    "steps": [
+      "出发前打开官方来源确认当天开放安排",
+      "到达震旦美术馆后先熟悉公共区域和现场规则",
+      "给三件作品重新起名，完成后写下一句感受"
+    ],
+    "tip": "部分免费，按展收费；开放安排可能调整，请以官方来源和现场公告为准。",
+    "sourceTitle": "上海市文化和旅游局：2025年上海市美术馆名录",
+    "sourceUrl": "https://whlyj.sh.gov.cn/msg/20250928/db0cbc0a1edf478f99c4900522a56e3b.html",
+    "verifiedAt": "2026-08-18",
+    "status": "published",
+    "recommendable": true,
+    "catalogVersion": 1
+  },
+  {
+    "id": "century-park-nature-card",
+    "placeId": "century-park",
+    "emoji": "🌿",
+    "stamp": "自然色卡师",
+    "title": "去世纪公园收集五种自然颜色",
+    "kicker": "把公园装进一张五格色卡。",
+    "district": "浦东",
+    "location": "世纪公园",
+    "address": "浦东新区锦绣路1001号",
+    "latitude": 31.2187993,
+    "longitude": 121.5486275,
+    "coordinateSystem": "wgs84",
+    "duration": "1.5～3小时",
+    "budget": "¥0～180",
+    "bestTime": "以公园当日公告为准",
+    "moods": [
+      "healing",
+      "outdoors"
+    ],
+    "traits": [
+      "nature",
+      "calm",
+      "walk"
+    ],
+    "mission": "收集五种自然颜色。完成任务即可离开，不需要把世纪公园全部逛完。",
+    "steps": [
+      "出发前打开官方来源确认当天开放安排",
+      "到达世纪公园后先熟悉公共区域和现场规则",
+      "收集五种自然颜色，完成后写下一句感受"
+    ],
+    "tip": "费用以公园公告为准；开放安排可能调整，请以官方来源和现场公告为准。",
+    "sourceTitle": "上海市绿化和市容管理局：星级公园名录",
+    "sourceUrl": "https://www.shanghai.gov.cn/gwk/search/content/cfa0770c-00d3-4733-ae5a-93ec852c1541",
+    "verifiedAt": "2026-08-18",
+    "status": "published",
+    "recommendable": true,
+    "catalogVersion": 1
+  },
+  {
+    "id": "century-park-no-phone",
+    "placeId": "century-park",
+    "emoji": "🪑",
+    "stamp": "长椅观察员",
+    "title": "去世纪公园坐满二十分钟不碰手机",
+    "kicker": "什么都不做，也是一项任务。",
+    "district": "浦东",
+    "location": "世纪公园",
+    "address": "浦东新区锦绣路1001号",
+    "latitude": 31.2187993,
+    "longitude": 121.5486275,
+    "coordinateSystem": "wgs84",
+    "duration": "1.5～3小时",
+    "budget": "¥0～180",
+    "bestTime": "以公园当日公告为准",
+    "moods": [
+      "healing",
+      "outdoors"
+    ],
+    "traits": [
+      "calm",
+      "nature",
+      "budget"
+    ],
+    "mission": "坐满二十分钟不碰手机。完成任务即可离开，不需要把世纪公园全部逛完。",
+    "steps": [
+      "出发前打开官方来源确认当天开放安排",
+      "到达世纪公园后先熟悉公共区域和现场规则",
+      "坐满二十分钟不碰手机，完成后写下一句感受"
+    ],
+    "tip": "费用以公园公告为准；开放安排可能调整，请以官方来源和现场公告为准。",
+    "sourceTitle": "上海市绿化和市容管理局：星级公园名录",
+    "sourceUrl": "https://www.shanghai.gov.cn/gwk/search/content/cfa0770c-00d3-4733-ae5a-93ec852c1541",
+    "verifiedAt": "2026-08-18",
+    "status": "published",
+    "recommendable": true,
+    "catalogVersion": 1
+  },
+  {
+    "id": "century-park-slow-lap",
+    "placeId": "century-park",
+    "emoji": "👟",
+    "stamp": "慢走计时员",
+    "title": "去世纪公园不用导航走完一圈",
+    "kicker": "不追配速，只追一条陌生支路。",
+    "district": "浦东",
+    "location": "世纪公园",
+    "address": "浦东新区锦绣路1001号",
+    "latitude": 31.2187993,
+    "longitude": 121.5486275,
+    "coordinateSystem": "wgs84",
+    "duration": "1.5～3小时",
+    "budget": "¥0～180",
+    "bestTime": "以公园当日公告为准",
+    "moods": [
+      "outdoors",
+      "healing"
+    ],
+    "traits": [
+      "active",
+      "walk",
+      "nature"
+    ],
+    "mission": "不用导航走完一圈。完成任务即可离开，不需要把世纪公园全部逛完。",
+    "steps": [
+      "出发前打开官方来源确认当天开放安排",
+      "到达世纪公园后先熟悉公共区域和现场规则",
+      "不用导航走完一圈，完成后写下一句感受"
+    ],
+    "tip": "费用以公园公告为准；开放安排可能调整，请以官方来源和现场公告为准。",
+    "sourceTitle": "上海市绿化和市容管理局：星级公园名录",
+    "sourceUrl": "https://www.shanghai.gov.cn/gwk/search/content/cfa0770c-00d3-4733-ae5a-93ec852c1541",
+    "verifiedAt": "2026-08-18",
+    "status": "published",
+    "recommendable": true,
+    "catalogVersion": 1
+  },
+  {
+    "id": "century-park-sound-map",
+    "placeId": "century-park",
+    "emoji": "🎧",
+    "stamp": "声音地图员",
+    "title": "去世纪公园记录四种公园声音",
+    "kicker": "关掉耳机，重新听见周末。",
+    "district": "浦东",
+    "location": "世纪公园",
+    "address": "浦东新区锦绣路1001号",
+    "latitude": 31.2187993,
+    "longitude": 121.5486275,
+    "coordinateSystem": "wgs84",
+    "duration": "1.5～3小时",
+    "budget": "¥0～180",
+    "bestTime": "以公园当日公告为准",
+    "moods": [
+      "healing",
+      "outdoors"
+    ],
+    "traits": [
+      "nature",
+      "calm",
+      "walk"
+    ],
+    "mission": "记录四种公园声音。完成任务即可离开，不需要把世纪公园全部逛完。",
+    "steps": [
+      "出发前打开官方来源确认当天开放安排",
+      "到达世纪公园后先熟悉公共区域和现场规则",
+      "记录四种公园声音，完成后写下一句感受"
+    ],
+    "tip": "费用以公园公告为准；开放安排可能调整，请以官方来源和现场公告为准。",
+    "sourceTitle": "上海市绿化和市容管理局：星级公园名录",
+    "sourceUrl": "https://www.shanghai.gov.cn/gwk/search/content/cfa0770c-00d3-4733-ae5a-93ec852c1541",
+    "verifiedAt": "2026-08-18",
+    "status": "published",
+    "recommendable": true,
+    "catalogVersion": 1
+  },
+  {
+    "id": "cheng-shifa-art-color-hunt",
+    "placeId": "cheng-shifa-art",
+    "emoji": "🎨",
+    "stamp": "色彩采集员",
+    "title": "去上海中国画院程十发美术馆收集四种展厅颜色",
+    "kicker": "把展览压缩成一张私人色卡。",
+    "district": "长宁",
+    "location": "上海中国画院程十发美术馆",
+    "address": "长宁区虹桥路1398号",
+    "latitude": 31.1992844,
+    "longitude": 121.4003435,
+    "coordinateSystem": "wgs84",
+    "duration": "1.5～2.5小时",
+    "budget": "¥0～60",
+    "bestTime": "周二至周日 10:00-18:00",
+    "moods": [
+      "arts",
+      "healing"
+    ],
+    "traits": [
+      "culture",
+      "curious",
+      "walk",
+      "budget"
+    ],
+    "mission": "收集四种展厅颜色。完成任务即可离开，不需要把上海中国画院程十发美术馆全部逛完。",
+    "steps": [
+      "出发前打开官方来源确认当天开放安排",
+      "到达上海中国画院程十发美术馆后先熟悉公共区域和现场规则",
+      "收集四种展厅颜色，完成后写下一句感受"
+    ],
+    "tip": "免费；开放安排可能调整，请以官方来源和现场公告为准。",
+    "sourceTitle": "上海市文化和旅游局：2025年上海市美术馆名录",
+    "sourceUrl": "https://whlyj.sh.gov.cn/msg/20250928/db0cbc0a1edf478f99c4900522a56e3b.html",
+    "verifiedAt": "2026-08-18",
+    "status": "published",
+    "recommendable": true,
+    "catalogVersion": 1
+  },
+  {
+    "id": "cheng-shifa-art-one-question",
+    "placeId": "cheng-shifa-art",
+    "emoji": "❓",
+    "stamp": "问题收藏家",
+    "title": "去上海中国画院程十发美术馆带着一个问题去看展",
+    "kicker": "答案不重要，新的问题才重要。",
+    "district": "长宁",
+    "location": "上海中国画院程十发美术馆",
+    "address": "长宁区虹桥路1398号",
+    "latitude": 31.1992844,
+    "longitude": 121.4003435,
+    "coordinateSystem": "wgs84",
+    "duration": "1.5～2.5小时",
+    "budget": "¥0～60",
+    "bestTime": "周二至周日 10:00-18:00",
+    "moods": [
+      "arts",
+      "healing"
+    ],
+    "traits": [
+      "culture",
+      "calm",
+      "curious",
+      "budget"
+    ],
+    "mission": "带着一个问题去看展。完成任务即可离开，不需要把上海中国画院程十发美术馆全部逛完。",
+    "steps": [
+      "出发前打开官方来源确认当天开放安排",
+      "到达上海中国画院程十发美术馆后先熟悉公共区域和现场规则",
+      "带着一个问题去看展，完成后写下一句感受"
+    ],
+    "tip": "免费；开放安排可能调整，请以官方来源和现场公告为准。",
+    "sourceTitle": "上海市文化和旅游局：2025年上海市美术馆名录",
+    "sourceUrl": "https://whlyj.sh.gov.cn/msg/20250928/db0cbc0a1edf478f99c4900522a56e3b.html",
+    "verifiedAt": "2026-08-18",
+    "status": "published",
+    "recommendable": true,
+    "catalogVersion": 1
+  },
+  {
+    "id": "cheng-shifa-art-one-work",
+    "placeId": "cheng-shifa-art",
+    "emoji": "🖼️",
+    "stamp": "慢看观察员",
+    "title": "去上海中国画院程十发美术馆只认真认识一件作品",
+    "kicker": "少看一点，反而记得更久。",
+    "district": "长宁",
+    "location": "上海中国画院程十发美术馆",
+    "address": "长宁区虹桥路1398号",
+    "latitude": 31.1992844,
+    "longitude": 121.4003435,
+    "coordinateSystem": "wgs84",
+    "duration": "1.5～2.5小时",
+    "budget": "¥0～60",
+    "bestTime": "周二至周日 10:00-18:00",
+    "moods": [
+      "arts",
+      "healing"
+    ],
+    "traits": [
+      "culture",
+      "calm",
+      "curious",
+      "budget"
+    ],
+    "mission": "只认真认识一件作品。完成任务即可离开，不需要把上海中国画院程十发美术馆全部逛完。",
+    "steps": [
+      "出发前打开官方来源确认当天开放安排",
+      "到达上海中国画院程十发美术馆后先熟悉公共区域和现场规则",
+      "只认真认识一件作品，完成后写下一句感受"
+    ],
+    "tip": "免费；开放安排可能调整，请以官方来源和现场公告为准。",
+    "sourceTitle": "上海市文化和旅游局：2025年上海市美术馆名录",
+    "sourceUrl": "https://whlyj.sh.gov.cn/msg/20250928/db0cbc0a1edf478f99c4900522a56e3b.html",
+    "verifiedAt": "2026-08-18",
+    "status": "published",
+    "recommendable": true,
+    "catalogVersion": 1
+  },
+  {
+    "id": "cheng-shifa-art-rename",
+    "placeId": "cheng-shifa-art",
+    "emoji": "✍️",
+    "stamp": "临时策展人",
+    "title": "去上海中国画院程十发美术馆给三件作品重新起名",
+    "kicker": "先不看说明，听听自己的直觉。",
+    "district": "长宁",
+    "location": "上海中国画院程十发美术馆",
+    "address": "长宁区虹桥路1398号",
+    "latitude": 31.1992844,
+    "longitude": 121.4003435,
+    "coordinateSystem": "wgs84",
+    "duration": "1.5～2.5小时",
+    "budget": "¥0～60",
+    "bestTime": "周二至周日 10:00-18:00",
+    "moods": [
+      "arts",
+      "thrill"
+    ],
+    "traits": [
+      "culture",
+      "curious",
+      "budget"
+    ],
+    "mission": "给三件作品重新起名。完成任务即可离开，不需要把上海中国画院程十发美术馆全部逛完。",
+    "steps": [
+      "出发前打开官方来源确认当天开放安排",
+      "到达上海中国画院程十发美术馆后先熟悉公共区域和现场规则",
+      "给三件作品重新起名，完成后写下一句感受"
+    ],
+    "tip": "免费；开放安排可能调整，请以官方来源和现场公告为准。",
+    "sourceTitle": "上海市文化和旅游局：2025年上海市美术馆名录",
+    "sourceUrl": "https://whlyj.sh.gov.cn/msg/20250928/db0cbc0a1edf478f99c4900522a56e3b.html",
+    "verifiedAt": "2026-08-18",
+    "status": "published",
+    "recommendable": true,
+    "catalogVersion": 1
+  },
+  {
+    "id": "china-art-museum-color-hunt",
+    "placeId": "china-art-museum",
+    "emoji": "🎨",
+    "stamp": "色彩采集员",
+    "title": "去上海美术馆收集四种展厅颜色",
+    "kicker": "把展览压缩成一张私人色卡。",
+    "district": "浦东",
+    "location": "上海美术馆",
+    "address": "浦东新区上南路205号",
+    "latitude": 31.1864842,
+    "longitude": 121.4899264,
+    "coordinateSystem": "wgs84",
+    "duration": "1.5～2.5小时",
+    "budget": "¥0～180",
+    "bestTime": "周二至周日 10:00-18:00",
+    "moods": [
+      "arts",
+      "healing"
+    ],
+    "traits": [
+      "culture",
+      "curious",
+      "walk"
+    ],
+    "mission": "收集四种展厅颜色。完成任务即可离开，不需要把上海美术馆全部逛完。",
+    "steps": [
+      "出发前打开官方来源确认当天开放安排",
+      "到达上海美术馆后先熟悉公共区域和现场规则",
+      "收集四种展厅颜色，完成后写下一句感受"
+    ],
+    "tip": "特展收费；开放安排可能调整，请以官方来源和现场公告为准。",
+    "sourceTitle": "上海市文化和旅游局：2025年上海市美术馆名录",
+    "sourceUrl": "https://whlyj.sh.gov.cn/msg/20250928/db0cbc0a1edf478f99c4900522a56e3b.html",
+    "verifiedAt": "2026-08-18",
+    "status": "published",
+    "recommendable": true,
+    "catalogVersion": 1
+  },
+  {
+    "id": "china-art-museum-one-question",
+    "placeId": "china-art-museum",
+    "emoji": "❓",
+    "stamp": "问题收藏家",
+    "title": "去上海美术馆带着一个问题去看展",
+    "kicker": "答案不重要，新的问题才重要。",
+    "district": "浦东",
+    "location": "上海美术馆",
+    "address": "浦东新区上南路205号",
+    "latitude": 31.1864842,
+    "longitude": 121.4899264,
+    "coordinateSystem": "wgs84",
+    "duration": "1.5～2.5小时",
+    "budget": "¥0～180",
+    "bestTime": "周二至周日 10:00-18:00",
+    "moods": [
+      "arts",
+      "healing"
+    ],
+    "traits": [
+      "culture",
+      "calm",
+      "curious"
+    ],
+    "mission": "带着一个问题去看展。完成任务即可离开，不需要把上海美术馆全部逛完。",
+    "steps": [
+      "出发前打开官方来源确认当天开放安排",
+      "到达上海美术馆后先熟悉公共区域和现场规则",
+      "带着一个问题去看展，完成后写下一句感受"
+    ],
+    "tip": "特展收费；开放安排可能调整，请以官方来源和现场公告为准。",
+    "sourceTitle": "上海市文化和旅游局：2025年上海市美术馆名录",
+    "sourceUrl": "https://whlyj.sh.gov.cn/msg/20250928/db0cbc0a1edf478f99c4900522a56e3b.html",
+    "verifiedAt": "2026-08-18",
+    "status": "published",
+    "recommendable": true,
+    "catalogVersion": 1
+  },
+  {
+    "id": "china-art-museum-one-work",
+    "placeId": "china-art-museum",
+    "emoji": "🖼️",
+    "stamp": "慢看观察员",
+    "title": "去上海美术馆只认真认识一件作品",
+    "kicker": "少看一点，反而记得更久。",
+    "district": "浦东",
+    "location": "上海美术馆",
+    "address": "浦东新区上南路205号",
+    "latitude": 31.1864842,
+    "longitude": 121.4899264,
+    "coordinateSystem": "wgs84",
+    "duration": "1.5～2.5小时",
+    "budget": "¥0～180",
+    "bestTime": "周二至周日 10:00-18:00",
+    "moods": [
+      "arts",
+      "healing"
+    ],
+    "traits": [
+      "culture",
+      "calm",
+      "curious"
+    ],
+    "mission": "只认真认识一件作品。完成任务即可离开，不需要把上海美术馆全部逛完。",
+    "steps": [
+      "出发前打开官方来源确认当天开放安排",
+      "到达上海美术馆后先熟悉公共区域和现场规则",
+      "只认真认识一件作品，完成后写下一句感受"
+    ],
+    "tip": "特展收费；开放安排可能调整，请以官方来源和现场公告为准。",
+    "sourceTitle": "上海市文化和旅游局：2025年上海市美术馆名录",
+    "sourceUrl": "https://whlyj.sh.gov.cn/msg/20250928/db0cbc0a1edf478f99c4900522a56e3b.html",
+    "verifiedAt": "2026-08-18",
+    "status": "published",
+    "recommendable": true,
+    "catalogVersion": 1
+  },
+  {
+    "id": "china-art-museum-rename",
+    "placeId": "china-art-museum",
+    "emoji": "✍️",
+    "stamp": "临时策展人",
+    "title": "去上海美术馆给三件作品重新起名",
+    "kicker": "先不看说明，听听自己的直觉。",
+    "district": "浦东",
+    "location": "上海美术馆",
+    "address": "浦东新区上南路205号",
+    "latitude": 31.1864842,
+    "longitude": 121.4899264,
+    "coordinateSystem": "wgs84",
+    "duration": "1.5～2.5小时",
+    "budget": "¥0～180",
+    "bestTime": "周二至周日 10:00-18:00",
+    "moods": [
+      "arts",
+      "thrill"
+    ],
+    "traits": [
+      "culture",
+      "curious"
+    ],
+    "mission": "给三件作品重新起名。完成任务即可离开，不需要把上海美术馆全部逛完。",
+    "steps": [
+      "出发前打开官方来源确认当天开放安排",
+      "到达上海美术馆后先熟悉公共区域和现场规则",
+      "给三件作品重新起名，完成后写下一句感受"
+    ],
+    "tip": "特展收费；开放安排可能调整，请以官方来源和现场公告为准。",
+    "sourceTitle": "上海市文化和旅游局：2025年上海市美术馆名录",
+    "sourceUrl": "https://whlyj.sh.gov.cn/msg/20250928/db0cbc0a1edf478f99c4900522a56e3b.html",
+    "verifiedAt": "2026-08-18",
+    "status": "published",
+    "recommendable": true,
+    "catalogVersion": 1
+  },
+  {
+    "id": "duolun-art-museum-color-hunt",
+    "placeId": "duolun-art-museum",
+    "emoji": "🎨",
+    "stamp": "色彩采集员",
+    "title": "去上海多伦现代美术馆收集四种展厅颜色",
+    "kicker": "把展览压缩成一张私人色卡。",
+    "district": "虹口",
+    "location": "上海多伦现代美术馆",
+    "address": "虹口区多伦路27号",
+    "latitude": 31.2637786,
+    "longitude": 121.4785045,
+    "coordinateSystem": "wgs84",
+    "duration": "1.5～2.5小时",
+    "budget": "¥0～60",
+    "bestTime": "周二至周日 10:00-18:00",
+    "moods": [
+      "arts",
+      "healing"
+    ],
+    "traits": [
+      "culture",
+      "curious",
+      "walk",
+      "budget"
+    ],
+    "mission": "收集四种展厅颜色。完成任务即可离开，不需要把上海多伦现代美术馆全部逛完。",
+    "steps": [
+      "出发前打开官方来源确认当天开放安排",
+      "到达上海多伦现代美术馆后先熟悉公共区域和现场规则",
+      "收集四种展厅颜色，完成后写下一句感受"
+    ],
+    "tip": "免费；开放安排可能调整，请以官方来源和现场公告为准。",
+    "sourceTitle": "上海市文化和旅游局：2025年上海市美术馆名录",
+    "sourceUrl": "https://whlyj.sh.gov.cn/msg/20250928/db0cbc0a1edf478f99c4900522a56e3b.html",
+    "verifiedAt": "2026-08-18",
+    "status": "published",
+    "recommendable": true,
+    "catalogVersion": 1
+  },
+  {
+    "id": "duolun-art-museum-one-question",
+    "placeId": "duolun-art-museum",
+    "emoji": "❓",
+    "stamp": "问题收藏家",
+    "title": "去上海多伦现代美术馆带着一个问题去看展",
+    "kicker": "答案不重要，新的问题才重要。",
+    "district": "虹口",
+    "location": "上海多伦现代美术馆",
+    "address": "虹口区多伦路27号",
+    "latitude": 31.2637786,
+    "longitude": 121.4785045,
+    "coordinateSystem": "wgs84",
+    "duration": "1.5～2.5小时",
+    "budget": "¥0～60",
+    "bestTime": "周二至周日 10:00-18:00",
+    "moods": [
+      "arts",
+      "healing"
+    ],
+    "traits": [
+      "culture",
+      "calm",
+      "curious",
+      "budget"
+    ],
+    "mission": "带着一个问题去看展。完成任务即可离开，不需要把上海多伦现代美术馆全部逛完。",
+    "steps": [
+      "出发前打开官方来源确认当天开放安排",
+      "到达上海多伦现代美术馆后先熟悉公共区域和现场规则",
+      "带着一个问题去看展，完成后写下一句感受"
+    ],
+    "tip": "免费；开放安排可能调整，请以官方来源和现场公告为准。",
+    "sourceTitle": "上海市文化和旅游局：2025年上海市美术馆名录",
+    "sourceUrl": "https://whlyj.sh.gov.cn/msg/20250928/db0cbc0a1edf478f99c4900522a56e3b.html",
+    "verifiedAt": "2026-08-18",
+    "status": "published",
+    "recommendable": true,
+    "catalogVersion": 1
+  },
+  {
+    "id": "duolun-art-museum-one-work",
+    "placeId": "duolun-art-museum",
+    "emoji": "🖼️",
+    "stamp": "慢看观察员",
+    "title": "去上海多伦现代美术馆只认真认识一件作品",
+    "kicker": "少看一点，反而记得更久。",
+    "district": "虹口",
+    "location": "上海多伦现代美术馆",
+    "address": "虹口区多伦路27号",
+    "latitude": 31.2637786,
+    "longitude": 121.4785045,
+    "coordinateSystem": "wgs84",
+    "duration": "1.5～2.5小时",
+    "budget": "¥0～60",
+    "bestTime": "周二至周日 10:00-18:00",
+    "moods": [
+      "arts",
+      "healing"
+    ],
+    "traits": [
+      "culture",
+      "calm",
+      "curious",
+      "budget"
+    ],
+    "mission": "只认真认识一件作品。完成任务即可离开，不需要把上海多伦现代美术馆全部逛完。",
+    "steps": [
+      "出发前打开官方来源确认当天开放安排",
+      "到达上海多伦现代美术馆后先熟悉公共区域和现场规则",
+      "只认真认识一件作品，完成后写下一句感受"
+    ],
+    "tip": "免费；开放安排可能调整，请以官方来源和现场公告为准。",
+    "sourceTitle": "上海市文化和旅游局：2025年上海市美术馆名录",
+    "sourceUrl": "https://whlyj.sh.gov.cn/msg/20250928/db0cbc0a1edf478f99c4900522a56e3b.html",
+    "verifiedAt": "2026-08-18",
+    "status": "published",
+    "recommendable": true,
+    "catalogVersion": 1
+  },
+  {
+    "id": "duolun-art-museum-rename",
+    "placeId": "duolun-art-museum",
+    "emoji": "✍️",
+    "stamp": "临时策展人",
+    "title": "去上海多伦现代美术馆给三件作品重新起名",
+    "kicker": "先不看说明，听听自己的直觉。",
+    "district": "虹口",
+    "location": "上海多伦现代美术馆",
+    "address": "虹口区多伦路27号",
+    "latitude": 31.2637786,
+    "longitude": 121.4785045,
+    "coordinateSystem": "wgs84",
+    "duration": "1.5～2.5小时",
+    "budget": "¥0～60",
+    "bestTime": "周二至周日 10:00-18:00",
+    "moods": [
+      "arts",
+      "thrill"
+    ],
+    "traits": [
+      "culture",
+      "curious",
+      "budget"
+    ],
+    "mission": "给三件作品重新起名。完成任务即可离开，不需要把上海多伦现代美术馆全部逛完。",
+    "steps": [
+      "出发前打开官方来源确认当天开放安排",
+      "到达上海多伦现代美术馆后先熟悉公共区域和现场规则",
+      "给三件作品重新起名，完成后写下一句感受"
+    ],
+    "tip": "免费；开放安排可能调整，请以官方来源和现场公告为准。",
+    "sourceTitle": "上海市文化和旅游局：2025年上海市美术馆名录",
+    "sourceUrl": "https://whlyj.sh.gov.cn/msg/20250928/db0cbc0a1edf478f99c4900522a56e3b.html",
+    "verifiedAt": "2026-08-18",
+    "status": "published",
+    "recommendable": true,
+    "catalogVersion": 1
+  },
+  {
+    "id": "duolun-character-hunt",
+    "emoji": "🔤",
+    "stamp": "街巷排字员",
+    "title": "去多伦路收集10种老招牌字体",
+    "kicker": "把一条街读成一本立体字帖。",
+    "district": "虹口",
+    "location": "多伦路文化名人街",
+    "address": "虹口区多伦路",
+    "latitude": 31.2682,
+    "longitude": 121.4788,
+    "duration": "2小时",
+    "budget": "¥0～40",
+    "bestTime": "14:00～17:00",
+    "moods": [
+      "arts",
+      "healing"
+    ],
+    "traits": [
+      "culture",
+      "walk",
+      "curious",
+      "budget"
+    ],
+    "mission": "沿多伦路和周边支路散步，收集10块不同字体的门牌或招牌，拼成一张“上海字库”。",
+    "steps": [
+      "从四川北路一侧进入多伦路",
+      "每发现一种新字体就拍一张",
+      "任选三个字拼成今天的秘密暗号"
+    ],
+    "tip": "拍摄店铺内部或路人前，请先征得同意。",
+    "placeId": "duolun-road",
+    "coordinateSystem": "gcj02",
+    "sourceTitle": "上海市政府：多伦路城市更新",
+    "sourceUrl": "https://www.shanghai.gov.cn/nw15343/20250507/ccfbbbfe44db45bb9410ad97e97f2a7b.html",
+    "verifiedAt": "2026-08-18",
+    "status": "published",
+    "recommendable": true,
+    "catalogVersion": 1
+  },
+  {
+    "id": "duolun-road-detail",
+    "placeId": "duolun-road",
+    "emoji": "🔎",
+    "stamp": "细节采集员",
+    "title": "去多伦路文化名人街找到三个容易错过的细节",
+    "kicker": "把速度放慢，城市才会显影。",
+    "district": "虹口",
+    "location": "多伦路文化名人街",
+    "address": "虹口区多伦路",
+    "latitude": 31.2682,
+    "longitude": 121.4788,
+    "coordinateSystem": "gcj02",
+    "duration": "1.5～2.5小时",
+    "budget": "¥0～60",
+    "bestTime": "街区全天可达，室内场所以各自公告为准",
+    "moods": [
+      "arts",
+      "healing"
+    ],
+    "traits": [
+      "culture",
+      "calm",
+      "walk",
+      "budget"
+    ],
+    "mission": "找到三个容易错过的细节。完成任务即可离开，不需要把多伦路文化名人街全部逛完。",
+    "steps": [
+      "出发前打开官方来源确认当天开放安排",
+      "到达多伦路文化名人街后先熟悉公共区域和现场规则",
+      "找到三个容易错过的细节，完成后写下一句感受"
+    ],
+    "tip": "街区免费；开放安排可能调整，请以官方来源和现场公告为准。",
+    "sourceTitle": "上海市政府：多伦路城市更新",
+    "sourceUrl": "https://www.shanghai.gov.cn/nw15343/20250507/ccfbbbfe44db45bb9410ad97e97f2a7b.html",
+    "verifiedAt": "2026-08-18",
+    "status": "published",
+    "recommendable": true,
+    "catalogVersion": 1
+  },
+  {
+    "id": "duolun-road-old-new",
+    "placeId": "duolun-road",
+    "emoji": "🏙️",
+    "stamp": "时间观察员",
+    "title": "去多伦路文化名人街拍下一组新旧同框",
+    "kicker": "一张照片里放进两个时代。",
+    "district": "虹口",
+    "location": "多伦路文化名人街",
+    "address": "虹口区多伦路",
+    "latitude": 31.2682,
+    "longitude": 121.4788,
+    "coordinateSystem": "gcj02",
+    "duration": "1.5～2.5小时",
+    "budget": "¥0～60",
+    "bestTime": "街区全天可达，室内场所以各自公告为准",
+    "moods": [
+      "arts",
+      "outdoors"
+    ],
+    "traits": [
+      "culture",
+      "walk",
+      "curious",
+      "budget"
+    ],
+    "mission": "拍下一组新旧同框。完成任务即可离开，不需要把多伦路文化名人街全部逛完。",
+    "steps": [
+      "出发前打开官方来源确认当天开放安排",
+      "到达多伦路文化名人街后先熟悉公共区域和现场规则",
+      "拍下一组新旧同框，完成后写下一句感受"
+    ],
+    "tip": "街区免费；开放安排可能调整，请以官方来源和现场公告为准。",
+    "sourceTitle": "上海市政府：多伦路城市更新",
+    "sourceUrl": "https://www.shanghai.gov.cn/nw15343/20250507/ccfbbbfe44db45bb9410ad97e97f2a7b.html",
+    "verifiedAt": "2026-08-18",
+    "status": "published",
+    "recommendable": true,
+    "catalogVersion": 1
+  },
+  {
+    "id": "duolun-road-postcard",
+    "placeId": "duolun-road",
+    "emoji": "💌",
+    "stamp": "城市写信人",
+    "title": "去多伦路文化名人街写一张不寄出的明信片",
+    "kicker": "把今天的城市寄给未来。",
+    "district": "虹口",
+    "location": "多伦路文化名人街",
+    "address": "虹口区多伦路",
+    "latitude": 31.2682,
+    "longitude": 121.4788,
+    "coordinateSystem": "gcj02",
+    "duration": "1.5～2.5小时",
+    "budget": "¥0～60",
+    "bestTime": "街区全天可达，室内场所以各自公告为准",
+    "moods": [
+      "arts",
+      "healing"
+    ],
+    "traits": [
+      "culture",
+      "calm",
+      "budget"
+    ],
+    "mission": "写一张不寄出的明信片。完成任务即可离开，不需要把多伦路文化名人街全部逛完。",
+    "steps": [
+      "出发前打开官方来源确认当天开放安排",
+      "到达多伦路文化名人街后先熟悉公共区域和现场规则",
+      "写一张不寄出的明信片，完成后写下一句感受"
+    ],
+    "tip": "街区免费；开放安排可能调整，请以官方来源和现场公告为准。",
+    "sourceTitle": "上海市政府：多伦路城市更新",
+    "sourceUrl": "https://www.shanghai.gov.cn/nw15343/20250507/ccfbbbfe44db45bb9410ad97e97f2a7b.html",
+    "verifiedAt": "2026-08-18",
+    "status": "published",
+    "recommendable": true,
+    "catalogVersion": 1
+  },
+  {
+    "id": "ferry-sunset",
+    "emoji": "⛴️",
+    "stamp": "江风收集员",
+    "title": "花2元坐轮渡，追一次浦江日落",
+    "kicker": "今天不赶路，只去对岸吹风。",
+    "district": "黄浦 → 浦东",
+    "location": "复兴东路轮渡站",
+    "address": "黄浦区复兴东路1号",
+    "latitude": 31.2281,
+    "longitude": 121.4969,
+    "duration": "2～3小时",
+    "budget": "¥2～60",
+    "bestTime": "日落前1小时",
+    "moods": [
+      "healing",
+      "outdoors",
+      "night"
+    ],
+    "traits": [
+      "calm",
+      "walk",
+      "budget",
+      "nature"
+    ],
+    "mission": "从复兴东路轮渡站上船，到对岸后沿滨江慢慢走，拍下三种不同颜色的江面。",
+    "steps": [
+      "日落前抵达复兴东路轮渡站",
+      "坐船到东昌路方向，不在船上刷手机",
+      "下船后沿江散步，直到遇见一家想进去的店"
+    ],
+    "tip": "轮渡班次可能调整，出发前请以现场信息为准。",
+    "placeId": "fuxing-ferry",
+    "coordinateSystem": "gcj02",
+    "sourceTitle": "上海市文旅推广网：上海轮渡码头",
+    "sourceUrl": "https://www.meet-in-shanghai.net/cn/traffic/dock-112479/",
+    "verifiedAt": "2026-08-18",
+    "status": "published",
+    "recommendable": true,
+    "catalogVersion": 1
+  },
+  {
+    "id": "fuxing-ferry-four-colors",
+    "placeId": "fuxing-ferry",
+    "emoji": "📷",
+    "stamp": "街景取色员",
+    "title": "去复兴东路轮渡站拍齐四种城市颜色",
+    "kicker": "给这段路做一张私人色卡。",
+    "district": "黄浦",
+    "location": "复兴东路轮渡站",
+    "address": "黄浦区复兴东路1号",
+    "latitude": 31.2281,
+    "longitude": 121.4969,
+    "coordinateSystem": "gcj02",
+    "duration": "1.5～3小时",
+    "budget": "¥0～180",
+    "bestTime": "东复线运营时段",
+    "moods": [
+      "arts",
+      "outdoors"
+    ],
+    "traits": [
+      "walk",
+      "curious"
+    ],
+    "mission": "拍齐四种城市颜色。完成任务即可离开，不需要把复兴东路轮渡站全部逛完。",
+    "steps": [
+      "出发前打开官方来源确认当天开放安排",
+      "到达复兴东路轮渡站后先熟悉公共区域和现场规则",
+      "拍齐四种城市颜色，完成后写下一句感受"
+    ],
+    "tip": "轮渡票价以现场公告为准；开放安排可能调整，请以官方来源和现场公告为准。",
+    "sourceTitle": "上海市文旅推广网：上海轮渡码头",
+    "sourceUrl": "https://www.meet-in-shanghai.net/cn/traffic/dock-112479/",
+    "verifiedAt": "2026-08-18",
+    "status": "published",
+    "recommendable": true,
+    "catalogVersion": 1
+  },
+  {
+    "id": "fuxing-ferry-one-line",
+    "placeId": "fuxing-ferry",
+    "emoji": "✍️",
+    "stamp": "街区记录员",
+    "title": "去复兴东路轮渡站给这段路写一句标题",
+    "kicker": "走完以后，只留下一句话。",
+    "district": "黄浦",
+    "location": "复兴东路轮渡站",
+    "address": "黄浦区复兴东路1号",
+    "latitude": 31.2281,
+    "longitude": 121.4969,
+    "coordinateSystem": "gcj02",
+    "duration": "1.5～3小时",
+    "budget": "¥0～180",
+    "bestTime": "东复线运营时段",
+    "moods": [
+      "arts",
+      "healing"
+    ],
+    "traits": [
+      "walk",
+      "culture",
+      "calm"
+    ],
+    "mission": "给这段路写一句标题。完成任务即可离开，不需要把复兴东路轮渡站全部逛完。",
+    "steps": [
+      "出发前打开官方来源确认当天开放安排",
+      "到达复兴东路轮渡站后先熟悉公共区域和现场规则",
+      "给这段路写一句标题，完成后写下一句感受"
+    ],
+    "tip": "轮渡票价以现场公告为准；开放安排可能调整，请以官方来源和现场公告为准。",
+    "sourceTitle": "上海市文旅推广网：上海轮渡码头",
+    "sourceUrl": "https://www.meet-in-shanghai.net/cn/traffic/dock-112479/",
+    "verifiedAt": "2026-08-18",
+    "status": "published",
+    "recommendable": true,
+    "catalogVersion": 1
+  },
+  {
+    "id": "fuxing-ferry-wrong-turn",
+    "placeId": "fuxing-ferry",
+    "emoji": "🧭",
+    "stamp": "支路探索员",
+    "title": "去复兴东路轮渡站允许自己拐进一条支路",
+    "kicker": "安全范围内，错路也可能是答案。",
+    "district": "黄浦",
+    "location": "复兴东路轮渡站",
+    "address": "黄浦区复兴东路1号",
+    "latitude": 31.2281,
+    "longitude": 121.4969,
+    "coordinateSystem": "gcj02",
+    "duration": "1.5～3小时",
+    "budget": "¥0～180",
+    "bestTime": "东复线运营时段",
+    "moods": [
+      "thrill",
+      "outdoors"
+    ],
+    "traits": [
+      "walk",
+      "curious"
+    ],
+    "mission": "允许自己拐进一条支路。完成任务即可离开，不需要把复兴东路轮渡站全部逛完。",
+    "steps": [
+      "出发前打开官方来源确认当天开放安排",
+      "到达复兴东路轮渡站后先熟悉公共区域和现场规则",
+      "允许自己拐进一条支路，完成后写下一句感受"
+    ],
+    "tip": "轮渡票价以现场公告为准；开放安排可能调整，请以官方来源和现场公告为准。",
+    "sourceTitle": "上海市文旅推广网：上海轮渡码头",
+    "sourceUrl": "https://www.meet-in-shanghai.net/cn/traffic/dock-112479/",
+    "verifiedAt": "2026-08-18",
+    "status": "published",
+    "recommendable": true,
+    "catalogVersion": 1
+  },
+  {
+    "id": "fuxing-park-no-phone",
+    "placeId": "fuxing-park",
+    "emoji": "🪑",
+    "stamp": "长椅观察员",
+    "title": "去复兴公园坐满二十分钟不碰手机",
+    "kicker": "什么都不做，也是一项任务。",
+    "district": "黄浦",
+    "location": "复兴公园",
+    "address": "黄浦区雁荡路105号",
+    "latitude": 31.2174,
+    "longitude": 121.4685,
+    "coordinateSystem": "gcj02",
+    "duration": "1.5～3小时",
+    "budget": "¥0～60",
+    "bestTime": "以公园当日公告为准",
+    "moods": [
+      "healing",
+      "outdoors"
+    ],
+    "traits": [
+      "calm",
+      "nature",
+      "budget",
+      "budget"
+    ],
+    "mission": "坐满二十分钟不碰手机。完成任务即可离开，不需要把复兴公园全部逛完。",
+    "steps": [
+      "出发前打开官方来源确认当天开放安排",
+      "到达复兴公园后先熟悉公共区域和现场规则",
+      "坐满二十分钟不碰手机，完成后写下一句感受"
+    ],
+    "tip": "免费；开放安排可能调整，请以官方来源和现场公告为准。",
+    "sourceTitle": "上海市绿化和市容管理局：星级公园名录",
+    "sourceUrl": "https://www.shanghai.gov.cn/gwk/search/content/cfa0770c-00d3-4733-ae5a-93ec852c1541",
+    "verifiedAt": "2026-08-18",
+    "status": "published",
+    "recommendable": true,
+    "catalogVersion": 1
+  },
+  {
+    "id": "fuxing-park-observe",
+    "emoji": "🪑",
+    "stamp": "公园观察员",
+    "title": "在复兴公园坐满20分钟不碰手机",
+    "kicker": "什么都不做，也是一项城市任务。",
+    "district": "黄浦",
+    "location": "复兴公园",
+    "address": "黄浦区雁荡路105号",
+    "latitude": 31.2174,
+    "longitude": 121.4685,
+    "duration": "1～2小时",
+    "budget": "¥0～40",
+    "bestTime": "上午或傍晚",
+    "moods": [
+      "healing",
+      "outdoors"
+    ],
+    "traits": [
+      "calm",
+      "nature",
+      "budget",
+      "walk"
+    ],
+    "mission": "找一张长椅坐满20分钟，不拍照、不听歌，只记住身边发生的五件小事。",
+    "steps": [
+      "绕公园走一圈再选座位",
+      "把手机放进包里并计时20分钟",
+      "离开前写下观察到的五件小事"
+    ],
+    "tip": "选择照明和人流正常的公共区域停留。",
+    "placeId": "fuxing-park",
+    "coordinateSystem": "gcj02",
+    "sourceTitle": "上海市绿化和市容管理局：星级公园名录",
+    "sourceUrl": "https://www.shanghai.gov.cn/gwk/search/content/cfa0770c-00d3-4733-ae5a-93ec852c1541",
+    "verifiedAt": "2026-08-18",
+    "status": "published",
+    "recommendable": true,
+    "catalogVersion": 1
+  },
+  {
+    "id": "fuxing-park-slow-lap",
+    "placeId": "fuxing-park",
+    "emoji": "👟",
+    "stamp": "慢走计时员",
+    "title": "去复兴公园不用导航走完一圈",
+    "kicker": "不追配速，只追一条陌生支路。",
+    "district": "黄浦",
+    "location": "复兴公园",
+    "address": "黄浦区雁荡路105号",
+    "latitude": 31.2174,
+    "longitude": 121.4685,
+    "coordinateSystem": "gcj02",
+    "duration": "1.5～3小时",
+    "budget": "¥0～60",
+    "bestTime": "以公园当日公告为准",
+    "moods": [
+      "outdoors",
+      "healing"
+    ],
+    "traits": [
+      "active",
+      "walk",
+      "nature",
+      "budget"
+    ],
+    "mission": "不用导航走完一圈。完成任务即可离开，不需要把复兴公园全部逛完。",
+    "steps": [
+      "出发前打开官方来源确认当天开放安排",
+      "到达复兴公园后先熟悉公共区域和现场规则",
+      "不用导航走完一圈，完成后写下一句感受"
+    ],
+    "tip": "免费；开放安排可能调整，请以官方来源和现场公告为准。",
+    "sourceTitle": "上海市绿化和市容管理局：星级公园名录",
+    "sourceUrl": "https://www.shanghai.gov.cn/gwk/search/content/cfa0770c-00d3-4733-ae5a-93ec852c1541",
+    "verifiedAt": "2026-08-18",
+    "status": "published",
+    "recommendable": true,
+    "catalogVersion": 1
+  },
+  {
+    "id": "fuxing-park-sound-map",
+    "placeId": "fuxing-park",
+    "emoji": "🎧",
+    "stamp": "声音地图员",
+    "title": "去复兴公园记录四种公园声音",
+    "kicker": "关掉耳机，重新听见周末。",
+    "district": "黄浦",
+    "location": "复兴公园",
+    "address": "黄浦区雁荡路105号",
+    "latitude": 31.2174,
+    "longitude": 121.4685,
+    "coordinateSystem": "gcj02",
+    "duration": "1.5～3小时",
+    "budget": "¥0～60",
+    "bestTime": "以公园当日公告为准",
+    "moods": [
+      "healing",
+      "outdoors"
+    ],
+    "traits": [
+      "nature",
+      "calm",
+      "walk",
+      "budget"
+    ],
+    "mission": "记录四种公园声音。完成任务即可离开，不需要把复兴公园全部逛完。",
+    "steps": [
+      "出发前打开官方来源确认当天开放安排",
+      "到达复兴公园后先熟悉公共区域和现场规则",
+      "记录四种公园声音，完成后写下一句感受"
+    ],
+    "tip": "免费；开放安排可能调整，请以官方来源和现场公告为准。",
+    "sourceTitle": "上海市绿化和市容管理局：星级公园名录",
+    "sourceUrl": "https://www.shanghai.gov.cn/gwk/search/content/cfa0770c-00d3-4733-ae5a-93ec852c1541",
+    "verifiedAt": "2026-08-18",
+    "status": "published",
+    "recommendable": true,
+    "catalogVersion": 1
+  },
+  {
+    "id": "gongqing-forest-no-phone",
+    "placeId": "gongqing-forest",
+    "emoji": "🪑",
+    "stamp": "长椅观察员",
+    "title": "去上海共青森林公园坐满二十分钟不碰手机",
+    "kicker": "什么都不做，也是一项任务。",
+    "district": "杨浦",
+    "location": "上海共青森林公园",
+    "address": "杨浦区军工路2000号",
+    "latitude": 31.3225,
+    "longitude": 121.5486,
+    "coordinateSystem": "gcj02",
+    "duration": "1.5～3小时",
+    "budget": "¥0～180",
+    "bestTime": "以公园当日公告为准",
+    "moods": [
+      "healing",
+      "outdoors"
+    ],
+    "traits": [
+      "calm",
+      "nature",
+      "budget"
+    ],
+    "mission": "坐满二十分钟不碰手机。完成任务即可离开，不需要把上海共青森林公园全部逛完。",
+    "steps": [
+      "出发前打开官方来源确认当天开放安排",
+      "到达上海共青森林公园后先熟悉公共区域和现场规则",
+      "坐满二十分钟不碰手机，完成后写下一句感受"
+    ],
+    "tip": "费用以公园公告为准；开放安排可能调整，请以官方来源和现场公告为准。",
+    "sourceTitle": "上海市绿化和市容管理局：星级公园名录",
+    "sourceUrl": "https://www.shanghai.gov.cn/gwk/search/content/cfa0770c-00d3-4733-ae5a-93ec852c1541",
+    "verifiedAt": "2026-08-18",
+    "status": "published",
+    "recommendable": true,
+    "catalogVersion": 1
+  },
+  {
+    "id": "gongqing-forest-slow-lap",
+    "placeId": "gongqing-forest",
+    "emoji": "👟",
+    "stamp": "慢走计时员",
+    "title": "去上海共青森林公园不用导航走完一圈",
+    "kicker": "不追配速，只追一条陌生支路。",
+    "district": "杨浦",
+    "location": "上海共青森林公园",
+    "address": "杨浦区军工路2000号",
+    "latitude": 31.3225,
+    "longitude": 121.5486,
+    "coordinateSystem": "gcj02",
+    "duration": "1.5～3小时",
+    "budget": "¥0～180",
+    "bestTime": "以公园当日公告为准",
+    "moods": [
+      "outdoors",
+      "healing"
+    ],
+    "traits": [
+      "active",
+      "walk",
+      "nature"
+    ],
+    "mission": "不用导航走完一圈。完成任务即可离开，不需要把上海共青森林公园全部逛完。",
+    "steps": [
+      "出发前打开官方来源确认当天开放安排",
+      "到达上海共青森林公园后先熟悉公共区域和现场规则",
+      "不用导航走完一圈，完成后写下一句感受"
+    ],
+    "tip": "费用以公园公告为准；开放安排可能调整，请以官方来源和现场公告为准。",
+    "sourceTitle": "上海市绿化和市容管理局：星级公园名录",
+    "sourceUrl": "https://www.shanghai.gov.cn/gwk/search/content/cfa0770c-00d3-4733-ae5a-93ec852c1541",
+    "verifiedAt": "2026-08-18",
+    "status": "published",
+    "recommendable": true,
+    "catalogVersion": 1
+  },
+  {
+    "id": "gongqing-forest-sound-map",
+    "placeId": "gongqing-forest",
+    "emoji": "🎧",
+    "stamp": "声音地图员",
+    "title": "去上海共青森林公园记录四种公园声音",
+    "kicker": "关掉耳机，重新听见周末。",
+    "district": "杨浦",
+    "location": "上海共青森林公园",
+    "address": "杨浦区军工路2000号",
+    "latitude": 31.3225,
+    "longitude": 121.5486,
+    "coordinateSystem": "gcj02",
+    "duration": "1.5～3小时",
+    "budget": "¥0～180",
+    "bestTime": "以公园当日公告为准",
+    "moods": [
+      "healing",
+      "outdoors"
+    ],
+    "traits": [
+      "nature",
+      "calm",
+      "walk"
+    ],
+    "mission": "记录四种公园声音。完成任务即可离开，不需要把上海共青森林公园全部逛完。",
+    "steps": [
+      "出发前打开官方来源确认当天开放安排",
+      "到达上海共青森林公园后先熟悉公共区域和现场规则",
+      "记录四种公园声音，完成后写下一句感受"
+    ],
+    "tip": "费用以公园公告为准；开放安排可能调整，请以官方来源和现场公告为准。",
+    "sourceTitle": "上海市绿化和市容管理局：星级公园名录",
+    "sourceUrl": "https://www.shanghai.gov.cn/gwk/search/content/cfa0770c-00d3-4733-ae5a-93ec852c1541",
+    "verifiedAt": "2026-08-18",
+    "status": "published",
+    "recommendable": true,
+    "catalogVersion": 1
+  },
+  {
+    "id": "gongqing-texture",
+    "emoji": "🌲",
+    "stamp": "森林纹理师",
+    "title": "去共青森林公园收集一张自然色卡",
+    "kicker": "今天不拍花，只收集颜色和纹理。",
+    "district": "杨浦",
+    "location": "上海共青森林公园",
+    "address": "杨浦区军工路2000号",
+    "latitude": 31.3225,
+    "longitude": 121.5486,
+    "duration": "半天",
+    "budget": "¥0～60",
+    "bestTime": "上午或傍晚",
+    "moods": [
+      "healing",
+      "outdoors"
+    ],
+    "traits": [
+      "nature",
+      "calm",
+      "walk",
+      "budget"
+    ],
+    "mission": "找到五种不同深浅的绿色、三种树皮纹理和一块最适合发呆的草地。",
+    "steps": [
+      "从离你更近的入口进园",
+      "边走边建立自己的五格自然色卡",
+      "在最喜欢的树下坐满15分钟"
+    ],
+    "tip": "雨后可能湿滑，注意园区闭园时间。",
+    "placeId": "gongqing-forest",
+    "coordinateSystem": "gcj02",
+    "sourceTitle": "上海市绿化和市容管理局：星级公园名录",
+    "sourceUrl": "https://www.shanghai.gov.cn/gwk/search/content/cfa0770c-00d3-4733-ae5a-93ec852c1541",
+    "verifiedAt": "2026-08-18",
+    "status": "published",
+    "recommendable": true,
+    "catalogVersion": 1
+  },
+  {
+    "id": "heping-park-nature-card",
+    "placeId": "heping-park",
+    "emoji": "🌿",
+    "stamp": "自然色卡师",
+    "title": "去和平公园收集五种自然颜色",
+    "kicker": "把公园装进一张五格色卡。",
+    "district": "虹口",
+    "location": "和平公园",
+    "address": "虹口区天宝路891号",
+    "latitude": 31.2727705,
+    "longitude": 121.4980256,
+    "coordinateSystem": "wgs84",
+    "duration": "1.5～3小时",
+    "budget": "¥0～60",
+    "bestTime": "全天候公共公园，特殊安排以园方公告为准",
+    "moods": [
+      "healing",
+      "outdoors"
+    ],
+    "traits": [
+      "nature",
+      "calm",
+      "walk",
+      "budget"
+    ],
+    "mission": "收集五种自然颜色。完成任务即可离开，不需要把和平公园全部逛完。",
+    "steps": [
+      "出发前打开官方来源确认当天开放安排",
+      "到达和平公园后先熟悉公共区域和现场规则",
+      "收集五种自然颜色，完成后写下一句感受"
+    ],
+    "tip": "免费；开放安排可能调整，请以官方来源和现场公告为准。",
+    "sourceTitle": "上海市文化和旅游局：和平公园无界焕新",
+    "sourceUrl": "https://cmp.whlyj.sh.gov.cn/CMP/news_view.ac?id=284848583060459ab959e1faa3edf6cd",
+    "verifiedAt": "2026-08-18",
+    "status": "published",
+    "recommendable": true,
+    "catalogVersion": 1
+  },
+  {
+    "id": "heping-park-no-phone",
+    "placeId": "heping-park",
+    "emoji": "🪑",
+    "stamp": "长椅观察员",
+    "title": "去和平公园坐满二十分钟不碰手机",
+    "kicker": "什么都不做，也是一项任务。",
+    "district": "虹口",
+    "location": "和平公园",
+    "address": "虹口区天宝路891号",
+    "latitude": 31.2727705,
+    "longitude": 121.4980256,
+    "coordinateSystem": "wgs84",
+    "duration": "1.5～3小时",
+    "budget": "¥0～60",
+    "bestTime": "全天候公共公园，特殊安排以园方公告为准",
+    "moods": [
+      "healing",
+      "outdoors"
+    ],
+    "traits": [
+      "calm",
+      "nature",
+      "budget",
+      "budget"
+    ],
+    "mission": "坐满二十分钟不碰手机。完成任务即可离开，不需要把和平公园全部逛完。",
+    "steps": [
+      "出发前打开官方来源确认当天开放安排",
+      "到达和平公园后先熟悉公共区域和现场规则",
+      "坐满二十分钟不碰手机，完成后写下一句感受"
+    ],
+    "tip": "免费；开放安排可能调整，请以官方来源和现场公告为准。",
+    "sourceTitle": "上海市文化和旅游局：和平公园无界焕新",
+    "sourceUrl": "https://cmp.whlyj.sh.gov.cn/CMP/news_view.ac?id=284848583060459ab959e1faa3edf6cd",
+    "verifiedAt": "2026-08-18",
+    "status": "published",
+    "recommendable": true,
+    "catalogVersion": 1
+  },
+  {
+    "id": "heping-park-slow-lap",
+    "placeId": "heping-park",
+    "emoji": "👟",
+    "stamp": "慢走计时员",
+    "title": "去和平公园不用导航走完一圈",
+    "kicker": "不追配速，只追一条陌生支路。",
+    "district": "虹口",
+    "location": "和平公园",
+    "address": "虹口区天宝路891号",
+    "latitude": 31.2727705,
+    "longitude": 121.4980256,
+    "coordinateSystem": "wgs84",
+    "duration": "1.5～3小时",
+    "budget": "¥0～60",
+    "bestTime": "全天候公共公园，特殊安排以园方公告为准",
+    "moods": [
+      "outdoors",
+      "healing"
+    ],
+    "traits": [
+      "active",
+      "walk",
+      "nature",
+      "budget"
+    ],
+    "mission": "不用导航走完一圈。完成任务即可离开，不需要把和平公园全部逛完。",
+    "steps": [
+      "出发前打开官方来源确认当天开放安排",
+      "到达和平公园后先熟悉公共区域和现场规则",
+      "不用导航走完一圈，完成后写下一句感受"
+    ],
+    "tip": "免费；开放安排可能调整，请以官方来源和现场公告为准。",
+    "sourceTitle": "上海市文化和旅游局：和平公园无界焕新",
+    "sourceUrl": "https://cmp.whlyj.sh.gov.cn/CMP/news_view.ac?id=284848583060459ab959e1faa3edf6cd",
+    "verifiedAt": "2026-08-18",
+    "status": "published",
+    "recommendable": true,
+    "catalogVersion": 1
+  },
+  {
+    "id": "heping-park-sound-map",
+    "placeId": "heping-park",
+    "emoji": "🎧",
+    "stamp": "声音地图员",
+    "title": "去和平公园记录四种公园声音",
+    "kicker": "关掉耳机，重新听见周末。",
+    "district": "虹口",
+    "location": "和平公园",
+    "address": "虹口区天宝路891号",
+    "latitude": 31.2727705,
+    "longitude": 121.4980256,
+    "coordinateSystem": "wgs84",
+    "duration": "1.5～3小时",
+    "budget": "¥0～60",
+    "bestTime": "全天候公共公园，特殊安排以园方公告为准",
+    "moods": [
+      "healing",
+      "outdoors"
+    ],
+    "traits": [
+      "nature",
+      "calm",
+      "walk",
+      "budget"
+    ],
+    "mission": "记录四种公园声音。完成任务即可离开，不需要把和平公园全部逛完。",
+    "steps": [
+      "出发前打开官方来源确认当天开放安排",
+      "到达和平公园后先熟悉公共区域和现场规则",
+      "记录四种公园声音，完成后写下一句感受"
+    ],
+    "tip": "免费；开放安排可能调整，请以官方来源和现场公告为准。",
+    "sourceTitle": "上海市文化和旅游局：和平公园无界焕新",
+    "sourceUrl": "https://cmp.whlyj.sh.gov.cn/CMP/news_view.ac?id=284848583060459ab959e1faa3edf6cd",
+    "verifiedAt": "2026-08-18",
+    "status": "published",
+    "recommendable": true,
+    "catalogVersion": 1
+  },
+  {
+    "id": "library-random-shelf",
+    "emoji": "🧭",
+    "stamp": "书架漂流者",
+    "title": "在上海图书馆东馆随机漂流一层",
+    "kicker": "今天不带书单，让书架替你决定。",
+    "district": "浦东",
+    "location": "上海图书馆东馆",
+    "address": "浦东新区合欢路300号",
+    "latitude": 31.2206,
+    "longitude": 121.5504,
+    "duration": "2～4小时",
+    "budget": "¥0～50",
+    "bestTime": "开放日午后",
+    "moods": [
+      "arts",
+      "healing"
+    ],
+    "traits": [
+      "culture",
+      "calm",
+      "curious",
+      "budget"
+    ],
+    "mission": "随机选一层，再随机选一个书架，从中找到一本让你愿意坐下来读20分钟的书。",
+    "steps": [
+      "进入后随机决定楼层",
+      "不使用搜索，沿一个书架慢慢找",
+      "把手机调成静音，读满20分钟"
+    ],
+    "tip": "请提前查看入馆和开放安排。",
+    "placeId": "shanghai-library-east",
+    "coordinateSystem": "gcj02",
+    "sourceTitle": "上海图书馆：东馆参观服务",
+    "sourceUrl": "https://www.library.sh.cn/service/visitDetail?i=0",
+    "verifiedAt": "2026-08-18",
+    "status": "published",
+    "recommendable": true,
+    "catalogVersion": 1
+  },
+  {
+    "id": "liu-haisu-art-color-hunt",
+    "placeId": "liu-haisu-art",
+    "emoji": "🎨",
+    "stamp": "色彩采集员",
+    "title": "去刘海粟美术馆收集四种展厅颜色",
+    "kicker": "把展览压缩成一张私人色卡。",
+    "district": "长宁",
+    "location": "刘海粟美术馆",
+    "address": "长宁区延安西路1609号",
+    "latitude": 31.2113561,
+    "longitude": 121.4146186,
+    "coordinateSystem": "wgs84",
+    "duration": "1.5～2.5小时",
+    "budget": "¥0～60",
+    "bestTime": "周二至周日 9:00-17:00",
+    "moods": [
+      "arts",
+      "healing"
+    ],
+    "traits": [
+      "culture",
+      "curious",
+      "walk",
+      "budget"
+    ],
+    "mission": "收集四种展厅颜色。完成任务即可离开，不需要把刘海粟美术馆全部逛完。",
+    "steps": [
+      "出发前打开官方来源确认当天开放安排",
+      "到达刘海粟美术馆后先熟悉公共区域和现场规则",
+      "收集四种展厅颜色，完成后写下一句感受"
+    ],
+    "tip": "免费；开放安排可能调整，请以官方来源和现场公告为准。",
+    "sourceTitle": "上海市文化和旅游局：2025年上海市美术馆名录",
+    "sourceUrl": "https://whlyj.sh.gov.cn/msg/20250928/db0cbc0a1edf478f99c4900522a56e3b.html",
+    "verifiedAt": "2026-08-18",
+    "status": "published",
+    "recommendable": true,
+    "catalogVersion": 1
+  },
+  {
+    "id": "liu-haisu-art-one-question",
+    "placeId": "liu-haisu-art",
+    "emoji": "❓",
+    "stamp": "问题收藏家",
+    "title": "去刘海粟美术馆带着一个问题去看展",
+    "kicker": "答案不重要，新的问题才重要。",
+    "district": "长宁",
+    "location": "刘海粟美术馆",
+    "address": "长宁区延安西路1609号",
+    "latitude": 31.2113561,
+    "longitude": 121.4146186,
+    "coordinateSystem": "wgs84",
+    "duration": "1.5～2.5小时",
+    "budget": "¥0～60",
+    "bestTime": "周二至周日 9:00-17:00",
+    "moods": [
+      "arts",
+      "healing"
+    ],
+    "traits": [
+      "culture",
+      "calm",
+      "curious",
+      "budget"
+    ],
+    "mission": "带着一个问题去看展。完成任务即可离开，不需要把刘海粟美术馆全部逛完。",
+    "steps": [
+      "出发前打开官方来源确认当天开放安排",
+      "到达刘海粟美术馆后先熟悉公共区域和现场规则",
+      "带着一个问题去看展，完成后写下一句感受"
+    ],
+    "tip": "免费；开放安排可能调整，请以官方来源和现场公告为准。",
+    "sourceTitle": "上海市文化和旅游局：2025年上海市美术馆名录",
+    "sourceUrl": "https://whlyj.sh.gov.cn/msg/20250928/db0cbc0a1edf478f99c4900522a56e3b.html",
+    "verifiedAt": "2026-08-18",
+    "status": "published",
+    "recommendable": true,
+    "catalogVersion": 1
+  },
+  {
+    "id": "liu-haisu-art-one-work",
+    "placeId": "liu-haisu-art",
+    "emoji": "🖼️",
+    "stamp": "慢看观察员",
+    "title": "去刘海粟美术馆只认真认识一件作品",
+    "kicker": "少看一点，反而记得更久。",
+    "district": "长宁",
+    "location": "刘海粟美术馆",
+    "address": "长宁区延安西路1609号",
+    "latitude": 31.2113561,
+    "longitude": 121.4146186,
+    "coordinateSystem": "wgs84",
+    "duration": "1.5～2.5小时",
+    "budget": "¥0～60",
+    "bestTime": "周二至周日 9:00-17:00",
+    "moods": [
+      "arts",
+      "healing"
+    ],
+    "traits": [
+      "culture",
+      "calm",
+      "curious",
+      "budget"
+    ],
+    "mission": "只认真认识一件作品。完成任务即可离开，不需要把刘海粟美术馆全部逛完。",
+    "steps": [
+      "出发前打开官方来源确认当天开放安排",
+      "到达刘海粟美术馆后先熟悉公共区域和现场规则",
+      "只认真认识一件作品，完成后写下一句感受"
+    ],
+    "tip": "免费；开放安排可能调整，请以官方来源和现场公告为准。",
+    "sourceTitle": "上海市文化和旅游局：2025年上海市美术馆名录",
+    "sourceUrl": "https://whlyj.sh.gov.cn/msg/20250928/db0cbc0a1edf478f99c4900522a56e3b.html",
+    "verifiedAt": "2026-08-18",
+    "status": "published",
+    "recommendable": true,
+    "catalogVersion": 1
+  },
+  {
+    "id": "liu-haisu-art-rename",
+    "placeId": "liu-haisu-art",
+    "emoji": "✍️",
+    "stamp": "临时策展人",
+    "title": "去刘海粟美术馆给三件作品重新起名",
+    "kicker": "先不看说明，听听自己的直觉。",
+    "district": "长宁",
+    "location": "刘海粟美术馆",
+    "address": "长宁区延安西路1609号",
+    "latitude": 31.2113561,
+    "longitude": 121.4146186,
+    "coordinateSystem": "wgs84",
+    "duration": "1.5～2.5小时",
+    "budget": "¥0～60",
+    "bestTime": "周二至周日 9:00-17:00",
+    "moods": [
+      "arts",
+      "thrill"
+    ],
+    "traits": [
+      "culture",
+      "curious",
+      "budget"
+    ],
+    "mission": "给三件作品重新起名。完成任务即可离开，不需要把刘海粟美术馆全部逛完。",
+    "steps": [
+      "出发前打开官方来源确认当天开放安排",
+      "到达刘海粟美术馆后先熟悉公共区域和现场规则",
+      "给三件作品重新起名，完成后写下一句感受"
+    ],
+    "tip": "免费；开放安排可能调整，请以官方来源和现场公告为准。",
+    "sourceTitle": "上海市文化和旅游局：2025年上海市美术馆名录",
+    "sourceUrl": "https://whlyj.sh.gov.cn/msg/20250928/db0cbc0a1edf478f99c4900522a56e3b.html",
+    "verifiedAt": "2026-08-18",
+    "status": "published",
+    "recommendable": true,
+    "catalogVersion": 1
+  },
+  {
+    "id": "longhua-detail",
+    "placeId": "longhua",
+    "emoji": "🔎",
+    "stamp": "细节采集员",
+    "title": "去龙华古镇周边找到三个容易错过的细节",
+    "kicker": "把速度放慢，城市才会显影。",
+    "district": "徐汇",
+    "location": "龙华古镇周边",
+    "address": "徐汇区龙华路2853号附近",
+    "latitude": 31.1809,
+    "longitude": 121.4527,
+    "coordinateSystem": "gcj02",
+    "duration": "1.5～2.5小时",
+    "budget": "¥0～60",
+    "bestTime": "公共街区开放时段，宗教场所以现场公告为准",
+    "moods": [
+      "arts",
+      "healing"
+    ],
+    "traits": [
+      "culture",
+      "calm",
+      "walk",
+      "budget"
+    ],
+    "mission": "找到三个容易错过的细节。完成任务即可离开，不需要把龙华古镇周边全部逛完。",
+    "steps": [
+      "出发前打开官方来源确认当天开放安排",
+      "到达龙华古镇周边后先熟悉公共区域和现场规则",
+      "找到三个容易错过的细节，完成后写下一句感受"
+    ],
+    "tip": "街区免费；开放安排可能调整，请以官方来源和现场公告为准。",
+    "sourceTitle": "上海市文旅推广网：龙华塔",
+    "sourceUrl": "https://www.meet-in-shanghai.net/jpn/national-key-cultural-relics-protection-unit/longhua-pagoda-082584/",
+    "verifiedAt": "2026-08-18",
+    "status": "published",
+    "recommendable": true,
+    "catalogVersion": 1
+  },
+  {
+    "id": "longhua-morning",
+    "emoji": "🥣",
+    "stamp": "清晨逃跑员",
+    "title": "在龙华过一个不睡懒觉的早晨",
+    "kicker": "用早餐和晨钟，把周末拉长一点。",
+    "district": "徐汇",
+    "location": "龙华古镇周边",
+    "address": "徐汇区龙华路2853号附近",
+    "latitude": 31.1809,
+    "longitude": 121.4527,
+    "duration": "2～3小时",
+    "budget": "¥20～80",
+    "bestTime": "08:00～11:00",
+    "moods": [
+      "healing",
+      "arts"
+    ],
+    "traits": [
+      "calm",
+      "culture",
+      "food",
+      "walk"
+    ],
+    "mission": "早起去龙华，在附近吃一顿热早餐，再绕着老街和寺塔慢走一圈。",
+    "steps": [
+      "比平时周末早起一小时",
+      "在附近任选一家有热气的早餐店",
+      "绕龙华塔周边慢走，不赶下一个景点"
+    ],
+    "tip": "进入宗教场所请保持安静并尊重现场规则。",
+    "placeId": "longhua",
+    "coordinateSystem": "gcj02",
+    "sourceTitle": "上海市文旅推广网：龙华塔",
+    "sourceUrl": "https://www.meet-in-shanghai.net/jpn/national-key-cultural-relics-protection-unit/longhua-pagoda-082584/",
+    "verifiedAt": "2026-08-18",
+    "status": "published",
+    "recommendable": true,
+    "catalogVersion": 1
+  },
+  {
+    "id": "longhua-old-new",
+    "placeId": "longhua",
+    "emoji": "🏙️",
+    "stamp": "时间观察员",
+    "title": "去龙华古镇周边拍下一组新旧同框",
+    "kicker": "一张照片里放进两个时代。",
+    "district": "徐汇",
+    "location": "龙华古镇周边",
+    "address": "徐汇区龙华路2853号附近",
+    "latitude": 31.1809,
+    "longitude": 121.4527,
+    "coordinateSystem": "gcj02",
+    "duration": "1.5～2.5小时",
+    "budget": "¥0～60",
+    "bestTime": "公共街区开放时段，宗教场所以现场公告为准",
+    "moods": [
+      "arts",
+      "outdoors"
+    ],
+    "traits": [
+      "culture",
+      "walk",
+      "curious",
+      "budget"
+    ],
+    "mission": "拍下一组新旧同框。完成任务即可离开，不需要把龙华古镇周边全部逛完。",
+    "steps": [
+      "出发前打开官方来源确认当天开放安排",
+      "到达龙华古镇周边后先熟悉公共区域和现场规则",
+      "拍下一组新旧同框，完成后写下一句感受"
+    ],
+    "tip": "街区免费；开放安排可能调整，请以官方来源和现场公告为准。",
+    "sourceTitle": "上海市文旅推广网：龙华塔",
+    "sourceUrl": "https://www.meet-in-shanghai.net/jpn/national-key-cultural-relics-protection-unit/longhua-pagoda-082584/",
+    "verifiedAt": "2026-08-18",
+    "status": "published",
+    "recommendable": true,
+    "catalogVersion": 1
+  },
+  {
+    "id": "longhua-postcard",
+    "placeId": "longhua",
+    "emoji": "💌",
+    "stamp": "城市写信人",
+    "title": "去龙华古镇周边写一张不寄出的明信片",
+    "kicker": "把今天的城市寄给未来。",
+    "district": "徐汇",
+    "location": "龙华古镇周边",
+    "address": "徐汇区龙华路2853号附近",
+    "latitude": 31.1809,
+    "longitude": 121.4527,
+    "coordinateSystem": "gcj02",
+    "duration": "1.5～2.5小时",
+    "budget": "¥0～60",
+    "bestTime": "公共街区开放时段，宗教场所以现场公告为准",
+    "moods": [
+      "arts",
+      "healing"
+    ],
+    "traits": [
+      "culture",
+      "calm",
+      "budget"
+    ],
+    "mission": "写一张不寄出的明信片。完成任务即可离开，不需要把龙华古镇周边全部逛完。",
+    "steps": [
+      "出发前打开官方来源确认当天开放安排",
+      "到达龙华古镇周边后先熟悉公共区域和现场规则",
+      "写一张不寄出的明信片，完成后写下一句感受"
+    ],
+    "tip": "街区免费；开放安排可能调整，请以官方来源和现场公告为准。",
+    "sourceTitle": "上海市文旅推广网：龙华塔",
+    "sourceUrl": "https://www.meet-in-shanghai.net/jpn/national-key-cultural-relics-protection-unit/longhua-pagoda-082584/",
+    "verifiedAt": "2026-08-18",
+    "status": "published",
+    "recommendable": true,
+    "catalogVersion": 1
+  },
+  {
+    "id": "m50-color-hunt",
+    "placeId": "m50",
+    "emoji": "🎨",
+    "stamp": "色彩采集员",
+    "title": "去M50创意园收集四种展厅颜色",
+    "kicker": "把展览压缩成一张私人色卡。",
+    "district": "普陀",
+    "location": "M50创意园",
+    "address": "普陀区莫干山路50号",
+    "latitude": 31.2473,
+    "longitude": 121.4496,
+    "coordinateSystem": "gcj02",
+    "duration": "1.5～2.5小时",
+    "budget": "¥0～60",
+    "bestTime": "周一至周日 9:00-18:30",
+    "moods": [
+      "arts",
+      "healing"
+    ],
+    "traits": [
+      "culture",
+      "curious",
+      "walk",
+      "budget"
+    ],
+    "mission": "收集四种展厅颜色。完成任务即可离开，不需要把M50创意园全部逛完。",
+    "steps": [
+      "出发前打开官方来源确认当天开放安排",
+      "到达M50创意园后先熟悉公共区域和现场规则",
+      "收集四种展厅颜色，完成后写下一句感受"
+    ],
+    "tip": "园区免费，各艺术空间以现场为准；开放安排可能调整，请以官方来源和现场公告为准。",
+    "sourceTitle": "上海市文旅推广网：上海M50创意园",
+    "sourceUrl": "https://www.meet-in-shanghai.net/cn/tourist-attraction/shanghai-m50-creative-park-184096/",
+    "verifiedAt": "2026-08-18",
+    "status": "published",
+    "recommendable": true,
+    "catalogVersion": 1
+  },
+  {
+    "id": "m50-one-artist",
+    "emoji": "🖼️",
+    "stamp": "一日策展人",
+    "title": "在M50只认真认识一位陌生艺术家",
+    "kicker": "少看一点，记得更久。",
+    "district": "普陀",
+    "location": "M50创意园",
+    "address": "普陀区莫干山路50号",
+    "latitude": 31.2473,
+    "longitude": 121.4496,
+    "duration": "2～3小时",
+    "budget": "¥0～80",
+    "bestTime": "周末下午",
+    "moods": [
+      "arts",
+      "healing"
+    ],
+    "traits": [
+      "culture",
+      "calm",
+      "curious"
+    ],
+    "mission": "不追求逛完园区，只挑一位完全不认识的艺术家，记住三件作品和一个问题。",
+    "steps": [
+      "随机选择第一栋走进去的楼",
+      "遇到打动你的作品就停止继续赶场",
+      "离开前写下想问艺术家的一个问题"
+    ],
+    "tip": "各空间开放时间不同，以现场安排为准。",
+    "placeId": "m50",
+    "coordinateSystem": "gcj02",
+    "sourceTitle": "上海市文旅推广网：上海M50创意园",
+    "sourceUrl": "https://www.meet-in-shanghai.net/cn/tourist-attraction/shanghai-m50-creative-park-184096/",
+    "verifiedAt": "2026-08-18",
+    "status": "published",
+    "recommendable": true,
+    "catalogVersion": 1
+  },
+  {
+    "id": "m50-one-question",
+    "placeId": "m50",
+    "emoji": "❓",
+    "stamp": "问题收藏家",
+    "title": "去M50创意园带着一个问题去看展",
+    "kicker": "答案不重要，新的问题才重要。",
+    "district": "普陀",
+    "location": "M50创意园",
+    "address": "普陀区莫干山路50号",
+    "latitude": 31.2473,
+    "longitude": 121.4496,
+    "coordinateSystem": "gcj02",
+    "duration": "1.5～2.5小时",
+    "budget": "¥0～60",
+    "bestTime": "周一至周日 9:00-18:30",
+    "moods": [
+      "arts",
+      "healing"
+    ],
+    "traits": [
+      "culture",
+      "calm",
+      "curious",
+      "budget"
+    ],
+    "mission": "带着一个问题去看展。完成任务即可离开，不需要把M50创意园全部逛完。",
+    "steps": [
+      "出发前打开官方来源确认当天开放安排",
+      "到达M50创意园后先熟悉公共区域和现场规则",
+      "带着一个问题去看展，完成后写下一句感受"
+    ],
+    "tip": "园区免费，各艺术空间以现场为准；开放安排可能调整，请以官方来源和现场公告为准。",
+    "sourceTitle": "上海市文旅推广网：上海M50创意园",
+    "sourceUrl": "https://www.meet-in-shanghai.net/cn/tourist-attraction/shanghai-m50-creative-park-184096/",
+    "verifiedAt": "2026-08-18",
+    "status": "published",
+    "recommendable": true,
+    "catalogVersion": 1
+  },
+  {
+    "id": "m50-rename",
+    "placeId": "m50",
+    "emoji": "✍️",
+    "stamp": "临时策展人",
+    "title": "去M50创意园给三件作品重新起名",
+    "kicker": "先不看说明，听听自己的直觉。",
+    "district": "普陀",
+    "location": "M50创意园",
+    "address": "普陀区莫干山路50号",
+    "latitude": 31.2473,
+    "longitude": 121.4496,
+    "coordinateSystem": "gcj02",
+    "duration": "1.5～2.5小时",
+    "budget": "¥0～60",
+    "bestTime": "周一至周日 9:00-18:30",
+    "moods": [
+      "arts",
+      "thrill"
+    ],
+    "traits": [
+      "culture",
+      "curious",
+      "budget"
+    ],
+    "mission": "给三件作品重新起名。完成任务即可离开，不需要把M50创意园全部逛完。",
+    "steps": [
+      "出发前打开官方来源确认当天开放安排",
+      "到达M50创意园后先熟悉公共区域和现场规则",
+      "给三件作品重新起名，完成后写下一句感受"
+    ],
+    "tip": "园区免费，各艺术空间以现场为准；开放安排可能调整，请以官方来源和现场公告为准。",
+    "sourceTitle": "上海市文旅推广网：上海M50创意园",
+    "sourceUrl": "https://www.meet-in-shanghai.net/cn/tourist-attraction/shanghai-m50-creative-park-184096/",
+    "verifiedAt": "2026-08-18",
+    "status": "published",
+    "recommendable": true,
+    "catalogVersion": 1
+  },
+  {
+    "id": "moca-warehouse-color-hunt",
+    "placeId": "moca-warehouse",
+    "emoji": "🎨",
+    "stamp": "色彩采集员",
+    "title": "去上海艺仓美术馆收集四种展厅颜色",
+    "kicker": "把展览压缩成一张私人色卡。",
+    "district": "浦东",
+    "location": "上海艺仓美术馆",
+    "address": "浦东新区滨江大道4777号",
+    "latitude": 31.2184737,
+    "longitude": 121.5080344,
+    "coordinateSystem": "wgs84",
+    "duration": "1.5～2.5小时",
+    "budget": "¥0～60",
+    "bestTime": "周二至周日 10:00-18:00",
+    "moods": [
+      "arts",
+      "healing"
+    ],
+    "traits": [
+      "culture",
+      "curious",
+      "walk",
+      "budget"
+    ],
+    "mission": "收集四种展厅颜色。完成任务即可离开，不需要把上海艺仓美术馆全部逛完。",
+    "steps": [
+      "出发前打开官方来源确认当天开放安排",
+      "到达上海艺仓美术馆后先熟悉公共区域和现场规则",
+      "收集四种展厅颜色，完成后写下一句感受"
+    ],
+    "tip": "部分免费，按展收费；开放安排可能调整，请以官方来源和现场公告为准。",
+    "sourceTitle": "上海市文化和旅游局：2025年上海市美术馆名录",
+    "sourceUrl": "https://whlyj.sh.gov.cn/msg/20250928/db0cbc0a1edf478f99c4900522a56e3b.html",
+    "verifiedAt": "2026-08-18",
+    "status": "published",
+    "recommendable": true,
+    "catalogVersion": 1
+  },
+  {
+    "id": "moca-warehouse-one-question",
+    "placeId": "moca-warehouse",
+    "emoji": "❓",
+    "stamp": "问题收藏家",
+    "title": "去上海艺仓美术馆带着一个问题去看展",
+    "kicker": "答案不重要，新的问题才重要。",
+    "district": "浦东",
+    "location": "上海艺仓美术馆",
+    "address": "浦东新区滨江大道4777号",
+    "latitude": 31.2184737,
+    "longitude": 121.5080344,
+    "coordinateSystem": "wgs84",
+    "duration": "1.5～2.5小时",
+    "budget": "¥0～60",
+    "bestTime": "周二至周日 10:00-18:00",
+    "moods": [
+      "arts",
+      "healing"
+    ],
+    "traits": [
+      "culture",
+      "calm",
+      "curious",
+      "budget"
+    ],
+    "mission": "带着一个问题去看展。完成任务即可离开，不需要把上海艺仓美术馆全部逛完。",
+    "steps": [
+      "出发前打开官方来源确认当天开放安排",
+      "到达上海艺仓美术馆后先熟悉公共区域和现场规则",
+      "带着一个问题去看展，完成后写下一句感受"
+    ],
+    "tip": "部分免费，按展收费；开放安排可能调整，请以官方来源和现场公告为准。",
+    "sourceTitle": "上海市文化和旅游局：2025年上海市美术馆名录",
+    "sourceUrl": "https://whlyj.sh.gov.cn/msg/20250928/db0cbc0a1edf478f99c4900522a56e3b.html",
+    "verifiedAt": "2026-08-18",
+    "status": "published",
+    "recommendable": true,
+    "catalogVersion": 1
+  },
+  {
+    "id": "moca-warehouse-one-work",
+    "placeId": "moca-warehouse",
+    "emoji": "🖼️",
+    "stamp": "慢看观察员",
+    "title": "去上海艺仓美术馆只认真认识一件作品",
+    "kicker": "少看一点，反而记得更久。",
+    "district": "浦东",
+    "location": "上海艺仓美术馆",
+    "address": "浦东新区滨江大道4777号",
+    "latitude": 31.2184737,
+    "longitude": 121.5080344,
+    "coordinateSystem": "wgs84",
+    "duration": "1.5～2.5小时",
+    "budget": "¥0～60",
+    "bestTime": "周二至周日 10:00-18:00",
+    "moods": [
+      "arts",
+      "healing"
+    ],
+    "traits": [
+      "culture",
+      "calm",
+      "curious",
+      "budget"
+    ],
+    "mission": "只认真认识一件作品。完成任务即可离开，不需要把上海艺仓美术馆全部逛完。",
+    "steps": [
+      "出发前打开官方来源确认当天开放安排",
+      "到达上海艺仓美术馆后先熟悉公共区域和现场规则",
+      "只认真认识一件作品，完成后写下一句感受"
+    ],
+    "tip": "部分免费，按展收费；开放安排可能调整，请以官方来源和现场公告为准。",
+    "sourceTitle": "上海市文化和旅游局：2025年上海市美术馆名录",
+    "sourceUrl": "https://whlyj.sh.gov.cn/msg/20250928/db0cbc0a1edf478f99c4900522a56e3b.html",
+    "verifiedAt": "2026-08-18",
+    "status": "published",
+    "recommendable": true,
+    "catalogVersion": 1
+  },
+  {
+    "id": "moca-warehouse-rename",
+    "placeId": "moca-warehouse",
+    "emoji": "✍️",
+    "stamp": "临时策展人",
+    "title": "去上海艺仓美术馆给三件作品重新起名",
+    "kicker": "先不看说明，听听自己的直觉。",
+    "district": "浦东",
+    "location": "上海艺仓美术馆",
+    "address": "浦东新区滨江大道4777号",
+    "latitude": 31.2184737,
+    "longitude": 121.5080344,
+    "coordinateSystem": "wgs84",
+    "duration": "1.5～2.5小时",
+    "budget": "¥0～60",
+    "bestTime": "周二至周日 10:00-18:00",
+    "moods": [
+      "arts",
+      "thrill"
+    ],
+    "traits": [
+      "culture",
+      "curious",
+      "budget"
+    ],
+    "mission": "给三件作品重新起名。完成任务即可离开，不需要把上海艺仓美术馆全部逛完。",
+    "steps": [
+      "出发前打开官方来源确认当天开放安排",
+      "到达上海艺仓美术馆后先熟悉公共区域和现场规则",
+      "给三件作品重新起名，完成后写下一句感受"
+    ],
+    "tip": "部分免费，按展收费；开放安排可能调整，请以官方来源和现场公告为准。",
+    "sourceTitle": "上海市文化和旅游局：2025年上海市美术馆名录",
+    "sourceUrl": "https://whlyj.sh.gov.cn/msg/20250928/db0cbc0a1edf478f99c4900522a56e3b.html",
+    "verifiedAt": "2026-08-18",
+    "status": "published",
+    "recommendable": true,
+    "catalogVersion": 1
+  },
+  {
+    "id": "north-bund-blue-hour",
+    "emoji": "🌃",
+    "stamp": "蓝调观察员",
+    "title": "在北外滩等城市进入蓝调时刻",
+    "kicker": "不开滤镜，也能遇见一张电影截图。",
+    "district": "虹口",
+    "location": "北外滩国客中心",
+    "address": "虹口区东大名路500号",
+    "latitude": 31.2492,
+    "longitude": 121.5036,
+    "duration": "1.5～2小时",
+    "budget": "¥0～50",
+    "bestTime": "日落后30分钟",
+    "moods": [
+      "healing",
+      "night",
+      "arts"
+    ],
+    "traits": [
+      "calm",
+      "walk",
+      "night",
+      "budget"
+    ],
+    "mission": "从白玉兰广场走到公平路码头，只拍蓝色出现的瞬间，最后选一张设成手机壁纸。",
+    "steps": [
+      "提前查好当天日落时间",
+      "沿北外滩滨江向东慢走",
+      "只拍蓝色，不追求热门机位"
+    ],
+    "tip": "江边风大，夜间注意保暖。",
+    "placeId": "north-bund",
+    "coordinateSystem": "gcj02",
+    "sourceTitle": "上海市政府：北外滩滨水公共空间",
+    "sourceUrl": "https://www.shanghai.gov.cn/cmsres/7a/7acdfcf1e97340eaa51d11e205b44482/04a890ed80dc86d0eae372da5bf0b6bf.pdf",
+    "verifiedAt": "2026-08-18",
+    "status": "published",
+    "recommendable": true,
+    "catalogVersion": 1
+  },
+  {
+    "id": "north-bund-four-colors",
+    "placeId": "north-bund",
+    "emoji": "📷",
+    "stamp": "街景取色员",
+    "title": "去北外滩国客中心拍齐四种城市颜色",
+    "kicker": "给这段路做一张私人色卡。",
+    "district": "虹口",
+    "location": "北外滩国客中心",
+    "address": "虹口区东大名路500号",
+    "latitude": 31.2492,
+    "longitude": 121.5036,
+    "coordinateSystem": "gcj02",
+    "duration": "1.5～3小时",
+    "budget": "¥0～60",
+    "bestTime": "公共滨水空间开放时段",
+    "moods": [
+      "arts",
+      "outdoors"
+    ],
+    "traits": [
+      "walk",
+      "curious",
+      "budget"
+    ],
+    "mission": "拍齐四种城市颜色。完成任务即可离开，不需要把北外滩国客中心全部逛完。",
+    "steps": [
+      "出发前打开官方来源确认当天开放安排",
+      "到达北外滩国客中心后先熟悉公共区域和现场规则",
+      "拍齐四种城市颜色，完成后写下一句感受"
+    ],
+    "tip": "公共区域免费；开放安排可能调整，请以官方来源和现场公告为准。",
+    "sourceTitle": "上海市政府：北外滩滨水公共空间",
+    "sourceUrl": "https://www.shanghai.gov.cn/cmsres/7a/7acdfcf1e97340eaa51d11e205b44482/04a890ed80dc86d0eae372da5bf0b6bf.pdf",
+    "verifiedAt": "2026-08-18",
+    "status": "published",
+    "recommendable": true,
+    "catalogVersion": 1
+  },
+  {
+    "id": "north-bund-one-line",
+    "placeId": "north-bund",
+    "emoji": "✍️",
+    "stamp": "街区记录员",
+    "title": "去北外滩国客中心给这段路写一句标题",
+    "kicker": "走完以后，只留下一句话。",
+    "district": "虹口",
+    "location": "北外滩国客中心",
+    "address": "虹口区东大名路500号",
+    "latitude": 31.2492,
+    "longitude": 121.5036,
+    "coordinateSystem": "gcj02",
+    "duration": "1.5～3小时",
+    "budget": "¥0～60",
+    "bestTime": "公共滨水空间开放时段",
+    "moods": [
+      "arts",
+      "healing"
+    ],
+    "traits": [
+      "walk",
+      "culture",
+      "calm",
+      "budget"
+    ],
+    "mission": "给这段路写一句标题。完成任务即可离开，不需要把北外滩国客中心全部逛完。",
+    "steps": [
+      "出发前打开官方来源确认当天开放安排",
+      "到达北外滩国客中心后先熟悉公共区域和现场规则",
+      "给这段路写一句标题，完成后写下一句感受"
+    ],
+    "tip": "公共区域免费；开放安排可能调整，请以官方来源和现场公告为准。",
+    "sourceTitle": "上海市政府：北外滩滨水公共空间",
+    "sourceUrl": "https://www.shanghai.gov.cn/cmsres/7a/7acdfcf1e97340eaa51d11e205b44482/04a890ed80dc86d0eae372da5bf0b6bf.pdf",
+    "verifiedAt": "2026-08-18",
+    "status": "published",
+    "recommendable": true,
+    "catalogVersion": 1
+  },
+  {
+    "id": "north-bund-wrong-turn",
+    "placeId": "north-bund",
+    "emoji": "🧭",
+    "stamp": "支路探索员",
+    "title": "去北外滩国客中心允许自己拐进一条支路",
+    "kicker": "安全范围内，错路也可能是答案。",
+    "district": "虹口",
+    "location": "北外滩国客中心",
+    "address": "虹口区东大名路500号",
+    "latitude": 31.2492,
+    "longitude": 121.5036,
+    "coordinateSystem": "gcj02",
+    "duration": "1.5～3小时",
+    "budget": "¥0～60",
+    "bestTime": "公共滨水空间开放时段",
+    "moods": [
+      "thrill",
+      "outdoors"
+    ],
+    "traits": [
+      "walk",
+      "curious",
+      "budget"
+    ],
+    "mission": "允许自己拐进一条支路。完成任务即可离开，不需要把北外滩国客中心全部逛完。",
+    "steps": [
+      "出发前打开官方来源确认当天开放安排",
+      "到达北外滩国客中心后先熟悉公共区域和现场规则",
+      "允许自己拐进一条支路，完成后写下一句感受"
+    ],
+    "tip": "公共区域免费；开放安排可能调整，请以官方来源和现场公告为准。",
+    "sourceTitle": "上海市政府：北外滩滨水公共空间",
+    "sourceUrl": "https://www.shanghai.gov.cn/cmsres/7a/7acdfcf1e97340eaa51d11e205b44482/04a890ed80dc86d0eae372da5bf0b6bf.pdf",
+    "verifiedAt": "2026-08-18",
+    "status": "published",
+    "recommendable": true,
+    "catalogVersion": 1
+  },
+  {
+    "id": "old-millfun-detail",
+    "placeId": "old-millfun",
+    "emoji": "🔎",
+    "stamp": "细节采集员",
+    "title": "去1933老场坊找到三个容易错过的细节",
+    "kicker": "把速度放慢，城市才会显影。",
+    "district": "虹口",
+    "location": "1933老场坊",
+    "address": "虹口区溧阳路611号",
+    "latitude": 31.2574,
+    "longitude": 121.4971,
+    "coordinateSystem": "gcj02",
+    "duration": "1.5～2.5小时",
+    "budget": "¥0～60",
+    "bestTime": "园区开放时间以现场公告为准",
+    "moods": [
+      "arts",
+      "healing"
+    ],
+    "traits": [
+      "culture",
+      "calm",
+      "walk",
+      "budget"
+    ],
+    "mission": "找到三个容易错过的细节。完成任务即可离开，不需要把1933老场坊全部逛完。",
+    "steps": [
+      "出发前打开官方来源确认当天开放安排",
+      "到达1933老场坊后先熟悉公共区域和现场规则",
+      "找到三个容易错过的细节，完成后写下一句感受"
+    ],
+    "tip": "公共区域免费，活动另计；开放安排可能调整，请以官方来源和现场公告为准。",
+    "sourceTitle": "上海市文旅推广网：1933老场坊",
+    "sourceUrl": "https://www.meet-in-shanghai.net/cn/news/happy-shanghai-may-day--happy-spring-market-is-here-828739/",
+    "verifiedAt": "2026-08-18",
+    "status": "published",
+    "recommendable": true,
+    "catalogVersion": 1
+  },
+  {
+    "id": "old-millfun-old-new",
+    "placeId": "old-millfun",
+    "emoji": "🏙️",
+    "stamp": "时间观察员",
+    "title": "去1933老场坊拍下一组新旧同框",
+    "kicker": "一张照片里放进两个时代。",
+    "district": "虹口",
+    "location": "1933老场坊",
+    "address": "虹口区溧阳路611号",
+    "latitude": 31.2574,
+    "longitude": 121.4971,
+    "coordinateSystem": "gcj02",
+    "duration": "1.5～2.5小时",
+    "budget": "¥0～60",
+    "bestTime": "园区开放时间以现场公告为准",
+    "moods": [
+      "arts",
+      "outdoors"
+    ],
+    "traits": [
+      "culture",
+      "walk",
+      "curious",
+      "budget"
+    ],
+    "mission": "拍下一组新旧同框。完成任务即可离开，不需要把1933老场坊全部逛完。",
+    "steps": [
+      "出发前打开官方来源确认当天开放安排",
+      "到达1933老场坊后先熟悉公共区域和现场规则",
+      "拍下一组新旧同框，完成后写下一句感受"
+    ],
+    "tip": "公共区域免费，活动另计；开放安排可能调整，请以官方来源和现场公告为准。",
+    "sourceTitle": "上海市文旅推广网：1933老场坊",
+    "sourceUrl": "https://www.meet-in-shanghai.net/cn/news/happy-shanghai-may-day--happy-spring-market-is-here-828739/",
+    "verifiedAt": "2026-08-18",
+    "status": "published",
+    "recommendable": true,
+    "catalogVersion": 1
+  },
+  {
+    "id": "old-millfun-postcard",
+    "placeId": "old-millfun",
+    "emoji": "💌",
+    "stamp": "城市写信人",
+    "title": "去1933老场坊写一张不寄出的明信片",
+    "kicker": "把今天的城市寄给未来。",
+    "district": "虹口",
+    "location": "1933老场坊",
+    "address": "虹口区溧阳路611号",
+    "latitude": 31.2574,
+    "longitude": 121.4971,
+    "coordinateSystem": "gcj02",
+    "duration": "1.5～2.5小时",
+    "budget": "¥0～60",
+    "bestTime": "园区开放时间以现场公告为准",
+    "moods": [
+      "arts",
+      "healing"
+    ],
+    "traits": [
+      "culture",
+      "calm",
+      "budget"
+    ],
+    "mission": "写一张不寄出的明信片。完成任务即可离开，不需要把1933老场坊全部逛完。",
+    "steps": [
+      "出发前打开官方来源确认当天开放安排",
+      "到达1933老场坊后先熟悉公共区域和现场规则",
+      "写一张不寄出的明信片，完成后写下一句感受"
+    ],
+    "tip": "公共区域免费，活动另计；开放安排可能调整，请以官方来源和现场公告为准。",
+    "sourceTitle": "上海市文旅推广网：1933老场坊",
+    "sourceUrl": "https://www.meet-in-shanghai.net/cn/news/happy-shanghai-may-day--happy-spring-market-is-here-828739/",
+    "verifiedAt": "2026-08-18",
+    "status": "published",
+    "recommendable": true,
+    "catalogVersion": 1
+  },
+  {
+    "id": "post-office-letter",
+    "emoji": "✉️",
+    "stamp": "时间邮差",
+    "title": "在邮政博物馆给一年后的自己写封信",
+    "kicker": "把这个周末寄给未来。",
+    "district": "虹口",
+    "location": "上海邮政博物馆",
+    "address": "虹口区天潼路395号2楼",
+    "latitude": 31.2475,
+    "longitude": 121.4868,
+    "duration": "2～3小时",
+    "budget": "¥0～30",
+    "bestTime": "开放日下午",
+    "moods": [
+      "arts",
+      "healing"
+    ],
+    "traits": [
+      "culture",
+      "calm",
+      "curious",
+      "budget"
+    ],
+    "mission": "参观时找到最喜欢的一件旧邮政物件，再坐到苏州河边写一封一年后才能看的信。",
+    "steps": [
+      "先核对当天开放安排",
+      "在馆内找一件最想带回现代的物件",
+      "离馆后沿苏州河写下未来一年的愿望"
+    ],
+    "tip": "场馆开放安排可能变化，请出发前查看官方通知。",
+    "placeId": "postal-museum",
+    "coordinateSystem": "gcj02",
+    "sourceTitle": "上海市文化和旅游局：上海邮政博物馆焕新开放",
+    "sourceUrl": "https://whlyj.sh.gov.cn/gqfc/20241218/b7a180236c7d47cba6b939a6092ae6c1.html",
+    "verifiedAt": "2026-08-18",
+    "status": "published",
+    "recommendable": true,
+    "catalogVersion": 1
+  },
+  {
+    "id": "postal-museum-one-room",
+    "placeId": "postal-museum",
+    "emoji": "🚪",
+    "stamp": "单厅漫游者",
+    "title": "去上海邮政博物馆今天只逛一个展厅",
+    "kicker": "放弃打卡，换成真正停留。",
+    "district": "虹口",
+    "location": "上海邮政博物馆",
+    "address": "虹口区天潼路395号2楼",
+    "latitude": 31.2475,
+    "longitude": 121.4868,
+    "coordinateSystem": "gcj02",
+    "duration": "1.5～2.5小时",
+    "budget": "¥0～60",
+    "bestTime": "周三、周四、周六、周日 9:00-17:00",
+    "moods": [
+      "arts",
+      "healing"
+    ],
+    "traits": [
+      "culture",
+      "calm",
+      "walk",
+      "budget"
+    ],
+    "mission": "今天只逛一个展厅。完成任务即可离开，不需要把上海邮政博物馆全部逛完。",
+    "steps": [
+      "出发前打开官方来源确认当天开放安排",
+      "到达上海邮政博物馆后先熟悉公共区域和现场规则",
+      "今天只逛一个展厅，完成后写下一句感受"
+    ],
+    "tip": "免费、无需预约；开放安排可能调整，请以官方来源和现场公告为准。",
+    "sourceTitle": "上海市文化和旅游局：上海邮政博物馆焕新开放",
+    "sourceUrl": "https://whlyj.sh.gov.cn/gqfc/20241218/b7a180236c7d47cba6b939a6092ae6c1.html",
+    "verifiedAt": "2026-08-18",
+    "status": "published",
+    "recommendable": true,
+    "catalogVersion": 1
+  },
+  {
+    "id": "postal-museum-three-story",
+    "placeId": "postal-museum",
+    "emoji": "🧩",
+    "stamp": "故事拼图师",
+    "title": "去上海邮政博物馆用三件展品拼一个故事",
+    "kicker": "让互不相干的东西产生联系。",
+    "district": "虹口",
+    "location": "上海邮政博物馆",
+    "address": "虹口区天潼路395号2楼",
+    "latitude": 31.2475,
+    "longitude": 121.4868,
+    "coordinateSystem": "gcj02",
+    "duration": "1.5～2.5小时",
+    "budget": "¥0～60",
+    "bestTime": "周三、周四、周六、周日 9:00-17:00",
+    "moods": [
+      "arts",
+      "thrill"
+    ],
+    "traits": [
+      "culture",
+      "curious",
+      "budget"
+    ],
+    "mission": "用三件展品拼一个故事。完成任务即可离开，不需要把上海邮政博物馆全部逛完。",
+    "steps": [
+      "出发前打开官方来源确认当天开放安排",
+      "到达上海邮政博物馆后先熟悉公共区域和现场规则",
+      "用三件展品拼一个故事，完成后写下一句感受"
+    ],
+    "tip": "免费、无需预约；开放安排可能调整，请以官方来源和现场公告为准。",
+    "sourceTitle": "上海市文化和旅游局：上海邮政博物馆焕新开放",
+    "sourceUrl": "https://whlyj.sh.gov.cn/gqfc/20241218/b7a180236c7d47cba6b939a6092ae6c1.html",
+    "verifiedAt": "2026-08-18",
+    "status": "published",
+    "recommendable": true,
+    "catalogVersion": 1
+  },
+  {
+    "id": "postal-museum-voice-guide",
+    "placeId": "postal-museum",
+    "emoji": "🎙️",
+    "stamp": "一分钟讲解员",
+    "title": "去上海邮政博物馆录一段一分钟私人导览",
+    "kicker": "把最喜欢的细节讲给未来的自己。",
+    "district": "虹口",
+    "location": "上海邮政博物馆",
+    "address": "虹口区天潼路395号2楼",
+    "latitude": 31.2475,
+    "longitude": 121.4868,
+    "coordinateSystem": "gcj02",
+    "duration": "1.5～2.5小时",
+    "budget": "¥0～60",
+    "bestTime": "周三、周四、周六、周日 9:00-17:00",
+    "moods": [
+      "arts",
+      "healing"
+    ],
+    "traits": [
+      "culture",
+      "calm",
+      "budget"
+    ],
+    "mission": "录一段一分钟私人导览。完成任务即可离开，不需要把上海邮政博物馆全部逛完。",
+    "steps": [
+      "出发前打开官方来源确认当天开放安排",
+      "到达上海邮政博物馆后先熟悉公共区域和现场规则",
+      "录一段一分钟私人导览，完成后写下一句感受"
+    ],
+    "tip": "免费、无需预约；开放安排可能调整，请以官方来源和现场公告为准。",
+    "sourceTitle": "上海市文化和旅游局：上海邮政博物馆焕新开放",
+    "sourceUrl": "https://whlyj.sh.gov.cn/gqfc/20241218/b7a180236c7d47cba6b939a6092ae6c1.html",
+    "verifiedAt": "2026-08-18",
+    "status": "published",
+    "recommendable": true,
+    "catalogVersion": 1
+  },
+  {
+    "id": "power-station-art-color-hunt",
+    "placeId": "power-station-art",
+    "emoji": "🎨",
+    "stamp": "色彩采集员",
+    "title": "去上海当代艺术博物馆收集四种展厅颜色",
+    "kicker": "把展览压缩成一张私人色卡。",
+    "district": "黄浦",
+    "location": "上海当代艺术博物馆",
+    "address": "黄浦区苗江路678号",
+    "latitude": 31.2030587,
+    "longitude": 121.4938965,
+    "coordinateSystem": "wgs84",
+    "duration": "1.5～2.5小时",
+    "budget": "¥0～180",
+    "bestTime": "周二至周日 11:00-19:00",
+    "moods": [
+      "arts",
+      "healing"
+    ],
+    "traits": [
+      "culture",
+      "curious",
+      "walk"
+    ],
+    "mission": "收集四种展厅颜色。完成任务即可离开，不需要把上海当代艺术博物馆全部逛完。",
+    "steps": [
+      "出发前打开官方来源确认当天开放安排",
+      "到达上海当代艺术博物馆后先熟悉公共区域和现场规则",
+      "收集四种展厅颜色，完成后写下一句感受"
+    ],
+    "tip": "特展收费；开放安排可能调整，请以官方来源和现场公告为准。",
+    "sourceTitle": "上海市文化和旅游局：2025年上海市美术馆名录",
+    "sourceUrl": "https://whlyj.sh.gov.cn/msg/20250928/db0cbc0a1edf478f99c4900522a56e3b.html",
+    "verifiedAt": "2026-08-18",
+    "status": "published",
+    "recommendable": true,
+    "catalogVersion": 1
+  },
+  {
+    "id": "power-station-art-one-question",
+    "placeId": "power-station-art",
+    "emoji": "❓",
+    "stamp": "问题收藏家",
+    "title": "去上海当代艺术博物馆带着一个问题去看展",
+    "kicker": "答案不重要，新的问题才重要。",
+    "district": "黄浦",
+    "location": "上海当代艺术博物馆",
+    "address": "黄浦区苗江路678号",
+    "latitude": 31.2030587,
+    "longitude": 121.4938965,
+    "coordinateSystem": "wgs84",
+    "duration": "1.5～2.5小时",
+    "budget": "¥0～180",
+    "bestTime": "周二至周日 11:00-19:00",
+    "moods": [
+      "arts",
+      "healing"
+    ],
+    "traits": [
+      "culture",
+      "calm",
+      "curious"
+    ],
+    "mission": "带着一个问题去看展。完成任务即可离开，不需要把上海当代艺术博物馆全部逛完。",
+    "steps": [
+      "出发前打开官方来源确认当天开放安排",
+      "到达上海当代艺术博物馆后先熟悉公共区域和现场规则",
+      "带着一个问题去看展，完成后写下一句感受"
+    ],
+    "tip": "特展收费；开放安排可能调整，请以官方来源和现场公告为准。",
+    "sourceTitle": "上海市文化和旅游局：2025年上海市美术馆名录",
+    "sourceUrl": "https://whlyj.sh.gov.cn/msg/20250928/db0cbc0a1edf478f99c4900522a56e3b.html",
+    "verifiedAt": "2026-08-18",
+    "status": "published",
+    "recommendable": true,
+    "catalogVersion": 1
+  },
+  {
+    "id": "power-station-art-one-work",
+    "placeId": "power-station-art",
+    "emoji": "🖼️",
+    "stamp": "慢看观察员",
+    "title": "去上海当代艺术博物馆只认真认识一件作品",
+    "kicker": "少看一点，反而记得更久。",
+    "district": "黄浦",
+    "location": "上海当代艺术博物馆",
+    "address": "黄浦区苗江路678号",
+    "latitude": 31.2030587,
+    "longitude": 121.4938965,
+    "coordinateSystem": "wgs84",
+    "duration": "1.5～2.5小时",
+    "budget": "¥0～180",
+    "bestTime": "周二至周日 11:00-19:00",
+    "moods": [
+      "arts",
+      "healing"
+    ],
+    "traits": [
+      "culture",
+      "calm",
+      "curious"
+    ],
+    "mission": "只认真认识一件作品。完成任务即可离开，不需要把上海当代艺术博物馆全部逛完。",
+    "steps": [
+      "出发前打开官方来源确认当天开放安排",
+      "到达上海当代艺术博物馆后先熟悉公共区域和现场规则",
+      "只认真认识一件作品，完成后写下一句感受"
+    ],
+    "tip": "特展收费；开放安排可能调整，请以官方来源和现场公告为准。",
+    "sourceTitle": "上海市文化和旅游局：2025年上海市美术馆名录",
+    "sourceUrl": "https://whlyj.sh.gov.cn/msg/20250928/db0cbc0a1edf478f99c4900522a56e3b.html",
+    "verifiedAt": "2026-08-18",
+    "status": "published",
+    "recommendable": true,
+    "catalogVersion": 1
+  },
+  {
+    "id": "power-station-art-rename",
+    "placeId": "power-station-art",
+    "emoji": "✍️",
+    "stamp": "临时策展人",
+    "title": "去上海当代艺术博物馆给三件作品重新起名",
+    "kicker": "先不看说明，听听自己的直觉。",
+    "district": "黄浦",
+    "location": "上海当代艺术博物馆",
+    "address": "黄浦区苗江路678号",
+    "latitude": 31.2030587,
+    "longitude": 121.4938965,
+    "coordinateSystem": "wgs84",
+    "duration": "1.5～2.5小时",
+    "budget": "¥0～180",
+    "bestTime": "周二至周日 11:00-19:00",
+    "moods": [
+      "arts",
+      "thrill"
+    ],
+    "traits": [
+      "culture",
+      "curious"
+    ],
+    "mission": "给三件作品重新起名。完成任务即可离开，不需要把上海当代艺术博物馆全部逛完。",
+    "steps": [
+      "出发前打开官方来源确认当天开放安排",
+      "到达上海当代艺术博物馆后先熟悉公共区域和现场规则",
+      "给三件作品重新起名，完成后写下一句感受"
+    ],
+    "tip": "特展收费；开放安排可能调整，请以官方来源和现场公告为准。",
+    "sourceTitle": "上海市文化和旅游局：2025年上海市美术馆名录",
+    "sourceUrl": "https://whlyj.sh.gov.cn/msg/20250928/db0cbc0a1edf478f99c4900522a56e3b.html",
+    "verifiedAt": "2026-08-18",
+    "status": "published",
+    "recommendable": true,
+    "catalogVersion": 1
+  },
+  {
+    "id": "pudong-art-museum-color-hunt",
+    "placeId": "pudong-art-museum",
+    "emoji": "🎨",
+    "stamp": "色彩采集员",
+    "title": "去浦东美术馆收集四种展厅颜色",
+    "kicker": "把展览压缩成一张私人色卡。",
+    "district": "浦东",
+    "location": "浦东美术馆",
+    "address": "浦东新区滨江大道2777号",
+    "latitude": 31.2403094,
+    "longitude": 121.4919724,
+    "coordinateSystem": "wgs84",
+    "duration": "1.5～2.5小时",
+    "budget": "¥0～180",
+    "bestTime": "周一至周日 10:00-21:00",
+    "moods": [
+      "arts",
+      "healing"
+    ],
+    "traits": [
+      "culture",
+      "curious",
+      "walk"
+    ],
+    "mission": "收集四种展厅颜色。完成任务即可离开，不需要把浦东美术馆全部逛完。",
+    "steps": [
+      "出发前打开官方来源确认当天开放安排",
+      "到达浦东美术馆后先熟悉公共区域和现场规则",
+      "收集四种展厅颜色，完成后写下一句感受"
+    ],
+    "tip": "入馆购票；开放安排可能调整，请以官方来源和现场公告为准。",
+    "sourceTitle": "上海市文化和旅游局：2025年上海市美术馆名录",
+    "sourceUrl": "https://whlyj.sh.gov.cn/msg/20250928/db0cbc0a1edf478f99c4900522a56e3b.html",
+    "verifiedAt": "2026-08-18",
+    "status": "published",
+    "recommendable": true,
+    "catalogVersion": 1
+  },
+  {
+    "id": "pudong-art-museum-one-question",
+    "placeId": "pudong-art-museum",
+    "emoji": "❓",
+    "stamp": "问题收藏家",
+    "title": "去浦东美术馆带着一个问题去看展",
+    "kicker": "答案不重要，新的问题才重要。",
+    "district": "浦东",
+    "location": "浦东美术馆",
+    "address": "浦东新区滨江大道2777号",
+    "latitude": 31.2403094,
+    "longitude": 121.4919724,
+    "coordinateSystem": "wgs84",
+    "duration": "1.5～2.5小时",
+    "budget": "¥0～180",
+    "bestTime": "周一至周日 10:00-21:00",
+    "moods": [
+      "arts",
+      "healing"
+    ],
+    "traits": [
+      "culture",
+      "calm",
+      "curious"
+    ],
+    "mission": "带着一个问题去看展。完成任务即可离开，不需要把浦东美术馆全部逛完。",
+    "steps": [
+      "出发前打开官方来源确认当天开放安排",
+      "到达浦东美术馆后先熟悉公共区域和现场规则",
+      "带着一个问题去看展，完成后写下一句感受"
+    ],
+    "tip": "入馆购票；开放安排可能调整，请以官方来源和现场公告为准。",
+    "sourceTitle": "上海市文化和旅游局：2025年上海市美术馆名录",
+    "sourceUrl": "https://whlyj.sh.gov.cn/msg/20250928/db0cbc0a1edf478f99c4900522a56e3b.html",
+    "verifiedAt": "2026-08-18",
+    "status": "published",
+    "recommendable": true,
+    "catalogVersion": 1
+  },
+  {
+    "id": "pudong-art-museum-one-work",
+    "placeId": "pudong-art-museum",
+    "emoji": "🖼️",
+    "stamp": "慢看观察员",
+    "title": "去浦东美术馆只认真认识一件作品",
+    "kicker": "少看一点，反而记得更久。",
+    "district": "浦东",
+    "location": "浦东美术馆",
+    "address": "浦东新区滨江大道2777号",
+    "latitude": 31.2403094,
+    "longitude": 121.4919724,
+    "coordinateSystem": "wgs84",
+    "duration": "1.5～2.5小时",
+    "budget": "¥0～180",
+    "bestTime": "周一至周日 10:00-21:00",
+    "moods": [
+      "arts",
+      "healing"
+    ],
+    "traits": [
+      "culture",
+      "calm",
+      "curious"
+    ],
+    "mission": "只认真认识一件作品。完成任务即可离开，不需要把浦东美术馆全部逛完。",
+    "steps": [
+      "出发前打开官方来源确认当天开放安排",
+      "到达浦东美术馆后先熟悉公共区域和现场规则",
+      "只认真认识一件作品，完成后写下一句感受"
+    ],
+    "tip": "入馆购票；开放安排可能调整，请以官方来源和现场公告为准。",
+    "sourceTitle": "上海市文化和旅游局：2025年上海市美术馆名录",
+    "sourceUrl": "https://whlyj.sh.gov.cn/msg/20250928/db0cbc0a1edf478f99c4900522a56e3b.html",
+    "verifiedAt": "2026-08-18",
+    "status": "published",
+    "recommendable": true,
+    "catalogVersion": 1
+  },
+  {
+    "id": "pudong-art-museum-rename",
+    "placeId": "pudong-art-museum",
+    "emoji": "✍️",
+    "stamp": "临时策展人",
+    "title": "去浦东美术馆给三件作品重新起名",
+    "kicker": "先不看说明，听听自己的直觉。",
+    "district": "浦东",
+    "location": "浦东美术馆",
+    "address": "浦东新区滨江大道2777号",
+    "latitude": 31.2403094,
+    "longitude": 121.4919724,
+    "coordinateSystem": "wgs84",
+    "duration": "1.5～2.5小时",
+    "budget": "¥0～180",
+    "bestTime": "周一至周日 10:00-21:00",
+    "moods": [
+      "arts",
+      "thrill"
+    ],
+    "traits": [
+      "culture",
+      "curious"
+    ],
+    "mission": "给三件作品重新起名。完成任务即可离开，不需要把浦东美术馆全部逛完。",
+    "steps": [
+      "出发前打开官方来源确认当天开放安排",
+      "到达浦东美术馆后先熟悉公共区域和现场规则",
+      "给三件作品重新起名，完成后写下一句感受"
+    ],
+    "tip": "入馆购票；开放安排可能调整，请以官方来源和现场公告为准。",
+    "sourceTitle": "上海市文化和旅游局：2025年上海市美术馆名录",
+    "sourceUrl": "https://whlyj.sh.gov.cn/msg/20250928/db0cbc0a1edf478f99c4900522a56e3b.html",
+    "verifiedAt": "2026-08-18",
+    "status": "published",
+    "recommendable": true,
+    "catalogVersion": 1
+  },
+  {
+    "id": "rockbund-art-color-hunt",
+    "placeId": "rockbund-art",
+    "emoji": "🎨",
+    "stamp": "色彩采集员",
+    "title": "去上海外滩美术馆收集四种展厅颜色",
+    "kicker": "把展览压缩成一张私人色卡。",
+    "district": "黄浦",
+    "location": "上海外滩美术馆",
+    "address": "黄浦区虎丘路20号",
+    "latitude": 31.2431755,
+    "longitude": 121.4830203,
+    "coordinateSystem": "wgs84",
+    "duration": "1.5～2.5小时",
+    "budget": "¥0～60",
+    "bestTime": "周二至周日开放，冬夏令时段不同",
+    "moods": [
+      "arts",
+      "healing"
+    ],
+    "traits": [
+      "culture",
+      "curious",
+      "walk",
+      "budget"
+    ],
+    "mission": "收集四种展厅颜色。完成任务即可离开，不需要把上海外滩美术馆全部逛完。",
+    "steps": [
+      "出发前打开官方来源确认当天开放安排",
+      "到达上海外滩美术馆后先熟悉公共区域和现场规则",
+      "收集四种展厅颜色，完成后写下一句感受"
+    ],
+    "tip": "免费；开放安排可能调整，请以官方来源和现场公告为准。",
+    "sourceTitle": "上海市文化和旅游局：2025年上海市美术馆名录",
+    "sourceUrl": "https://whlyj.sh.gov.cn/msg/20250928/db0cbc0a1edf478f99c4900522a56e3b.html",
+    "verifiedAt": "2026-08-18",
+    "status": "published",
+    "recommendable": true,
+    "catalogVersion": 1
+  },
+  {
+    "id": "rockbund-art-one-question",
+    "placeId": "rockbund-art",
+    "emoji": "❓",
+    "stamp": "问题收藏家",
+    "title": "去上海外滩美术馆带着一个问题去看展",
+    "kicker": "答案不重要，新的问题才重要。",
+    "district": "黄浦",
+    "location": "上海外滩美术馆",
+    "address": "黄浦区虎丘路20号",
+    "latitude": 31.2431755,
+    "longitude": 121.4830203,
+    "coordinateSystem": "wgs84",
+    "duration": "1.5～2.5小时",
+    "budget": "¥0～60",
+    "bestTime": "周二至周日开放，冬夏令时段不同",
+    "moods": [
+      "arts",
+      "healing"
+    ],
+    "traits": [
+      "culture",
+      "calm",
+      "curious",
+      "budget"
+    ],
+    "mission": "带着一个问题去看展。完成任务即可离开，不需要把上海外滩美术馆全部逛完。",
+    "steps": [
+      "出发前打开官方来源确认当天开放安排",
+      "到达上海外滩美术馆后先熟悉公共区域和现场规则",
+      "带着一个问题去看展，完成后写下一句感受"
+    ],
+    "tip": "免费；开放安排可能调整，请以官方来源和现场公告为准。",
+    "sourceTitle": "上海市文化和旅游局：2025年上海市美术馆名录",
+    "sourceUrl": "https://whlyj.sh.gov.cn/msg/20250928/db0cbc0a1edf478f99c4900522a56e3b.html",
+    "verifiedAt": "2026-08-18",
+    "status": "published",
+    "recommendable": true,
+    "catalogVersion": 1
+  },
+  {
+    "id": "rockbund-art-one-work",
+    "placeId": "rockbund-art",
+    "emoji": "🖼️",
+    "stamp": "慢看观察员",
+    "title": "去上海外滩美术馆只认真认识一件作品",
+    "kicker": "少看一点，反而记得更久。",
+    "district": "黄浦",
+    "location": "上海外滩美术馆",
+    "address": "黄浦区虎丘路20号",
+    "latitude": 31.2431755,
+    "longitude": 121.4830203,
+    "coordinateSystem": "wgs84",
+    "duration": "1.5～2.5小时",
+    "budget": "¥0～60",
+    "bestTime": "周二至周日开放，冬夏令时段不同",
+    "moods": [
+      "arts",
+      "healing"
+    ],
+    "traits": [
+      "culture",
+      "calm",
+      "curious",
+      "budget"
+    ],
+    "mission": "只认真认识一件作品。完成任务即可离开，不需要把上海外滩美术馆全部逛完。",
+    "steps": [
+      "出发前打开官方来源确认当天开放安排",
+      "到达上海外滩美术馆后先熟悉公共区域和现场规则",
+      "只认真认识一件作品，完成后写下一句感受"
+    ],
+    "tip": "免费；开放安排可能调整，请以官方来源和现场公告为准。",
+    "sourceTitle": "上海市文化和旅游局：2025年上海市美术馆名录",
+    "sourceUrl": "https://whlyj.sh.gov.cn/msg/20250928/db0cbc0a1edf478f99c4900522a56e3b.html",
+    "verifiedAt": "2026-08-18",
+    "status": "published",
+    "recommendable": true,
+    "catalogVersion": 1
+  },
+  {
+    "id": "rockbund-art-rename",
+    "placeId": "rockbund-art",
+    "emoji": "✍️",
+    "stamp": "临时策展人",
+    "title": "去上海外滩美术馆给三件作品重新起名",
+    "kicker": "先不看说明，听听自己的直觉。",
+    "district": "黄浦",
+    "location": "上海外滩美术馆",
+    "address": "黄浦区虎丘路20号",
+    "latitude": 31.2431755,
+    "longitude": 121.4830203,
+    "coordinateSystem": "wgs84",
+    "duration": "1.5～2.5小时",
+    "budget": "¥0～60",
+    "bestTime": "周二至周日开放，冬夏令时段不同",
+    "moods": [
+      "arts",
+      "thrill"
+    ],
+    "traits": [
+      "culture",
+      "curious",
+      "budget"
+    ],
+    "mission": "给三件作品重新起名。完成任务即可离开，不需要把上海外滩美术馆全部逛完。",
+    "steps": [
+      "出发前打开官方来源确认当天开放安排",
+      "到达上海外滩美术馆后先熟悉公共区域和现场规则",
+      "给三件作品重新起名，完成后写下一句感受"
+    ],
+    "tip": "免费；开放安排可能调整，请以官方来源和现场公告为准。",
+    "sourceTitle": "上海市文化和旅游局：2025年上海市美术馆名录",
+    "sourceUrl": "https://whlyj.sh.gov.cn/msg/20250928/db0cbc0a1edf478f99c4900522a56e3b.html",
+    "verifiedAt": "2026-08-18",
+    "status": "published",
+    "recommendable": true,
+    "catalogVersion": 1
+  },
+  {
+    "id": "shanghai-library-east-one-room",
+    "placeId": "shanghai-library-east",
+    "emoji": "🚪",
+    "stamp": "单厅漫游者",
+    "title": "去上海图书馆东馆今天只逛一个展厅",
+    "kicker": "放弃打卡，换成真正停留。",
+    "district": "浦东",
+    "location": "上海图书馆东馆",
+    "address": "浦东新区合欢路300号",
+    "latitude": 31.2206,
+    "longitude": 121.5504,
+    "coordinateSystem": "gcj02",
+    "duration": "1.5～2.5小时",
+    "budget": "¥0～60",
+    "bestTime": "常规开放日，具体区域时间以馆方公告为准",
+    "moods": [
+      "arts",
+      "healing"
+    ],
+    "traits": [
+      "culture",
+      "calm",
+      "walk",
+      "budget"
+    ],
+    "mission": "今天只逛一个展厅。完成任务即可离开，不需要把上海图书馆东馆全部逛完。",
+    "steps": [
+      "出发前打开官方来源确认当天开放安排",
+      "到达上海图书馆东馆后先熟悉公共区域和现场规则",
+      "今天只逛一个展厅，完成后写下一句感受"
+    ],
+    "tip": "公共阅览区域免费；开放安排可能调整，请以官方来源和现场公告为准。",
+    "sourceTitle": "上海图书馆：东馆参观服务",
+    "sourceUrl": "https://www.library.sh.cn/service/visitDetail?i=0",
+    "verifiedAt": "2026-08-18",
+    "status": "published",
+    "recommendable": true,
+    "catalogVersion": 1
+  },
+  {
+    "id": "shanghai-library-east-three-story",
+    "placeId": "shanghai-library-east",
+    "emoji": "🧩",
+    "stamp": "故事拼图师",
+    "title": "去上海图书馆东馆用三件展品拼一个故事",
+    "kicker": "让互不相干的东西产生联系。",
+    "district": "浦东",
+    "location": "上海图书馆东馆",
+    "address": "浦东新区合欢路300号",
+    "latitude": 31.2206,
+    "longitude": 121.5504,
+    "coordinateSystem": "gcj02",
+    "duration": "1.5～2.5小时",
+    "budget": "¥0～60",
+    "bestTime": "常规开放日，具体区域时间以馆方公告为准",
+    "moods": [
+      "arts",
+      "thrill"
+    ],
+    "traits": [
+      "culture",
+      "curious",
+      "budget"
+    ],
+    "mission": "用三件展品拼一个故事。完成任务即可离开，不需要把上海图书馆东馆全部逛完。",
+    "steps": [
+      "出发前打开官方来源确认当天开放安排",
+      "到达上海图书馆东馆后先熟悉公共区域和现场规则",
+      "用三件展品拼一个故事，完成后写下一句感受"
+    ],
+    "tip": "公共阅览区域免费；开放安排可能调整，请以官方来源和现场公告为准。",
+    "sourceTitle": "上海图书馆：东馆参观服务",
+    "sourceUrl": "https://www.library.sh.cn/service/visitDetail?i=0",
+    "verifiedAt": "2026-08-18",
+    "status": "published",
+    "recommendable": true,
+    "catalogVersion": 1
+  },
+  {
+    "id": "shanghai-library-east-voice-guide",
+    "placeId": "shanghai-library-east",
+    "emoji": "🎙️",
+    "stamp": "一分钟讲解员",
+    "title": "去上海图书馆东馆录一段一分钟私人导览",
+    "kicker": "把最喜欢的细节讲给未来的自己。",
+    "district": "浦东",
+    "location": "上海图书馆东馆",
+    "address": "浦东新区合欢路300号",
+    "latitude": 31.2206,
+    "longitude": 121.5504,
+    "coordinateSystem": "gcj02",
+    "duration": "1.5～2.5小时",
+    "budget": "¥0～60",
+    "bestTime": "常规开放日，具体区域时间以馆方公告为准",
+    "moods": [
+      "arts",
+      "healing"
+    ],
+    "traits": [
+      "culture",
+      "calm",
+      "budget"
+    ],
+    "mission": "录一段一分钟私人导览。完成任务即可离开，不需要把上海图书馆东馆全部逛完。",
+    "steps": [
+      "出发前打开官方来源确认当天开放安排",
+      "到达上海图书馆东馆后先熟悉公共区域和现场规则",
+      "录一段一分钟私人导览，完成后写下一句感受"
+    ],
+    "tip": "公共阅览区域免费；开放安排可能调整，请以官方来源和现场公告为准。",
+    "sourceTitle": "上海图书馆：东馆参观服务",
+    "sourceUrl": "https://www.library.sh.cn/service/visitDetail?i=0",
+    "verifiedAt": "2026-08-18",
+    "status": "published",
+    "recommendable": true,
+    "catalogVersion": 1
+  },
+  {
+    "id": "suzhou-creek-bridges",
+    "emoji": "🌉",
+    "stamp": "桥梁收藏家",
+    "title": "沿苏州河连续走过4座桥",
+    "kicker": "每过一座桥，就换一个看城市的角度。",
+    "district": "静安 → 虹口",
+    "location": "浙江路桥",
+    "address": "浙江北路与北苏州路交叉口",
+    "latitude": 31.2435,
+    "longitude": 121.4773,
+    "duration": "2～3小时",
+    "budget": "¥0～50",
+    "bestTime": "16:00以后",
+    "moods": [
+      "outdoors",
+      "healing",
+      "night"
+    ],
+    "traits": [
+      "walk",
+      "calm",
+      "culture",
+      "budget"
+    ],
+    "mission": "从浙江路桥出发，沿河连续经过四座不同的桥；每座桥只拍一个最有意思的结构。",
+    "steps": [
+      "从浙江路桥开始计数",
+      "每过一座桥都走到对岸",
+      "在第四座桥附近找地方休息"
+    ],
+    "tip": "不要为了完成任务进入封闭或危险区域。",
+    "placeId": "suzhou-creek",
+    "coordinateSystem": "gcj02",
+    "sourceTitle": "上海市文旅推广网：浙江路桥",
+    "sourceUrl": "https://www.meet-in-shanghai.net/cn/shanghai-cultural-relics-protection-unit/zhejiang-road-and-bridge-509241/",
+    "verifiedAt": "2026-08-18",
+    "status": "published",
+    "recommendable": true,
+    "catalogVersion": 1
+  },
+  {
+    "id": "suzhou-creek-four-colors",
+    "placeId": "suzhou-creek",
+    "emoji": "📷",
+    "stamp": "街景取色员",
+    "title": "去浙江路桥拍齐四种城市颜色",
+    "kicker": "给这段路做一张私人色卡。",
+    "district": "静安 → 虹口",
+    "location": "浙江路桥",
+    "address": "浙江北路与北苏州路交叉口",
+    "latitude": 31.2435,
+    "longitude": 121.4773,
+    "coordinateSystem": "gcj02",
+    "duration": "1.5～3小时",
+    "budget": "¥0～60",
+    "bestTime": "公共步道开放时段",
+    "moods": [
+      "arts",
+      "outdoors"
+    ],
+    "traits": [
+      "walk",
+      "curious",
+      "budget"
+    ],
+    "mission": "拍齐四种城市颜色。完成任务即可离开，不需要把浙江路桥全部逛完。",
+    "steps": [
+      "出发前打开官方来源确认当天开放安排",
+      "到达浙江路桥后先熟悉公共区域和现场规则",
+      "拍齐四种城市颜色，完成后写下一句感受"
+    ],
+    "tip": "免费；开放安排可能调整，请以官方来源和现场公告为准。",
+    "sourceTitle": "上海市文旅推广网：浙江路桥",
+    "sourceUrl": "https://www.meet-in-shanghai.net/cn/shanghai-cultural-relics-protection-unit/zhejiang-road-and-bridge-509241/",
+    "verifiedAt": "2026-08-18",
+    "status": "published",
+    "recommendable": true,
+    "catalogVersion": 1
+  },
+  {
+    "id": "suzhou-creek-one-line",
+    "placeId": "suzhou-creek",
+    "emoji": "✍️",
+    "stamp": "街区记录员",
+    "title": "去浙江路桥给这段路写一句标题",
+    "kicker": "走完以后，只留下一句话。",
+    "district": "静安 → 虹口",
+    "location": "浙江路桥",
+    "address": "浙江北路与北苏州路交叉口",
+    "latitude": 31.2435,
+    "longitude": 121.4773,
+    "coordinateSystem": "gcj02",
+    "duration": "1.5～3小时",
+    "budget": "¥0～60",
+    "bestTime": "公共步道开放时段",
+    "moods": [
+      "arts",
+      "healing"
+    ],
+    "traits": [
+      "walk",
+      "culture",
+      "calm",
+      "budget"
+    ],
+    "mission": "给这段路写一句标题。完成任务即可离开，不需要把浙江路桥全部逛完。",
+    "steps": [
+      "出发前打开官方来源确认当天开放安排",
+      "到达浙江路桥后先熟悉公共区域和现场规则",
+      "给这段路写一句标题，完成后写下一句感受"
+    ],
+    "tip": "免费；开放安排可能调整，请以官方来源和现场公告为准。",
+    "sourceTitle": "上海市文旅推广网：浙江路桥",
+    "sourceUrl": "https://www.meet-in-shanghai.net/cn/shanghai-cultural-relics-protection-unit/zhejiang-road-and-bridge-509241/",
+    "verifiedAt": "2026-08-18",
+    "status": "published",
+    "recommendable": true,
+    "catalogVersion": 1
+  },
+  {
+    "id": "suzhou-creek-wrong-turn",
+    "placeId": "suzhou-creek",
+    "emoji": "🧭",
+    "stamp": "支路探索员",
+    "title": "去浙江路桥允许自己拐进一条支路",
+    "kicker": "安全范围内，错路也可能是答案。",
+    "district": "静安 → 虹口",
+    "location": "浙江路桥",
+    "address": "浙江北路与北苏州路交叉口",
+    "latitude": 31.2435,
+    "longitude": 121.4773,
+    "coordinateSystem": "gcj02",
+    "duration": "1.5～3小时",
+    "budget": "¥0～60",
+    "bestTime": "公共步道开放时段",
+    "moods": [
+      "thrill",
+      "outdoors"
+    ],
+    "traits": [
+      "walk",
+      "curious",
+      "budget"
+    ],
+    "mission": "允许自己拐进一条支路。完成任务即可离开，不需要把浙江路桥全部逛完。",
+    "steps": [
+      "出发前打开官方来源确认当天开放安排",
+      "到达浙江路桥后先熟悉公共区域和现场规则",
+      "允许自己拐进一条支路，完成后写下一句感受"
+    ],
+    "tip": "免费；开放安排可能调整，请以官方来源和现场公告为准。",
+    "sourceTitle": "上海市文旅推广网：浙江路桥",
+    "sourceUrl": "https://www.meet-in-shanghai.net/cn/shanghai-cultural-relics-protection-unit/zhejiang-road-and-bridge-509241/",
+    "verifiedAt": "2026-08-18",
+    "status": "published",
+    "recommendable": true,
+    "catalogVersion": 1
+  },
+  {
+    "id": "xuhui-riverside-four-colors",
+    "placeId": "xuhui-riverside",
+    "emoji": "📷",
+    "stamp": "街景取色员",
+    "title": "去徐汇滨江拍齐四种城市颜色",
+    "kicker": "给这段路做一张私人色卡。",
+    "district": "徐汇",
+    "location": "徐汇滨江",
+    "address": "徐汇区龙腾大道3398号附近",
+    "latitude": 31.1844,
+    "longitude": 121.4661,
+    "coordinateSystem": "gcj02",
+    "duration": "1.5～3小时",
+    "budget": "¥0～60",
+    "bestTime": "公共滨水空间开放时段",
+    "moods": [
+      "arts",
+      "outdoors"
+    ],
+    "traits": [
+      "walk",
+      "curious",
+      "budget"
+    ],
+    "mission": "拍齐四种城市颜色。完成任务即可离开，不需要把徐汇滨江全部逛完。",
+    "steps": [
+      "出发前打开官方来源确认当天开放安排",
+      "到达徐汇滨江后先熟悉公共区域和现场规则",
+      "拍齐四种城市颜色，完成后写下一句感受"
+    ],
+    "tip": "公共区域免费；开放安排可能调整，请以官方来源和现场公告为准。",
+    "sourceTitle": "上海市政府：徐汇滨江公共空间",
+    "sourceUrl": "https://www.shanghai.gov.cn/tszczq-qtqj4/20260113/0d414870e60a465faa5878023a40e3b7.html",
+    "verifiedAt": "2026-08-18",
+    "status": "published",
+    "recommendable": true,
+    "catalogVersion": 1
+  },
+  {
+    "id": "xuhui-riverside-one-line",
+    "placeId": "xuhui-riverside",
+    "emoji": "✍️",
+    "stamp": "街区记录员",
+    "title": "去徐汇滨江给这段路写一句标题",
+    "kicker": "走完以后，只留下一句话。",
+    "district": "徐汇",
+    "location": "徐汇滨江",
+    "address": "徐汇区龙腾大道3398号附近",
+    "latitude": 31.1844,
+    "longitude": 121.4661,
+    "coordinateSystem": "gcj02",
+    "duration": "1.5～3小时",
+    "budget": "¥0～60",
+    "bestTime": "公共滨水空间开放时段",
+    "moods": [
+      "arts",
+      "healing"
+    ],
+    "traits": [
+      "walk",
+      "culture",
+      "calm",
+      "budget"
+    ],
+    "mission": "给这段路写一句标题。完成任务即可离开，不需要把徐汇滨江全部逛完。",
+    "steps": [
+      "出发前打开官方来源确认当天开放安排",
+      "到达徐汇滨江后先熟悉公共区域和现场规则",
+      "给这段路写一句标题，完成后写下一句感受"
+    ],
+    "tip": "公共区域免费；开放安排可能调整，请以官方来源和现场公告为准。",
+    "sourceTitle": "上海市政府：徐汇滨江公共空间",
+    "sourceUrl": "https://www.shanghai.gov.cn/tszczq-qtqj4/20260113/0d414870e60a465faa5878023a40e3b7.html",
+    "verifiedAt": "2026-08-18",
+    "status": "published",
+    "recommendable": true,
+    "catalogVersion": 1
+  },
+  {
+    "id": "xuhui-riverside-sound",
+    "emoji": "🎧",
+    "stamp": "城市采样师",
+    "title": "在徐汇滨江录一段60秒城市声音",
+    "kicker": "暂时关掉音乐，听一听真实的上海。",
+    "district": "徐汇",
+    "location": "龙美术馆（西岸馆）周边",
+    "address": "徐汇区龙腾大道3398号附近",
+    "latitude": 31.1844,
+    "longitude": 121.4661,
+    "duration": "2小时",
+    "budget": "¥0～60",
+    "bestTime": "傍晚",
+    "moods": [
+      "healing",
+      "arts",
+      "outdoors"
+    ],
+    "traits": [
+      "walk",
+      "calm",
+      "culture",
+      "nature"
+    ],
+    "mission": "沿西岸慢走，找到一处同时能听见水、风和人声的位置，录下60秒不剪辑的城市声音。",
+    "steps": [
+      "从龙腾大道进入滨江步道",
+      "全程至少有十分钟不戴耳机",
+      "选一处停下并录制60秒"
+    ],
+    "tip": "骑行道和步行道交错，行走时注意车辆。",
+    "placeId": "xuhui-riverside",
+    "coordinateSystem": "gcj02",
+    "sourceTitle": "上海市政府：徐汇滨江公共空间",
+    "sourceUrl": "https://www.shanghai.gov.cn/tszczq-qtqj4/20260113/0d414870e60a465faa5878023a40e3b7.html",
+    "verifiedAt": "2026-08-18",
+    "status": "published",
+    "recommendable": true,
+    "catalogVersion": 1
+  },
+  {
+    "id": "xuhui-riverside-wrong-turn",
+    "placeId": "xuhui-riverside",
+    "emoji": "🧭",
+    "stamp": "支路探索员",
+    "title": "去徐汇滨江允许自己拐进一条支路",
+    "kicker": "安全范围内，错路也可能是答案。",
+    "district": "徐汇",
+    "location": "徐汇滨江",
+    "address": "徐汇区龙腾大道3398号附近",
+    "latitude": 31.1844,
+    "longitude": 121.4661,
+    "coordinateSystem": "gcj02",
+    "duration": "1.5～3小时",
+    "budget": "¥0～60",
+    "bestTime": "公共滨水空间开放时段",
+    "moods": [
+      "thrill",
+      "outdoors"
+    ],
+    "traits": [
+      "walk",
+      "curious",
+      "budget"
+    ],
+    "mission": "允许自己拐进一条支路。完成任务即可离开，不需要把徐汇滨江全部逛完。",
+    "steps": [
+      "出发前打开官方来源确认当天开放安排",
+      "到达徐汇滨江后先熟悉公共区域和现场规则",
+      "允许自己拐进一条支路，完成后写下一句感受"
+    ],
+    "tip": "公共区域免费；开放安排可能调整，请以官方来源和现场公告为准。",
+    "sourceTitle": "上海市政府：徐汇滨江公共空间",
+    "sourceUrl": "https://www.shanghai.gov.cn/tszczq-qtqj4/20260113/0d414870e60a465faa5878023a40e3b7.html",
+    "verifiedAt": "2026-08-18",
+    "status": "published",
+    "recommendable": true,
+    "catalogVersion": 1
+  },
+  {
+    "id": "yangpu-riverside-four-colors",
+    "placeId": "yangpu-riverside",
+    "emoji": "📷",
+    "stamp": "街景取色员",
+    "title": "去杨浦滨江人民城市建设规划展示馆拍齐四种城市颜色",
+    "kicker": "给这段路做一张私人色卡。",
+    "district": "杨浦",
+    "location": "杨浦滨江人民城市建设规划展示馆",
+    "address": "杨浦区安浦路461号附近",
+    "latitude": 31.2598,
+    "longitude": 121.5416,
+    "coordinateSystem": "gcj02",
+    "duration": "1.5～3小时",
+    "budget": "¥0～60",
+    "bestTime": "滨江公共空间开放时段",
+    "moods": [
+      "arts",
+      "outdoors"
+    ],
+    "traits": [
+      "walk",
+      "curious",
+      "budget"
+    ],
+    "mission": "拍齐四种城市颜色。完成任务即可离开，不需要把杨浦滨江人民城市建设规划展示馆全部逛完。",
+    "steps": [
+      "出发前打开官方来源确认当天开放安排",
+      "到达杨浦滨江人民城市建设规划展示馆后先熟悉公共区域和现场规则",
+      "拍齐四种城市颜色，完成后写下一句感受"
+    ],
+    "tip": "公共区域免费；开放安排可能调整，请以官方来源和现场公告为准。",
+    "sourceTitle": "上海市政府：杨浦滨江公共空间",
+    "sourceUrl": "https://www.shanghai.gov.cn/gwk/search/content/c3c86ace-5ef2-4386-aa14-b5781fd2038a",
+    "verifiedAt": "2026-08-18",
+    "status": "published",
+    "recommendable": true,
+    "catalogVersion": 1
+  },
+  {
+    "id": "yangpu-riverside-one-line",
+    "placeId": "yangpu-riverside",
+    "emoji": "✍️",
+    "stamp": "街区记录员",
+    "title": "去杨浦滨江人民城市建设规划展示馆给这段路写一句标题",
+    "kicker": "走完以后，只留下一句话。",
+    "district": "杨浦",
+    "location": "杨浦滨江人民城市建设规划展示馆",
+    "address": "杨浦区安浦路461号附近",
+    "latitude": 31.2598,
+    "longitude": 121.5416,
+    "coordinateSystem": "gcj02",
+    "duration": "1.5～3小时",
+    "budget": "¥0～60",
+    "bestTime": "滨江公共空间开放时段",
+    "moods": [
+      "arts",
+      "healing"
+    ],
+    "traits": [
+      "walk",
+      "culture",
+      "calm",
+      "budget"
+    ],
+    "mission": "给这段路写一句标题。完成任务即可离开，不需要把杨浦滨江人民城市建设规划展示馆全部逛完。",
+    "steps": [
+      "出发前打开官方来源确认当天开放安排",
+      "到达杨浦滨江人民城市建设规划展示馆后先熟悉公共区域和现场规则",
+      "给这段路写一句标题，完成后写下一句感受"
+    ],
+    "tip": "公共区域免费；开放安排可能调整，请以官方来源和现场公告为准。",
+    "sourceTitle": "上海市政府：杨浦滨江公共空间",
+    "sourceUrl": "https://www.shanghai.gov.cn/gwk/search/content/c3c86ace-5ef2-4386-aa14-b5781fd2038a",
+    "verifiedAt": "2026-08-18",
+    "status": "published",
+    "recommendable": true,
+    "catalogVersion": 1
+  },
+  {
+    "id": "yangpu-riverside-wrong-turn",
+    "placeId": "yangpu-riverside",
+    "emoji": "🧭",
+    "stamp": "支路探索员",
+    "title": "去杨浦滨江人民城市建设规划展示馆允许自己拐进一条支路",
+    "kicker": "安全范围内，错路也可能是答案。",
+    "district": "杨浦",
+    "location": "杨浦滨江人民城市建设规划展示馆",
+    "address": "杨浦区安浦路461号附近",
+    "latitude": 31.2598,
+    "longitude": 121.5416,
+    "coordinateSystem": "gcj02",
+    "duration": "1.5～3小时",
+    "budget": "¥0～60",
+    "bestTime": "滨江公共空间开放时段",
+    "moods": [
+      "thrill",
+      "outdoors"
+    ],
+    "traits": [
+      "walk",
+      "curious",
+      "budget"
+    ],
+    "mission": "允许自己拐进一条支路。完成任务即可离开，不需要把杨浦滨江人民城市建设规划展示馆全部逛完。",
+    "steps": [
+      "出发前打开官方来源确认当天开放安排",
+      "到达杨浦滨江人民城市建设规划展示馆后先熟悉公共区域和现场规则",
+      "允许自己拐进一条支路，完成后写下一句感受"
+    ],
+    "tip": "公共区域免费；开放安排可能调整，请以官方来源和现场公告为准。",
+    "sourceTitle": "上海市政府：杨浦滨江公共空间",
+    "sourceUrl": "https://www.shanghai.gov.cn/gwk/search/content/c3c86ace-5ef2-4386-aa14-b5781fd2038a",
+    "verifiedAt": "2026-08-18",
+    "status": "published",
+    "recommendable": true,
+    "catalogVersion": 1
+  },
+  {
+    "id": "yangpu-rivet-hunt",
+    "emoji": "🏭",
+    "stamp": "工业侦探",
+    "title": "沿杨浦滨江寻找5种工业遗迹",
+    "kicker": "把老厂房当成一座没有围墙的博物馆。",
+    "district": "杨浦",
+    "location": "杨浦滨江人民城市建设规划展示馆",
+    "address": "杨浦区安浦路461号附近",
+    "latitude": 31.2598,
+    "longitude": 121.5416,
+    "duration": "3小时",
+    "budget": "¥0～50",
+    "bestTime": "15:00以后",
+    "moods": [
+      "outdoors",
+      "arts"
+    ],
+    "traits": [
+      "walk",
+      "culture",
+      "curious",
+      "budget"
+    ],
+    "mission": "沿杨浦滨江寻找锈蚀钢梁、老码头、厂房标语、巨大管道和一处新旧建筑同框。",
+    "steps": [
+      "从安浦路附近进入滨江",
+      "按任务清单寻找五种工业痕迹",
+      "用一句话给这段工业历史写标题"
+    ],
+    "tip": "路线较长，穿适合步行的鞋。",
+    "placeId": "yangpu-riverside",
+    "coordinateSystem": "gcj02",
+    "sourceTitle": "上海市政府：杨浦滨江公共空间",
+    "sourceUrl": "https://www.shanghai.gov.cn/gwk/search/content/c3c86ace-5ef2-4386-aa14-b5781fd2038a",
+    "verifiedAt": "2026-08-18",
+    "status": "published",
+    "recommendable": true,
+    "catalogVersion": 1
+  },
+  {
+    "id": "zhu-qizhan-art-color-hunt",
+    "placeId": "zhu-qizhan-art",
+    "emoji": "🎨",
+    "stamp": "色彩采集员",
+    "title": "去朱屺瞻艺术馆收集四种展厅颜色",
+    "kicker": "把展览压缩成一张私人色卡。",
+    "district": "虹口",
+    "location": "朱屺瞻艺术馆",
+    "address": "虹口区欧阳路580号",
+    "latitude": 31.2763743,
+    "longitude": 121.4816107,
+    "coordinateSystem": "wgs84",
+    "duration": "1.5～2.5小时",
+    "budget": "¥0～60",
+    "bestTime": "周二至周日 9:30-16:30",
+    "moods": [
+      "arts",
+      "healing"
+    ],
+    "traits": [
+      "culture",
+      "curious",
+      "walk",
+      "budget"
+    ],
+    "mission": "收集四种展厅颜色。完成任务即可离开，不需要把朱屺瞻艺术馆全部逛完。",
+    "steps": [
+      "出发前打开官方来源确认当天开放安排",
+      "到达朱屺瞻艺术馆后先熟悉公共区域和现场规则",
+      "收集四种展厅颜色，完成后写下一句感受"
+    ],
+    "tip": "免费；开放安排可能调整，请以官方来源和现场公告为准。",
+    "sourceTitle": "上海市文化和旅游局：2025年上海市美术馆名录",
+    "sourceUrl": "https://whlyj.sh.gov.cn/msg/20250928/db0cbc0a1edf478f99c4900522a56e3b.html",
+    "verifiedAt": "2026-08-18",
+    "status": "published",
+    "recommendable": true,
+    "catalogVersion": 1
+  },
+  {
+    "id": "zhu-qizhan-art-one-question",
+    "placeId": "zhu-qizhan-art",
+    "emoji": "❓",
+    "stamp": "问题收藏家",
+    "title": "去朱屺瞻艺术馆带着一个问题去看展",
+    "kicker": "答案不重要，新的问题才重要。",
+    "district": "虹口",
+    "location": "朱屺瞻艺术馆",
+    "address": "虹口区欧阳路580号",
+    "latitude": 31.2763743,
+    "longitude": 121.4816107,
+    "coordinateSystem": "wgs84",
+    "duration": "1.5～2.5小时",
+    "budget": "¥0～60",
+    "bestTime": "周二至周日 9:30-16:30",
+    "moods": [
+      "arts",
+      "healing"
+    ],
+    "traits": [
+      "culture",
+      "calm",
+      "curious",
+      "budget"
+    ],
+    "mission": "带着一个问题去看展。完成任务即可离开，不需要把朱屺瞻艺术馆全部逛完。",
+    "steps": [
+      "出发前打开官方来源确认当天开放安排",
+      "到达朱屺瞻艺术馆后先熟悉公共区域和现场规则",
+      "带着一个问题去看展，完成后写下一句感受"
+    ],
+    "tip": "免费；开放安排可能调整，请以官方来源和现场公告为准。",
+    "sourceTitle": "上海市文化和旅游局：2025年上海市美术馆名录",
+    "sourceUrl": "https://whlyj.sh.gov.cn/msg/20250928/db0cbc0a1edf478f99c4900522a56e3b.html",
+    "verifiedAt": "2026-08-18",
+    "status": "published",
+    "recommendable": true,
+    "catalogVersion": 1
+  },
+  {
+    "id": "zhu-qizhan-art-one-work",
+    "placeId": "zhu-qizhan-art",
+    "emoji": "🖼️",
+    "stamp": "慢看观察员",
+    "title": "去朱屺瞻艺术馆只认真认识一件作品",
+    "kicker": "少看一点，反而记得更久。",
+    "district": "虹口",
+    "location": "朱屺瞻艺术馆",
+    "address": "虹口区欧阳路580号",
+    "latitude": 31.2763743,
+    "longitude": 121.4816107,
+    "coordinateSystem": "wgs84",
+    "duration": "1.5～2.5小时",
+    "budget": "¥0～60",
+    "bestTime": "周二至周日 9:30-16:30",
+    "moods": [
+      "arts",
+      "healing"
+    ],
+    "traits": [
+      "culture",
+      "calm",
+      "curious",
+      "budget"
+    ],
+    "mission": "只认真认识一件作品。完成任务即可离开，不需要把朱屺瞻艺术馆全部逛完。",
+    "steps": [
+      "出发前打开官方来源确认当天开放安排",
+      "到达朱屺瞻艺术馆后先熟悉公共区域和现场规则",
+      "只认真认识一件作品，完成后写下一句感受"
+    ],
+    "tip": "免费；开放安排可能调整，请以官方来源和现场公告为准。",
+    "sourceTitle": "上海市文化和旅游局：2025年上海市美术馆名录",
+    "sourceUrl": "https://whlyj.sh.gov.cn/msg/20250928/db0cbc0a1edf478f99c4900522a56e3b.html",
+    "verifiedAt": "2026-08-18",
+    "status": "published",
+    "recommendable": true,
+    "catalogVersion": 1
+  },
+  {
+    "id": "zhu-qizhan-art-rename",
+    "placeId": "zhu-qizhan-art",
+    "emoji": "✍️",
+    "stamp": "临时策展人",
+    "title": "去朱屺瞻艺术馆给三件作品重新起名",
+    "kicker": "先不看说明，听听自己的直觉。",
+    "district": "虹口",
+    "location": "朱屺瞻艺术馆",
+    "address": "虹口区欧阳路580号",
+    "latitude": 31.2763743,
+    "longitude": 121.4816107,
+    "coordinateSystem": "wgs84",
+    "duration": "1.5～2.5小时",
+    "budget": "¥0～60",
+    "bestTime": "周二至周日 9:30-16:30",
+    "moods": [
+      "arts",
+      "thrill"
+    ],
+    "traits": [
+      "culture",
+      "curious",
+      "budget"
+    ],
+    "mission": "给三件作品重新起名。完成任务即可离开，不需要把朱屺瞻艺术馆全部逛完。",
+    "steps": [
+      "出发前打开官方来源确认当天开放安排",
+      "到达朱屺瞻艺术馆后先熟悉公共区域和现场规则",
+      "给三件作品重新起名，完成后写下一句感受"
+    ],
+    "tip": "免费；开放安排可能调整，请以官方来源和现场公告为准。",
+    "sourceTitle": "上海市文化和旅游局：2025年上海市美术馆名录",
+    "sourceUrl": "https://whlyj.sh.gov.cn/msg/20250928/db0cbc0a1edf478f99c4900522a56e3b.html",
+    "verifiedAt": "2026-08-18",
+    "status": "published",
+    "recommendable": true,
+    "catalogVersion": 1
+  }
+]

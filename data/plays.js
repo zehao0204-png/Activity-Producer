@@ -362,8 +362,12 @@ const legacyPlays = [
 ]
 
 const { buildAdditionalPlays, enrichLegacyPlays } = require('./catalog')
+const { buildCurrentPlays } = require('./activity-pool')
+const { buildCuratedPlays } = require('./curated-activities')
 
 module.exports = [
-  ...enrichLegacyPlays(legacyPlays),
-  ...buildAdditionalPlays()
+  ...[...enrichLegacyPlays(legacyPlays), ...buildAdditionalPlays()]
+    .map(play => ({ ...play, status: 'legacy', recommendable: false })),
+  ...buildCurrentPlays(),
+  ...buildCuratedPlays()
 ]

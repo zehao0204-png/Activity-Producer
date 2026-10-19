@@ -1,3 +1,4 @@
+const { filterPlays } = require('./filters')
 const TAG_LABELS = {
   calm: '安静漫游',
   curious: '城市猎奇',
@@ -21,14 +22,13 @@ function pickPlay(plays, options = {}) {
   const tagScores = options.tagScores || {}
   const seen = new Set(options.seenIds || [])
   const random = options.random || Math.random
-  const recommendable = plays.filter(play => play.recommendable !== false && play.status !== 'legacy')
+  const recommendable = filterPlays(plays, options)
+  if (!recommendable.length) return { play: null, reason: '这个区域暂时没有符合主题的玩法，试试其他区域或随机盲盒。', wildcard: false }
   let candidates = recommendable.filter(play => !seen.has(play.id))
   if (!candidates.length) candidates = recommendable
-
-  if (mood !== 'random') {
-    const moodMatches = candidates.filter(play => play.moods.includes(mood))
-    if (moodMatches.length) candidates = moodMatches
-  }
+  const seenPlaces = new Set(plays.filter(play => seen.has(play.id)).map(play => play.placeId || play.id))
+  const freshPlaces = candidates.filter(play => !seenPlaces.has(play.placeId || play.id))
+  if (freshPlaces.length) candidates = freshPlaces
 
   const wildcard = Object.keys(tagScores).length > 0 && random() < 0.1
   if (wildcard) {

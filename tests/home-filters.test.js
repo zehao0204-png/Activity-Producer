@@ -1,0 +1,27 @@
+const assert = require('assert')
+const { filterPlays } = require('../utils/filters')
+const plays = require('../data/plays')
+const storage = { 'weekend-unboxed-filters-v1': { district: '杨浦', mood: 'thrill' } }
+let page
+global.wx = { getStorageSync: key => storage[key], setStorageSync: (key, value) => { storage[key] = value }, showShareMenu() {} }
+global.getApp = () => ({ getPlays: () => plays, getState: () => ({ challenges: [], tagScores: {}, seenIds: [] }) })
+global.Page = config => { page = config }
+require('../pages/index/index')
+page.setData = data => Object.assign(page.data, data)
+page.onLoad()
+page.onShow()
+assert.strictEqual(page.data.selectedDistrict, '杨浦')
+assert.strictEqual(page.data.availableCount, filterPlays(plays, { district: '杨浦', mood: 'thrill' }).length)
+page.data.play = plays.find(play => play.recommendable)
+page.selectDistrict({ currentTarget: { dataset: { id: '长宁' } } })
+assert.strictEqual(page.data.play, null)
+assert.strictEqual(storage['weekend-unboxed-filters-v1'].district, '长宁')
+page.selectMood({ currentTarget: { dataset: { id: 'night' } } })
+assert.strictEqual(page.data.availableCount, filterPlays(plays, { district: '长宁', mood: 'night' }).length)
+page.selectDistrict({ currentTarget: { dataset: { id: '崇明' } } })
+page.selectMood({ currentTarget: { dataset: { id: 'thrill' } } })
+assert.strictEqual(page.data.availableCount, 0)
+assert.ok(page.data.emptyMessage)
+page.draw()
+assert.strictEqual(page.data.isDrawing, false)
+console.log('home filter persistence, result reset and empty selection checks passed')

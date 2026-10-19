@@ -27,13 +27,19 @@ App({
 
   getPlays() {
     if (!Array.isArray(this.catalog) || !this.catalog.length) return localPlays
-    const cloudIds = new Set(this.catalog.map(play => play.id))
-    return [...this.catalog, ...localPlays.filter(play => !cloudIds.has(play.id))]
+    const localById = new Map(localPlays.map(play => [play.id, play]))
+    const merged = this.catalog.map(play => {
+      const local = localById.get(play.id)
+      // Bundled migration rules also override obsolete cached/cloud activities.
+      return local && (local.status === 'legacy' || (local.catalogVersion || 0) > (play.catalogVersion || 0)) ? local : play
+    })
+    const cloudIds = new Set(merged.map(play => play.id))
+    return [...merged, ...localPlays.filter(play => !cloudIds.has(play.id))]
   },
 
   async syncCatalog() {
     try {
-      const response = await wx.cloud.callFunction({ name: 'getPlays' })
+      const response = await wx.cloud.callFunction({ name: 'getPlays', data: { catalogVersion: 2 } })
       const plays = response.result?.plays
       if (!Array.isArray(plays) || plays.length < 20) throw new Error('Invalid cloud catalog')
       this.catalog = plays

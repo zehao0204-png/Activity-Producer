@@ -34,8 +34,24 @@ function wgs84ToGcj02(latitude, longitude) {
 }
 
 function getMapLocation(play) {
+  if (!Number.isFinite(play.latitude) || !Number.isFinite(play.longitude)) return null
   if (play.coordinateSystem === 'wgs84') return wgs84ToGcj02(play.latitude, play.longitude)
   return { latitude: play.latitude, longitude: play.longitude }
 }
 
-module.exports = { getMapLocation, wgs84ToGcj02 }
+function openPlayLocation(play) {
+  const location = getMapLocation(play)
+  if (location) {
+    wx.openLocation({ ...location, name: play.location, address: play.address, scale: 16 })
+    return
+  }
+  wx.showModal({
+    title: play.location,
+    content: `${play.address}\n复制后可到微信地图或常用地图搜索。`,
+    confirmText: '复制地址',
+    success: result => {
+      if (result.confirm) wx.setClipboardData({ data: `${play.location} ${play.address}` })
+    }
+  })
+}
+module.exports = { getMapLocation, openPlayLocation, wgs84ToGcj02 }

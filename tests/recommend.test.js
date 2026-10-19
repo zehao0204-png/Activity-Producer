@@ -38,8 +38,10 @@ assert.ok(shanghaiPlays.length >= 18)
 assert.strictEqual(new Set(shanghaiPlays.map(play => play.id)).size, shanghaiPlays.length)
 shanghaiPlays.forEach(play => {
   assert.ok(play.title && play.mission && play.steps.length === 3)
-  assert.ok(play.latitude >= -90 && play.latitude <= 90)
-  assert.ok(play.longitude >= -180 && play.longitude <= 180)
+  if (play.latitude !== undefined || play.longitude !== undefined) {
+    assert.ok(play.latitude >= -90 && play.latitude <= 90)
+    assert.ok(play.longitude >= -180 && play.longitude <= 180)
+  } else assert.ok(play.address.length >= 5)
 })
 
 console.log('recommendation checks passed')

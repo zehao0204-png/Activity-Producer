@@ -1,5 +1,7 @@
 const cloud = require('wx-server-sdk')
 const seed = require('./seed.json')
+const retired = require('./retired.json')
+const legacySeed = require('./legacy-seed.json')
 const { sanitizePlay } = require('./catalog')
 
 cloud.init({ env: cloud.DYNAMIC_CURRENT_ENV })
@@ -33,18 +35,29 @@ async function readPublished() {
 
 async function seedMissing() {
   const current = await readPublished()
-  const currentIds = new Set(current.map(play => play.id))
-  const missing = seed.filter(play => !currentIds.has(play.id))
+  const currentById = new Map(current.map(play => [play.id, play]))
+  const missing = seed.filter(play => !currentById.has(play.id)
+    || (currentById.get(play.id).catalogVersion || 0) < play.catalogVersion)
   for (let index = 0; index < missing.length; index += 20) {
     const batch = missing.slice(index, index + 20)
     await Promise.all(batch.map(play => plays.doc(play.id).set({ data: play })))
   }
-  return missing.length ? readPublished() : current
+  const retiredIds = new Set(retired)
+  const obsolete = current.filter(play => retiredIds.has(play.id))
+  for (let index = 0; index < obsolete.length; index += 20) {
+    await Promise.all(obsolete.slice(index, index + 20).map(play => plays.doc(play._id || play.id)
+      .update({ data: { status: 'legacy', recommendable: false } })))
+  }
+  return missing.length || obsolete.length ? readPublished() : current
 }
 
-exports.main = async () => {
+exports.main = async (event = {}) => {
+  if (event.catalogVersion !== 2) {
+    const legacy = legacySeed.map(sanitizePlay).filter(Boolean)
+    return { ok: true, catalogVersion: 1, count: legacy.length, plays: legacy }
+  }
   await ensureCollection()
   const documents = await seedMissing()
-  const published = documents.map(sanitizePlay).filter(Boolean)
-  return { ok: true, count: published.length, plays: published }
+  const published = documents.filter(play => play.recommendable !== false).map(sanitizePlay).filter(Boolean)
+  return { ok: true, catalogVersion: 2, count: published.length, plays: published }
 }
