@@ -3,10 +3,18 @@ const MOOD_LABELS = { random: '随机盲盒', healing: '放空治愈', thrill: '
 function normalizeDistrict(value) {
   return String(value || '').trim().replace(/浦东新区/g, '浦东').replace(/区$/g, '')
 }
-function filterPlays(plays, options = {}) {
-  const district = normalizeDistrict(options.district)
-  return plays.filter(play => play.recommendable !== false && play.status !== 'legacy'
-    && (!options.mood || options.mood === 'random' || play.moods.includes(options.mood))
-    && (!district || district === 'all' || (play.districts || (play.district || '').split(/\s*→\s*/)).map(normalizeDistrict).includes(district)))
+function normalizeFilters(options = {}) {
+  const districtValues = Array.isArray(options.districts) ? options.districts : options.district ? [options.district] : []
+  const moodValues = Array.isArray(options.moods) ? options.moods : options.mood ? [options.mood] : []
+  return {
+    districts: districtValues.includes('all') ? [] : [...new Set(districtValues.map(normalizeDistrict).filter(Boolean))],
+    moods: moodValues.includes('random') ? [] : [...new Set(moodValues.filter(Boolean))]
+  }
 }
-module.exports = { DISTRICTS, MOOD_LABELS, normalizeDistrict, filterPlays }
+function filterPlays(plays, options = {}) {
+  const { districts, moods } = normalizeFilters(options)
+  return plays.filter(play => play.recommendable !== false && play.status !== 'legacy'
+    && (!moods.length || play.moods.some(mood => moods.includes(mood)))
+    && (!districts.length || (play.districts || (play.district || '').split(/\s*→\s*/)).map(normalizeDistrict).some(district => districts.includes(district))))
+}
+module.exports = { DISTRICTS, MOOD_LABELS, normalizeDistrict, normalizeFilters, filterPlays }

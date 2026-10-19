@@ -1,6 +1,6 @@
 const { pickPlay } = require('../../utils/recommend')
 const { openPlayLocation } = require('../../utils/location')
-const { DISTRICTS, MOOD_LABELS, filterPlays } = require('../../utils/filters')
+const { DISTRICTS, MOOD_LABELS, normalizeFilters, filterPlays } = require('../../utils/filters')
 const FILTER_KEY = 'weekend-unboxed-filters-v1'
 
 Page({
@@ -19,11 +19,12 @@ Page({
         { id: 'night', icon: '🌙', label: '夜间出逃' }
       ] }
     ],
-    selectedMood: 'random',
-    selectedDistrict: 'all',
+    selectedMoods: [],
+    selectedDistricts: [],
     districtLabel: '全上海',
     districts: [{ id: 'all', label: '全上海' }, ...DISTRICTS.map(id => ({ id, label: id === '浦东' ? '浦东新区' : `${id}区` }))],
     districtsExpanded: false,
+    districtRows: [],
     moodDescription: '不设主题，留一点意外。',
     availableCount: 0,
     emptyMessage: '',
@@ -38,9 +39,8 @@ Page({
 
   onLoad() {
     const saved = wx.getStorageSync(FILTER_KEY) || {}
-    const selectedDistrict = saved.district === 'all' || DISTRICTS.includes(saved.district) ? saved.district : 'all'
-    const selectedMood = MOOD_LABELS[saved.mood] ? saved.mood : 'random'
-    this.setData({ selectedMood, selectedDistrict, districtLabel: selectedDistrict === 'all' ? '全上海' : `${selectedDistrict}${selectedDistrict === '浦东' ? '新区' : '区'}` })
+    const filters = normalizeFilters(saved)
+    this.setData({ selectedDistricts: filters.districts.filter(id => DISTRICTS.includes(id)), selectedMoods: filters.moods.filter(id => MOOD_LABELS[id] && id !== 'random') })
     this.updateFilterSummary()
   },
 
@@ -77,14 +77,21 @@ Page({
 
   selectMood(event) {
     if (this.drawTimer) clearTimeout(this.drawTimer)
-    this.setData({ selectedMood: event.currentTarget.dataset.id, play: null, isDrawing: false, emptyMessage: '' })
+    const id = event.currentTarget.dataset.id
+    if (!MOOD_LABELS[id]) return
+    const selectedMoods = id === 'random' ? [] : this.data.selectedMoods.includes(id)
+      ? this.data.selectedMoods.filter(value => value !== id) : [...this.data.selectedMoods, id]
+    this.setData({ selectedMoods, play: null, isDrawing: false, emptyMessage: '' })
     this.saveFilters()
   },
 
   selectDistrict(event) {
     if (this.drawTimer) clearTimeout(this.drawTimer)
-    const selectedDistrict = event.currentTarget.dataset.id
-    this.setData({ selectedDistrict, districtLabel: selectedDistrict === 'all' ? '全上海' : `${selectedDistrict}${selectedDistrict === '浦东' ? '新区' : '区'}`, play: null, isDrawing: false, emptyMessage: '' })
+    const id = event.currentTarget.dataset.id
+    if (id !== 'all' && !DISTRICTS.includes(id)) return
+    const selectedDistricts = id === 'all' ? [] : this.data.selectedDistricts.includes(id)
+      ? this.data.selectedDistricts.filter(value => value !== id) : [...this.data.selectedDistricts, id]
+    this.setData({ selectedDistricts, play: null, isDrawing: false, emptyMessage: '' })
     this.saveFilters()
   },
 
@@ -93,20 +100,33 @@ Page({
   },
 
   saveFilters() {
-    wx.setStorageSync(FILTER_KEY, { mood: this.data.selectedMood, district: this.data.selectedDistrict })
+    wx.setStorageSync(FILTER_KEY, { moods: this.data.selectedMoods, districts: this.data.selectedDistricts })
     this.updateFilterSummary()
   },
 
   updateFilterSummary() {
     const plays = getApp().getPlays()
-    const availableCount = filterPlays(plays, { mood: this.data.selectedMood, district: this.data.selectedDistrict }).length
+    const { selectedMoods, selectedDistricts } = this.data
+    const availableCount = filterPlays(plays, { moods: selectedMoods, districts: selectedDistricts }).length
     const descriptions = {
       random: '不设主题，留一点意外。', healing: '安静停留、自然感官，不赶路。',
       thrill: '第一次尝试：攀岩、滑雪、竞速与科学探索。', arts: '展览、作品、历史故事，认真看一点。',
       outdoors: '快走与户外运动，明确时长和运动目标。', night: '仅在夜间开放的街区、滨水空间与夜场。'
     }
-    this.setData({ availableCount, moodDescription: descriptions[this.data.selectedMood],
-      emptyMessage: availableCount ? '' : '这里暂时没有这个主题的玩法。换个区域，或选择随机盲盒。' })
+    const districtItems = this.data.districts.map(item => ({ ...item, selected: item.id === 'all' ? !selectedDistricts.length : selectedDistricts.includes(item.id) }))
+    const districtRows = []
+    for (let index = 0; index < districtItems.length; index += 3) {
+      districtRows.push({ id: `district-row-${index}`, items: districtItems.slice(index, index + 3) })
+    }
+    const moodRows = this.data.moodRows.map(row => ({ ...row, items: row.items.map(item => ({ ...item,
+      selected: item.id === 'random' ? !selectedMoods.length : selectedMoods.includes(item.id)
+    })) }))
+    const districtLabel = !selectedDistricts.length ? '全上海' : selectedDistricts.length <= 3
+      ? selectedDistricts.join('、') : `${selectedDistricts.slice(0, 2).join('、')}等${selectedDistricts.length}区`
+    const moodDescription = !selectedMoods.length ? descriptions.random : selectedMoods.length === 1 ? descriptions[selectedMoods[0]]
+      : `已选：${selectedMoods.map(id => MOOD_LABELS[id]).join(' / ')}。抽取其中任一主题。`
+    this.setData({ availableCount, districtRows, moodRows, districtLabel, moodDescription,
+      emptyMessage: availableCount ? '' : '所选区域暂时没有符合这些主题的玩法。换个区域或主题试试。' })
   },
 
   draw() {
@@ -127,8 +147,8 @@ Page({
       const app = getApp()
       const state = app.getState()
       const result = pickPlay(app.getPlays(), {
-        mood: this.data.selectedMood,
-        district: this.data.selectedDistrict,
+        moods: this.data.selectedMoods,
+        districts: this.data.selectedDistricts,
         tagScores: state.tagScores,
         seenIds: state.seenIds
       })

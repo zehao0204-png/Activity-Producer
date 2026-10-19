@@ -23,22 +23,26 @@
   <view class="district-section">
     <view class="mood-heading">
       <text class="section-label">这次去哪一区？</text>
-      <text class="optional">不选就是全上海</text>
+      <text class="optional">可多选 · 不选就是全上海</text>
     </view>
     <button class="district-toggle" bindtap="toggleDistricts" aria-expanded="{{districtsExpanded}}">
-      <view><text class="district-pin">⌖</text><text>{{districtLabel}}</text></view>
+      <view class="district-current"><text class="district-pin">⌖</text><text>{{districtLabel}}</text></view>
       <text class="district-toggle-label">{{districtsExpanded ? '收起选择 −' : '选择区域 ＋'}}</text>
     </button>
     <view wx:if="{{districtsExpanded}}" class="district-grid">
-      <button wx:for="{{districts}}" wx:key="id" data-id="{{item.id}}" bindtap="selectDistrict"
-        class="district-chip {{selectedDistrict === item.id ? 'district-chip--active' : ''}}">{{item.label}}</button>
+      <view class="district-row" wx:for="{{districtRows}}" wx:key="id" wx:for-item="row">
+        <button wx:for="{{row.items}}" wx:key="id" wx:for-item="district" data-id="{{district.id}}" bindtap="selectDistrict"
+          aria-label="{{district.label}}，{{district.selected ? '已选' : '未选'}}"
+          class="district-chip {{district.selected ? 'district-chip--active' : ''}}">{{district.label}}<text wx:if="{{district.selected}}" class="district-check"> ✓</text></button>
+        <view wx:if="{{row.items.length < 3}}" class="district-spacer"></view>
+      </view>
     </view>
   </view>
 
   <view class="mood-section">
     <view class="mood-heading">
       <text class="section-label">今天想怎么玩？</text>
-      <text class="optional">不选也可以</text>
+      <text class="optional">可多选 · 不选就是随机</text>
     </view>
     <view class="mood-grid">
       <view class="mood-row" wx:for="{{moodRows}}" wx:key="id" wx:for-item="row">
@@ -46,12 +50,14 @@
           wx:for="{{row.items}}"
           wx:key="id"
           wx:for-item="mood"
-          class="mood-chip {{selectedMood === mood.id ? 'mood-chip--active' : ''}}"
+          class="mood-chip {{mood.selected ? 'mood-chip--active' : ''}}"
+          aria-label="{{mood.label}}，{{mood.selected ? '已选' : '未选'}}"
           data-id="{{mood.id}}"
           bindtap="selectMood"
         >
           <text class="mood-icon">{{mood.icon}}</text>
           <text>{{mood.label}}</text>
+          <text wx:if="{{mood.selected}}" class="selection-check">✓</text>
         </button>
       </view>
     </view>

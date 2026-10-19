@@ -12,13 +12,11 @@ const TAG_LABELS = {
   food: '城市烟火'
 }
 
-function scorePlay(play, mood, tagScores) {
-  const moodScore = mood === 'random' || play.moods.includes(mood) ? 6 : -3
-  return play.traits.reduce((score, tag) => score + (tagScores[tag] || 0), moodScore)
+function scorePlay(play, tagScores) {
+  return play.traits.reduce((score, tag) => score + (tagScores[tag] || 0), 6)
 }
 
 function pickPlay(plays, options = {}) {
-  const mood = options.mood || 'random'
   const tagScores = options.tagScores || {}
   const seen = new Set(options.seenIds || [])
   const random = options.random || Math.random
@@ -37,7 +35,7 @@ function pickPlay(plays, options = {}) {
   }
 
   const ranked = candidates
-    .map(play => ({ play, score: scorePlay(play, mood, tagScores) + random() * 4 }))
+    .map(play => ({ play, score: scorePlay(play, tagScores) + random() * 4 }))
     .sort((a, b) => b.score - a.score)
   const pool = ranked.slice(0, Math.min(5, ranked.length))
   const winner = pool[Math.floor(random() * pool.length)]

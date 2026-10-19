@@ -24,6 +24,17 @@ const fixtures = [
   { id: 'fresh', placeId: 'other', district: '杨浦', moods: ['healing'], traits: [] },
   { id: 'other-theme', district: '长宁', moods: ['arts'], traits: [] }
 ]
+assert.strictEqual(filterPlays(fixtures, { districts: ['杨浦', '长宁'], moods: ['healing', 'arts'] }).length, 4)
+assert.deepStrictEqual(filterPlays(fixtures, { districts: ['长宁'], moods: ['healing', 'arts'] }).map(play => play.id), ['other-theme'])
+assert.strictEqual(filterPlays(fixtures, { districts: ['杨浦'], moods: ['arts'] }).length, 0)
+assert.strictEqual(filterPlays(fixtures, { districts: [], moods: [] }).length, fixtures.length)
+assert.strictEqual(filterPlays(fixtures, { districts: ['all', '杨浦'], moods: ['random', 'arts'] }).length, fixtures.length)
+const multiOptions = { districts: ['杨浦', '长宁'], moods: ['thrill', 'night'] }
+const multiCandidates = filterPlays(plays, multiOptions)
+for (let index = 0; index < 100; index += 1) {
+  const result = pickPlay(plays, { ...multiOptions, tagScores: { culture: 12, calm: 8 }, random: () => index / 100 })
+  assert.ok(multiCandidates.some(play => play.id === result.play.id))
+}
 assert.strictEqual(pickPlay(fixtures, { district: '杨浦区', mood: 'healing', seenIds: ['old'], random: () => 0 }).play.id, 'fresh')
 const exhausted = pickPlay(fixtures, { district: '长宁', mood: 'arts', seenIds: ['other-theme'], random: () => 0 })
 assert.strictEqual(exhausted.play.id, 'other-theme')

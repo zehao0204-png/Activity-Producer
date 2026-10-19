@@ -83,11 +83,17 @@
 }
 
 .district-section { margin-bottom: 34rpx; }
-.district-toggle { display: flex; justify-content: space-between; align-items: center; margin: 0; padding: 24rpx; background: #fffdf8; border: 2rpx solid #d8d1c5; border-radius: 20rpx; font-size: 26rpx; line-height: 1.4; font-weight: 700; }
+.district-toggle { display: flex; box-sizing: border-box; width: 100%; justify-content: space-between; align-items: center; margin: 0; padding: 24rpx; background: #fffdf8; border: 2rpx solid #d8d1c5; border-radius: 20rpx; font-size: 26rpx; line-height: 1.4; font-weight: 700; }
+.district-current { display: flex; align-items: center; flex: 1; min-width: 0; padding-right: 12rpx; text-align: left; }
 .district-pin { margin-right: 14rpx; color: #7b3f2c; font-size: 32rpx; }
-.district-toggle-label { color: #77736b; font-size: 22rpx; font-weight: 400; }
-.district-grid { display: flex; flex-wrap: wrap; margin: 16rpx -5rpx 0; }
-.district-chip { box-sizing: border-box; width: calc(25% - 10rpx); margin: 5rpx; padding: 18rpx 0; background: #fffdf8; border: 2rpx solid #d8d1c5; border-radius: 12rpx; font-size: 23rpx; line-height: 1.4; }
+.district-toggle-label { flex-shrink: 0; color: #77736b; font-size: 22rpx; font-weight: 400; }
+.district-grid { display: flex; flex-direction: column; width: 100%; margin-top: 16rpx; }
+.district-row { display: flex; flex-direction: row; width: 100%; margin-bottom: 12rpx; }
+.district-chip { display: flex; flex: 1; align-items: center; justify-content: center; box-sizing: border-box; width: 0; min-width: 0; height: 76rpx; margin: 0 12rpx 0 0; padding: 0 6rpx; background: #fffdf8; border: 2rpx solid #d8d1c5; border-radius: 12rpx; font-size: 23rpx; line-height: 1.4; }
+.district-chip:last-child { margin-right: 0; }
+.district-spacer { flex: 1; min-width: 0; }
+.district-check { margin-left: 6rpx; font-size: 20rpx; }
+.selection-check { margin-left: auto; padding-left: 8rpx; font-size: 20rpx; }
 .district-chip--active { background: #dce8cb; border-color: #34472d; color: #34472d; font-weight: 700; }
 .filter-summary { color: #625e57; font-size: 23rpx; line-height: 1.6; margin-top: 12rpx; }
 .empty-card { display: flex; flex-direction: column; padding: 36rpx; border: 2rpx dashed #b7ae9e; border-radius: 24rpx; color: #625e57; font-size: 26rpx; line-height: 1.7; }
