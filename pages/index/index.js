@@ -26,7 +26,6 @@ Page({
     districtsExpanded: false,
     moodDescription: '不设主题，留一点意外。',
     availableCount: 0,
-    catalogCount: 0,
     emptyMessage: '',
     play: null,
     reason: '',
@@ -106,7 +105,7 @@ Page({
       thrill: '第一次尝试：攀岩、滑雪、竞速与科学探索。', arts: '展览、作品、历史故事，认真看一点。',
       outdoors: '快走与户外运动，明确时长和运动目标。', night: '仅在夜间开放的街区、滨水空间与夜场。'
     }
-    this.setData({ availableCount, catalogCount: filterPlays(plays).length, moodDescription: descriptions[this.data.selectedMood],
+    this.setData({ availableCount, moodDescription: descriptions[this.data.selectedMood],
       emptyMessage: availableCount ? '' : '这里暂时没有这个主题的玩法。换个区域，或选择随机盲盒。' })
   },
 

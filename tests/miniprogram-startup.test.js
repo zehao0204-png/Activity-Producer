@@ -39,6 +39,6 @@ pages.forEach(page => {
   if (page.onLoad) page.onLoad()
   if (page.onShow) page.onShow()
 })
-assert.strictEqual(pages[0].data.catalogCount, 659)
+assert.strictEqual(pages[0].data.availableCount, 659)
 assert.ok(pages[0].data.districts.length === 17)
 console.log('JS-only client module loading and three-page startup checks passed')

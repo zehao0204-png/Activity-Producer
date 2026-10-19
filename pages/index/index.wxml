@@ -4,7 +4,6 @@
       <view class="eyebrow">WEEKEND UNBOXED</view>
       <view class="city-line">上海限定 · SHANGHAI</view>
     </view>
-    <view class="edition">{{catalogCount}} 个玩法</view>
   </view>
 
   <view class="hero">
@@ -57,7 +56,6 @@
       </view>
     </view>
     <view class="filter-summary">{{moodDescription}}</view>
-    <view class="filter-count">{{districtLabel}} · {{availableCount}} 个符合条件的玩法</view>
   </view>
 
   <view wx:if="{{emptyMessage}}" class="empty-card">
