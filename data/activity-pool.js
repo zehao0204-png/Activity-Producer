@@ -1,4 +1,4 @@
-const directory = require('./official-places.json')
+const directory = require('./official-places')
 const { places: existingPlaces } = require('./catalog')
 const CATALOG_VERSION = 2
 const rules = {

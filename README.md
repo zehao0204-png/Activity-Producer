@@ -35,6 +35,7 @@ node tests/app-state.test.js
 node tests/cloud-sync.test.js
 node tests/catalog.test.js
 node tests/filters.test.js
+node tests/miniprogram-startup.test.js
 node scripts/build-cloud-catalog.js --check
 ```
 
@@ -69,7 +70,7 @@ cloudfunctions    用户状态同步与活动目录函数
 
 这里的数量指“地点＋具体自助任务”，不是同数量的独立商家、实时场次或已经向每家电话确认的营业信息。同一公园可以有安静休息和快走训练两条不同任务；不生成不存在的限时展览、讲座或课程承诺。公园名录部分较早，目录核对日期不等于今天仍营业，出发前须确认；未取得坐标不填充行政区中心点。
 
-修改后运行 `node scripts/build-cloud-catalog.js` 生成云函数种子和旧版活动迁移清单。部署 `getPlays` 后首次调用会分批补充新数据、归档旧版混合主题活动。旧记录不删除，已采纳挑战与印章继续保留。首次初始化若超时可重试（已经导入的记录不会重复插入），建议云函数超时设置为60秒。
+修改后运行 `node scripts/build-cloud-catalog.js` 生成客户端可加载的 `data/official-places.js`、云函数种子和旧版活动迁移清单。JSON原始快照仅供构建脚本使用，客户端不可直接 `require` JSON。部署 `getPlays` 后首次调用会分批补充新数据、归档旧版混合主题活动。旧记录不删除，已采纳挑战与印章继续保留。首次初始化若超时可重试（已经导入的记录不会重复插入），建议云函数超时设置为60秒。
 
 旧版客户端继续收到兼容的100条旧目录，不会因新目录缺少部分坐标而中断地图功能。新版请求携带目录版本号，触发新版目录迁移；云函数和前端可分步部署。
 
