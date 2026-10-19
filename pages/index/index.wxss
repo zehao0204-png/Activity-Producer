@@ -114,11 +114,6 @@
   font-weight: 800;
 }
 
-.optional {
-  color: #8a857d;
-  font-size: 22rpx;
-}
-
 .mood-grid {
   display: flex;
   flex-direction: column;

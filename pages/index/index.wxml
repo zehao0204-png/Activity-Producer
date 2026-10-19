@@ -23,7 +23,6 @@
   <view class="district-section">
     <view class="mood-heading">
       <text class="section-label">这次去哪一区？</text>
-      <text class="optional">可多选 · 不选就是全上海</text>
     </view>
     <button class="district-toggle" bindtap="toggleDistricts" aria-expanded="{{districtsExpanded}}">
       <view class="district-current"><text class="district-pin">⌖</text><text>{{districtLabel}}</text></view>
@@ -42,7 +41,6 @@
   <view class="mood-section">
     <view class="mood-heading">
       <text class="section-label">今天想怎么玩？</text>
-      <text class="optional">可多选 · 不选就是随机</text>
     </view>
     <view class="mood-grid">
       <view class="mood-row" wx:for="{{moodRows}}" wx:key="id" wx:for-item="row">
