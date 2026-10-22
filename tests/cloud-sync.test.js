@@ -60,6 +60,9 @@ async function run() {
   const newPlay = catalog[0]
   app.catalog = [{ ...newPlay, catalogVersion: 1, moods: ['arts', 'healing'] }]
   assert.deepStrictEqual(app.getPlays().find(play => play.id === newPlay.id).moods, newPlay.moods)
+  const mapped = catalog.find(play => play.coordinateRevision)
+  app.catalog = [{ ...mapped, latitude: undefined, longitude: undefined, coordinateRevision: undefined }]
+  assert.strictEqual(app.getPlays().find(play => play.id === mapped.id).latitude, mapped.latitude)
 
   app.acceptChallenge('local-play')
   await app.flushCloudSync()

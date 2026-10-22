@@ -505,7 +505,14 @@
     "verifiedAt": "2026-10-19",
     "verificationScope": "官方地点和项目介绍；玩法为自助任务",
     "status": "published",
-    "recommendable": true
+    "recommendable": true,
+    "latitude": 31.098319,
+    "longitude": 121.213778,
+    "coordinateSystem": "wgs84",
+    "coordinateSourceUrl": "https://www.wikidata.org/entity/Q855246",
+    "coordinateCheckedAt": "2026-10-22",
+    "coordinateRevision": 20261022,
+    "coordinateNote": "公开地图中的场馆或景点点位；实际入口以现场指引为准"
   },
   {
     "id": "cur-joycity-night-v2-night",
@@ -582,7 +589,14 @@
     "verifiedAt": "2026-10-19",
     "verificationScope": "官方地点和项目介绍；玩法为自助任务",
     "status": "published",
-    "recommendable": true
+    "recommendable": true,
+    "latitude": 30.9214,
+    "longitude": 121.9017,
+    "coordinateSystem": "wgs84",
+    "coordinateSourceUrl": "https://www.wikidata.org/entity/Q127869507",
+    "coordinateCheckedAt": "2026-10-22",
+    "coordinateRevision": 20261022,
+    "coordinateNote": "公开地图中的场馆或景点点位；实际入口以现场指引为准"
   },
   {
     "id": "cur-lujiazui-night-v2-night",
@@ -1870,7 +1884,14 @@
     "verifiedAt": "2026-10-19",
     "verificationScope": "官方名录或官方介绍中的地点；玩法为自助任务",
     "status": "published",
-    "recommendable": true
+    "recommendable": true,
+    "latitude": 31.19132,
+    "longitude": 121.27314,
+    "coordinateSystem": "wgs84",
+    "coordinateSourceUrl": "https://www.wikidata.org/entity/Q61965427",
+    "coordinateCheckedAt": "2026-10-22",
+    "coordinateRevision": 20261022,
+    "coordinateNote": "公开地图中的场馆或景点点位；实际入口以现场指引为准"
   },
   {
     "id": "dir-09777a174894505b-v2-arts",
@@ -2544,7 +2565,14 @@
     "verifiedAt": "2026-10-19",
     "verificationScope": "官方名录或官方介绍中的地点；玩法为自助任务",
     "status": "published",
-    "recommendable": true
+    "recommendable": true,
+    "latitude": 31.133839,
+    "longitude": 121.758643,
+    "coordinateSystem": "wgs84",
+    "coordinateSourceUrl": "https://www.wikidata.org/entity/Q53377",
+    "coordinateCheckedAt": "2026-10-22",
+    "coordinateRevision": 20261022,
+    "coordinateNote": "公开地图中的场馆或景点点位；实际入口以现场指引为准"
   },
   {
     "id": "dir-133b60797bd78fd2-v2-arts",
@@ -3687,7 +3715,14 @@
     "verifiedAt": "2026-10-19",
     "verificationScope": "官方名录或官方介绍中的地点；玩法为自助任务",
     "status": "published",
-    "recommendable": true
+    "recommendable": true,
+    "latitude": 31.256863,
+    "longitude": 121.480377,
+    "coordinateSystem": "wgs84",
+    "coordinateSourceUrl": "https://www.wikidata.org/entity/Q55694010",
+    "coordinateCheckedAt": "2026-10-22",
+    "coordinateRevision": 20261022,
+    "coordinateNote": "公开地图中的场馆或景点点位；实际入口以现场指引为准"
   },
   {
     "id": "dir-1b94a83e218e1368-v2-healing",
@@ -3844,7 +3879,14 @@
     "verifiedAt": "2026-10-19",
     "verificationScope": "官方名录或官方介绍中的地点；玩法为自助任务",
     "status": "published",
-    "recommendable": true
+    "recommendable": true,
+    "latitude": 31.20035,
+    "longitude": 121.46379,
+    "coordinateSystem": "wgs84",
+    "coordinateSourceUrl": "https://www.wikidata.org/entity/Q10867747",
+    "coordinateCheckedAt": "2026-10-22",
+    "coordinateRevision": 20261022,
+    "coordinateNote": "公开地图中的场馆或景点点位；实际入口以现场指引为准"
   },
   {
     "id": "dir-1f102fd48e8e2ae6-v2-arts",
@@ -4626,7 +4668,14 @@
     "verifiedAt": "2026-10-19",
     "verificationScope": "官方名录或官方介绍中的地点；玩法为自助任务",
     "status": "published",
-    "recommendable": true
+    "recommendable": true,
+    "latitude": 31.24621,
+    "longitude": 121.48654,
+    "coordinateSystem": "wgs84",
+    "coordinateSourceUrl": "https://www.wikidata.org/entity/Q97346932",
+    "coordinateCheckedAt": "2026-10-22",
+    "coordinateRevision": 20261022,
+    "coordinateNote": "公开地图中的场馆或景点点位；实际入口以现场指引为准"
   },
   {
     "id": "dir-2ad05a844fb3536c-v2-healing",
@@ -5016,7 +5065,14 @@
     "verifiedAt": "2026-10-19",
     "verificationScope": "官方名录或官方介绍中的地点；玩法为自助任务",
     "status": "published",
-    "recommendable": true
+    "recommendable": true,
+    "latitude": 31.233368,
+    "longitude": 121.47048,
+    "coordinateSystem": "wgs84",
+    "coordinateSourceUrl": "https://www.wikidata.org/entity/Q713922",
+    "coordinateCheckedAt": "2026-10-22",
+    "coordinateRevision": 20261022,
+    "coordinateNote": "公开地图中的场馆或景点点位；实际入口以现场指引为准"
   },
   {
     "id": "dir-2c1278acb7593455-v2-arts",
@@ -5291,7 +5347,14 @@
     "verifiedAt": "2026-10-19",
     "verificationScope": "官方名录或官方介绍中的地点；玩法为自助任务",
     "status": "published",
-    "recommendable": true
+    "recommendable": true,
+    "latitude": 31.21271,
+    "longitude": 121.41005,
+    "coordinateSystem": "wgs84",
+    "coordinateSourceUrl": "https://www.wikidata.org/entity/Q130118507",
+    "coordinateCheckedAt": "2026-10-22",
+    "coordinateRevision": 20261022,
+    "coordinateNote": "公开地图中的场馆或景点点位；实际入口以现场指引为准"
   },
   {
     "id": "dir-2da877589b61336e-v2-thrill",
@@ -5330,7 +5393,14 @@
     "verifiedAt": "2026-10-19",
     "verificationScope": "官方名录或官方介绍中的地点；玩法为自助任务",
     "status": "published",
-    "recommendable": true
+    "recommendable": true,
+    "latitude": 31.220278,
+    "longitude": 121.537778,
+    "coordinateSystem": "wgs84",
+    "coordinateSourceUrl": "https://www.wikidata.org/entity/Q855376",
+    "coordinateCheckedAt": "2026-10-22",
+    "coordinateRevision": 20261022,
+    "coordinateNote": "公开地图中的场馆或景点点位；实际入口以现场指引为准"
   },
   {
     "id": "dir-2dfc071a061d6467-v2-healing",
@@ -6393,7 +6463,14 @@
     "verifiedAt": "2026-10-19",
     "verificationScope": "官方名录或官方介绍中的地点；玩法为自助任务",
     "status": "published",
-    "recommendable": true
+    "recommendable": true,
+    "latitude": 31.2233,
+    "longitude": 121.49501,
+    "coordinateSystem": "wgs84",
+    "coordinateSourceUrl": "https://www.wikidata.org/entity/Q10868102",
+    "coordinateCheckedAt": "2026-10-22",
+    "coordinateRevision": 20261022,
+    "coordinateNote": "公开地图中的场馆或景点点位；实际入口以现场指引为准"
   },
   {
     "id": "dir-3a0f32be1c41cb2c-v2-healing",
@@ -6628,7 +6705,14 @@
     "verifiedAt": "2026-10-19",
     "verificationScope": "官方名录或官方介绍中的地点；玩法为自助任务",
     "status": "published",
-    "recommendable": true
+    "recommendable": true,
+    "latitude": 31.173274,
+    "longitude": 121.458473,
+    "coordinateSystem": "wgs84",
+    "coordinateSourceUrl": "https://www.wikidata.org/entity/Q85852944",
+    "coordinateCheckedAt": "2026-10-22",
+    "coordinateRevision": 20261022,
+    "coordinateNote": "公开地图中的场馆或景点点位；实际入口以现场指引为准"
   },
   {
     "id": "dir-3d8c2d924a65dca5-v2-healing",
@@ -6980,7 +7064,14 @@
     "verifiedAt": "2026-10-19",
     "verificationScope": "官方名录或官方介绍中的地点；玩法为自助任务",
     "status": "published",
-    "recommendable": true
+    "recommendable": true,
+    "latitude": 31.4117365,
+    "longitude": 121.4904388,
+    "coordinateSystem": "wgs84",
+    "coordinateSourceUrl": "https://www.wikidata.org/entity/Q10867963",
+    "coordinateCheckedAt": "2026-10-22",
+    "coordinateRevision": 20261022,
+    "coordinateNote": "公开地图中的场馆或景点点位；实际入口以现场指引为准"
   },
   {
     "id": "dir-3f2d1ef260eda4ac-v2-arts",
@@ -7176,7 +7267,14 @@
     "verifiedAt": "2026-10-19",
     "verificationScope": "官方名录或官方介绍中的地点；玩法为自助任务",
     "status": "published",
-    "recommendable": true
+    "recommendable": true,
+    "latitude": 31.26352,
+    "longitude": 121.51412,
+    "coordinateSystem": "wgs84",
+    "coordinateSourceUrl": "https://www.wikidata.org/entity/Q10873908",
+    "coordinateCheckedAt": "2026-10-22",
+    "coordinateRevision": 20261022,
+    "coordinateNote": "公开地图中的场馆或景点点位；实际入口以现场指引为准"
   },
   {
     "id": "dir-40064aa4d00cf3cf-v2-healing",
@@ -7568,7 +7666,14 @@
     "verifiedAt": "2026-10-19",
     "verificationScope": "官方名录或官方介绍中的地点；玩法为自助任务",
     "status": "published",
-    "recommendable": true
+    "recommendable": true,
+    "latitude": 31.21841,
+    "longitude": 121.47182,
+    "coordinateSystem": "wgs84",
+    "coordinateSourceUrl": "https://www.wikidata.org/entity/Q10867907",
+    "coordinateCheckedAt": "2026-10-22",
+    "coordinateRevision": 20261022,
+    "coordinateNote": "公开地图中的场馆或景点点位；实际入口以现场指引为准"
   },
   {
     "id": "dir-4325cd42f81d59f2-v2-healing",
@@ -8431,7 +8536,14 @@
     "verifiedAt": "2026-10-19",
     "verificationScope": "官方名录或官方介绍中的地点；玩法为自助任务",
     "status": "published",
-    "recommendable": true
+    "recommendable": true,
+    "latitude": 31.196575,
+    "longitude": 121.477489,
+    "coordinateSystem": "wgs84",
+    "coordinateSourceUrl": "https://www.wikidata.org/entity/Q16858547",
+    "coordinateCheckedAt": "2026-10-22",
+    "coordinateRevision": 20261022,
+    "coordinateNote": "公开地图中的场馆或景点点位；实际入口以现场指引为准"
   },
   {
     "id": "dir-4b7e158f4d5f3234-v2-arts",
@@ -8470,7 +8582,14 @@
     "verifiedAt": "2026-10-19",
     "verificationScope": "官方名录或官方介绍中的地点；玩法为自助任务",
     "status": "published",
-    "recommendable": true
+    "recommendable": true,
+    "latitude": 31.228769444,
+    "longitude": 121.493194444,
+    "coordinateSystem": "wgs84",
+    "coordinateSourceUrl": "https://www.wikidata.org/entity/Q141280961",
+    "coordinateCheckedAt": "2026-10-22",
+    "coordinateRevision": 20261022,
+    "coordinateNote": "公开地图中的场馆或景点点位；实际入口以现场指引为准"
   },
   {
     "id": "dir-4b7e158f4d5f3234-v2-night",
@@ -8509,7 +8628,14 @@
     "verifiedAt": "2026-10-19",
     "verificationScope": "官方名录或官方介绍中的地点；玩法为自助任务",
     "status": "published",
-    "recommendable": true
+    "recommendable": true,
+    "latitude": 31.228769444,
+    "longitude": 121.493194444,
+    "coordinateSystem": "wgs84",
+    "coordinateSourceUrl": "https://www.wikidata.org/entity/Q141280961",
+    "coordinateCheckedAt": "2026-10-22",
+    "coordinateRevision": 20261022,
+    "coordinateNote": "公开地图中的场馆或景点点位；实际入口以现场指引为准"
   },
   {
     "id": "dir-4b89247b24cde383-v2-arts",
@@ -9057,7 +9183,14 @@
     "verifiedAt": "2026-10-19",
     "verificationScope": "官方名录或官方介绍中的地点；玩法为自助任务",
     "status": "published",
-    "recommendable": true
+    "recommendable": true,
+    "latitude": 31.21634,
+    "longitude": 121.46667,
+    "coordinateSystem": "wgs84",
+    "coordinateSourceUrl": "https://www.wikidata.org/entity/Q15930877",
+    "coordinateCheckedAt": "2026-10-22",
+    "coordinateRevision": 20261022,
+    "coordinateNote": "公开地图中的场馆或景点点位；实际入口以现场指引为准"
   },
   {
     "id": "dir-52bbc861b514aa16-v2-arts",
@@ -10081,7 +10214,14 @@
     "verifiedAt": "2026-10-19",
     "verificationScope": "官方名录或官方介绍中的地点；玩法为自助任务",
     "status": "published",
-    "recommendable": true
+    "recommendable": true,
+    "latitude": 31.19558,
+    "longitude": 121.45211,
+    "coordinateSystem": "wgs84",
+    "coordinateSourceUrl": "https://www.wikidata.org/entity/Q10867935",
+    "coordinateCheckedAt": "2026-10-22",
+    "coordinateRevision": 20261022,
+    "coordinateNote": "公开地图中的场馆或景点点位；实际入口以现场指引为准"
   },
   {
     "id": "dir-5d79a769ed3ed3f1-v2-healing",
@@ -12798,7 +12938,14 @@
     "verifiedAt": "2026-10-19",
     "verificationScope": "官方名录或官方介绍中的地点；玩法为自助任务",
     "status": "published",
-    "recommendable": true
+    "recommendable": true,
+    "latitude": 31.205891,
+    "longitude": 121.43405,
+    "coordinateSystem": "wgs84",
+    "coordinateSourceUrl": "https://www.wikidata.org/entity/Q4165412",
+    "coordinateCheckedAt": "2026-10-22",
+    "coordinateRevision": 20261022,
+    "coordinateNote": "公开地图中的场馆或景点点位；实际入口以现场指引为准"
   },
   {
     "id": "dir-7b7f7a486443ac09-v2-healing",
@@ -13425,7 +13572,14 @@
     "verifiedAt": "2026-10-19",
     "verificationScope": "官方名录或官方介绍中的地点；玩法为自助任务",
     "status": "published",
-    "recommendable": true
+    "recommendable": true,
+    "latitude": 30.89834,
+    "longitude": 121.91591,
+    "coordinateSystem": "wgs84",
+    "coordinateSourceUrl": "https://www.wikidata.org/entity/Q10874083",
+    "coordinateCheckedAt": "2026-10-22",
+    "coordinateRevision": 20261022,
+    "coordinateNote": "公开地图中的场馆或景点点位；实际入口以现场指引为准"
   },
   {
     "id": "dir-8044a34fe241fc97-v2-healing",
@@ -14761,7 +14915,14 @@
     "verifiedAt": "2026-10-19",
     "verificationScope": "官方名录或官方介绍中的地点；玩法为自助任务",
     "status": "published",
-    "recommendable": true
+    "recommendable": true,
+    "latitude": 31.24869,
+    "longitude": 121.44158,
+    "coordinateSystem": "wgs84",
+    "coordinateSourceUrl": "https://www.wikidata.org/entity/Q10868014",
+    "coordinateCheckedAt": "2026-10-22",
+    "coordinateRevision": 20261022,
+    "coordinateNote": "公开地图中的场馆或景点点位；实际入口以现场指引为准"
   },
   {
     "id": "dir-8d1c578f2706b85a-v2-healing",
@@ -16254,7 +16415,14 @@
     "verifiedAt": "2026-10-19",
     "verificationScope": "官方名录或官方介绍中的地点；玩法为自助任务",
     "status": "published",
-    "recommendable": true
+    "recommendable": true,
+    "latitude": 31.169515,
+    "longitude": 121.366325,
+    "coordinateSystem": "wgs84",
+    "coordinateSourceUrl": "https://www.wikidata.org/entity/Q22100477",
+    "coordinateCheckedAt": "2026-10-22",
+    "coordinateRevision": 20261022,
+    "coordinateNote": "公开地图中的场馆或景点点位；实际入口以现场指引为准"
   },
   {
     "id": "dir-a11a8a8e5030de44-v2-healing",
@@ -16529,7 +16697,14 @@
     "verifiedAt": "2026-10-19",
     "verificationScope": "官方名录或官方介绍中的地点；玩法为自助任务",
     "status": "published",
-    "recommendable": true
+    "recommendable": true,
+    "latitude": 31.24906,
+    "longitude": 121.43791,
+    "coordinateSystem": "wgs84",
+    "coordinateSourceUrl": "https://www.wikidata.org/entity/Q16928618",
+    "coordinateCheckedAt": "2026-10-22",
+    "coordinateRevision": 20261022,
+    "coordinateNote": "公开地图中的场馆或景点点位；实际入口以现场指引为准"
   },
   {
     "id": "dir-a39b7f500c3f0034-v2-arts",
@@ -17195,7 +17370,14 @@
     "verifiedAt": "2026-10-19",
     "verificationScope": "官方名录或官方介绍中的地点；玩法为自助任务",
     "status": "published",
-    "recommendable": true
+    "recommendable": true,
+    "latitude": 31.343784,
+    "longitude": 121.4701877,
+    "coordinateSystem": "wgs84",
+    "coordinateSourceUrl": "https://www.wikidata.org/entity/Q10867978",
+    "coordinateCheckedAt": "2026-10-22",
+    "coordinateRevision": 20261022,
+    "coordinateNote": "公开地图中的场馆或景点点位；实际入口以现场指引为准"
   },
   {
     "id": "dir-aacef29413fef93a-v2-arts",
@@ -17390,7 +17572,14 @@
     "verifiedAt": "2026-10-19",
     "verificationScope": "官方名录或官方介绍中的地点；玩法为自助任务",
     "status": "published",
-    "recommendable": true
+    "recommendable": true,
+    "latitude": 31.230278,
+    "longitude": 121.470556,
+    "coordinateSystem": "wgs84",
+    "coordinateSourceUrl": "https://www.wikidata.org/entity/Q1051293",
+    "coordinateCheckedAt": "2026-10-22",
+    "coordinateRevision": 20261022,
+    "coordinateNote": "公开地图中的场馆或景点点位；实际入口以现场指引为准"
   },
   {
     "id": "dir-ac1c6533b53654e1-v2-arts",
@@ -17625,7 +17814,14 @@
     "verifiedAt": "2026-10-19",
     "verificationScope": "官方名录或官方介绍中的地点；玩法为自助任务",
     "status": "published",
-    "recommendable": true
+    "recommendable": true,
+    "latitude": 31.18592,
+    "longitude": 121.46019,
+    "coordinateSystem": "wgs84",
+    "coordinateSourceUrl": "https://www.wikidata.org/entity/Q111896175",
+    "coordinateCheckedAt": "2026-10-22",
+    "coordinateRevision": 20261022,
+    "coordinateNote": "公开地图中的场馆或景点点位；实际入口以现场指引为准"
   },
   {
     "id": "dir-adf8f04336b55f27-v2-night",
@@ -17664,7 +17860,14 @@
     "verifiedAt": "2026-10-19",
     "verificationScope": "官方名录或官方介绍中的地点；玩法为自助任务",
     "status": "published",
-    "recommendable": true
+    "recommendable": true,
+    "latitude": 31.18592,
+    "longitude": 121.46019,
+    "coordinateSystem": "wgs84",
+    "coordinateSourceUrl": "https://www.wikidata.org/entity/Q111896175",
+    "coordinateCheckedAt": "2026-10-22",
+    "coordinateRevision": 20261022,
+    "coordinateNote": "公开地图中的场馆或景点点位；实际入口以现场指引为准"
   },
   {
     "id": "dir-ae8eae1c293ccc67-v2-arts",
@@ -18955,7 +19158,14 @@
     "verifiedAt": "2026-10-19",
     "verificationScope": "官方名录或官方介绍中的地点；玩法为自助任务",
     "status": "published",
-    "recommendable": true
+    "recommendable": true,
+    "latitude": 31.212219,
+    "longitude": 121.449901,
+    "coordinateSystem": "wgs84",
+    "coordinateSourceUrl": "https://www.wikidata.org/entity/Q15912151",
+    "coordinateCheckedAt": "2026-10-22",
+    "coordinateRevision": 20261022,
+    "coordinateNote": "公开地图中的场馆或景点点位；实际入口以现场指引为准"
   },
   {
     "id": "dir-bfa2c24970927c05-v2-healing",
@@ -19699,7 +19909,14 @@
     "verifiedAt": "2026-10-19",
     "verificationScope": "官方名录或官方介绍中的地点；玩法为自助任务",
     "status": "published",
-    "recommendable": true
+    "recommendable": true,
+    "latitude": 31.2695,
+    "longitude": 121.48366667,
+    "coordinateSystem": "wgs84",
+    "coordinateSourceUrl": "https://www.wikidata.org/entity/Q23180",
+    "coordinateCheckedAt": "2026-10-22",
+    "coordinateRevision": 20261022,
+    "coordinateNote": "公开地图中的场馆或景点点位；实际入口以现场指引为准"
   },
   {
     "id": "dir-c7df45004fcd64cd-v2-arts",
@@ -20955,7 +21172,14 @@
     "verifiedAt": "2026-10-19",
     "verificationScope": "官方名录或官方介绍中的地点；玩法为自助任务",
     "status": "published",
-    "recommendable": true
+    "recommendable": true,
+    "latitude": 31.222107,
+    "longitude": 121.534338,
+    "coordinateSystem": "wgs84",
+    "coordinateSourceUrl": "https://www.wikidata.org/entity/Q124211936",
+    "coordinateCheckedAt": "2026-10-22",
+    "coordinateRevision": 20261022,
+    "coordinateNote": "公开地图中的场馆或景点点位；实际入口以现场指引为准"
   },
   {
     "id": "dir-d07db619eb4891f0-v2-arts",
@@ -21072,7 +21296,14 @@
     "verifiedAt": "2026-10-19",
     "verificationScope": "官方名录或官方介绍中的地点；玩法为自助任务",
     "status": "published",
-    "recommendable": true
+    "recommendable": true,
+    "latitude": 31.26026,
+    "longitude": 121.50973,
+    "coordinateSystem": "wgs84",
+    "coordinateSourceUrl": "https://www.wikidata.org/entity/Q15951155",
+    "coordinateCheckedAt": "2026-10-22",
+    "coordinateRevision": 20261022,
+    "coordinateNote": "公开地图中的场馆或景点点位；实际入口以现场指引为准"
   },
   {
     "id": "dir-d193121e393a0fd9-v2-healing",
@@ -23982,7 +24213,14 @@
     "verifiedAt": "2026-10-19",
     "verificationScope": "官方名录或官方介绍中的地点；玩法为自助任务",
     "status": "published",
-    "recommendable": true
+    "recommendable": true,
+    "latitude": 31.2614733,
+    "longitude": 121.42565668,
+    "coordinateSystem": "wgs84",
+    "coordinateSourceUrl": "https://www.wikidata.org/entity/Q10867695",
+    "coordinateCheckedAt": "2026-10-22",
+    "coordinateRevision": 20261022,
+    "coordinateNote": "公开地图中的场馆或景点点位；实际入口以现场指引为准"
   },
   {
     "id": "dir-f74be7974f6885ca-v2-healing",
@@ -24452,7 +24690,14 @@
     "verifiedAt": "2026-10-19",
     "verificationScope": "官方名录或官方介绍中的地点；玩法为自助任务",
     "status": "published",
-    "recommendable": true
+    "recommendable": true,
+    "latitude": 31.008525,
+    "longitude": 121.241980555,
+    "coordinateSystem": "wgs84",
+    "coordinateSourceUrl": "https://www.wikidata.org/entity/Q11104668",
+    "coordinateCheckedAt": "2026-10-22",
+    "coordinateRevision": 20261022,
+    "coordinateNote": "公开地图中的场馆或景点点位；实际入口以现场指引为准"
   },
   {
     "id": "dir-faede17781869c11-v2-arts",
@@ -24883,7 +25128,14 @@
     "verifiedAt": "2026-10-19",
     "verificationScope": "官方名录或官方介绍中的地点；玩法为自助任务",
     "status": "published",
-    "recommendable": true
+    "recommendable": true,
+    "latitude": 31.29653,
+    "longitude": 121.52366,
+    "coordinateSystem": "wgs84",
+    "coordinateSourceUrl": "https://www.wikidata.org/entity/Q15122974",
+    "coordinateCheckedAt": "2026-10-22",
+    "coordinateRevision": 20261022,
+    "coordinateNote": "公开地图中的场馆或景点点位；实际入口以现场指引为准"
   },
   {
     "id": "dir-fef4ccc13709daa0-v2-healing",

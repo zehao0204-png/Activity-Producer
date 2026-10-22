@@ -76,6 +76,7 @@
         </view>
       </view>
 
+      <view wx:if="{{play.coordinateNote}}" class="safety-tip">{{play.coordinateNote}}</view>
       <view class="safety-tip">提示：{{play.tip}}</view>
     </view>
 

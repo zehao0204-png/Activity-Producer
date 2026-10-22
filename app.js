@@ -1,5 +1,6 @@
 const { applyFeedback } = require('./utils/recommend')
 const localPlays = require('./data/plays')
+const { withCoordinates } = require('./utils/coordinates')
 
 const STORAGE_KEY = 'weekend-unboxed-state-v1'
 const CATALOG_STORAGE_KEY = 'weekend-unboxed-catalog-v1'
@@ -34,7 +35,7 @@ App({
       return local && (local.status === 'legacy' || (local.catalogVersion || 0) > (play.catalogVersion || 0)) ? local : play
     })
     const cloudIds = new Set(merged.map(play => play.id))
-    return [...merged, ...localPlays.filter(play => !cloudIds.has(play.id))]
+    return [...merged, ...localPlays.filter(play => !cloudIds.has(play.id))].map(withCoordinates)
   },
 
   async syncCatalog() {

@@ -2,7 +2,8 @@ const PUBLIC_FIELDS = [
   'id', 'placeId', 'emoji', 'stamp', 'title', 'kicker', 'district', 'location', 'address',
   'latitude', 'longitude', 'coordinateSystem', 'duration', 'budget', 'bestTime', 'moods',
   'traits', 'mission', 'steps', 'tip', 'sourceTitle', 'sourceUrl', 'verifiedAt', 'status', 'recommendable',
-  'districts', 'catalogVersion', 'verificationScope', 'openingHours'
+  'districts', 'catalogVersion', 'verificationScope', 'openingHours',
+  'coordinateRevision', 'coordinateSourceUrl', 'coordinateCheckedAt', 'coordinateNote'
 ]
 
 function isValidPlay(play) {

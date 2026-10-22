@@ -13,6 +13,8 @@ const documents = new Map([
   [seed[0].id, { ...seed[0], _id: seed[0].id, catalogVersion: 1, moods: ['arts', 'healing'] }],
   ['custom-doc', custom]
 ])
+const coordinatePlay = seed.find(play => play.coordinateRevision)
+documents.set(coordinatePlay.id, { ...coordinatePlay, _id: coordinatePlay.id, latitude: undefined, longitude: undefined, coordinateRevision: undefined })
 let writes = 0
 let failOnce = true
 function query(offset = 0, limit = 100) {
@@ -49,6 +51,7 @@ async function run() {
   assert.strictEqual(new Set(result.plays.map(play => play.id)).size, result.plays.length)
   assert.strictEqual(documents.get('old-doc').status, 'legacy')
   assert.strictEqual(documents.get(seed[0].id).catalogVersion, 2)
+  assert.strictEqual(documents.get(coordinatePlay.id).latitude, coordinatePlay.latitude, 'existing v2 cloud records must gain newly reviewed coordinates')
   assert.strictEqual(result.plays.find(play => play.id === seed[0].id).moods.length, 1)
   assert.ok(result.plays.find(play => play.id === custom.id))
   const before = writes

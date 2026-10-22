@@ -1,0 +1,2900 @@
+[
+  {
+    "placeId": "dir-d344b3d965108d93",
+    "name": "黄炎培故居",
+    "address": "浦东新区新川路218号",
+    "district": "浦东",
+    "reason": "暂未找到可确认的公开坐标"
+  },
+  {
+    "placeId": "dir-bbb94d2c7d0debd5",
+    "name": "浦东历史博物馆",
+    "address": "浦东新区惠南镇文师街18号",
+    "district": "浦东",
+    "reason": "暂未找到可确认的公开坐标"
+  },
+  {
+    "placeId": "dir-a78124d3c20b1fb3",
+    "name": "高桥历史文化陈列馆",
+    "address": "浦东新区高桥镇义王路1号",
+    "district": "浦东",
+    "reason": "暂未找到可确认的公开坐标"
+  },
+  {
+    "placeId": "dir-ff611142b81589ea",
+    "name": "新场历史文化陈列馆",
+    "address": "浦东新区新场镇海泉街128号",
+    "district": "浦东",
+    "reason": "暂未找到可确认的公开坐标"
+  },
+  {
+    "placeId": "dir-3daf26b48065ec19",
+    "name": "上海吴昌硕纪念馆",
+    "address": "浦东新区陆家嘴东路15号",
+    "district": "浦东",
+    "reason": "暂未找到可确认的公开坐标"
+  },
+  {
+    "placeId": "dir-0149597e7150b65c",
+    "name": "上海美特斯邦威服饰博物馆",
+    "address": "浦东新区环桥路208号2号楼",
+    "district": "浦东",
+    "reason": "暂未找到可确认的公开坐标"
+  },
+  {
+    "placeId": "dir-ea9952eb878ddc48",
+    "name": "上海动漫博物馆",
+    "address": "浦东新区张江路69号",
+    "district": "浦东",
+    "reason": "暂未找到可确认的公开坐标"
+  },
+  {
+    "placeId": "dir-54eed4494411550b",
+    "name": "上海震旦博物馆",
+    "address": "浦东新区富城路99号",
+    "district": "浦东",
+    "reason": "暂未找到可确认的公开坐标"
+  },
+  {
+    "placeId": "dir-6867806108da1edb",
+    "name": "上海（中医药大学）中医药博物馆",
+    "address": "浦东新区蔡伦路1200号",
+    "district": "浦东",
+    "reason": "暂未找到可确认的公开坐标"
+  },
+  {
+    "placeId": "dir-d2353964199d903a",
+    "name": "上海东方地质博物馆",
+    "address": "浦东新区祝桥镇江镇路100号",
+    "district": "浦东",
+    "reason": "暂未找到可确认的公开坐标"
+  },
+  {
+    "placeId": "dir-27b9d149f5fc0447",
+    "name": "上海观复博物馆",
+    "address": "浦东新区银城中路501号上海中心大厦37层",
+    "district": "浦东",
+    "reason": "暂未找到可确认的公开坐标"
+  },
+  {
+    "placeId": "dir-a3a61a34fff780ff",
+    "name": "上海金刚博物馆",
+    "address": "浦东新区园顺路89号",
+    "district": "浦东",
+    "reason": "暂未找到可确认的公开坐标"
+  },
+  {
+    "placeId": "dir-6f24c51b644d0bcd",
+    "name": "上海有恒博物馆",
+    "address": "浦东新区浦东大道288号1楼",
+    "district": "浦东",
+    "reason": "暂未找到可确认的公开坐标"
+  },
+  {
+    "placeId": "dir-715b8ffc41182fab",
+    "name": "上海海派红木艺术博物馆",
+    "address": "浦东新区万灵路99号",
+    "district": "浦东",
+    "reason": "暂未找到可确认的公开坐标"
+  },
+  {
+    "placeId": "dir-accff4a9900ae9b1",
+    "name": "交通银行博物馆",
+    "address": "浦东新区银城中路188号47层",
+    "district": "浦东",
+    "reason": "暂未找到可确认的公开坐标"
+  },
+  {
+    "placeId": "dir-74dde30e96406e4c",
+    "name": "上海老相机摄影博物馆",
+    "address": "浦东新区五星路676弄39号",
+    "district": "浦东",
+    "reason": "暂未找到可确认的公开坐标"
+  },
+  {
+    "placeId": "dir-066804ba8a5d16d2",
+    "name": "上海火炬众创孵化博物馆",
+    "address": "浦东新区秀浦路2388号1号楼",
+    "district": "浦东",
+    "reason": "暂未找到可确认的公开坐标"
+  },
+  {
+    "placeId": "dir-464bd3cc8372a56c",
+    "name": "上海天文馆（上海科技馆分馆）",
+    "address": "浦东新区临港大道380号",
+    "district": "浦东",
+    "reason": "暂未找到可确认的公开坐标"
+  },
+  {
+    "placeId": "dir-2b87ab7f36f7c779",
+    "name": "上海宝库匠心博物馆",
+    "address": "浦东新区银城中路501号上海中心大厦38层",
+    "district": "浦东",
+    "reason": "暂未找到可确认的公开坐标"
+  },
+  {
+    "placeId": "dir-d287f9604531d27d",
+    "name": "上海双拥工作展览馆",
+    "address": "浦东新区浦东大道2601号",
+    "district": "浦东",
+    "reason": "暂未找到可确认的公开坐标"
+  },
+  {
+    "placeId": "dir-69ff2a6e7e1c0b77",
+    "name": "中共一大纪念馆",
+    "address": "黄浦区黄陂南路374号",
+    "district": "黄浦",
+    "reason": "暂未找到可确认的公开坐标"
+  },
+  {
+    "placeId": "dir-719a48e3894d356d",
+    "name": "上海市历史博物馆（上海革命历史博物馆）",
+    "address": "黄浦区南京西路325号",
+    "district": "黄浦",
+    "reason": "暂未找到可确认的公开坐标"
+  },
+  {
+    "placeId": "dir-ccb77a4f97866e97",
+    "name": "中共代表团驻沪办事处纪念馆（周公馆）",
+    "address": "黄浦区思南路73号",
+    "district": "黄浦",
+    "reason": "暂未找到可确认的公开坐标"
+  },
+  {
+    "placeId": "dir-17f1115342b38ce6",
+    "name": "中国社会主义青年团中央机关旧址纪念馆",
+    "address": "黄浦区淮海中路567弄1-6号",
+    "district": "黄浦",
+    "reason": "暂未找到可确认的公开坐标"
+  },
+  {
+    "placeId": "dir-d07db619eb4891f0",
+    "name": "上海豫园管理处",
+    "address": "黄浦区福佑路168号",
+    "district": "黄浦",
+    "reason": "暂未找到可确认的公开坐标"
+  },
+  {
+    "placeId": "dir-742f0865d0627eda",
+    "name": "上海三山会馆管理处",
+    "address": "黄浦区中山南路1551号",
+    "district": "黄浦",
+    "reason": "暂未找到可确认的公开坐标"
+  },
+  {
+    "placeId": "dir-329b7afee0630951",
+    "name": "上海孙中山故居纪念馆",
+    "address": "黄浦区香山路7号",
+    "district": "黄浦",
+    "reason": "暂未找到可确认的公开坐标"
+  },
+  {
+    "placeId": "dir-8881edea9005b773",
+    "name": "上海周虎臣曹素功笔墨博物馆",
+    "address": "黄浦区福州路429号",
+    "district": "黄浦",
+    "reason": "暂未找到可确认的公开坐标"
+  },
+  {
+    "placeId": "dir-ef982ed2d7be35be",
+    "name": "上海琉璃艺术博物馆",
+    "address": "黄浦区泰康路25号",
+    "district": "黄浦",
+    "reason": "暂未找到可确认的公开坐标"
+  },
+  {
+    "placeId": "dir-cb1a00d2f360d2f4",
+    "name": "上海电信博物馆",
+    "address": "黄浦区延安东路34号",
+    "district": "黄浦",
+    "reason": "暂未找到可确认的公开坐标"
+  },
+  {
+    "placeId": "dir-4cc2aeab274ec2cc",
+    "name": "上海民政博物馆",
+    "address": "黄浦区普育西路105号1号楼",
+    "district": "黄浦",
+    "reason": "暂未找到可确认的公开坐标"
+  },
+  {
+    "placeId": "dir-189ebe52be9b34f0",
+    "name": "上海市外滩历史纪念馆",
+    "address": "黄浦区中山东一路475号",
+    "district": "黄浦",
+    "reason": "暂未找到可确认的公开坐标"
+  },
+  {
+    "placeId": "dir-9587c39f919e7a57",
+    "name": "童涵春堂中药博物馆",
+    "address": "黄浦区豫园新路20号3楼（豫园商城内）",
+    "district": "黄浦",
+    "reason": "暂未找到可确认的公开坐标"
+  },
+  {
+    "placeId": "dir-cadc737d3d201a3a",
+    "name": "大韩民国临时政府旧址管理处",
+    "address": "黄浦区马当路306弄4号",
+    "district": "黄浦",
+    "reason": "暂未找到可确认的公开坐标"
+  },
+  {
+    "placeId": "dir-c99d6ea4babc160a",
+    "name": "国际乒联博物馆（中国乒乓球博物馆）",
+    "address": "黄浦区局门路796号",
+    "district": "黄浦",
+    "reason": "暂未找到可确认的公开坐标"
+  },
+  {
+    "placeId": "dir-76f452f80a4af19d",
+    "name": "上海体育博物馆",
+    "address": "黄浦区南京西路150号",
+    "district": "黄浦",
+    "reason": "暂未找到可确认的公开坐标"
+  },
+  {
+    "placeId": "dir-7a744be7c1477d8d",
+    "name": "中国劳动组合书记部旧址陈列馆",
+    "address": "静安区成都北路893弄1-11号",
+    "district": "静安",
+    "reason": "暂未找到可确认的公开坐标"
+  },
+  {
+    "placeId": "dir-7ca3efd509e0068b",
+    "name": "上海毛泽东旧居陈列馆",
+    "address": "静安区茂名北路120弄",
+    "district": "静安",
+    "reason": "暂未找到可确认的公开坐标"
+  },
+  {
+    "placeId": "dir-8157f8f0aa68d656",
+    "name": "上海蔡元培故居陈列馆",
+    "address": "静安区华山路303弄16号",
+    "district": "静安",
+    "reason": "暂未找到可确认的公开坐标"
+  },
+  {
+    "placeId": "dir-120414586213d99d",
+    "name": "中共上海地下组织斗争史陈列馆暨刘长胜故居",
+    "address": "静安区愚园路81号",
+    "district": "静安",
+    "reason": "暂未找到可确认的公开坐标"
+  },
+  {
+    "placeId": "dir-532c8a73b8f2b36b",
+    "name": "中共二大会址纪念馆",
+    "address": "静安区老成都北路7弄30号",
+    "district": "静安",
+    "reason": "暂未找到可确认的公开坐标"
+  },
+  {
+    "placeId": "dir-7d8b84e561b2525a",
+    "name": "上海自然博物馆（上海科技馆分馆）",
+    "address": "静安区北京西路510号",
+    "district": "静安",
+    "reason": "暂未找到可确认的公开坐标"
+  },
+  {
+    "placeId": "dir-1c4409edd9085069",
+    "name": "中共三大后中央局机关历史纪念馆",
+    "address": "静安区浙江北路118号",
+    "district": "静安",
+    "reason": "暂未找到可确认的公开坐标"
+  },
+  {
+    "placeId": "dir-4c0e7a50e5d83020",
+    "name": "中共淞浦特委机关旧址陈列馆",
+    "address": "静安区山海关路339号（静安雕塑公园北侧）",
+    "district": "静安",
+    "reason": "暂未找到可确认的公开坐标"
+  },
+  {
+    "placeId": "dir-2bed7e53d0147aa8",
+    "name": "元利当铺旧址博物馆",
+    "address": "静安区武定路203号",
+    "district": "静安",
+    "reason": "暂未找到可确认的公开坐标"
+  },
+  {
+    "placeId": "dir-7102adb82f87fd88",
+    "name": "上海铁路博物馆",
+    "address": "静安区天目东路200号",
+    "district": "静安",
+    "reason": "暂未找到可确认的公开坐标"
+  },
+  {
+    "placeId": "dir-d25c92ce57cf9ff5",
+    "name": "上海眼镜博物馆",
+    "address": "静安区宝昌路533号",
+    "district": "静安",
+    "reason": "暂未找到可确认的公开坐标"
+  },
+  {
+    "placeId": "dir-a8ea9c836aaa6f05",
+    "name": "上海四行仓库抗战纪念馆",
+    "address": "静安区光复路21号",
+    "district": "静安",
+    "reason": "暂未找到可确认的公开坐标"
+  },
+  {
+    "placeId": "dir-0cb677aa3d152944",
+    "name": "上海棋牌文化博物馆",
+    "address": "静安区南京西路595号上海棋院1楼",
+    "district": "静安",
+    "reason": "暂未找到可确认的公开坐标"
+  },
+  {
+    "placeId": "dir-2fb1d456e0d201b3",
+    "name": "上海印刷字体展示馆",
+    "address": "静安区新闸路1209弄60号",
+    "district": "静安",
+    "reason": "暂未找到可确认的公开坐标"
+  },
+  {
+    "placeId": "dir-c6f8d82985959fe6",
+    "name": "上海寰宇铃铛博物馆",
+    "address": "静安区西康路538号1幢2楼",
+    "district": "静安",
+    "reason": "暂未找到可确认的公开坐标"
+  },
+  {
+    "placeId": "dir-74787814a3d90b4d",
+    "name": "中共中央秘书处机关旧址纪念馆",
+    "address": "静安区江宁路673弄10号",
+    "district": "静安",
+    "reason": "暂未找到可确认的公开坐标"
+  },
+  {
+    "placeId": "dir-a7b2b7cf0890db42",
+    "name": "中共中央军委机关旧址纪念馆",
+    "address": "静安区新闸路613弄12号",
+    "district": "静安",
+    "reason": "暂未找到可确认的公开坐标"
+  },
+  {
+    "placeId": "dir-404ad3189921bcc9",
+    "name": "中央特科机关旧址纪念馆",
+    "address": "静安区武定路930弄14号",
+    "district": "静安",
+    "reason": "暂未找到可确认的公开坐标"
+  },
+  {
+    "placeId": "dir-713d352de7670687",
+    "name": "黄道婆纪念馆",
+    "address": "徐汇区徐梅路700号",
+    "district": "徐汇",
+    "reason": "暂未找到可确认的公开坐标"
+  },
+  {
+    "placeId": "dir-ae8eae1c293ccc67",
+    "name": "徐光启纪念馆",
+    "address": "徐汇区南丹路17号",
+    "district": "徐汇",
+    "reason": "暂未找到可确认的公开坐标"
+  },
+  {
+    "placeId": "dir-99333c37c4050700",
+    "name": "上海土山湾博物馆",
+    "address": "徐汇区蒲汇塘路55号",
+    "district": "徐汇",
+    "reason": "暂未找到可确认的公开坐标"
+  },
+  {
+    "placeId": "dir-c7df45004fcd64cd",
+    "name": "上海市龙华烈士纪念馆",
+    "address": "徐汇区龙华西路180号",
+    "district": "徐汇",
+    "reason": "暂未找到可确认的公开坐标"
+  },
+  {
+    "placeId": "dir-b49345558c7b3b11",
+    "name": "上海师范大学博物馆",
+    "address": "徐汇区桂林路100号东部校区艺苑楼一楼",
+    "district": "徐汇",
+    "reason": "暂未找到可确认的公开坐标"
+  },
+  {
+    "placeId": "dir-ce57ac46c1618580",
+    "name": "上海音乐学院东方乐器博物馆",
+    "address": "徐汇区淮海中路1189号",
+    "district": "徐汇",
+    "reason": "暂未找到可确认的公开坐标"
+  },
+  {
+    "placeId": "dir-4ad23aaef3ecf3c4",
+    "name": "上海交通大学校史博物馆",
+    "address": "徐汇区华山路1954号",
+    "district": "徐汇",
+    "reason": "暂未找到可确认的公开坐标"
+  },
+  {
+    "placeId": "dir-ff524190a9878640",
+    "name": "上海交通大学董浩云航运博物馆",
+    "address": "徐汇区华山路1954号",
+    "district": "徐汇",
+    "reason": "暂未找到可确认的公开坐标"
+  },
+  {
+    "placeId": "dir-b7807ca10e1fda5c",
+    "name": "钱学森图书馆",
+    "address": "徐汇区华山路1800号",
+    "district": "徐汇",
+    "reason": "暂未找到可确认的公开坐标"
+  },
+  {
+    "placeId": "dir-c161e7b024f843fd",
+    "name": "上海电影博物馆",
+    "address": "徐汇区漕溪北路595号A座1至4楼",
+    "district": "徐汇",
+    "reason": "暂未找到可确认的公开坐标"
+  },
+  {
+    "placeId": "dir-ea7ff7fc361a8907",
+    "name": "上海无线电博物馆",
+    "address": "徐汇区田林路200号B幢1楼",
+    "district": "徐汇",
+    "reason": "暂未找到可确认的公开坐标"
+  },
+  {
+    "placeId": "dir-5e79d14185ca1242",
+    "name": "衡复风貌博物馆群",
+    "address": "徐汇区衡复风貌馆（复兴西路62号）夏衍旧居（乌鲁木齐南路178号2号楼）、草婴书房（乌鲁木齐南路178号3号楼）、张乐平故居（五原路288弄3号）、柯灵故居（复兴西路147号）、衡复艺术中心（乌鲁木齐南路178号1号楼）",
+    "district": "徐汇",
+    "reason": "暂未找到可确认的公开坐标"
+  },
+  {
+    "placeId": "dir-e328298ffd50541d",
+    "name": "上海气象博物馆",
+    "address": "徐汇区蒲西路166号",
+    "district": "徐汇",
+    "reason": "暂未找到可确认的公开坐标"
+  },
+  {
+    "placeId": "dir-77b14486203759b9",
+    "name": "上海品牌博物馆",
+    "address": "徐汇区漕宝路650号1号楼2楼",
+    "district": "徐汇",
+    "reason": "暂未找到可确认的公开坐标"
+  },
+  {
+    "placeId": "dir-472570e0da365e79",
+    "name": "《义勇军进行曲》灌制地纪念馆 （百代小楼）",
+    "address": "徐汇区衡山路811号",
+    "district": "徐汇",
+    "reason": "暂未找到可确认的公开坐标"
+  },
+  {
+    "placeId": "dir-08202d37021455f1",
+    "name": "上海市长宁区革命文物陈列馆",
+    "address": "长宁区愚园路1376弄34号",
+    "district": "长宁",
+    "reason": "暂未找到可确认的公开坐标"
+  },
+  {
+    "placeId": "dir-c271db58ef50f248",
+    "name": "上海儿童博物馆",
+    "address": "长宁区宋园路61号",
+    "district": "长宁",
+    "reason": "暂未找到可确认的公开坐标"
+  },
+  {
+    "placeId": "dir-0837e7150a226b08",
+    "name": "宋庆龄生平事迹陈列馆",
+    "address": "长宁区宋园路21号",
+    "district": "长宁",
+    "reason": "暂未找到可确认的公开坐标"
+  },
+  {
+    "placeId": "dir-363bcd38bb33f125",
+    "name": "上海消防博物馆",
+    "address": "长宁区中山西路229号",
+    "district": "长宁",
+    "reason": "暂未找到可确认的公开坐标"
+  },
+  {
+    "placeId": "dir-321aea7e1da778db",
+    "name": "上海（东华大学）纺织服饰博物馆",
+    "address": "长宁区延安西路1882号",
+    "district": "长宁",
+    "reason": "暂未找到可确认的公开坐标"
+  },
+  {
+    "placeId": "dir-bd5b456d97e4ada6",
+    "name": "上海凝聚力工程博物馆",
+    "address": "长宁区长宁路878号",
+    "district": "长宁",
+    "reason": "暂未找到可确认的公开坐标"
+  },
+  {
+    "placeId": "dir-02fa3e469d89a3b2",
+    "name": "上海广播博物馆",
+    "address": "长宁区虹桥路1376号广播大厦",
+    "district": "长宁",
+    "reason": "暂未找到可确认的公开坐标"
+  },
+  {
+    "placeId": "dir-426210938c48a5a4",
+    "name": "上海对外经贸大学博物馆",
+    "address": "长宁区古北路620号",
+    "district": "长宁",
+    "reason": "暂未找到可确认的公开坐标"
+  },
+  {
+    "placeId": "dir-0194222b4c7c8b3d",
+    "name": "苏州河工业文明展示馆",
+    "address": "普陀区光复西路2690号",
+    "district": "普陀",
+    "reason": "暂未找到可确认的公开坐标"
+  },
+  {
+    "placeId": "dir-a39b7f500c3f0034",
+    "name": "华东师范大学博物馆",
+    "address": "普陀区中山北路3663号",
+    "district": "普陀",
+    "reason": "暂未找到可确认的公开坐标"
+  },
+  {
+    "placeId": "dir-0f88eb19ef65595a",
+    "name": "沪西工人半日学校史料陈列馆",
+    "address": "普陀区西苏州路1037号",
+    "district": "普陀",
+    "reason": "暂未找到可确认的公开坐标"
+  },
+  {
+    "placeId": "dir-de626787e70b0e75",
+    "name": "上海泰迪之家泰迪熊博物馆",
+    "address": "普陀区泸定路46弄3号2层",
+    "district": "普陀",
+    "reason": "暂未找到可确认的公开坐标"
+  },
+  {
+    "placeId": "dir-a1d2d9fce275beda",
+    "name": "左联会址纪念馆",
+    "address": "虹口区多伦路201弄2号",
+    "district": "虹口",
+    "reason": "暂未找到可确认的公开坐标"
+  },
+  {
+    "placeId": "dir-a781f003d7e02850",
+    "name": "李白烈士故居",
+    "address": "虹口区黄渡路107弄15号",
+    "district": "虹口",
+    "reason": "暂未找到可确认的公开坐标"
+  },
+  {
+    "placeId": "dir-e3224134a641f344",
+    "name": "沈尹默故居",
+    "address": "虹口区海伦路504号",
+    "district": "虹口",
+    "reason": "暂未找到可确认的公开坐标"
+  },
+  {
+    "placeId": "dir-90da5b28fccbd1ce",
+    "name": "上海犹太难民纪念馆",
+    "address": "虹口区长阳路62号",
+    "district": "虹口",
+    "reason": "暂未找到可确认的公开坐标"
+  },
+  {
+    "placeId": "dir-b1791ccf6d19c897",
+    "name": "复旦大学博物馆",
+    "address": "杨浦区邯郸路220号",
+    "district": "杨浦",
+    "reason": "暂未找到可确认的公开坐标"
+  },
+  {
+    "placeId": "dir-bd175a102b962367",
+    "name": "上海理工大学印刷博物馆",
+    "address": "杨浦区水丰路100号",
+    "district": "杨浦",
+    "reason": "暂未找到可确认的公开坐标"
+  },
+  {
+    "placeId": "dir-3df41d5515591825",
+    "name": "上海海洋大学博物馆",
+    "address": "杨浦区军工路318号",
+    "district": "杨浦",
+    "reason": "暂未找到可确认的公开坐标"
+  },
+  {
+    "placeId": "dir-4f9e356c24b96503",
+    "name": "上海体育大学武术博物馆",
+    "address": "杨浦区长海路399号",
+    "district": "杨浦",
+    "reason": "暂未找到可确认的公开坐标"
+  },
+  {
+    "placeId": "dir-7f28bff870fa3183",
+    "name": "上海财经大学商学博物馆",
+    "address": "杨浦区国定路777号",
+    "district": "杨浦",
+    "reason": "暂未找到可确认的公开坐标"
+  },
+  {
+    "placeId": "dir-9333bc1dd9f3fdab",
+    "name": "同济大学博物馆",
+    "address": "杨浦区四平路1239号同济大学一&middot;二九大楼",
+    "district": "杨浦",
+    "reason": "暂未找到可确认的公开坐标"
+  },
+  {
+    "placeId": "dir-448444d581cf4d80",
+    "name": "中国近现代新闻出版博物馆",
+    "address": "杨浦区周家嘴路3678号",
+    "district": "杨浦",
+    "reason": "暂未找到可确认的公开坐标"
+  },
+  {
+    "placeId": "dir-fcae12fa675b8c42",
+    "name": "上海世界技能博物馆",
+    "address": "杨浦区杨树浦路1578号",
+    "district": "杨浦",
+    "reason": "暂未找到可确认的公开坐标"
+  },
+  {
+    "placeId": "dir-7ed1925a39637bf5",
+    "name": "上海陈化成纪念馆",
+    "address": "宝山区友谊路1号",
+    "district": "宝山",
+    "reason": "暂未找到可确认的公开坐标"
+  },
+  {
+    "placeId": "dir-b758d61b339c3717",
+    "name": "上海市陶行知纪念馆",
+    "address": "宝山区武威东路76号",
+    "district": "宝山",
+    "reason": "暂未找到可确认的公开坐标"
+  },
+  {
+    "placeId": "dir-82cb39a91787cb82",
+    "name": "上海解放纪念馆",
+    "address": "宝山区宝杨路599号",
+    "district": "宝山",
+    "reason": "暂未找到可确认的公开坐标"
+  },
+  {
+    "placeId": "dir-3f80c7479851e711",
+    "name": "南京路上好八连事迹陈列馆",
+    "address": "宝山区上大路55号",
+    "district": "宝山",
+    "reason": "暂未找到可确认的公开坐标"
+  },
+  {
+    "placeId": "dir-ad1ef2f1d0360615",
+    "name": "上海大学博物馆（海派文化博物馆）",
+    "address": "宝山区上大路99号（南陈路333号）",
+    "district": "宝山",
+    "reason": "暂未找到可确认的公开坐标"
+  },
+  {
+    "placeId": "dir-905a6604baaed71b",
+    "name": "上海中国工业设计博物馆",
+    "address": "宝山区逸仙路3000号3号楼二层",
+    "district": "宝山",
+    "reason": "暂未找到可确认的公开坐标"
+  },
+  {
+    "placeId": "dir-e7224d1a7debffc2",
+    "name": "上海尊木汇木文化博物馆",
+    "address": "宝山区沪太路2751号",
+    "district": "宝山",
+    "reason": "暂未找到可确认的公开坐标"
+  },
+  {
+    "placeId": "dir-83523d8deac9cd9f",
+    "name": "上海智慧湾增材制造文化博物馆",
+    "address": "宝山区蕰川路6号",
+    "district": "宝山",
+    "reason": "暂未找到可确认的公开坐标"
+  },
+  {
+    "placeId": "dir-c898af120654c412",
+    "name": "上海百诺巧克力博物馆",
+    "address": "宝山区锦秋路117号",
+    "district": "宝山",
+    "reason": "暂未找到可确认的公开坐标"
+  },
+  {
+    "placeId": "dir-e6e960b81c16db4a",
+    "name": "上海杨明洁工业设计博物馆",
+    "address": "宝山区长江路258号中成智谷C8栋",
+    "district": "宝山",
+    "reason": "暂未找到可确认的公开坐标"
+  },
+  {
+    "placeId": "dir-5366b13ac62e4afb",
+    "name": "闵行区博物馆",
+    "address": "闵行区新镇路1538号",
+    "district": "闵行",
+    "reason": "暂未找到可确认的公开坐标"
+  },
+  {
+    "placeId": "dir-3a8470526608cedb",
+    "name": "张充仁纪念馆",
+    "address": "闵行区七宝古镇蒲溪广场75号",
+    "district": "闵行",
+    "reason": "暂未找到可确认的公开坐标"
+  },
+  {
+    "placeId": "dir-47845deb9ce45f8e",
+    "name": "上海民族乐器博物馆",
+    "address": "闵行区七宝镇联明路400号",
+    "district": "闵行",
+    "reason": "暂未找到可确认的公开坐标"
+  },
+  {
+    "placeId": "dir-b1141f75992507d3",
+    "name": "上海航宇科普中心",
+    "address": "闵行区沪闵路7900号",
+    "district": "闵行",
+    "reason": "暂未找到可确认的公开坐标"
+  },
+  {
+    "placeId": "dir-e87670800f227788",
+    "name": "上海观止矿晶博物馆",
+    "address": "闵行区先锋街66号阿拉城26幢一、二层",
+    "district": "闵行",
+    "reason": "暂未找到可确认的公开坐标"
+  },
+  {
+    "placeId": "dir-ef091e587e88a4e0",
+    "name": "上海翰林匾额博物馆",
+    "address": "闵行区虹许路731号8号楼1楼",
+    "district": "闵行",
+    "reason": "暂未找到可确认的公开坐标"
+  },
+  {
+    "placeId": "dir-73a7a7d495752b24",
+    "name": "上海交通大学博物馆",
+    "address": "闵行区东川路800号文博楼",
+    "district": "闵行",
+    "reason": "暂未找到可确认的公开坐标"
+  },
+  {
+    "placeId": "dir-2c1278acb7593455",
+    "name": "上海乳业博物馆",
+    "address": "闵行区万源路2729号",
+    "district": "闵行",
+    "reason": "暂未找到可确认的公开坐标"
+  },
+  {
+    "placeId": "dir-d3ccae63bdb6f49b",
+    "name": "嘉定博物馆",
+    "address": "嘉定区博乐路215号",
+    "district": "嘉定",
+    "reason": "历史别名或入口需人工复核"
+  },
+  {
+    "placeId": "dir-161d64989948857b",
+    "name": "嘉定竹刻博物馆",
+    "address": "嘉定区南大街321号",
+    "district": "嘉定",
+    "reason": "暂未找到可确认的公开坐标"
+  },
+  {
+    "placeId": "dir-ab6b98537781ae6b",
+    "name": "顾维钧生平陈列馆",
+    "address": "嘉定区南大街349号",
+    "district": "嘉定",
+    "reason": "暂未找到可确认的公开坐标"
+  },
+  {
+    "placeId": "dir-e1fc9fa0bcf2cd99",
+    "name": "上海汽车博物馆",
+    "address": "嘉定区博园路7565号",
+    "district": "嘉定",
+    "reason": "暂未找到可确认的公开坐标"
+  },
+  {
+    "placeId": "dir-813efdec6e393f1c",
+    "name": "四海壶具博物馆",
+    "address": "嘉定区曹安公路1978号百佛园",
+    "district": "嘉定",
+    "reason": "暂未找到可确认的公开坐标"
+  },
+  {
+    "placeId": "dir-875f0348b44c1673",
+    "name": "上海翥云艺术博物馆",
+    "address": "嘉定区新源路1375号",
+    "district": "嘉定",
+    "reason": "暂未找到可确认的公开坐标"
+  },
+  {
+    "placeId": "dir-ed4f5529f766f20d",
+    "name": "上海大来时间博物馆",
+    "address": "嘉定区和静路981号",
+    "district": "嘉定",
+    "reason": "暂未找到可确认的公开坐标"
+  },
+  {
+    "placeId": "dir-89d0cdd966af46dd",
+    "name": "上海海纳吴觉农茶文化博物馆",
+    "address": "嘉定区曹安公路1978号1号楼103室",
+    "district": "嘉定",
+    "reason": "暂未找到可确认的公开坐标"
+  },
+  {
+    "placeId": "dir-54bf64dc6841fcf9",
+    "name": "金山区博物馆",
+    "address": "金山区金山大道1800号",
+    "district": "金山",
+    "reason": "暂未找到可确认的公开坐标"
+  },
+  {
+    "placeId": "dir-3b84aa607346ceba",
+    "name": "上海南社纪念馆",
+    "address": "金山区张堰镇新建路130号",
+    "district": "金山",
+    "reason": "暂未找到可确认的公开坐标"
+  },
+  {
+    "placeId": "dir-91a8e8e84f6be003",
+    "name": "上海市沧海盐田盐文化博物馆",
+    "address": "金山区漕泾镇蒋庄路2067号",
+    "district": "金山",
+    "reason": "暂未找到可确认的公开坐标"
+  },
+  {
+    "placeId": "dir-421cd5668aaf0f21",
+    "name": "上海中国留学生博物馆",
+    "address": "松江区茸梅路1177弄7号",
+    "district": "松江",
+    "reason": "暂未找到可确认的公开坐标"
+  },
+  {
+    "placeId": "dir-139da929ebea6767",
+    "name": "上海天文博物馆",
+    "address": "松江区西佘山顶",
+    "district": "松江",
+    "reason": "历史别名或入口需人工复核"
+  },
+  {
+    "placeId": "dir-34e1f4172a2895b6",
+    "name": "上海立信会计学院中国会计博物馆",
+    "address": "松江区文翔路2800号",
+    "district": "松江",
+    "reason": "暂未找到可确认的公开坐标"
+  },
+  {
+    "placeId": "dir-2c64e5df4b1517b3",
+    "name": "上海国际酒文化博物馆",
+    "address": "松江区佘天昆公路辰山植物园内（辰山植物园3号门）",
+    "district": "松江",
+    "reason": "暂未找到可确认的公开坐标"
+  },
+  {
+    "placeId": "dir-e4f53e4e96155db6",
+    "name": "董其昌书画艺术博物馆",
+    "address": "松江区人民南路64号",
+    "district": "松江",
+    "reason": "暂未找到可确认的公开坐标"
+  },
+  {
+    "placeId": "dir-c8e6b274d6276922",
+    "name": "上海外国语大学语言博物馆",
+    "address": "松江区文翔路1550号",
+    "district": "松江",
+    "reason": "暂未找到可确认的公开坐标"
+  },
+  {
+    "placeId": "dir-40e812158dce6b7f",
+    "name": "上海来伊份零食博物馆",
+    "address": "松江区九新公路855号",
+    "district": "松江",
+    "reason": "暂未找到可确认的公开坐标"
+  },
+  {
+    "placeId": "dir-71b61e83e1dc6694",
+    "name": "青浦区博物馆",
+    "address": "青浦区华青南路1000号",
+    "district": "青浦",
+    "reason": "暂未找到可确认的公开坐标"
+  },
+  {
+    "placeId": "dir-c21fb58e74ae859d",
+    "name": "陈云纪念馆",
+    "address": "青浦区练塘镇老朱枫公路3516号",
+    "district": "青浦",
+    "reason": "暂未找到可确认的公开坐标"
+  },
+  {
+    "placeId": "dir-f096e2a4a312cd7f",
+    "name": "上海福寿园人文纪念馆",
+    "address": "青浦区外青松公路7270弄600号",
+    "district": "青浦",
+    "reason": "暂未找到可确认的公开坐标"
+  },
+  {
+    "placeId": "dir-5593c84250e266ce",
+    "name": "上海市青浦区任屯血防陈列馆",
+    "address": "青浦区金泽镇任屯村111号",
+    "district": "青浦",
+    "reason": "暂未找到可确认的公开坐标"
+  },
+  {
+    "placeId": "dir-029cb2f6e1d25945",
+    "name": "上海崧泽遗址博物馆",
+    "address": "青浦区沪青平公路3993号",
+    "district": "青浦",
+    "reason": "暂未找到可确认的公开坐标"
+  },
+  {
+    "placeId": "dir-437268745a48b818",
+    "name": "上海中华印刷博物馆",
+    "address": "青浦区汇金路889号",
+    "district": "青浦",
+    "reason": "暂未找到可确认的公开坐标"
+  },
+  {
+    "placeId": "dir-87794fae113ef5fd",
+    "name": "上海红十字历史文化陈列馆",
+    "address": "青浦区赵重公路135号",
+    "district": "青浦",
+    "reason": "暂未找到可确认的公开坐标"
+  },
+  {
+    "placeId": "dir-011ad4cbc37b67ca",
+    "name": "奉贤区博物馆",
+    "address": "奉贤区湖畔路333号",
+    "district": "奉贤",
+    "reason": "暂未找到可确认的公开坐标"
+  },
+  {
+    "placeId": "dir-cb811864ad247e56",
+    "name": "上海知青博物馆",
+    "address": "奉贤区海乐路200号",
+    "district": "奉贤",
+    "reason": "暂未找到可确认的公开坐标"
+  },
+  {
+    "placeId": "dir-c9eada70207b785b",
+    "name": "上海农垦博物馆",
+    "address": "奉贤区海湾镇随塘河路1677号",
+    "district": "奉贤",
+    "reason": "暂未找到可确认的公开坐标"
+  },
+  {
+    "placeId": "dir-b5210f4fa49d82c8",
+    "name": "上海真静传统木作博物馆",
+    "address": "奉贤区南桥镇南桥路839号",
+    "district": "奉贤",
+    "reason": "暂未找到可确认的公开坐标"
+  },
+  {
+    "placeId": "dir-3acd4b48178065b7",
+    "name": "上海电线电缆博物馆",
+    "address": "奉贤区青村镇青伟路233号2-3楼",
+    "district": "奉贤",
+    "reason": "暂未找到可确认的公开坐标"
+  },
+  {
+    "placeId": "dir-d6dd249714c552c4",
+    "name": "崇明区博物馆",
+    "address": "崇明区城桥镇鳌山路696号",
+    "district": "崇明",
+    "reason": "暂未找到可确认的公开坐标"
+  },
+  {
+    "placeId": "dir-a4aa1027d6c5429e",
+    "name": "上海崇明向化灶文化博物馆",
+    "address": "崇明区向化镇向中路91号",
+    "district": "崇明",
+    "reason": "暂未找到可确认的公开坐标"
+  },
+  {
+    "placeId": "dir-48b4832fb60c47dc",
+    "name": "上海崇明竖新抗日战争博物馆",
+    "address": "崇明区前竖公路2773号三楼",
+    "district": "崇明",
+    "reason": "暂未找到可确认的公开坐标"
+  },
+  {
+    "placeId": "dir-ac1c6533b53654e1",
+    "name": "江南造船展示馆",
+    "address": "崇明区长兴岛长兴江南大道988号",
+    "district": "崇明",
+    "reason": "暂未找到可确认的公开坐标"
+  },
+  {
+    "placeId": "dir-49b009d185542501",
+    "name": "上海浦东碧云美术馆",
+    "address": "浦东新区红枫路135号",
+    "district": "浦东",
+    "reason": "暂未找到可确认的公开坐标"
+  },
+  {
+    "placeId": "dir-8ab49f9eac3137d5",
+    "name": "海派连环画艺术馆",
+    "address": "浦东新区川沙路1058号",
+    "district": "浦东",
+    "reason": "暂未找到可确认的公开坐标"
+  },
+  {
+    "placeId": "dir-c8ec1f20a9c6f498",
+    "name": "上海王狮美术馆",
+    "address": "浦东新区潍坊路328号",
+    "district": "浦东",
+    "reason": "暂未找到可确认的公开坐标"
+  },
+  {
+    "placeId": "dir-b240fa9e913377a2",
+    "name": "浦东云间美术馆",
+    "address": "浦东新区世纪大道100号29楼",
+    "district": "浦东",
+    "reason": "暂未找到可确认的公开坐标"
+  },
+  {
+    "placeId": "dir-2e018bb608d04ba0",
+    "name": "周浦美术馆",
+    "address": "浦东新区周浦镇周邓路6851号",
+    "district": "浦东",
+    "reason": "暂未找到可确认的公开坐标"
+  },
+  {
+    "placeId": "dir-22feb63732060423",
+    "name": "上海浦东林隐美术馆",
+    "address": "浦东新区祝桥镇江镇西街71号3幢",
+    "district": "浦东",
+    "reason": "暂未找到可确认的公开坐标"
+  },
+  {
+    "placeId": "dir-052f2c2a431d037c",
+    "name": "上海浦东新区库伯美术馆",
+    "address": "浦东新区沈梅路123弄57号",
+    "district": "浦东",
+    "reason": "暂未找到可确认的公开坐标"
+  },
+  {
+    "placeId": "dir-7e752b5424b06f62",
+    "name": "上海昊美术馆",
+    "address": "浦东新区祖冲之路2277弄1号",
+    "district": "浦东",
+    "reason": "暂未找到可确认的公开坐标"
+  },
+  {
+    "placeId": "dir-c53f3a7a476b1802",
+    "name": "上海浦东新区联明美术馆",
+    "address": "浦东新区民唐路202号2幢",
+    "district": "浦东",
+    "reason": "暂未找到可确认的公开坐标"
+  },
+  {
+    "placeId": "dir-349e1674f9f02820",
+    "name": "上海浦东新区叁柒贰叁美术馆",
+    "address": "浦东新区银城路66号2层206单元、207a单元、207b单元、208单元。",
+    "district": "浦东",
+    "reason": "暂未找到可确认的公开坐标"
+  },
+  {
+    "placeId": "dir-913e6f505fd67bc3",
+    "name": "上海浦东新区越婷惠美术馆",
+    "address": "浦东新区陈春路109号一楼106B-1-2铺与115A铺",
+    "district": "浦东",
+    "reason": "暂未找到可确认的公开坐标"
+  },
+  {
+    "placeId": "dir-a2a15d4f42c9e1fe",
+    "name": "上海久事美术馆",
+    "address": "黄浦区中山东一路27号6层、黄浦区中山东一路18号2层、黄浦区北京东路230号1层",
+    "district": "黄浦",
+    "reason": "暂未找到可确认的公开坐标"
+  },
+  {
+    "placeId": "dir-897d95cce6518bf3",
+    "name": "春美术馆",
+    "address": "黄浦区福州路655号2楼",
+    "district": "黄浦",
+    "reason": "暂未找到可确认的公开坐标"
+  },
+  {
+    "placeId": "dir-f91e33d13268480c",
+    "name": "胡问遂艺术馆",
+    "address": "黄浦区福佑路199号",
+    "district": "黄浦",
+    "reason": "暂未找到可确认的公开坐标"
+  },
+  {
+    "placeId": "dir-4c51cd9823abb06d",
+    "name": "上海驰翰美术馆",
+    "address": "黄浦区西藏南路765号1503室",
+    "district": "黄浦",
+    "reason": "暂未找到可确认的公开坐标"
+  },
+  {
+    "placeId": "dir-a73568d907631644",
+    "name": "上海民生现代美术馆",
+    "address": "黄浦区威海路48号5-6F",
+    "district": "黄浦",
+    "reason": "暂未找到可确认的公开坐标"
+  },
+  {
+    "placeId": "dir-9e016f09397be069",
+    "name": "chi K11美术馆",
+    "address": "黄浦区淮海中路300号B3",
+    "district": "黄浦",
+    "reason": "暂未找到可确认的公开坐标"
+  },
+  {
+    "placeId": "dir-bb3535aa7ce0ad74",
+    "name": "华山艺术馆",
+    "address": "静安区延安中路955弄、巨鹿路700号",
+    "district": "静安",
+    "reason": "暂未找到可确认的公开坐标"
+  },
+  {
+    "placeId": "dir-613ae9f8d662eda2",
+    "name": "明当代美术馆",
+    "address": "静安区永和东路436号",
+    "district": "静安",
+    "reason": "暂未找到可确认的公开坐标"
+  },
+  {
+    "placeId": "dir-800b409730014d50",
+    "name": "心象艺术馆",
+    "address": "静安区汶水路40号宏慧视界BOX一号库2号楼",
+    "district": "静安",
+    "reason": "暂未找到可确认的公开坐标"
+  },
+  {
+    "placeId": "dir-79503e9a6f6e028c",
+    "name": "上海静安毕加索艺术馆",
+    "address": "静安区北京西路1394号",
+    "district": "静安",
+    "reason": "暂未找到可确认的公开坐标"
+  },
+  {
+    "placeId": "dir-de59979833455609",
+    "name": "上海静安大风堂美术馆",
+    "address": "静安区恒丰北路100号26楼",
+    "district": "静安",
+    "reason": "暂未找到可确认的公开坐标"
+  },
+  {
+    "placeId": "dir-d4e16376f972f14b",
+    "name": "上海大学美术馆",
+    "address": "静安区延长路149号",
+    "district": "静安",
+    "reason": "暂未找到可确认的公开坐标"
+  },
+  {
+    "placeId": "dir-fe12fc0424fa88ea",
+    "name": "Fotografiska 影像艺术中心",
+    "address": "静安区光复路127号",
+    "district": "静安",
+    "reason": "暂未找到可确认的公开坐标"
+  },
+  {
+    "placeId": "dir-c8844b386bc7ee23",
+    "name": "上海中国画院美术馆",
+    "address": "徐汇区岳阳路197号",
+    "district": "徐汇",
+    "reason": "暂未找到可确认的公开坐标"
+  },
+  {
+    "placeId": "dir-620c1a9375f00dec",
+    "name": "上海市徐汇区艺术馆",
+    "address": "徐汇区淮海中路1413号",
+    "district": "徐汇",
+    "reason": "暂未找到可确认的公开坐标"
+  },
+  {
+    "placeId": "dir-563efe6260ce6b3a",
+    "name": "上海油罐艺术中心",
+    "address": "徐汇区龙腾大道2380号",
+    "district": "徐汇",
+    "reason": "暂未找到可确认的公开坐标"
+  },
+  {
+    "placeId": "dir-a6e901396b84bb25",
+    "name": "START星美术馆",
+    "address": "徐汇区瑞宁路111号",
+    "district": "徐汇",
+    "reason": "暂未找到可确认的公开坐标"
+  },
+  {
+    "placeId": "dir-2b0313d279edc9c5",
+    "name": "上海明圆美术馆",
+    "address": "徐汇区复兴中路1199号A座B1层",
+    "district": "徐汇",
+    "reason": "暂未找到可确认的公开坐标"
+  },
+  {
+    "placeId": "dir-5f1fe3dfec0c4ff5",
+    "name": "上海徐汇区九点水美术馆",
+    "address": "徐汇区桂林路406号",
+    "district": "徐汇",
+    "reason": "暂未找到可确认的公开坐标"
+  },
+  {
+    "placeId": "dir-538a1e8c4df3a885",
+    "name": "上海油画雕塑院美术馆",
+    "address": "长宁区金珠路111号",
+    "district": "长宁",
+    "reason": "暂未找到可确认的公开坐标"
+  },
+  {
+    "placeId": "dir-ab7bf87febee6d28",
+    "name": "上海虹桥当代美术馆",
+    "address": "长宁区仙霞路650号",
+    "district": "长宁",
+    "reason": "暂未找到可确认的公开坐标"
+  },
+  {
+    "placeId": "dir-ca6041ca755d08c5",
+    "name": "上海正好美术馆",
+    "address": "长宁区番禺路300弄7号3幢",
+    "district": "长宁",
+    "reason": "暂未找到可确认的公开坐标"
+  },
+  {
+    "placeId": "dir-1f102fd48e8e2ae6",
+    "name": "上海杨培明宣传画收藏艺术馆",
+    "address": "长宁区延安西路726号7楼K座",
+    "district": "长宁",
+    "reason": "暂未找到可确认的公开坐标"
+  },
+  {
+    "placeId": "dir-faede17781869c11",
+    "name": "上海长宁华萃当代美术馆",
+    "address": "长宁区长宁路1978号",
+    "district": "长宁",
+    "reason": "暂未找到可确认的公开坐标"
+  },
+  {
+    "placeId": "dir-d16006e9537a6755",
+    "name": "上海长宁王小慧艺术馆",
+    "address": "长宁区威宁路369号",
+    "district": "长宁",
+    "reason": "暂未找到可确认的公开坐标"
+  },
+  {
+    "placeId": "dir-ca8d001464bd182b",
+    "name": "刘海粟美术馆(分馆)",
+    "address": "普陀区铜川路1869号",
+    "district": "普陀",
+    "reason": "暂未找到可确认的公开坐标"
+  },
+  {
+    "placeId": "dir-79064f7dfb60b243",
+    "name": "上海苏宁艺术馆",
+    "address": "普陀区丹巴路99号C3座",
+    "district": "普陀",
+    "reason": "暂未找到可确认的公开坐标"
+  },
+  {
+    "placeId": "dir-2587495b6727bce2",
+    "name": "上海虹口青藤美术馆",
+    "address": "虹口区同心路1号3幢3109室",
+    "district": "虹口",
+    "reason": "暂未找到可确认的公开坐标"
+  },
+  {
+    "placeId": "dir-5ea58a840b3d3d69",
+    "name": "趣看美术馆",
+    "address": "虹口区四川北路939号1613单元",
+    "district": "虹口",
+    "reason": "暂未找到可确认的公开坐标"
+  },
+  {
+    "placeId": "dir-c4a5dbb638779db6",
+    "name": "敦煌当代美术馆",
+    "address": "杨浦区长阳路1687号",
+    "district": "杨浦",
+    "reason": "暂未找到可确认的公开坐标"
+  },
+  {
+    "placeId": "dir-27c1f8023c2ddf42",
+    "name": "鸿一美术馆",
+    "address": "杨浦区黄兴路1818号11F",
+    "district": "杨浦",
+    "reason": "暂未找到可确认的公开坐标"
+  },
+  {
+    "placeId": "dir-69045c8bcc7ee5df",
+    "name": "刘小晴艺术馆",
+    "address": "杨浦区惠民路379弄9、11号",
+    "district": "杨浦",
+    "reason": "暂未找到可确认的公开坐标"
+  },
+  {
+    "placeId": "dir-fd27a8284c481940",
+    "name": "上海美术学院美术馆",
+    "address": "宝山区上大路路99号",
+    "district": "宝山",
+    "reason": "暂未找到可确认的公开坐标"
+  },
+  {
+    "placeId": "dir-fd0b576d4e8d8c4e",
+    "name": "上海湫光美术馆",
+    "address": "宝山区罗新东路800号5幢1、2楼",
+    "district": "宝山",
+    "reason": "暂未找到可确认的公开坐标"
+  },
+  {
+    "placeId": "dir-64249f17105d9973",
+    "name": "上海宝山区龙现代美术馆",
+    "address": "宝山区黄海路888号",
+    "district": "宝山",
+    "reason": "暂未找到可确认的公开坐标"
+  },
+  {
+    "placeId": "dir-4b89247b24cde383",
+    "name": "上海交通大学 程及美术馆",
+    "address": "闵行区东川路800号",
+    "district": "闵行",
+    "reason": "暂未找到可确认的公开坐标"
+  },
+  {
+    "placeId": "dir-4ec51bc115170191",
+    "name": "上海海派艺术馆",
+    "address": "闵行区新镇路1536号",
+    "district": "闵行",
+    "reason": "暂未找到可确认的公开坐标"
+  },
+  {
+    "placeId": "dir-a52f1c7e21872e80",
+    "name": "蔡兵美术馆",
+    "address": "闵行区伟业路881号",
+    "district": "闵行",
+    "reason": "暂未找到可确认的公开坐标"
+  },
+  {
+    "placeId": "dir-29cdbf4e1cbe2e9f",
+    "name": "上海宝龙美术馆",
+    "address": "闵行区漕宝路3055号",
+    "district": "闵行",
+    "reason": "暂未找到可确认的公开坐标"
+  },
+  {
+    "placeId": "dir-3ef5b5c881230482",
+    "name": "上海明珠美术馆",
+    "address": "闵行区区吴中路路1588号",
+    "district": "闵行",
+    "reason": "暂未找到可确认的公开坐标"
+  },
+  {
+    "placeId": "dir-4d9dbabf0c277799",
+    "name": "上海闵行区美博美术馆",
+    "address": "闵行区黎明路88号",
+    "district": "闵行",
+    "reason": "暂未找到可确认的公开坐标"
+  },
+  {
+    "placeId": "dir-4a9d430641a92328",
+    "name": "上海半岛美术馆",
+    "address": "闵行区澄建路600号",
+    "district": "闵行",
+    "reason": "暂未找到可确认的公开坐标"
+  },
+  {
+    "placeId": "dir-8eb9d5223ac95fc9",
+    "name": "中闵虹桥美术馆",
+    "address": "闵行区华漕镇申长北路156号",
+    "district": "闵行",
+    "reason": "暂未找到可确认的公开坐标"
+  },
+  {
+    "placeId": "dir-69a6c5dbc8226a50",
+    "name": "上海金臣亦飞鸣美术馆",
+    "address": "闵行区甬虹路88号",
+    "district": "闵行",
+    "reason": "暂未找到可确认的公开坐标"
+  },
+  {
+    "placeId": "dir-483de158ea5b969c",
+    "name": "陆俨少艺术院",
+    "address": "嘉定区东大街358号",
+    "district": "嘉定",
+    "reason": "暂未找到可确认的公开坐标"
+  },
+  {
+    "placeId": "dir-78139e45f6cc93ea",
+    "name": "上海韩天衡美术馆",
+    "address": "嘉定区博乐路70号",
+    "district": "嘉定",
+    "reason": "暂未找到可确认的公开坐标"
+  },
+  {
+    "placeId": "dir-291717cc6c1cad3e",
+    "name": "上海秦古美术馆",
+    "address": "嘉定区曹安公路2888号",
+    "district": "嘉定",
+    "reason": "暂未找到可确认的公开坐标"
+  },
+  {
+    "placeId": "dir-829dc10074ca44e3",
+    "name": "泰美术馆",
+    "address": "嘉定区曹安公路4058号艺河湾艺术区",
+    "district": "嘉定",
+    "reason": "暂未找到可确认的公开坐标"
+  },
+  {
+    "placeId": "dir-418bad77215ec398",
+    "name": "上海嘉定区北虹桥美术馆",
+    "address": "嘉定区江桥镇景域大道88号13幢",
+    "district": "嘉定",
+    "reason": "暂未找到可确认的公开坐标"
+  },
+  {
+    "placeId": "dir-af17d51d254060d7",
+    "name": "嘉源海美术馆",
+    "address": "嘉定区大治路39号",
+    "district": "嘉定",
+    "reason": "暂未找到可确认的公开坐标"
+  },
+  {
+    "placeId": "dir-55a031caf61407f3",
+    "name": "上海嘉定十方画院",
+    "address": "嘉定区南翔镇解放街230号檀园内(西南门)",
+    "district": "嘉定",
+    "reason": "暂未找到可确认的公开坐标"
+  },
+  {
+    "placeId": "dir-99dc5d83dc3915c9",
+    "name": "丁聪美术馆",
+    "address": "金山区枫泾镇青枫街49号",
+    "district": "金山",
+    "reason": "暂未找到可确认的公开坐标"
+  },
+  {
+    "placeId": "dir-647e689fe5f81a1c",
+    "name": "上海金山区海鸥美术馆",
+    "address": "金山区卫清西路55号2楼",
+    "district": "金山",
+    "reason": "暂未找到可确认的公开坐标"
+  },
+  {
+    "placeId": "dir-d1b4094b8894a467",
+    "name": "云间会堂美术馆",
+    "address": "松江区人民南路6弄69号、人民南路26号",
+    "district": "松江",
+    "reason": "暂未找到可确认的公开坐标"
+  },
+  {
+    "placeId": "dir-dc0c65477968a55d",
+    "name": "程十发艺术馆",
+    "address": "松江区中山中路458号",
+    "district": "松江",
+    "reason": "暂未找到可确认的公开坐标"
+  },
+  {
+    "placeId": "dir-8869b1d40443ade4",
+    "name": "松江美术馆",
+    "address": "松江区三新北路900弄601号",
+    "district": "松江",
+    "reason": "暂未找到可确认的公开坐标"
+  },
+  {
+    "placeId": "dir-52bbc861b514aa16",
+    "name": "上海松江云间美术馆",
+    "address": "松江区秀南街106号",
+    "district": "松江",
+    "reason": "暂未找到可确认的公开坐标"
+  },
+  {
+    "placeId": "dir-09777a174894505b",
+    "name": "上海艺术百代美术馆",
+    "address": "松江区王家厍路885弄云堡未来市艺术文创园区3号楼",
+    "district": "松江",
+    "reason": "暂未找到可确认的公开坐标"
+  },
+  {
+    "placeId": "dir-3374ea44ae3709da",
+    "name": "上海YOUNG美术馆",
+    "address": "松江区三新北路900弄910号",
+    "district": "松江",
+    "reason": "暂未找到可确认的公开坐标"
+  },
+  {
+    "placeId": "dir-33378a5864813046",
+    "name": "上海松江清控人居美术馆",
+    "address": "松江区新桥镇新腾路9号1幢1层108室",
+    "district": "松江",
+    "reason": "暂未找到可确认的公开坐标"
+  },
+  {
+    "placeId": "dir-5945d625b4807a13",
+    "name": "上海松江区新桥美术馆",
+    "address": "松江区泗砖南路255弄193号",
+    "district": "松江",
+    "reason": "暂未找到可确认的公开坐标"
+  },
+  {
+    "placeId": "dir-b31539e6a386843e",
+    "name": "上海松江区贤禾美术馆",
+    "address": "松江区泗泾镇开江东路173号",
+    "district": "松江",
+    "reason": "暂未找到可确认的公开坐标"
+  },
+  {
+    "placeId": "dir-139c8d1563b0795a",
+    "name": "上海松江云间少儿美术馆",
+    "address": "松江区人民北路1503号二层",
+    "district": "松江",
+    "reason": "暂未找到可确认的公开坐标"
+  },
+  {
+    "placeId": "dir-78c82fd2352fef96",
+    "name": "上海国稷美术馆",
+    "address": "松江区泗泾镇泗陈公路 3388 弄 16 号",
+    "district": "松江",
+    "reason": "暂未找到可确认的公开坐标"
+  },
+  {
+    "placeId": "dir-2301a7f58171b094",
+    "name": "洙桥美术馆",
+    "address": "松江区洙桥村696号",
+    "district": "松江",
+    "reason": "暂未找到可确认的公开坐标"
+  },
+  {
+    "placeId": "dir-27fe451864fb5248",
+    "name": "上海市鹤龙美术馆",
+    "address": "青浦区夏阳街道轻松路361号、青浦区朱家角镇北大街222号",
+    "district": "青浦",
+    "reason": "暂未找到可确认的公开坐标"
+  },
+  {
+    "placeId": "dir-88c85e03e84f4a16",
+    "name": "上海青浦青渚美术馆",
+    "address": "青浦区北青公路7203号",
+    "district": "青浦",
+    "reason": "暂未找到可确认的公开坐标"
+  },
+  {
+    "placeId": "dir-3f2d1ef260eda4ac",
+    "name": "上海青浦区金夜美术馆",
+    "address": "青浦区徐泾镇汇龙路168号",
+    "district": "青浦",
+    "reason": "暂未找到可确认的公开坐标"
+  },
+  {
+    "placeId": "dir-aacef29413fef93a",
+    "name": "上海青浦区练塘可的美术馆",
+    "address": "青浦区练塘镇金前村金田路428号",
+    "district": "青浦",
+    "reason": "暂未找到可确认的公开坐标"
+  },
+  {
+    "placeId": "dir-7ca3d4156ca1ce85",
+    "name": "上海吴宜恩美术馆",
+    "address": "奉贤区海湾旅游区海马路5818号",
+    "district": "奉贤",
+    "reason": "暂未找到可确认的公开坐标"
+  },
+  {
+    "placeId": "dir-aafb37daa069ec5d",
+    "name": "崇明美术馆",
+    "address": "崇明区崇明大道7897号",
+    "district": "崇明",
+    "reason": "暂未找到可确认的公开坐标"
+  },
+  {
+    "placeId": "dir-2ae3ecc889d81e94",
+    "name": "彭浦新村公园",
+    "address": "静安区共康三村内（长临路200弄内）",
+    "district": "静安",
+    "reason": "暂未找到可确认的公开坐标"
+  },
+  {
+    "placeId": "dir-d69631dbe082c79e",
+    "name": "永和公园",
+    "address": "静安区原平路702号（汶水路、原平路东北角）",
+    "district": "静安",
+    "reason": "暂未找到可确认的公开坐标"
+  },
+  {
+    "placeId": "dir-e7247b86efdad969",
+    "name": "仓河绿地",
+    "address": "金山区龙皓路以南、瑞芝路以西、卫山河以东、金卫仓河以北",
+    "district": "金山",
+    "reason": "暂未找到可确认的公开坐标"
+  },
+  {
+    "placeId": "dir-11ee2a9f8faf4e84",
+    "name": "新城公园",
+    "address": "金山区海芙路369号",
+    "district": "金山",
+    "reason": "暂未找到可确认的公开坐标"
+  },
+  {
+    "placeId": "dir-b5dc79ee6bc1226e",
+    "name": "山龙绿地",
+    "address": "金山区卫零路、山龙街、板桥路、龙凯街围合处",
+    "district": "金山",
+    "reason": "暂未找到可确认的公开坐标"
+  },
+  {
+    "placeId": "dir-ca9bc1b9a3806099",
+    "name": "南门广场绿地",
+    "address": "崇明区北至南门路，东至八一路，西至南门支路，南至南门支路",
+    "district": "崇明",
+    "reason": "暂未找到可确认的公开坐标"
+  },
+  {
+    "placeId": "dir-c9e3bce3517d6fe0",
+    "name": "生态走廊（二期）",
+    "address": "杨浦区殷行路以南，政悦路以西",
+    "district": "杨浦",
+    "reason": "暂未找到可确认的公开坐标"
+  },
+  {
+    "placeId": "dir-1820bdbb15f760bc",
+    "name": "唐字塔街心花园",
+    "address": "杨浦区源泉路148号",
+    "district": "杨浦",
+    "reason": "暂未找到可确认的公开坐标"
+  },
+  {
+    "placeId": "dir-7930f808002b84af",
+    "name": "联杨小游园",
+    "address": "宝山区罗和路、美丹路丁字路口",
+    "district": "宝山",
+    "reason": "暂未找到可确认的公开坐标"
+  },
+  {
+    "placeId": "dir-6889779ee29c66de",
+    "name": "美平路小游园",
+    "address": "宝山区美平路、罗南路东南角",
+    "district": "宝山",
+    "reason": "暂未找到可确认的公开坐标"
+  },
+  {
+    "placeId": "dir-4325cd42f81d59f2",
+    "name": "康文小游园",
+    "address": "宝山区康文路东侧（场北路——花园宅路）",
+    "district": "宝山",
+    "reason": "暂未找到可确认的公开坐标"
+  },
+  {
+    "placeId": "dir-14dc6abbf25e79af",
+    "name": "盘古公园（一期）",
+    "address": "宝山区东至铁峰路、南至盘古路、西至铁山路、北至湄浦河",
+    "district": "宝山",
+    "reason": "暂未找到可确认的公开坐标"
+  },
+  {
+    "placeId": "dir-b025c012c5f29593",
+    "name": "南大公园",
+    "address": "宝山区西临外环线、南临走马塘、北临丰翔路",
+    "district": "宝山",
+    "reason": "暂未找到可确认的公开坐标"
+  },
+  {
+    "placeId": "dir-5d79a769ed3ed3f1",
+    "name": "临平绿地",
+    "address": "虹口区临平北路101号",
+    "district": "虹口",
+    "reason": "暂未找到可确认的公开坐标"
+  },
+  {
+    "placeId": "dir-9b31be6a1d413e0a",
+    "name": "白马咖啡馆绿地",
+    "address": "虹口区长阳路67号",
+    "district": "虹口",
+    "reason": "暂未找到可确认的公开坐标"
+  },
+  {
+    "placeId": "dir-185e4b68dc21adf2",
+    "name": "青年艺术公园",
+    "address": "奉贤区上海之鱼东侧，东至金汇港、南至秀竹路、西至湖畔路",
+    "district": "奉贤",
+    "reason": "暂未找到可确认的公开坐标"
+  },
+  {
+    "placeId": "dir-2bf7fed8a01b51e7",
+    "name": "上海之鱼雕塑公园",
+    "address": "奉贤区湖畔路北侧，东邻“在水一方”公共建筑，北至湖心岛公园",
+    "district": "奉贤",
+    "reason": "暂未找到可确认的公开坐标"
+  },
+  {
+    "placeId": "dir-775aa1eec9769be9",
+    "name": "金汇达令港公园",
+    "address": "奉贤区沿达令港及金汇支河两侧区域，东至浦星公路、南至齐尉路、西至金闸公路、北至汇中河",
+    "district": "奉贤",
+    "reason": "暂未找到可确认的公开坐标"
+  },
+  {
+    "placeId": "dir-986fddfaebef05c7",
+    "name": "正阳中央景观公园",
+    "address": "奉贤区南桥镇易初莲花东侧，南奉公路南侧",
+    "district": "奉贤",
+    "reason": "暂未找到可确认的公开坐标"
+  },
+  {
+    "placeId": "dir-73667bd4640cb4a3",
+    "name": "浦南运河北岸公园",
+    "address": "奉贤区浦南运河北岸，远东路到望园路段",
+    "district": "奉贤",
+    "reason": "暂未找到可确认的公开坐标"
+  },
+  {
+    "placeId": "dir-bb87a8fc21221443",
+    "name": "丁香公园",
+    "address": "松江区文翔路、三新路西北角",
+    "district": "松江",
+    "reason": "暂未找到可确认的公开坐标"
+  },
+  {
+    "placeId": "dir-7fb8aa42a2436e70",
+    "name": "绿舟苑",
+    "address": "松江区荣乐路、西林路西南角",
+    "district": "松江",
+    "reason": "暂未找到可确认的公开坐标"
+  },
+  {
+    "placeId": "dir-fe49ac63fd248cc1",
+    "name": "小昆山新建河公园",
+    "address": "松江区中昆路以西（文翔路——玉昆路北）",
+    "district": "松江",
+    "reason": "暂未找到可确认的公开坐标"
+  },
+  {
+    "placeId": "dir-6796e8fb5a55cfd6",
+    "name": "五龙湖公园（二期）",
+    "address": "松江区西至茸梅路，东至茸凯路，南至外浜街，北至广富林路",
+    "district": "松江",
+    "reason": "暂未找到可确认的公开坐标"
+  },
+  {
+    "placeId": "dir-8dc99f4cf461646f",
+    "name": "车墩健康主题公园",
+    "address": "松江区北松公路车墩镇社区文化活动中心",
+    "district": "松江",
+    "reason": "暂未找到可确认的公开坐标"
+  },
+  {
+    "placeId": "dir-53a4b74063896626",
+    "name": "滨湖路、文翔路街心花园",
+    "address": "松江区滨湖路、文翔路西南角",
+    "district": "松江",
+    "reason": "暂未找到可确认的公开坐标"
+  },
+  {
+    "placeId": "dir-e282feed801d34bb",
+    "name": "人民路、其昌路街心花园",
+    "address": "松江区人民路、其昌路东南角",
+    "district": "松江",
+    "reason": "暂未找到可确认的公开坐标"
+  },
+  {
+    "placeId": "dir-4017018015b03ba5",
+    "name": "中新泾公园",
+    "address": "长宁区新泾港东侧，哈密路西侧",
+    "district": "长宁",
+    "reason": "暂未找到可确认的公开坐标"
+  },
+  {
+    "placeId": "dir-c1f7c56ea09a653e",
+    "name": "临空一号公园",
+    "address": "长宁区广顺北路592号",
+    "district": "长宁",
+    "reason": "暂未找到可确认的公开坐标"
+  },
+  {
+    "placeId": "dir-34288e90df77f961",
+    "name": "长风2号绿地公园",
+    "address": "普陀区大渡河路、光复西路交界口西南侧",
+    "district": "普陀",
+    "reason": "暂未找到可确认的公开坐标"
+  },
+  {
+    "placeId": "dir-1684b11b1339aa42",
+    "name": "万泉花园",
+    "address": "普陀区富平路、万泉路东北角",
+    "district": "普陀",
+    "reason": "暂未找到可确认的公开坐标"
+  },
+  {
+    "placeId": "dir-8e0e288bff0e5153",
+    "name": "海波公园",
+    "address": "嘉定区江桥海波路、华江景城西南侧",
+    "district": "嘉定",
+    "reason": "暂未找到可确认的公开坐标"
+  },
+  {
+    "placeId": "dir-f74be7974f6885ca",
+    "name": "汇源公园",
+    "address": "嘉定区汇源路200号对面",
+    "district": "嘉定",
+    "reason": "暂未找到可确认的公开坐标"
+  },
+  {
+    "placeId": "dir-04ffaed10523ecba",
+    "name": "远香湖公园",
+    "address": "嘉定区白银路、沪宜路口",
+    "district": "嘉定",
+    "reason": "暂未找到可确认的公开坐标"
+  },
+  {
+    "placeId": "dir-bcd43756f74cd92c",
+    "name": "张江主题公园",
+    "address": "浦东新区高斯路635号",
+    "district": "浦东",
+    "reason": "暂未找到可确认的公开坐标"
+  },
+  {
+    "placeId": "dir-934ccaa0588f5bc3",
+    "name": "芦潮港公园",
+    "address": "浦东新区江山路南50米",
+    "district": "浦东",
+    "reason": "暂未找到可确认的公开坐标"
+  },
+  {
+    "placeId": "dir-d60479d4e5ba9966",
+    "name": "金葵绿地",
+    "address": "浦东新区金葵路960号",
+    "district": "浦东",
+    "reason": "暂未找到可确认的公开坐标"
+  },
+  {
+    "placeId": "dir-812cfd0f22c41585",
+    "name": "广兰公园",
+    "address": "浦东新区广兰路965号",
+    "district": "浦东",
+    "reason": "暂未找到可确认的公开坐标"
+  },
+  {
+    "placeId": "dir-6013be4c40e93870",
+    "name": "川沙绿地公园（一期）",
+    "address": "浦东新区西至华东路、南至象屿鼎城小区北侧、东至商业服务广场、北至新川路",
+    "district": "浦东",
+    "reason": "暂未找到可确认的公开坐标"
+  },
+  {
+    "placeId": "dir-cdcbd1c4b713e2ff",
+    "name": "锦怡园",
+    "address": "闵行区沈庄塘南侧（浦申南路——浦锦南路段）",
+    "district": "闵行",
+    "reason": "暂未找到可确认的公开坐标"
+  },
+  {
+    "placeId": "dir-72f82374dc39df57",
+    "name": "锦绣园",
+    "address": "闵行区江龙路南侧（浦瑞路——浦锦南路）",
+    "district": "闵行",
+    "reason": "暂未找到可确认的公开坐标"
+  },
+  {
+    "placeId": "dir-3dfd228f61478ed8",
+    "name": "丁连村民公园",
+    "address": "闵行区浦锦街道丁连村",
+    "district": "闵行",
+    "reason": "暂未找到可确认的公开坐标"
+  },
+  {
+    "placeId": "dir-30a286a31c6b46fe",
+    "name": "美树里",
+    "address": "闵行区浦秀路（立跃路——江洲路）",
+    "district": "闵行",
+    "reason": "暂未找到可确认的公开坐标"
+  },
+  {
+    "placeId": "dir-1b94a83e218e1368",
+    "name": "锦逸园",
+    "address": "闵行区浦锦路（江月路——北江燕路）",
+    "district": "闵行",
+    "reason": "暂未找到可确认的公开坐标"
+  },
+  {
+    "placeId": "dir-c4757dfa1bb2eb2a",
+    "name": "合川醉妍园",
+    "address": "闵行区合川路西侧，东兰路至平南路",
+    "district": "闵行",
+    "reason": "暂未找到可确认的公开坐标"
+  },
+  {
+    "placeId": "dir-ba09f5efdc7743be",
+    "name": "地铁愉悦花园",
+    "address": "闵行区地铁1号线外环路",
+    "district": "闵行",
+    "reason": "暂未找到可确认的公开坐标"
+  },
+  {
+    "placeId": "dir-73d0511141a1a1b8",
+    "name": "南辅彩之园",
+    "address": "闵行区南辅路北侧",
+    "district": "闵行",
+    "reason": "暂未找到可确认的公开坐标"
+  },
+  {
+    "placeId": "dir-b38ec28e06ce277e",
+    "name": "赵巷体育公园",
+    "address": "青浦区东至置旺路、南至业文路、西至嘉松中路，北至业锦路商业地块",
+    "district": "青浦",
+    "reason": "暂未找到可确认的公开坐标"
+  },
+  {
+    "placeId": "dir-13fcc3d6b933a8ed",
+    "name": "万寿塔公园",
+    "address": "青浦区青松路以西，北淀浦河路以南",
+    "district": "青浦",
+    "reason": "暂未找到可确认的公开坐标"
+  },
+  {
+    "placeId": "dir-34c2844f435e466e",
+    "name": "侨鑫公园",
+    "address": "青浦区环城东路208号",
+    "district": "青浦",
+    "reason": "暂未找到可确认的公开坐标"
+  },
+  {
+    "placeId": "dir-d50ad4f132667ef1",
+    "name": "万寿公园",
+    "address": "青浦区万寿一路以南，万寿路以东",
+    "district": "青浦",
+    "reason": "暂未找到可确认的公开坐标"
+  },
+  {
+    "placeId": "dir-e4d4634aed6b0a2b",
+    "name": "玉兰园",
+    "address": "黄浦区重庆南路、南昌路西南角",
+    "district": "黄浦",
+    "reason": "暂未找到可确认的公开坐标"
+  },
+  {
+    "placeId": "dir-1587344b085a8612",
+    "name": "九华路公园",
+    "address": "奉贤区九华路北侧，陈桥路东",
+    "district": "奉贤",
+    "reason": "暂未找到可确认的公开坐标"
+  },
+  {
+    "placeId": "dir-2dfc071a061d6467",
+    "name": "正阳体育公园",
+    "address": "奉贤区南桥镇G1501公路北侧、S4公路西侧",
+    "district": "奉贤",
+    "reason": "暂未找到可确认的公开坐标"
+  },
+  {
+    "placeId": "dir-fa31c9d52c13bac3",
+    "name": "上海九棵树艺术公园",
+    "address": "奉贤区金海公路西，望园路东，奉浦大道南，航南公路北",
+    "district": "奉贤",
+    "reason": "暂未找到可确认的公开坐标"
+  },
+  {
+    "placeId": "dir-a1e0ed3362759778",
+    "name": "湖心岛公园",
+    "address": "奉贤区金海公路东侧、航南公路南侧上海之鱼核心区域",
+    "district": "奉贤",
+    "reason": "暂未找到可确认的公开坐标"
+  },
+  {
+    "placeId": "dir-e5a998582a14775b",
+    "name": "和合社区公园",
+    "address": "奉贤区解放东路两侧",
+    "district": "奉贤",
+    "reason": "暂未找到可确认的公开坐标"
+  },
+  {
+    "placeId": "dir-fdb6bf0afcb1c68a",
+    "name": "人民桥公园",
+    "address": "奉贤区南横泾——南桥路，运河路南侧",
+    "district": "奉贤",
+    "reason": "暂未找到可确认的公开坐标"
+  },
+  {
+    "placeId": "dir-9dea48e9d44879ba",
+    "name": "金海湿地公园",
+    "address": "浦东新区民唐路198号",
+    "district": "浦东",
+    "reason": "暂未找到可确认的公开坐标"
+  },
+  {
+    "placeId": "dir-54747c14e353315c",
+    "name": "中汾泾休闲绿地",
+    "address": "浦东新区云台路东侧（海阳路——高青路）",
+    "district": "浦东",
+    "reason": "暂未找到可确认的公开坐标"
+  },
+  {
+    "placeId": "dir-aeeede6117134ec8",
+    "name": "阳光绿地",
+    "address": "浦东新区佳林路北侧",
+    "district": "浦东",
+    "reason": "暂未找到可确认的公开坐标"
+  },
+  {
+    "placeId": "dir-18617d2666389f0b",
+    "name": "锦绣文化公园",
+    "address": "浦东新区高科西路2599号（临）",
+    "district": "浦东",
+    "reason": "暂未找到可确认的公开坐标"
+  },
+  {
+    "placeId": "dir-7298200c480dfb6a",
+    "name": "德韵园",
+    "address": "浦东新区德州路南侧云台路往西180米",
+    "district": "浦东",
+    "reason": "暂未找到可确认的公开坐标"
+  },
+  {
+    "placeId": "dir-dfb399ba7d6139c7",
+    "name": "绿洲公园",
+    "address": "浦东新区北起航津路，南至庭安路，西自兰谷路，东达杨高北路",
+    "district": "浦东",
+    "reason": "暂未找到可确认的公开坐标"
+  },
+  {
+    "placeId": "dir-7fb2850b86ac82a0",
+    "name": "喜泉公园",
+    "address": "嘉定区喜泉路、百安路口",
+    "district": "嘉定",
+    "reason": "暂未找到可确认的公开坐标"
+  },
+  {
+    "placeId": "dir-10daa1c998ac24be",
+    "name": "浏缘",
+    "address": "嘉定区嘉行公路3749号（浏岛大桥南侧）",
+    "district": "嘉定",
+    "reason": "暂未找到可确认的公开坐标"
+  },
+  {
+    "placeId": "dir-85fc8666f8f83363",
+    "name": "滨江爱特公园",
+    "address": "嘉定区望淞路南侧、鸿宁路西侧",
+    "district": "嘉定",
+    "reason": "暂未找到可确认的公开坐标"
+  },
+  {
+    "placeId": "dir-c59e2ee5e20da04e",
+    "name": "南翔水生态公园",
+    "address": "嘉定区科盛路以东、沪翔高速以南、吾尚浜以西、顺丰路以北",
+    "district": "嘉定",
+    "reason": "暂未找到可确认的公开坐标"
+  },
+  {
+    "placeId": "dir-6f9b7c9aa8ea97ef",
+    "name": "如心公园",
+    "address": "青浦区港俞路以东，海盈路以南",
+    "district": "青浦",
+    "reason": "暂未找到可确认的公开坐标"
+  },
+  {
+    "placeId": "dir-de176fe28349ab2d",
+    "name": "香雪公园",
+    "address": "青浦区港俞路以东，老朱青路以南",
+    "district": "青浦",
+    "reason": "暂未找到可确认的公开坐标"
+  },
+  {
+    "placeId": "dir-3f8d49369b731e2b",
+    "name": "银杏园",
+    "address": "青浦区乐高路以东，尚茂路以北",
+    "district": "青浦",
+    "reason": "暂未找到可确认的公开坐标"
+  },
+  {
+    "placeId": "dir-f90573fe696bd8e3",
+    "name": "嘉川路小游园",
+    "address": "徐汇区嘉川路、凌云路",
+    "district": "徐汇",
+    "reason": "暂未找到可确认的公开坐标"
+  },
+  {
+    "placeId": "dir-e3a173231921dce9",
+    "name": "桂江路绿地",
+    "address": "徐汇区桂江路（平阳路——沪闵路）",
+    "district": "徐汇",
+    "reason": "暂未找到可确认的公开坐标"
+  },
+  {
+    "placeId": "dir-302690db677d669c",
+    "name": "云岭公园",
+    "address": "普陀区云岭东路、真北路东南角",
+    "district": "普陀",
+    "reason": "暂未找到可确认的公开坐标"
+  },
+  {
+    "placeId": "dir-ad5ec4830fe19a91",
+    "name": "万里公园",
+    "address": "普陀区东西向：真金路与真华路之间；南北向：富平路与新村路之间",
+    "district": "普陀",
+    "reason": "暂未找到可确认的公开坐标"
+  },
+  {
+    "placeId": "dir-40064aa4d00cf3cf",
+    "name": "九里亭公园",
+    "address": "松江区沪亭路、涞亭路",
+    "district": "松江",
+    "reason": "暂未找到可确认的公开坐标"
+  },
+  {
+    "placeId": "dir-3d8c2d924a65dca5",
+    "name": "仓轩路休闲绿地",
+    "address": "松江区仓轩路、荣乐路",
+    "district": "松江",
+    "reason": "暂未找到可确认的公开坐标"
+  },
+  {
+    "placeId": "dir-888b242f2bf8b552",
+    "name": "长兴市民公园",
+    "address": "崇明区西起凤环路，东至经六路，南至江南大道，北至海舸路",
+    "district": "崇明",
+    "reason": "暂未找到可确认的公开坐标"
+  },
+  {
+    "placeId": "dir-809eaa3c8d0b7977",
+    "name": "三星海棠左岸",
+    "address": "崇明区三星镇新安村村委西侧",
+    "district": "崇明",
+    "reason": "暂未找到可确认的公开坐标"
+  },
+  {
+    "placeId": "dir-c6d874dfcc81c0b2",
+    "name": "市北绿地",
+    "address": "静安区东至平型关路、西至寿阳路、北至走马塘、南至江场路",
+    "district": "静安",
+    "reason": "暂未找到可确认的公开坐标"
+  },
+  {
+    "placeId": "dir-2f98ce557b8d8a36",
+    "name": "古美公园",
+    "address": "闵行区合川路、平吉路东南角",
+    "district": "闵行",
+    "reason": "暂未找到可确认的公开坐标"
+  },
+  {
+    "placeId": "dir-de0d70d6c4179b4c",
+    "name": "双城路绿地",
+    "address": "宝山区双城路北侧（牡丹江路——双庆路）",
+    "district": "宝山",
+    "reason": "暂未找到可确认的公开坐标"
+  },
+  {
+    "placeId": "dir-9977aa13243d5d89",
+    "name": "山阳广场",
+    "address": "金山区龙胜路、杭州湾大道西北角",
+    "district": "金山",
+    "reason": "暂未找到可确认的公开坐标"
+  },
+  {
+    "placeId": "dir-06f7f68fce960b23",
+    "name": "临港新片区",
+    "address": "金山区6.07",
+    "district": "金山",
+    "reason": "暂未找到可确认的公开坐标"
+  },
+  {
+    "placeId": "dir-ed8c540e208e4a91",
+    "name": "锦尊湿地公园",
+    "address": "浦东新区成山路、锦尊路口",
+    "district": "浦东",
+    "reason": "暂未找到可确认的公开坐标"
+  },
+  {
+    "placeId": "dir-8044a34fe241fc97",
+    "name": "锦尊体育公园",
+    "address": "浦东新区锦尊路468号",
+    "district": "浦东",
+    "reason": "暂未找到可确认的公开坐标"
+  },
+  {
+    "placeId": "dir-88877ad6c69da570",
+    "name": "中医药文化园",
+    "address": "浦东新区高科中路、金科路西南角",
+    "district": "浦东",
+    "reason": "暂未找到可确认的公开坐标"
+  },
+  {
+    "placeId": "dir-0d1babe8e2c4139c",
+    "name": "老白渡滨江绿地",
+    "address": "浦东新区张杨路、滨江大道",
+    "district": "浦东",
+    "reason": "暂未找到可确认的公开坐标"
+  },
+  {
+    "placeId": "dir-27ca2c76048e74d0",
+    "name": "上海船厂滨江绿地",
+    "address": "浦东新区东方路、滨江大道",
+    "district": "浦东",
+    "reason": "暂未找到可确认的公开坐标"
+  },
+  {
+    "placeId": "dir-fef4ccc13709daa0",
+    "name": "森兰湖公园",
+    "address": "浦东新区启帆路669弄",
+    "district": "浦东",
+    "reason": "暂未找到可确认的公开坐标"
+  },
+  {
+    "placeId": "dir-5e9ee4b3fdc016f5",
+    "name": "紫蝶公园",
+    "address": "浦东新区繁锦路、蝶衣路北侧",
+    "district": "浦东",
+    "reason": "暂未找到可确认的公开坐标"
+  },
+  {
+    "placeId": "dir-83bb839f77c76940",
+    "name": "张江艺术公园",
+    "address": "浦东新区松涛路666号",
+    "district": "浦东",
+    "reason": "暂未找到可确认的公开坐标"
+  },
+  {
+    "placeId": "dir-1fa9be094488e05f",
+    "name": "金杨公园",
+    "address": "浦东新区金杨路、金口路西北角",
+    "district": "浦东",
+    "reason": "暂未找到可确认的公开坐标"
+  },
+  {
+    "placeId": "dir-4b4d76ac4d0a192f",
+    "name": "木兰公园",
+    "address": "浦东新区北至三林世博家园H区，南至三林世博家园J区，西至东书房路，东至新浦路",
+    "district": "浦东",
+    "reason": "暂未找到可确认的公开坐标"
+  },
+  {
+    "placeId": "dir-f161889b14f68c22",
+    "name": "上海世博文化公园（北区）",
+    "address": "浦东新区济坤路100号",
+    "district": "浦东",
+    "reason": "暂未找到可确认的公开坐标"
+  },
+  {
+    "placeId": "dir-b82d4e25f7ba30a9",
+    "name": "临港新片区",
+    "address": "浦东新区57.40",
+    "district": "浦东",
+    "reason": "暂未找到可确认的公开坐标"
+  },
+  {
+    "placeId": "dir-b6e0c5a7e009ae96",
+    "name": "星空公园",
+    "address": "奉贤区东起浦星公路、西至金汇港",
+    "district": "奉贤",
+    "reason": "暂未找到可确认的公开坐标"
+  },
+  {
+    "placeId": "dir-a11a8a8e5030de44",
+    "name": "美谷公园",
+    "address": "奉贤区东方美谷大道北侧（万顺路——汇港苑小区）",
+    "district": "奉贤",
+    "reason": "暂未找到可确认的公开坐标"
+  },
+  {
+    "placeId": "dir-19ffcc4809e76b69",
+    "name": "南上海中央公园",
+    "address": "奉贤区望园路以西，航南公路以北，S4以东，东方美谷大道以南",
+    "district": "奉贤",
+    "reason": "暂未找到可确认的公开坐标"
+  },
+  {
+    "placeId": "dir-924d626e8fbf758e",
+    "name": "正学公园",
+    "address": "奉贤区嘉园路至浦星公路，大庆河北侧",
+    "district": "奉贤",
+    "reason": "暂未找到可确认的公开坐标"
+  },
+  {
+    "placeId": "dir-e8cf583299be61d8",
+    "name": "兰布拉公园",
+    "address": "奉贤区奉城镇艺博路东侧，兰博路北侧中间段",
+    "district": "奉贤",
+    "reason": "暂未找到可确认的公开坐标"
+  },
+  {
+    "placeId": "dir-4b96d86a577ba962",
+    "name": "桂湖园",
+    "address": "嘉定区新建一路南、启源路西",
+    "district": "嘉定",
+    "reason": "暂未找到可确认的公开坐标"
+  },
+  {
+    "placeId": "dir-a8233f86833538d7",
+    "name": "蔷薇园",
+    "address": "嘉定区沪宜公路3388号（嘉定水务稽查两侧）",
+    "district": "嘉定",
+    "reason": "暂未找到可确认的公开坐标"
+  },
+  {
+    "placeId": "dir-3a0f32be1c41cb2c",
+    "name": "银翔湖公园",
+    "address": "嘉定区南翔镇金迈路、槎溪路路口",
+    "district": "嘉定",
+    "reason": "暂未找到可确认的公开坐标"
+  },
+  {
+    "placeId": "dir-0496faa0f39a3330",
+    "name": "栅桥公园",
+    "address": "嘉定区新郁路755号",
+    "district": "嘉定",
+    "reason": "暂未找到可确认的公开坐标"
+  },
+  {
+    "placeId": "dir-d193121e393a0fd9",
+    "name": "龙泉港公园",
+    "address": "金山区金山大道杭州湾大道东南角",
+    "district": "金山",
+    "reason": "暂未找到可确认的公开坐标"
+  },
+  {
+    "placeId": "dir-48489d782dc3b689",
+    "name": "涟园",
+    "address": "金山区临桂路以南，金山铁路以北，东平南路以西，学府路以东",
+    "district": "金山",
+    "reason": "暂未找到可确认的公开坐标"
+  },
+  {
+    "placeId": "dir-a8bc6b24e0acd194",
+    "name": "御景公园",
+    "address": "金山区金山大道、城河路西南角",
+    "district": "金山",
+    "reason": "暂未找到可确认的公开坐标"
+  },
+  {
+    "placeId": "dir-4c0d2c5cd646bf62",
+    "name": "月季园",
+    "address": "青浦区漕盈路以东，海盈路以北",
+    "district": "青浦",
+    "reason": "暂未找到可确认的公开坐标"
+  },
+  {
+    "placeId": "dir-944cf6be1676ea9f",
+    "name": "西部绿苑",
+    "address": "青浦区海盈路以东，城中西路以北",
+    "district": "青浦",
+    "reason": "暂未找到可确认的公开坐标"
+  },
+  {
+    "placeId": "dir-4780d93c274b9894",
+    "name": "绿地·秀",
+    "address": "青浦区秀泉路以南，崧涵路以西",
+    "district": "青浦",
+    "reason": "暂未找到可确认的公开坐标"
+  },
+  {
+    "placeId": "dir-c8a735a1d7f0d997",
+    "name": "桂江路一期南园",
+    "address": "徐汇区平阳路以北，虹梅路以东，桂江路以西，张家塘以南",
+    "district": "徐汇",
+    "reason": "暂未找到可确认的公开坐标"
+  },
+  {
+    "placeId": "dir-2ad05a844fb3536c",
+    "name": "桂江路一期北园",
+    "address": "徐汇区江安路以南，虹梅路以东，桂江路以西，张家塘以北",
+    "district": "徐汇",
+    "reason": "暂未找到可确认的公开坐标"
+  },
+  {
+    "placeId": "dir-2cf9dd8ba0975345",
+    "name": "槎浦公园",
+    "address": "普陀区金润路近金迈路",
+    "district": "普陀",
+    "reason": "暂未找到可确认的公开坐标"
+  },
+  {
+    "placeId": "dir-550cc75d54e3a7fc",
+    "name": "半马苏河公园 （1号公园）",
+    "address": "普陀区大渡河路、古北路桥东南角",
+    "district": "普陀",
+    "reason": "暂未找到可确认的公开坐标"
+  },
+  {
+    "placeId": "dir-e86978705549c252",
+    "name": "半马苏河公园 （3号公园）",
+    "address": "普陀区光复西路（泸定路至丹巴路）南侧",
+    "district": "普陀",
+    "reason": "暂未找到可确认的公开坐标"
+  },
+  {
+    "placeId": "dir-bfa2c24970927c05",
+    "name": "石湖荡镇控烟 主题公园",
+    "address": "松江区东栅路与广庵路交叉路口往东约180米",
+    "district": "松江",
+    "reason": "暂未找到可确认的公开坐标"
+  },
+  {
+    "placeId": "dir-112f6ab5b5daa2cd",
+    "name": "临云园",
+    "address": "松江区文翔路昆水街西北角",
+    "district": "松江",
+    "reason": "暂未找到可确认的公开坐标"
+  },
+  {
+    "placeId": "dir-7b7f7a486443ac09",
+    "name": "横河公园",
+    "address": "长兴岛园沙社区横河（跃进港——圆芳路）两岸",
+    "district": "崇明",
+    "reason": "暂未找到可确认的公开坐标"
+  },
+  {
+    "placeId": "dir-82aeaf88ae55f574",
+    "name": "大吉路绿地",
+    "address": "黄浦区西藏南路、大吉路",
+    "district": "黄浦",
+    "reason": "暂未找到可确认的公开坐标"
+  },
+  {
+    "placeId": "dir-6a9eeec3b6e971c7",
+    "name": "广中路绿地",
+    "address": "静安区北起广中路，南至上海大学、欣武大厦，西起上海大学北门，东至北宝兴路",
+    "district": "静安",
+    "reason": "暂未找到可确认的公开坐标"
+  },
+  {
+    "placeId": "dir-19b63c520ba63830",
+    "name": "何家湾小游园",
+    "address": "宝山区何家湾路、逸仙路东南角",
+    "district": "宝山",
+    "reason": "暂未找到可确认的公开坐标"
+  },
+  {
+    "placeId": "dir-8a0a0d403bd16a2d",
+    "name": "大桥公园",
+    "address": "杨浦区杨树浦路、渭南南路",
+    "district": "杨浦",
+    "reason": "暂未找到可确认的公开坐标"
+  },
+  {
+    "placeId": "dir-dcbaa564d8acc390",
+    "name": "梅陇南方公园",
+    "address": "闵行区闵虹路南侧，万源路西侧，合川路东侧，沪闵路北侧",
+    "district": "闵行",
+    "reason": "暂未找到可确认的公开坐标"
+  },
+  {
+    "placeId": "dir-da4619ef865e42ff",
+    "name": "半马苏河公园 （2号公园）",
+    "address": "普陀区光复西路（大渡河路至泸定路）南侧",
+    "district": "普陀",
+    "reason": "暂未找到可确认的公开坐标"
+  },
+  {
+    "placeId": "dir-93901c52c3daa815",
+    "name": "半马苏河公园 （云岭公园）",
+    "address": "普陀区云岭东路近真北路",
+    "district": "普陀",
+    "reason": "暂未找到可确认的公开坐标"
+  },
+  {
+    "placeId": "dir-4d8c5a8098074042",
+    "name": "四季生态园",
+    "address": "奉贤区奉浦街道韩谊路515号",
+    "district": "奉贤",
+    "reason": "暂未找到可确认的公开坐标"
+  },
+  {
+    "placeId": "dir-5839d1ce819d09ee",
+    "name": "星火公园",
+    "address": "奉贤区莲塘路南、明城路东侧、惠州路以北、规划路以西",
+    "district": "奉贤",
+    "reason": "暂未找到可确认的公开坐标"
+  },
+  {
+    "placeId": "dir-01c5c94159df87e3",
+    "name": "泡泡公园",
+    "address": "奉贤区浦南运河北侧，上海之鱼秀竹路南侧",
+    "district": "奉贤",
+    "reason": "暂未找到可确认的公开坐标"
+  },
+  {
+    "placeId": "dir-33d1a233e7ca2f34",
+    "name": "年丰公园",
+    "address": "奉贤区上海之鱼年丰路入口,湖堤路东侧，秀竹路北侧",
+    "district": "奉贤",
+    "reason": "暂未找到可确认的公开坐标"
+  },
+  {
+    "placeId": "dir-7c70f3a5cd189526",
+    "name": "秀南公园",
+    "address": "浦东新区秀康路197号",
+    "district": "浦东",
+    "reason": "暂未找到可确认的公开坐标"
+  },
+  {
+    "placeId": "dir-8d1c578f2706b85a",
+    "name": "沿北公园",
+    "address": "浦东新区沿北村878号",
+    "district": "浦东",
+    "reason": "暂未找到可确认的公开坐标"
+  },
+  {
+    "placeId": "dir-f36cb02e87015c72",
+    "name": "汤巷公园",
+    "address": "浦东新区康人路570号",
+    "district": "浦东",
+    "reason": "暂未找到可确认的公开坐标"
+  },
+  {
+    "placeId": "dir-719dc69b1fb39004",
+    "name": "唐丰公园",
+    "address": "浦东新区创新西路520号",
+    "district": "浦东",
+    "reason": "暂未找到可确认的公开坐标"
+  },
+  {
+    "placeId": "dir-1439e321db780b4d",
+    "name": "孝亲公园",
+    "address": "浦东新区光明路高东新路",
+    "district": "浦东",
+    "reason": "暂未找到可确认的公开坐标"
+  },
+  {
+    "placeId": "dir-21cceff196180174",
+    "name": "悦动公园",
+    "address": "浦东新区金湘路1500弄1号",
+    "district": "浦东",
+    "reason": "暂未找到可确认的公开坐标"
+  },
+  {
+    "placeId": "dir-200ee9b1466af64c",
+    "name": "莫比乌斯环公园",
+    "address": "浦东新区振桥路申启路",
+    "district": "浦东",
+    "reason": "暂未找到可确认的公开坐标"
+  },
+  {
+    "placeId": "dir-2cf6306a6e395487",
+    "name": "前滩中心公园",
+    "address": "浦东新区东至平家桥路，西至耀龙路，南至高青西路，北至海洋西路",
+    "district": "浦东",
+    "reason": "暂未找到可确认的公开坐标"
+  },
+  {
+    "placeId": "dir-ee40ab338f87e48b",
+    "name": "前滩小黄浦江公园",
+    "address": "浦东新区东至平家桥路，西至耀龙路，南至春眺路，北至高青西路",
+    "district": "浦东",
+    "reason": "暂未找到可确认的公开坐标"
+  },
+  {
+    "placeId": "dir-f353a81a0c922ec4",
+    "name": "吟风公园",
+    "address": "浦东新区齐恒路19号",
+    "district": "浦东",
+    "reason": "暂未找到可确认的公开坐标"
+  },
+  {
+    "placeId": "dir-726dbf8d6e520fa3",
+    "name": "新场北岛公园",
+    "address": "浦东新区沪南公路沪芦高速出口",
+    "district": "浦东",
+    "reason": "暂未找到可确认的公开坐标"
+  },
+  {
+    "placeId": "dir-ce257ced7042383c",
+    "name": "张江红叶公园",
+    "address": "浦东新区申江路中科路",
+    "district": "浦东",
+    "reason": "暂未找到可确认的公开坐标"
+  },
+  {
+    "placeId": "dir-867da3648919fd86",
+    "name": "滴水湖樱花岛公园（临港新片区）",
+    "address": "浦东新区北至环湖北一路、西至青祥港、东至蓝云港、南至滴水湖",
+    "district": "浦东",
+    "reason": "暂未找到可确认的公开坐标"
+  },
+  {
+    "placeId": "dir-56991f87817cefa3",
+    "name": "静谧花园",
+    "address": "黄浦区外马路与毛家园路交叉口北侧",
+    "district": "黄浦",
+    "reason": "暂未找到可确认的公开坐标"
+  },
+  {
+    "placeId": "dir-f7921eae53e171b6",
+    "name": "桂溪园",
+    "address": "徐汇区东至桂江路，南至钦州南路，西至虹梅路，北至规划东兰路",
+    "district": "徐汇",
+    "reason": "暂未找到可确认的公开坐标"
+  },
+  {
+    "placeId": "dir-9b59c0f45901b41c",
+    "name": "桂樱园",
+    "address": "徐汇区东至桂江路，南至规划东兰路，西至虹梅路，北至漕宝路",
+    "district": "徐汇",
+    "reason": "暂未找到可确认的公开坐标"
+  },
+  {
+    "placeId": "dir-6d2da8c63a0060aa",
+    "name": "田林公园",
+    "address": "徐汇区田林路414弄26号",
+    "district": "徐汇",
+    "reason": "暂未找到可确认的公开坐标"
+  },
+  {
+    "placeId": "dir-ccabeef2eb6ca354",
+    "name": "古北市民公园",
+    "address": "长宁区东至古北嘉年华庭，南至璟辰人才公寓，西至富贵东道，北至古北中央花园",
+    "district": "长宁",
+    "reason": "暂未找到可确认的公开坐标"
+  },
+  {
+    "placeId": "dir-721b81f4dafb34e6",
+    "name": "静安体育公园 （一期）",
+    "address": "静安区汶水路、广延路路口西南角",
+    "district": "静安",
+    "reason": "暂未找到可确认的公开坐标"
+  },
+  {
+    "placeId": "dir-22d4098729dd794f",
+    "name": "李子园公园",
+    "address": "普陀区真南路822弄近武威东路",
+    "district": "普陀",
+    "reason": "暂未找到可确认的公开坐标"
+  },
+  {
+    "placeId": "dir-a4204f42b7e7ac72",
+    "name": "春光公园",
+    "address": "普陀区水厂路近外环线",
+    "district": "普陀",
+    "reason": "暂未找到可确认的公开坐标"
+  },
+  {
+    "placeId": "dir-45eb2b511fe8ccd7",
+    "name": "春申公园",
+    "address": "闵行区北邻S20外环高速、南至春申路、西至虹梅南路高架、东至老沪闵路",
+    "district": "闵行",
+    "reason": "暂未找到可确认的公开坐标"
+  },
+  {
+    "placeId": "dir-08853070f1d6c085",
+    "name": "锦梅公园",
+    "address": "闵行区北邻韩泗泾，南至春申路，西至梅强路，东至梅陇港",
+    "district": "闵行",
+    "reason": "暂未找到可确认的公开坐标"
+  },
+  {
+    "placeId": "dir-ce0ee2b45aac658d",
+    "name": "胡庄公园",
+    "address": "宝山区泰和西路2777号",
+    "district": "宝山",
+    "reason": "暂未找到可确认的公开坐标"
+  },
+  {
+    "placeId": "dir-03c6cf291edc8dd7",
+    "name": "沈杨公园",
+    "address": "宝山区东至祁连山路、南至顾陈路、西北两侧为外环线",
+    "district": "宝山",
+    "reason": "暂未找到可确认的公开坐标"
+  },
+  {
+    "placeId": "dir-0b2485d382621c78",
+    "name": "泰和水生态公园 （一期）",
+    "address": "宝山区东至规划梅林路、南至联谊路、西至泰联路、北至规划共富路",
+    "district": "宝山",
+    "reason": "暂未找到可确认的公开坐标"
+  },
+  {
+    "placeId": "dir-9e24a9d1464cb2df",
+    "name": "蝶语园",
+    "address": "嘉定区东至外环高速、南至建丰河、西至新槎浦、北至陇南路",
+    "district": "嘉定",
+    "reason": "暂未找到可确认的公开坐标"
+  },
+  {
+    "placeId": "dir-e4f218e7c85c5a03",
+    "name": "南城河公园",
+    "address": "嘉定区横沥河东侧、嘉定环城河南侧",
+    "district": "嘉定",
+    "reason": "暂未找到可确认的公开坐标"
+  },
+  {
+    "placeId": "dir-599ff3be5dc843f3",
+    "name": "横沥滨水公园",
+    "address": "嘉定区横沥河两岸（横仓公路——喜家桥）",
+    "district": "嘉定",
+    "reason": "暂未找到可确认的公开坐标"
+  },
+  {
+    "placeId": "dir-cc4ca9c1067363e1",
+    "name": "阳光绿道公园",
+    "address": "奉贤区东至通阳路，南G1503高速公路，西至竹港，北至阳光园二期",
+    "district": "奉贤",
+    "reason": "暂未找到可确认的公开坐标"
+  },
+  {
+    "placeId": "dir-f8852831b4150d5f",
+    "name": "乐活公园",
+    "address": "奉贤区S4 高速东侧，浦南运河南侧，望园南路西侧，尚礼路北侧区域",
+    "district": "奉贤",
+    "reason": "暂未找到可确认的公开坐标"
+  },
+  {
+    "placeId": "dir-c09fd09ebba75c4e",
+    "name": "紫金生态园",
+    "address": "金山区东起珠泰路，西至五人港，南起众益街，北至金龙新街",
+    "district": "金山",
+    "reason": "暂未找到可确认的公开坐标"
+  },
+  {
+    "placeId": "dir-545f65df573314d7",
+    "name": "云帆广场公园",
+    "address": "青浦区海盈路以南、漕穗南路以西",
+    "district": "青浦",
+    "reason": "暂未找到可确认的公开坐标"
+  },
+  {
+    "placeId": "dir-327816d5587fb976",
+    "name": "树阵广场公园",
+    "address": "青浦区公园东路以南，汇金路以东",
+    "district": "青浦",
+    "reason": "暂未找到可确认的公开坐标"
+  },
+  {
+    "placeId": "dir-e61e4d2628e38b17",
+    "name": "七彩公园",
+    "address": "青浦区青赵公路万寿桥西南侧",
+    "district": "青浦",
+    "reason": "暂未找到可确认的公开坐标"
+  },
+  {
+    "placeId": "dir-19f0d5b4e4c09ec9",
+    "name": "和风公园",
+    "address": "崇明区东至现状河道，南至清悠河，西至上实和风院，北至瑞湖路",
+    "district": "崇明",
+    "reason": "暂未找到可确认的公开坐标"
+  },
+  {
+    "placeId": "cur-climbism",
+    "name": "Climbism攀岩馆",
+    "address": "浦东新区耀体路701号东方体育中心",
+    "district": "浦东",
+    "reason": "暂未找到可确认的公开坐标"
+  },
+  {
+    "placeId": "cur-urock",
+    "name": "Urock攀岩馆",
+    "address": "浦东新区金湘路1000号",
+    "district": "浦东",
+    "reason": "暂未找到可确认的公开坐标"
+  },
+  {
+    "placeId": "cur-new-world-climb",
+    "name": "新世界宇宙攀岩馆",
+    "address": "黄浦区南京西路2—68号新世界城3楼",
+    "district": "黄浦",
+    "reason": "暂未找到可确认的公开坐标"
+  },
+  {
+    "placeId": "cur-park-climb",
+    "name": "无界攀岩（KING88）",
+    "address": "长宁区长宁路88号KING88商场3楼",
+    "district": "长宁",
+    "reason": "暂未找到可确认的公开坐标"
+  },
+  {
+    "placeId": "cur-fengxian-climb",
+    "name": "奉贤体育中心攀岩馆",
+    "address": "奉贤区古华路100号",
+    "district": "奉贤",
+    "reason": "暂未找到可确认的公开坐标"
+  },
+  {
+    "placeId": "cur-goat-climb",
+    "name": "山羊攀岩俱乐部",
+    "address": "徐汇区肇嘉浜路1117号TPY中心8楼",
+    "district": "徐汇",
+    "reason": "暂未找到可确认的公开坐标"
+  },
+  {
+    "placeId": "cur-banana-climb",
+    "name": "香蕉攀岩（延安西路店）",
+    "address": "长宁区昭化路658号海粟广场A栋104—105室",
+    "district": "长宁",
+    "reason": "暂未找到可确认的公开坐标"
+  },
+  {
+    "placeId": "cur-sic-kart",
+    "name": "上海国际赛车场卡丁车世界",
+    "address": "嘉定区伊宁路2000号",
+    "district": "嘉定",
+    "reason": "暂未找到可确认的公开坐标"
+  },
+  {
+    "placeId": "cur-smile-snow",
+    "name": "微笑滑雪（虹桥体育公园）",
+    "address": "长宁区绥宁路820号虹桥体育公园1号楼",
+    "district": "长宁",
+    "reason": "暂未找到可确认的公开坐标"
+  },
+  {
+    "placeId": "cur-gongqing-ride",
+    "name": "上海共青森林公园游乐区",
+    "address": "杨浦区军工路2000号",
+    "district": "杨浦",
+    "reason": "暂未找到可确认的公开坐标"
+  },
+  {
+    "placeId": "cur-drive-in-cinema",
+    "name": "安亭汽车影院",
+    "address": "嘉定区安亭镇博园路7575号",
+    "district": "嘉定",
+    "reason": "暂未找到可确认的公开坐标"
+  },
+  {
+    "placeId": "cur-daxue-night",
+    "name": "大学路夜间街区",
+    "address": "杨浦区大学路",
+    "district": "杨浦",
+    "reason": "暂未找到可确认的公开坐标"
+  },
+  {
+    "placeId": "cur-columbia-night",
+    "name": "上生·新所夜间街区",
+    "address": "长宁区上生·新所",
+    "district": "长宁",
+    "reason": "暂未找到可确认的公开坐标"
+  },
+  {
+    "placeId": "cur-seoul-night",
+    "name": "首尔夜市街区",
+    "address": "闵行区首尔夜市",
+    "district": "闵行",
+    "reason": "暂未找到可确认的公开坐标"
+  },
+  {
+    "placeId": "cur-global-night",
+    "name": "环球港夜间消费区域",
+    "address": "普陀区环球港",
+    "district": "普陀",
+    "reason": "暂未找到可确认的公开坐标"
+  },
+  {
+    "placeId": "cur-xintiandi-night",
+    "name": "新天地—太平湖街区",
+    "address": "黄浦区新天地太平湖周边",
+    "district": "黄浦",
+    "reason": "暂未找到可确认的公开坐标"
+  },
+  {
+    "placeId": "cur-wujiang-night",
+    "name": "吴江路—丰盛里街区",
+    "address": "静安区吴江路丰盛里周边",
+    "district": "静安",
+    "reason": "暂未找到可确认的公开坐标"
+  },
+  {
+    "placeId": "cur-gate-m-night",
+    "name": "西岸梦中心夜间区域",
+    "address": "徐汇区西岸梦中心",
+    "district": "徐汇",
+    "reason": "暂未找到可确认的公开坐标"
+  },
+  {
+    "placeId": "cur-lujiazui-night",
+    "name": "陆家嘴富都滨江—正大区域",
+    "address": "浦东新区陆家嘴滨江正大广场周边",
+    "district": "浦东",
+    "reason": "暂未找到可确认的公开坐标"
+  },
+  {
+    "placeId": "cur-yuyuan-night",
+    "name": "豫园商城街区",
+    "address": "黄浦区豫园商城公共商业街区",
+    "district": "黄浦",
+    "reason": "暂未找到可确认的公开坐标"
+  },
+  {
+    "placeId": "cur-joycity-night",
+    "name": "静安大悦城夜间区域",
+    "address": "静安区静安大悦城",
+    "district": "静安",
+    "reason": "暂未找到可确认的公开坐标"
+  }
+]

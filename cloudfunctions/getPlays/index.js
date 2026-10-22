@@ -37,7 +37,9 @@ async function seedMissing() {
   const current = await readPublished()
   const currentById = new Map(current.map(play => [play.id, play]))
   const missing = seed.filter(play => !currentById.has(play.id)
-    || (currentById.get(play.id).catalogVersion || 0) < play.catalogVersion)
+    || (currentById.get(play.id).catalogVersion || 0) < play.catalogVersion
+    || ((play.coordinateRevision || 0) > (currentById.get(play.id).coordinateRevision || 0)
+      && (!Number.isFinite(currentById.get(play.id).latitude) || !Number.isFinite(currentById.get(play.id).longitude))))
   for (let index = 0; index < missing.length; index += 20) {
     const batch = missing.slice(index, index + 20)
     await Promise.all(batch.map(play => plays.doc(play.id).set({ data: play })))

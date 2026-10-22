@@ -115,6 +115,7 @@
       <text>起点 · {{play.location}}</text>
       <text>查看地图 ↗</text>
     </button>
+    <view wx:if="{{play.coordinateNote}}" class="source-note">{{play.coordinateNote}}</view>
     <view wx:else class="activity-address">
       <view>地点 · {{play.location}}</view>
       <view>{{play.address}}</view>
