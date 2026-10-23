@@ -85,6 +85,44 @@
     "recommendable": true
   },
   {
+    "id": "cur-aob-yangpu-v2-thrill",
+    "placeId": "cur-aob-yangpu",
+    "catalogVersion": 2,
+    "emoji": "🧗",
+    "stamp": "新体验玩家",
+    "title": "AOB攀研学院（创智天地）：用一条抱石线开启周末",
+    "kicker": "第一次尝试，让这个周末不一样。",
+    "district": "杨浦",
+    "districts": [
+      "杨浦"
+    ],
+    "location": "AOB攀研学院（创智天地）",
+    "address": "杨浦区淞沪路252号地下一层01、02、03室",
+    "duration": "1～3小时",
+    "budget": "以场馆或店铺当前报价为准",
+    "bestTime": "提前核对开放并预约",
+    "moods": [
+      "thrill"
+    ],
+    "traits": [
+      "curious",
+      "active"
+    ],
+    "mission": "向场馆确认新手入门项目并预约，在教练指导下学习装备和落地保护，尝试一条适合自己的基础线路；不自行挑战高难度。",
+    "steps": [
+      "出发前用官方渠道核对营业、收费及预约要求",
+      "按官方地址前往AOB攀研学院（创智天地），先了解现场规则",
+      "向场馆确认新手入门项目并预约，在教练指导下学习装备和落地保护，尝试一条适合自己的基础线路；不自行挑战高难度。"
+    ],
+    "tip": "官方介绍用于核对地点及项目类型，不代表实时营业；付费体验、教练和装备须提前确认。",
+    "sourceTitle": "上海杨浦：攀岩场馆介绍",
+    "sourceUrl": "https://www.jfdaily.com/sgh/detail?id=4051320",
+    "verifiedAt": "2026-10-23",
+    "verificationScope": "官方地点和项目介绍；玩法为自助任务",
+    "status": "published",
+    "recommendable": true
+  },
+  {
     "id": "cur-banana-climb-v2-thrill",
     "placeId": "cur-banana-climb",
     "catalogVersion": 2,
@@ -128,6 +166,121 @@
     "coordinateCheckedAt": "2026-10-23",
     "coordinateRevision": 20261023,
     "coordinateNote": "高德坐标拾取；匹配地点：香蕉攀岩(延安西路店)；匹配地址：昭化路658号104、105室；实际入口以现场指引为准"
+  },
+  {
+    "id": "cur-bayilu-night-v2-night",
+    "placeId": "cur-bayilu-night",
+    "catalogVersion": 2,
+    "emoji": "🌙",
+    "stamp": "城市夜游者",
+    "title": "八一路商业街：去城桥镇找一家晚间小店",
+    "kicker": "晚饭以后，还有一段城市时间。",
+    "district": "崇明",
+    "districts": [
+      "崇明"
+    ],
+    "location": "八一路商业街",
+    "address": "崇明区城桥镇八一路新崇中路至新崇南路段",
+    "duration": "1～3小时",
+    "budget": "以场馆或店铺当前报价为准",
+    "bestTime": "18点后，以当天开放为准",
+    "moods": [
+      "night"
+    ],
+    "traits": [
+      "night",
+      "social",
+      "food"
+    ],
+    "mission": "先查询当晚营业餐饮，18点后在八一路公共商业街面吃晚饭、短途游逛；不预设国庆限定夜市或文艺演出仍在举办。",
+    "steps": [
+      "出发前用官方渠道核对营业、收费及预约要求",
+      "按官方地址前往八一路商业街，先了解现场规则",
+      "先查询当晚营业餐饮，18点后在八一路公共商业街面吃晚饭、短途游逛；不预设国庆限定夜市或文艺演出仍在举办。"
+    ],
+    "tip": "官方介绍用于核对地点及项目类型，不代表实时营业；付费体验、教练和装备须提前确认。",
+    "sourceTitle": "上海崇明：夜间消费街区信息",
+    "sourceUrl": "https://www.shcm.gov.cn/ztzl/009002/009002010/009002010004/20260114/2ece6719-46d1-4536-9f37-4a89a7cb0c7f.html",
+    "verifiedAt": "2026-10-23",
+    "verificationScope": "官方地点和项目介绍；玩法为自助任务",
+    "status": "published",
+    "recommendable": true
+  },
+  {
+    "id": "cur-centurystar-minhang-v2-thrill",
+    "placeId": "cur-centurystar-minhang",
+    "catalogVersion": 2,
+    "emoji": "🧗",
+    "stamp": "新体验玩家",
+    "title": "世纪星滑冰俱乐部（万象城）：穿上冰鞋学会第一步滑行",
+    "kicker": "第一次尝试，让这个周末不一样。",
+    "district": "闵行",
+    "districts": [
+      "闵行"
+    ],
+    "location": "世纪星滑冰俱乐部（万象城）",
+    "address": "闵行区吴中路1551号万象城4楼",
+    "duration": "1～3小时",
+    "budget": "以场馆或店铺当前报价为准",
+    "bestTime": "提前核对开放并预约",
+    "moods": [
+      "thrill"
+    ],
+    "traits": [
+      "curious",
+      "active"
+    ],
+    "mission": "提前确认冰场营业及新手课程，预约教练并佩戴护具，学习安全摔倒、起身和基础滑行；不自行练习旋转跳跃。",
+    "steps": [
+      "出发前用官方渠道核对营业、收费及预约要求",
+      "按官方地址前往世纪星滑冰俱乐部（万象城），先了解现场规则",
+      "提前确认冰场营业及新手课程，预约教练并佩戴护具，学习安全摔倒、起身和基础滑行；不自行练习旋转跳跃。"
+    ],
+    "tip": "官方介绍用于核对地点及项目类型，不代表实时营业；付费体验、教练和装备须提前确认。",
+    "sourceTitle": "上海市政府：世纪星冰场介绍",
+    "sourceUrl": "https://english.shanghai.gov.cn/en-Fitness/20250126/ba13b07ade1941719a78b1a64130fc90.html",
+    "verifiedAt": "2026-10-23",
+    "verificationScope": "官方地点和项目介绍；玩法为自助任务",
+    "status": "published",
+    "recommendable": true
+  },
+  {
+    "id": "cur-changxing-climb-v2-thrill",
+    "placeId": "cur-changxing-climb",
+    "catalogVersion": 2,
+    "emoji": "🧗",
+    "stamp": "新体验玩家",
+    "title": "长兴岛郊野公园攀岩乐园：在郊野公园预约一条入门岩道",
+    "kicker": "第一次尝试，让这个周末不一样。",
+    "district": "崇明",
+    "districts": [
+      "崇明"
+    ],
+    "location": "长兴岛郊野公园攀岩乐园",
+    "address": "崇明区长兴镇秋柑路199号长兴岛郊野公园内",
+    "duration": "1～3小时",
+    "budget": "以场馆或店铺当前报价为准",
+    "bestTime": "提前核对开放并预约",
+    "moods": [
+      "thrill"
+    ],
+    "traits": [
+      "curious",
+      "active"
+    ],
+    "mission": "向场馆确认新手入门项目并预约，在教练指导下学习装备和落地保护，尝试一条适合自己的基础线路；不自行挑战高难度。先向公园确认攀岩乐园当天是否接待、具体入口和天气要求。",
+    "steps": [
+      "出发前用官方渠道核对营业、收费及预约要求",
+      "按官方地址前往长兴岛郊野公园攀岩乐园，先了解现场规则",
+      "向场馆确认新手入门项目并预约，在教练指导下学习装备和落地保护，尝试一条适合自己的基础线路；不自行挑战高难度。先向公园确认攀岩乐园当天是否接待、具体入口和天气要求。"
+    ],
+    "tip": "官方介绍用于核对地点及项目类型，不代表实时营业；付费体验、教练和装备须提前确认。",
+    "sourceTitle": "上海崇明体育局：攀岩场所许可信息",
+    "sourceUrl": "https://shcm.gov.cn/bmpd/019014/019014002/20250919/6bccad84-aee5-414d-9713-928d02c5c403.html",
+    "verifiedAt": "2026-10-23",
+    "verificationScope": "官方地点和项目介绍；玩法为自助任务",
+    "status": "published",
+    "recommendable": true
   },
   {
     "id": "cur-climbism-v2-thrill",
@@ -207,6 +360,45 @@
     "recommendable": true
   },
   {
+    "id": "cur-dahua-night-v2-night",
+    "placeId": "cur-dahua-night",
+    "catalogVersion": 2,
+    "emoji": "🌙",
+    "stamp": "城市夜游者",
+    "title": "大华夜巷：选一份没吃过的街区夜宵",
+    "kicker": "晚饭以后，还有一段城市时间。",
+    "district": "宝山",
+    "districts": [
+      "宝山"
+    ],
+    "location": "大华夜巷",
+    "address": "宝山区大华路538号",
+    "duration": "1～3小时",
+    "budget": "以场馆或店铺当前报价为准",
+    "bestTime": "18点后，以当天开放为准",
+    "moods": [
+      "night"
+    ],
+    "traits": [
+      "night",
+      "social",
+      "food"
+    ],
+    "mission": "18点后前往正常营业的街区，先逛再选一份小食，在公共区域休息；只体验常设餐饮，不预设过去的主题市集仍在举办。",
+    "steps": [
+      "出发前用官方渠道核对营业、收费及预约要求",
+      "按官方地址前往大华夜巷，先了解现场规则",
+      "18点后前往正常营业的街区，先逛再选一份小食，在公共区域休息；只体验常设餐饮，不预设过去的主题市集仍在举办。"
+    ],
+    "tip": "官方介绍用于核对地点及项目类型，不代表实时营业；付费体验、教练和装备须提前确认。",
+    "sourceTitle": "上海市商务委：宝山夜间消费场所指南",
+    "sourceUrl": "https://sww.sh.gov.cn/swdt/20250807/55c891486567464a91538412024b3fe8.html",
+    "verifiedAt": "2026-10-23",
+    "verificationScope": "官方地点和项目介绍；玩法为自助任务",
+    "status": "published",
+    "recommendable": true
+  },
+  {
     "id": "cur-daxue-night-v2-night",
     "placeId": "cur-daxue-night",
     "catalogVersion": 2,
@@ -246,6 +438,51 @@
     "recommendable": true
   },
   {
+    "id": "cur-diskart-putuo-v2-thrill",
+    "placeId": "cur-diskart-putuo",
+    "catalogVersion": 2,
+    "emoji": "🧗",
+    "stamp": "新体验玩家",
+    "title": "迪士卡卡丁车（118广场）：在正规场馆完成一节卡丁车入门",
+    "kicker": "第一次尝试，让这个周末不一样。",
+    "district": "普陀",
+    "districts": [
+      "普陀"
+    ],
+    "location": "迪士卡卡丁车（118广场）",
+    "address": "普陀区金沙江路1685号118广场",
+    "duration": "1～3小时",
+    "budget": "以场馆或店铺当前报价为准",
+    "bestTime": "提前核对开放并预约",
+    "moods": [
+      "thrill"
+    ],
+    "traits": [
+      "curious",
+      "active"
+    ],
+    "mission": "预约前确认场馆营业、入口及身高年龄要求，听完安全说明并戴好头盔后体验基础驾驶，遵守限速和旗语，不竞速追逐。",
+    "steps": [
+      "出发前用官方渠道核对营业、收费及预约要求",
+      "按官方地址前往迪士卡卡丁车（118广场），先了解现场规则",
+      "预约前确认场馆营业、入口及身高年龄要求，听完安全说明并戴好头盔后体验基础驾驶，遵守限速和旗语，不竞速追逐。"
+    ],
+    "tip": "官方介绍用于核对地点及项目类型，不代表实时营业；付费体验、教练和装备须提前确认。",
+    "sourceTitle": "东方体育日报：迪士卡卡丁车实地报道",
+    "sourceUrl": "https://www.jfdaily.com/sgh/detail?id=4010486",
+    "verifiedAt": "2026-10-23",
+    "verificationScope": "官方地点和项目介绍；玩法为自助任务",
+    "status": "published",
+    "recommendable": true,
+    "latitude": 31.231885,
+    "longitude": 121.378742,
+    "coordinateSystem": "gcj02",
+    "coordinateSourceUrl": "https://www.amap.com/place/B0L0713W19",
+    "coordinateCheckedAt": "2026-10-23",
+    "coordinateRevision": 20261023,
+    "coordinateNote": "高德公开地点页，名称和门牌匹配；楼层信息存在差异，出发前向场馆确认入口"
+  },
+  {
     "id": "cur-drive-in-cinema-v2-night",
     "placeId": "cur-drive-in-cinema",
     "catalogVersion": 2,
@@ -280,6 +517,45 @@
     "sourceTitle": "上海市政府：场馆或夜游目的地介绍",
     "sourceUrl": "https://english.shanghai.gov.cn/en-CityTour/20250320/ad1d6a13b8c14018ba3cb1798f6bbeb6.html",
     "verifiedAt": "2026-10-19",
+    "verificationScope": "官方地点和项目介绍；玩法为自助任务",
+    "status": "published",
+    "recommendable": true
+  },
+  {
+    "id": "cur-fengjing-night-v2-night",
+    "placeId": "cur-fengjing-night",
+    "catalogVersion": 2,
+    "emoji": "🌙",
+    "stamp": "城市夜游者",
+    "title": "枫泾古镇夜间餐饮街区：在水乡老街吃晚饭",
+    "kicker": "晚饭以后，还有一段城市时间。",
+    "district": "金山",
+    "districts": [
+      "金山"
+    ],
+    "location": "枫泾古镇夜间餐饮街区",
+    "address": "金山区亭枫公路8588弄28号枫泾古镇",
+    "duration": "1～3小时",
+    "budget": "以场馆或店铺当前报价为准",
+    "bestTime": "18点后，以当天开放为准",
+    "moods": [
+      "night"
+    ],
+    "traits": [
+      "night",
+      "social",
+      "food"
+    ],
+    "mission": "先确认古镇公共街面当晚开放及餐厅营业，预约晚餐后走一小段亮灯老街；不进入关闭的收费景点，不承诺夜游船、灯光秀或演出。",
+    "steps": [
+      "出发前用官方渠道核对营业、收费及预约要求",
+      "按官方地址前往枫泾古镇夜间餐饮街区，先了解现场规则",
+      "先确认古镇公共街面当晚开放及餐厅营业，预约晚餐后走一小段亮灯老街；不进入关闭的收费景点，不承诺夜游船、灯光秀或演出。"
+    ],
+    "tip": "官方介绍用于核对地点及项目类型，不代表实时营业；付费体验、教练和装备须提前确认。",
+    "sourceTitle": "上海市政府：金山夜生活集聚区信息",
+    "sourceUrl": "https://www.shanghai.gov.cn/cmsres/42/423d90ae048c42fdaf0ecf1244283f23/096d445956f30d8831d555a545705741.pdf",
+    "verifiedAt": "2026-10-23",
     "verificationScope": "官方地点和项目介绍；玩法为自助任务",
     "status": "published",
     "recommendable": true
@@ -439,6 +715,44 @@
     "recommendable": true
   },
   {
+    "id": "cur-gonghui-yangpu-v2-thrill",
+    "placeId": "cur-gonghui-yangpu",
+    "catalogVersion": 2,
+    "emoji": "🧗",
+    "stamp": "新体验玩家",
+    "title": "共绘攀岩馆：跟教练学习第一次上墙",
+    "kicker": "第一次尝试，让这个周末不一样。",
+    "district": "杨浦",
+    "districts": [
+      "杨浦"
+    ],
+    "location": "共绘攀岩馆",
+    "address": "杨浦区国顺东路800号西楼2楼",
+    "duration": "1～3小时",
+    "budget": "以场馆或店铺当前报价为准",
+    "bestTime": "提前核对开放并预约",
+    "moods": [
+      "thrill"
+    ],
+    "traits": [
+      "curious",
+      "active"
+    ],
+    "mission": "向场馆确认新手入门项目并预约，在教练指导下学习装备和落地保护，尝试一条适合自己的基础线路；不自行挑战高难度。",
+    "steps": [
+      "出发前用官方渠道核对营业、收费及预约要求",
+      "按官方地址前往共绘攀岩馆，先了解现场规则",
+      "向场馆确认新手入门项目并预约，在教练指导下学习装备和落地保护，尝试一条适合自己的基础线路；不自行挑战高难度。"
+    ],
+    "tip": "官方介绍用于核对地点及项目类型，不代表实时营业；付费体验、教练和装备须提前确认。",
+    "sourceTitle": "上海杨浦：攀岩场馆介绍",
+    "sourceUrl": "https://www.jfdaily.com/sgh/detail?id=4051320",
+    "verifiedAt": "2026-10-23",
+    "verificationScope": "官方地点和项目介绍；玩法为自助任务",
+    "status": "published",
+    "recommendable": true
+  },
+  {
     "id": "cur-gongqing-ride-v2-thrill",
     "placeId": "cur-gongqing-ride",
     "catalogVersion": 2,
@@ -522,6 +836,159 @@
     "coordinateNote": "公开地图中的场馆或景点点位；实际入口以现场指引为准"
   },
   {
+    "id": "cur-jinshan-water-v2-thrill",
+    "placeId": "cur-jinshan-water",
+    "catalogVersion": 2,
+    "emoji": "🧗",
+    "stamp": "新体验玩家",
+    "title": "金山城市沙滩水上体验区：向海边场馆预约一次水上入门",
+    "kicker": "第一次尝试，让这个周末不一样。",
+    "district": "金山",
+    "districts": [
+      "金山"
+    ],
+    "location": "金山城市沙滩水上体验区",
+    "address": "金山区沪杭公路7555号金山城市沙滩",
+    "duration": "1～3小时",
+    "budget": "以场馆或店铺当前报价为准",
+    "bestTime": "提前核对开放并预约",
+    "moods": [
+      "thrill"
+    ],
+    "traits": [
+      "curious",
+      "active"
+    ],
+    "mission": "提前向景区确认当季实际开放的皮划艇等入门项目、教练和海况；穿救生衣、在指定水域听从指导。只在景区明确接待且天气适合时参加，不承诺全年营业。",
+    "steps": [
+      "出发前用官方渠道核对营业、收费及预约要求",
+      "按官方地址前往金山城市沙滩水上体验区，先了解现场规则",
+      "提前向景区确认当季实际开放的皮划艇等入门项目、教练和海况；穿救生衣、在指定水域听从指导。只在景区明确接待且天气适合时参加，不承诺全年营业。"
+    ],
+    "tip": "官方介绍用于核对地点及项目类型，不代表实时营业；付费体验、教练和装备须提前确认。",
+    "sourceTitle": "上海市政府：金山水上运动项目介绍",
+    "sourceUrl": "https://www.shanghai.gov.cn/nw17239/20260323/6284bdeea6bd44319e31050e042812fa.html",
+    "verifiedAt": "2026-10-23",
+    "verificationScope": "官方地点和项目介绍；玩法为自助任务",
+    "status": "published",
+    "recommendable": true
+  },
+  {
+    "id": "cur-jinshanzui-night-v2-night",
+    "placeId": "cur-jinshanzui-night",
+    "catalogVersion": 2,
+    "emoji": "🌙",
+    "stamp": "城市夜游者",
+    "title": "金山嘴渔村夜间餐饮街区：给周末留一顿渔村晚餐",
+    "kicker": "晚饭以后，还有一段城市时间。",
+    "district": "金山",
+    "districts": [
+      "金山"
+    ],
+    "location": "金山嘴渔村夜间餐饮街区",
+    "address": "金山区山阳镇沪杭公路6394号金山嘴渔村",
+    "duration": "1～3小时",
+    "budget": "以场馆或店铺当前报价为准",
+    "bestTime": "18点后，以当天开放为准",
+    "moods": [
+      "night"
+    ],
+    "traits": [
+      "night",
+      "social",
+      "food"
+    ],
+    "mission": "提前咨询渔村餐厅当晚营业和价格，预约一顿适合人数的晚餐；饭后只在亮灯公共街面活动，不预设烟花、市集或海边设施夜间开放。",
+    "steps": [
+      "出发前用官方渠道核对营业、收费及预约要求",
+      "按官方地址前往金山嘴渔村夜间餐饮街区，先了解现场规则",
+      "提前咨询渔村餐厅当晚营业和价格，预约一顿适合人数的晚餐；饭后只在亮灯公共街面活动，不预设烟花、市集或海边设施夜间开放。"
+    ],
+    "tip": "官方介绍用于核对地点及项目类型，不代表实时营业；付费体验、教练和装备须提前确认。",
+    "sourceTitle": "上海市政府新闻办：金山嘴渔村介绍",
+    "sourceUrl": "https://touch.shio.gov.cn/jsp/whjljd_detail.jsp?id=201",
+    "verifiedAt": "2026-10-23",
+    "verificationScope": "官方地点和项目介绍；玩法为自助任务",
+    "status": "published",
+    "recommendable": true
+  },
+  {
+    "id": "cur-jinsuwan-kart-v2-thrill",
+    "placeId": "cur-jinsuwan-kart",
+    "catalogVersion": 2,
+    "emoji": "🧗",
+    "stamp": "新体验玩家",
+    "title": "金速湾卡丁车：去金山体验正规卡丁车赛道",
+    "kicker": "第一次尝试，让这个周末不一样。",
+    "district": "金山",
+    "districts": [
+      "金山"
+    ],
+    "location": "金速湾卡丁车",
+    "address": "金山区沪杭公路7385号",
+    "duration": "1～3小时",
+    "budget": "以场馆或店铺当前报价为准",
+    "bestTime": "提前核对开放并预约",
+    "moods": [
+      "thrill"
+    ],
+    "traits": [
+      "curious",
+      "active"
+    ],
+    "mission": "先核对公众开放、天气、身高年龄与收费要求，听完安全说明并佩戴装备，完成适合初学者的一节驾驶体验；包场或停运时不前往。",
+    "steps": [
+      "出发前用官方渠道核对营业、收费及预约要求",
+      "按官方地址前往金速湾卡丁车，先了解现场规则",
+      "先核对公众开放、天气、身高年龄与收费要求，听完安全说明并佩戴装备，完成适合初学者的一节驾驶体验；包场或停运时不前往。"
+    ],
+    "tip": "官方介绍用于核对地点及项目类型，不代表实时营业；付费体验、教练和装备须提前确认。",
+    "sourceTitle": "上海市政府：金速湾卡丁车介绍",
+    "sourceUrl": "https://english.shanghai.gov.cn/en-SportsEvents/20240412/7066f53ff2e34185b18a3a20bc41cf48.html",
+    "verifiedAt": "2026-10-23",
+    "verificationScope": "官方地点和项目介绍；玩法为自助任务",
+    "status": "published",
+    "recommendable": true
+  },
+  {
+    "id": "cur-jinwu-qingpu-v2-thrill",
+    "placeId": "cur-jinwu-qingpu",
+    "catalogVersion": 2,
+    "emoji": "🧗",
+    "stamp": "新体验玩家",
+    "title": "金坞半岛水上运动基地：在教练陪同下尝试皮划艇",
+    "kicker": "第一次尝试，让这个周末不一样。",
+    "district": "青浦",
+    "districts": [
+      "青浦"
+    ],
+    "location": "金坞半岛水上运动基地",
+    "address": "青浦区商周公路988号",
+    "duration": "1～3小时",
+    "budget": "以场馆或店铺当前报价为准",
+    "bestTime": "提前核对开放并预约",
+    "moods": [
+      "thrill"
+    ],
+    "traits": [
+      "curious",
+      "active"
+    ],
+    "mission": "出发前确认当季开放、天气、水域许可及教练安排，穿好救生衣，在工作人员指定水域学习上下艇和基础划行；停航或天气不适合时不前往。",
+    "steps": [
+      "出发前用官方渠道核对营业、收费及预约要求",
+      "按官方地址前往金坞半岛水上运动基地，先了解现场规则",
+      "出发前确认当季开放、天气、水域许可及教练安排，穿好救生衣，在工作人员指定水域学习上下艇和基础划行；停航或天气不适合时不前往。"
+    ],
+    "tip": "官方介绍用于核对地点及项目类型，不代表实时营业；付费体验、教练和装备须提前确认。",
+    "sourceTitle": "上海青浦：水上运动场所指南",
+    "sourceUrl": "https://www.shqp.gov.cn/shqp/ggfw/bmts/20240815/1182508.html",
+    "verifiedAt": "2026-10-23",
+    "verificationScope": "官方地点和项目介绍；玩法为自助任务",
+    "status": "published",
+    "recommendable": true
+  },
+  {
     "id": "cur-joycity-night-v2-night",
     "placeId": "cur-joycity-night",
     "catalogVersion": 2,
@@ -556,6 +1023,84 @@
     "sourceTitle": "上海市政府：场馆或夜游目的地介绍",
     "sourceUrl": "https://english.shanghai.gov.cn/en-PlanANightOut/20260623/77c5f8ba615140af9c6499c262607846.html",
     "verifiedAt": "2026-10-19",
+    "verificationScope": "官方地点和项目介绍；玩法为自助任务",
+    "status": "published",
+    "recommendable": true
+  },
+  {
+    "id": "cur-laowaijie-night-v2-night",
+    "placeId": "cur-laowaijie-night",
+    "catalogVersion": 2,
+    "emoji": "🌙",
+    "stamp": "城市夜游者",
+    "title": "老外街：用一顿异国料理换个周末口味",
+    "kicker": "晚饭以后，还有一段城市时间。",
+    "district": "闵行",
+    "districts": [
+      "闵行"
+    ],
+    "location": "老外街",
+    "address": "闵行区虹梅路3338弄",
+    "duration": "1～3小时",
+    "budget": "以场馆或店铺当前报价为准",
+    "bestTime": "18点后，以当天开放为准",
+    "moods": [
+      "night"
+    ],
+    "traits": [
+      "night",
+      "social",
+      "food"
+    ],
+    "mission": "先查街区餐厅当晚营业和菜单，选一种没有尝试过的料理吃晚饭，餐后沿公共街面游逛；不强制饮酒，饮酒后不驾车。",
+    "steps": [
+      "出发前用官方渠道核对营业、收费及预约要求",
+      "按官方地址前往老外街，先了解现场规则",
+      "先查街区餐厅当晚营业和菜单，选一种没有尝试过的料理吃晚饭，餐后沿公共街面游逛；不强制饮酒，饮酒后不驾车。"
+    ],
+    "tip": "官方介绍用于核对地点及项目类型，不代表实时营业；付费体验、教练和装备须提前确认。",
+    "sourceTitle": "上海市政府：老外街餐饮街区介绍",
+    "sourceUrl": "https://www.shanghai.gov.cn/nw31406/20250703/293f0cab8d3b4f0393d5b8d976ad5748.html",
+    "verifiedAt": "2026-10-23",
+    "verificationScope": "官方地点和项目介绍；玩法为自助任务",
+    "status": "published",
+    "recommendable": true
+  },
+  {
+    "id": "cur-longfor-fengxian-night-v2-night",
+    "placeId": "cur-longfor-fengxian-night",
+    "catalogVersion": 2,
+    "emoji": "🌙",
+    "stamp": "城市夜游者",
+    "title": "奉贤天街酒食肆：晚饭去酒食肆找一家新店",
+    "kicker": "晚饭以后，还有一段城市时间。",
+    "district": "奉贤",
+    "districts": [
+      "奉贤"
+    ],
+    "location": "奉贤天街酒食肆",
+    "address": "奉贤区金海公路3800号奉贤天街",
+    "duration": "1～3小时",
+    "budget": "以场馆或店铺当前报价为准",
+    "bestTime": "18点后，以当天开放为准",
+    "moods": [
+      "night"
+    ],
+    "traits": [
+      "night",
+      "social",
+      "food"
+    ],
+    "mission": "确认街区和餐饮店当晚营业，在常设餐饮区自选一家店吃晚饭；不依赖旧购物节活动，不强制饮酒，饮酒后不驾车。",
+    "steps": [
+      "出发前用官方渠道核对营业、收费及预约要求",
+      "按官方地址前往奉贤天街酒食肆，先了解现场规则",
+      "确认街区和餐饮店当晚营业，在常设餐饮区自选一家店吃晚饭；不依赖旧购物节活动，不强制饮酒，饮酒后不驾车。"
+    ],
+    "tip": "官方介绍用于核对地点及项目类型，不代表实时营业；付费体验、教练和装备须提前确认。",
+    "sourceTitle": "上海国际人才网：奉贤夜间消费介绍",
+    "sourceUrl": "https://www.sh-italent.cn/article/202306/202306090002.shtml",
+    "verifiedAt": "2026-10-23",
     "verificationScope": "官方地点和项目介绍；玩法为自助任务",
     "status": "published",
     "recommendable": true
@@ -645,6 +1190,160 @@
     "recommendable": true
   },
   {
+    "id": "cur-meilan-night-v2-night",
+    "placeId": "cur-meilan-night",
+    "catalogVersion": 2,
+    "emoji": "🌙",
+    "stamp": "城市夜游者",
+    "title": "美兰湖小镇夜间街区：沿小镇街面安排一顿晚餐",
+    "kicker": "晚饭以后，还有一段城市时间。",
+    "district": "宝山",
+    "districts": [
+      "宝山"
+    ],
+    "location": "美兰湖小镇夜间街区",
+    "address": "宝山区罗芬路555弄至989弄",
+    "duration": "1～3小时",
+    "budget": "以场馆或店铺当前报价为准",
+    "bestTime": "18点后，以当天开放为准",
+    "moods": [
+      "night"
+    ],
+    "traits": [
+      "night",
+      "social",
+      "food"
+    ],
+    "mission": "先查当晚营业餐厅，晚饭后在开放的亮灯街面短途游逛；湖边停留在护栏内，不预设音乐节或市集存在。",
+    "steps": [
+      "出发前用官方渠道核对营业、收费及预约要求",
+      "按官方地址前往美兰湖小镇夜间街区，先了解现场规则",
+      "先查当晚营业餐厅，晚饭后在开放的亮灯街面短途游逛；湖边停留在护栏内，不预设音乐节或市集存在。"
+    ],
+    "tip": "官方介绍用于核对地点及项目类型，不代表实时营业；付费体验、教练和装备须提前确认。",
+    "sourceTitle": "上海市商务委：宝山夜间消费场所指南",
+    "sourceUrl": "https://sww.sh.gov.cn/swdt/20250807/55c891486567464a91538412024b3fe8.html",
+    "verifiedAt": "2026-10-23",
+    "verificationScope": "官方地点和项目介绍；玩法为自助任务",
+    "status": "published",
+    "recommendable": true
+  },
+  {
+    "id": "cur-mermaid-fengxian-night-v2-night",
+    "placeId": "cur-mermaid-fengxian-night",
+    "catalogVersion": 2,
+    "emoji": "🌙",
+    "stamp": "城市夜游者",
+    "title": "美人鱼休闲街：去南桥的休闲街找一顿夜宵",
+    "kicker": "晚饭以后，还有一段城市时间。",
+    "district": "奉贤",
+    "districts": [
+      "奉贤"
+    ],
+    "location": "美人鱼休闲街",
+    "address": "奉贤区南桥镇南方国际广场美人鱼休闲街",
+    "duration": "1～3小时",
+    "budget": "以场馆或店铺当前报价为准",
+    "bestTime": "18点后，以当天开放为准",
+    "moods": [
+      "night"
+    ],
+    "traits": [
+      "night",
+      "social",
+      "food"
+    ],
+    "mission": "出发前核对美人鱼休闲街入口及餐饮店营业情况，18点后在正常营业区域自选一顿夜宵；不把过去的亮灯季或快闪市集视为常设活动。",
+    "steps": [
+      "出发前用官方渠道核对营业、收费及预约要求",
+      "按官方地址前往美人鱼休闲街，先了解现场规则",
+      "出发前核对美人鱼休闲街入口及餐饮店营业情况，18点后在正常营业区域自选一顿夜宵；不把过去的亮灯季或快闪市集视为常设活动。"
+    ],
+    "tip": "官方介绍用于核对地点及项目类型，不代表实时营业；付费体验、教练和装备须提前确认。",
+    "sourceTitle": "上海国际人才网：奉贤夜间消费介绍",
+    "sourceUrl": "https://www.sh-italent.cn/article/202306/202306090002.shtml",
+    "verifiedAt": "2026-10-23",
+    "verificationScope": "官方地点和项目介绍；玩法为自助任务",
+    "status": "published",
+    "recommendable": true
+  },
+  {
+    "id": "cur-mingzhu-water-v2-thrill",
+    "placeId": "cur-mingzhu-water",
+    "catalogVersion": 2,
+    "emoji": "🧗",
+    "stamp": "新体验玩家",
+    "title": "明珠湖水上体验区：在湖面尝试一次水上卡丁船",
+    "kicker": "第一次尝试，让这个周末不一样。",
+    "district": "崇明",
+    "districts": [
+      "崇明"
+    ],
+    "location": "明珠湖水上体验区",
+    "address": "崇明区三华公路333号西沙明珠湖景区",
+    "duration": "1～3小时",
+    "budget": "以场馆或店铺当前报价为准",
+    "bestTime": "提前核对开放并预约",
+    "moods": [
+      "thrill"
+    ],
+    "traits": [
+      "curious",
+      "active"
+    ],
+    "mission": "先向景区确认水上卡丁船当季是否开放及年龄健康要求，穿救生衣，听完工作人员说明后按指定路线体验；大风、停航及非开放季不参加。",
+    "steps": [
+      "出发前用官方渠道核对营业、收费及预约要求",
+      "按官方地址前往明珠湖水上体验区，先了解现场规则",
+      "先向景区确认水上卡丁船当季是否开放及年龄健康要求，穿救生衣，听完工作人员说明后按指定路线体验；大风、停航及非开放季不参加。"
+    ],
+    "tip": "官方介绍用于核对地点及项目类型，不代表实时营业；付费体验、教练和装备须提前确认。",
+    "sourceTitle": "上海崇明：明珠湖水上项目实地报道",
+    "sourceUrl": "https://www.shcm.gov.cn/xwzx/002003/20260615/6a23ba53-7dcb-4538-bbb8-3aeb83311fcc.html",
+    "verifiedAt": "2026-10-23",
+    "verificationScope": "官方地点和项目介绍；玩法为自助任务",
+    "status": "published",
+    "recommendable": true
+  },
+  {
+    "id": "cur-muxintang-baoshan-v2-thrill",
+    "placeId": "cur-muxintang-baoshan",
+    "catalogVersion": 2,
+    "emoji": "🧗",
+    "stamp": "新体验玩家",
+    "title": "沐心堂射箭馆（云瑞邻里中心）：第一次拉弓，先学安全规则",
+    "kicker": "第一次尝试，让这个周末不一样。",
+    "district": "宝山",
+    "districts": [
+      "宝山"
+    ],
+    "location": "沐心堂射箭馆（云瑞邻里中心）",
+    "address": "宝山区共和新路5219号云瑞邻里中心",
+    "duration": "1～3小时",
+    "budget": "以场馆或店铺当前报价为准",
+    "bestTime": "提前核对开放并预约",
+    "moods": [
+      "thrill"
+    ],
+    "traits": [
+      "curious",
+      "active"
+    ],
+    "mission": "确认射箭馆当前营业和新手课，预约工作人员指导，先学习护具、站位及统一取箭规则，再完成一轮近距离基础练习；不自行操作陌生装备。",
+    "steps": [
+      "出发前用官方渠道核对营业、收费及预约要求",
+      "按官方地址前往沐心堂射箭馆（云瑞邻里中心），先了解现场规则",
+      "确认射箭馆当前营业和新手课，预约工作人员指导，先学习护具、站位及统一取箭规则，再完成一轮近距离基础练习；不自行操作陌生装备。"
+    ],
+    "tip": "官方介绍用于核对地点及项目类型，不代表实时营业；付费体验、教练和装备须提前确认。",
+    "sourceTitle": "上海市商务委：宝山夜间消费场所指南",
+    "sourceUrl": "https://sww.sh.gov.cn/swdt/20250807/55c891486567464a91538412024b3fe8.html",
+    "verifiedAt": "2026-10-23",
+    "verificationScope": "官方地点和项目介绍；玩法为自助任务",
+    "status": "published",
+    "recommendable": true
+  },
+  {
     "id": "cur-new-world-climb-v2-thrill",
     "placeId": "cur-new-world-climb",
     "catalogVersion": 2,
@@ -683,6 +1382,45 @@
     "recommendable": true
   },
   {
+    "id": "cur-panlong-night-v2-night",
+    "placeId": "cur-panlong-night",
+    "catalogVersion": 2,
+    "emoji": "🌙",
+    "stamp": "城市夜游者",
+    "title": "蟠龙天地夜间商业街区：到水乡商业街吃一顿晚饭",
+    "kicker": "晚饭以后，还有一段城市时间。",
+    "district": "青浦",
+    "districts": [
+      "青浦"
+    ],
+    "location": "蟠龙天地夜间商业街区",
+    "address": "青浦区蟠鼎路123弄8号",
+    "duration": "1～3小时",
+    "budget": "以场馆或店铺当前报价为准",
+    "bestTime": "18点后，以当天开放为准",
+    "moods": [
+      "night"
+    ],
+    "traits": [
+      "night",
+      "social",
+      "food"
+    ],
+    "mission": "查好当晚营业餐厅，晚饭后沿开放公共街区短途游逛；不预设灯光秀、夜间游船或特定节庆活动开放。",
+    "steps": [
+      "出发前用官方渠道核对营业、收费及预约要求",
+      "按官方地址前往蟠龙天地夜间商业街区，先了解现场规则",
+      "查好当晚营业餐厅，晚饭后沿开放公共街区短途游逛；不预设灯光秀、夜间游船或特定节庆活动开放。"
+    ],
+    "tip": "官方介绍用于核对地点及项目类型，不代表实时营业；付费体验、教练和装备须提前确认。",
+    "sourceTitle": "上海市政府：青浦夜间商业目的地介绍",
+    "sourceUrl": "https://www.shanghai.gov.cn/nw17239/20260625/2ba8e6f50fe148bbbddc03c061f68bc6.html",
+    "verifiedAt": "2026-10-23",
+    "verificationScope": "官方地点和项目介绍；玩法为自助任务",
+    "status": "published",
+    "recommendable": true
+  },
+  {
     "id": "cur-park-climb-v2-thrill",
     "placeId": "cur-park-climb",
     "catalogVersion": 2,
@@ -716,6 +1454,121 @@
     "sourceTitle": "上海市政府：场馆或夜游目的地介绍",
     "sourceUrl": "https://english.shanghai.gov.cn/en-Fitness/20240723/8d4ed33e90b045f2bc1501a47d916234.html",
     "verifiedAt": "2026-10-19",
+    "verificationScope": "官方地点和项目介绍；玩法为自助任务",
+    "status": "published",
+    "recommendable": true
+  },
+  {
+    "id": "cur-partyday-putuo-v2-thrill",
+    "placeId": "cur-partyday-putuo",
+    "catalogVersion": 2,
+    "emoji": "🧗",
+    "stamp": "新体验玩家",
+    "title": "PARTYDAY超星嘉年华（环球港）：试一项没玩过的模拟运动",
+    "kicker": "第一次尝试，让这个周末不一样。",
+    "district": "普陀",
+    "districts": [
+      "普陀"
+    ],
+    "location": "PARTYDAY超星嘉年华（环球港）",
+    "address": "普陀区中山北路3300号上海环球港L4",
+    "duration": "1～3小时",
+    "budget": "以场馆或店铺当前报价为准",
+    "bestTime": "提前核对开放并预约",
+    "moods": [
+      "thrill"
+    ],
+    "traits": [
+      "curious",
+      "active"
+    ],
+    "mission": "先向场馆确认适合成人的新手项目、收费和健康要求，从XR或模拟赛车中选一项实际开放的体验；不把模拟驾驶当作真实赛道。",
+    "steps": [
+      "出发前用官方渠道核对营业、收费及预约要求",
+      "按官方地址前往PARTYDAY超星嘉年华（环球港），先了解现场规则",
+      "先向场馆确认适合成人的新手项目、收费和健康要求，从XR或模拟赛车中选一项实际开放的体验；不把模拟驾驶当作真实赛道。"
+    ],
+    "tip": "官方介绍用于核对地点及项目类型，不代表实时营业；付费体验、教练和装备须提前确认。",
+    "sourceTitle": "上海普陀：环球港运动体验介绍",
+    "sourceUrl": "https://shpt.gov.cn/bm-ms/20261013/973655.html",
+    "verifiedAt": "2026-10-23",
+    "verificationScope": "官方地点和项目介绍；玩法为自助任务",
+    "status": "published",
+    "recommendable": true
+  },
+  {
+    "id": "cur-powerlong-qingpu-night-v2-night",
+    "placeId": "cur-powerlong-qingpu-night",
+    "catalogVersion": 2,
+    "emoji": "🌙",
+    "stamp": "城市夜游者",
+    "title": "青浦宝龙广场：安排一场晚饭后的电影",
+    "kicker": "晚饭以后，还有一段城市时间。",
+    "district": "青浦",
+    "districts": [
+      "青浦"
+    ],
+    "location": "青浦宝龙广场",
+    "address": "青浦区汇金路590号",
+    "duration": "1～3小时",
+    "budget": "以场馆或店铺当前报价为准",
+    "bestTime": "18点后，以当天开放为准",
+    "moods": [
+      "night"
+    ],
+    "traits": [
+      "night",
+      "social",
+      "food"
+    ],
+    "mission": "先查看影城当晚18点后的真实排片，确认有合适电影后购票，提前在营业餐饮区吃饭；没有合适场次不为了打卡购票。",
+    "steps": [
+      "出发前用官方渠道核对营业、收费及预约要求",
+      "按官方地址前往青浦宝龙广场，先了解现场规则",
+      "先查看影城当晚18点后的真实排片，确认有合适电影后购票，提前在营业餐饮区吃饭；没有合适场次不为了打卡购票。"
+    ],
+    "tip": "官方介绍用于核对地点及项目类型，不代表实时营业；付费体验、教练和装备须提前确认。",
+    "sourceTitle": "上海青浦：夜间消费目的地介绍",
+    "sourceUrl": "https://www.shqp.gov.cn/shqp/qpzdjcbs/wwgwj/20230727/1127310.html",
+    "verifiedAt": "2026-10-23",
+    "verificationScope": "官方地点和项目介绍；玩法为自助任务",
+    "status": "published",
+    "recommendable": true
+  },
+  {
+    "id": "cur-s10-baoshan-v2-thrill",
+    "placeId": "cur-s10-baoshan",
+    "catalogVersion": 2,
+    "emoji": "🧗",
+    "stamp": "新体验玩家",
+    "title": "S10国际潜水运动俱乐部（三邻桥）：预约一堂泳池潜水体验课",
+    "kicker": "第一次尝试，让这个周末不一样。",
+    "district": "宝山",
+    "districts": [
+      "宝山"
+    ],
+    "location": "S10国际潜水运动俱乐部（三邻桥）",
+    "address": "宝山区江杨南路485号三邻桥体育文化园",
+    "duration": "1～3小时",
+    "budget": "以场馆或店铺当前报价为准",
+    "bestTime": "提前核对开放并预约",
+    "moods": [
+      "thrill"
+    ],
+    "traits": [
+      "curious",
+      "active"
+    ],
+    "mission": "先向俱乐部确认体验课、健康筛查及教练资质，按要求预约，在教练全程指导下学习呼吸和基础装备；不独自下潜，不把体验课当作持证潜水。",
+    "steps": [
+      "出发前用官方渠道核对营业、收费及预约要求",
+      "按官方地址前往S10国际潜水运动俱乐部（三邻桥），先了解现场规则",
+      "先向俱乐部确认体验课、健康筛查及教练资质，按要求预约，在教练全程指导下学习呼吸和基础装备；不独自下潜，不把体验课当作持证潜水。"
+    ],
+    "tip": "官方介绍用于核对地点及项目类型，不代表实时营业；付费体验、教练和装备须提前确认。",
+    "sourceTitle": "上海宝山：三邻桥体育文化园项目介绍",
+    "sourceUrl": "https://www.shbsq.gov.cn/shbs/bsdt/20220817/345519.html",
+    "verifiedAt": "2026-10-23",
     "verificationScope": "官方地点和项目介绍；玩法为自助任务",
     "status": "published",
     "recommendable": true
@@ -760,6 +1613,44 @@
     "recommendable": true
   },
   {
+    "id": "cur-shuoguo-fengxian-v2-thrill",
+    "placeId": "cur-shuoguo-fengxian",
+    "catalogVersion": 2,
+    "emoji": "🧗",
+    "stamp": "新体验玩家",
+    "title": "槊果水上运动中心：预约一次水上基础体验",
+    "kicker": "第一次尝试，让这个周末不一样。",
+    "district": "奉贤",
+    "districts": [
+      "奉贤"
+    ],
+    "location": "槊果水上运动中心",
+    "address": "奉贤区海涵路6号",
+    "duration": "1～3小时",
+    "budget": "以场馆或店铺当前报价为准",
+    "bestTime": "提前核对开放并预约",
+    "moods": [
+      "thrill"
+    ],
+    "traits": [
+      "curious",
+      "active"
+    ],
+    "mission": "先确认当前季节是否接待及教练资质，预约适合自己的皮划艇或桨板基础课，穿救生衣并遵守指定水域规则；不独自下水，停航或恶劣天气不参加。",
+    "steps": [
+      "出发前用官方渠道核对营业、收费及预约要求",
+      "按官方地址前往槊果水上运动中心，先了解现场规则",
+      "先确认当前季节是否接待及教练资质，预约适合自己的皮划艇或桨板基础课，穿救生衣并遵守指定水域规则；不独自下水，停航或恶劣天气不参加。"
+    ],
+    "tip": "官方介绍用于核对地点及项目类型，不代表实时营业；付费体验、教练和装备须提前确认。",
+    "sourceTitle": "乐游上海：奉贤水上运动介绍（人民网转载）",
+    "sourceUrl": "https://sh.people.com.cn/n2/2023/0627/c350122-40472580.html",
+    "verifiedAt": "2026-10-23",
+    "verificationScope": "官方地点和项目介绍；玩法为自助任务",
+    "status": "published",
+    "recommendable": true
+  },
+  {
     "id": "cur-sic-kart-v2-thrill",
     "placeId": "cur-sic-kart",
     "catalogVersion": 2,
@@ -793,6 +1684,83 @@
     "sourceTitle": "上海市政府：场馆或夜游目的地介绍",
     "sourceUrl": "https://english.shanghai.gov.cn/en-CityTour/20250320/ad1d6a13b8c14018ba3cb1798f6bbeb6.html",
     "verifiedAt": "2026-10-19",
+    "verificationScope": "官方地点和项目介绍；玩法为自助任务",
+    "status": "published",
+    "recommendable": true
+  },
+  {
+    "id": "cur-sijing-night-v2-night",
+    "placeId": "cur-sijing-night",
+    "catalogVersion": 2,
+    "emoji": "🌙",
+    "stamp": "城市夜游者",
+    "title": "泗泾夜市（三湘商业广场）：在泗泾吃一份热乎的夜市小食",
+    "kicker": "晚饭以后，还有一段城市时间。",
+    "district": "松江",
+    "districts": [
+      "松江"
+    ],
+    "location": "泗泾夜市（三湘商业广场）",
+    "address": "松江区泗宝路18号三湘商业广场南侧",
+    "duration": "1～3小时",
+    "budget": "以场馆或店铺当前报价为准",
+    "bestTime": "18点后，以当天开放为准",
+    "moods": [
+      "night"
+    ],
+    "traits": [
+      "night",
+      "social",
+      "food"
+    ],
+    "mission": "先查夜市当晚营业及具体入口，正常营业时挑选一家摊位现做的小食，带走垃圾；不依赖节庆接驳车或限期演出。",
+    "steps": [
+      "出发前用官方渠道核对营业、收费及预约要求",
+      "按官方地址前往泗泾夜市（三湘商业广场），先了解现场规则",
+      "先查夜市当晚营业及具体入口，正常营业时挑选一家摊位现做的小食，带走垃圾；不依赖节庆接驳车或限期演出。"
+    ],
+    "tip": "官方介绍用于核对地点及项目类型，不代表实时营业；付费体验、教练和装备须提前确认。",
+    "sourceTitle": "上海市文旅推广网：泗泾夜市介绍",
+    "sourceUrl": "https://www.meet-in-shanghai.net/tc/news/lantern-viewing-visiting-markets-playing-intangible-cultural-heritage-come-to-sijing-ancient-town-during-the-new-year-of-the-horse-507110/",
+    "verifiedAt": "2026-10-23",
+    "verificationScope": "官方地点和项目介绍；玩法为自助任务",
+    "status": "published",
+    "recommendable": true
+  },
+  {
+    "id": "cur-smalltree-hongkou-v2-thrill",
+    "placeId": "cur-smalltree-hongkou",
+    "catalogVersion": 2,
+    "emoji": "🧗",
+    "stamp": "新体验玩家",
+    "title": "小树攀岩馆：到足球场里学一次攀岩",
+    "kicker": "第一次尝试，让这个周末不一样。",
+    "district": "虹口",
+    "districts": [
+      "虹口"
+    ],
+    "location": "小树攀岩馆",
+    "address": "虹口区东江湾路444号虹口足球场4楼",
+    "duration": "1～3小时",
+    "budget": "以场馆或店铺当前报价为准",
+    "bestTime": "提前核对开放并预约",
+    "moods": [
+      "thrill"
+    ],
+    "traits": [
+      "curious",
+      "active"
+    ],
+    "mission": "向场馆确认新手入门项目并预约，在教练指导下学习装备和落地保护，尝试一条适合自己的基础线路；不自行挑战高难度。",
+    "steps": [
+      "出发前用官方渠道核对营业、收费及预约要求",
+      "按官方地址前往小树攀岩馆，先了解现场规则",
+      "向场馆确认新手入门项目并预约，在教练指导下学习装备和落地保护，尝试一条适合自己的基础线路；不自行挑战高难度。"
+    ],
+    "tip": "官方介绍用于核对地点及项目类型，不代表实时营业；付费体验、教练和装备须提前确认。",
+    "sourceTitle": "上海虹口：运动场馆指南",
+    "sourceUrl": "https://www.shhk.gov.cn/xwzx/002008/002008040/20230416/fe1201ef-a095-42fa-bff8-59724bec1d69.html",
+    "verifiedAt": "2026-10-23",
     "verificationScope": "官方地点和项目介绍；玩法为自助任务",
     "status": "published",
     "recommendable": true
@@ -836,6 +1804,90 @@
     "recommendable": true
   },
   {
+    "id": "cur-tashan-yangpu-v2-thrill",
+    "placeId": "cur-tashan-yangpu",
+    "catalogVersion": 2,
+    "emoji": "🧗",
+    "stamp": "新体验玩家",
+    "title": "TA山攀岩馆（百联又一城）：尝试一次商场里的攀岩入门",
+    "kicker": "第一次尝试，让这个周末不一样。",
+    "district": "杨浦",
+    "districts": [
+      "杨浦"
+    ],
+    "location": "TA山攀岩馆（百联又一城）",
+    "address": "杨浦区淞沪路8号百联又一城8楼南区",
+    "duration": "1～3小时",
+    "budget": "以场馆或店铺当前报价为准",
+    "bestTime": "提前核对开放并预约",
+    "moods": [
+      "thrill"
+    ],
+    "traits": [
+      "curious",
+      "active"
+    ],
+    "mission": "向场馆确认新手入门项目并预约，在教练指导下学习装备和落地保护，尝试一条适合自己的基础线路；不自行挑战高难度。",
+    "steps": [
+      "出发前用官方渠道核对营业、收费及预约要求",
+      "按官方地址前往TA山攀岩馆（百联又一城），先了解现场规则",
+      "向场馆确认新手入门项目并预约，在教练指导下学习装备和落地保护，尝试一条适合自己的基础线路；不自行挑战高难度。"
+    ],
+    "tip": "官方介绍用于核对地点及项目类型，不代表实时营业；付费体验、教练和装备须提前确认。",
+    "sourceTitle": "上海杨浦：攀岩场馆介绍",
+    "sourceUrl": "https://www.jfdaily.com/sgh/detail?id=4051320",
+    "verifiedAt": "2026-10-23",
+    "verificationScope": "官方地点和项目介绍；玩法为自助任务",
+    "status": "published",
+    "recommendable": true,
+    "latitude": 31.301527,
+    "longitude": 121.515618,
+    "coordinateSystem": "gcj02",
+    "coordinateSourceUrl": "https://map.gaode.com/place/B0LKKHNP8O",
+    "coordinateCheckedAt": "2026-10-23",
+    "coordinateRevision": 20261023,
+    "coordinateNote": "高德公开地点页，名称和门牌匹配；实际入口以现场指引为准"
+  },
+  {
+    "id": "cur-thousandtrees-night-v2-night",
+    "placeId": "cur-thousandtrees-night",
+    "catalogVersion": 2,
+    "emoji": "🌙",
+    "stamp": "城市夜游者",
+    "title": "天安千树：在苏州河边找一顿新晚餐",
+    "kicker": "晚饭以后，还有一段城市时间。",
+    "district": "普陀",
+    "districts": [
+      "普陀"
+    ],
+    "location": "天安千树",
+    "address": "普陀区莫干山路600号",
+    "duration": "1～3小时",
+    "budget": "以场馆或店铺当前报价为准",
+    "bestTime": "18点后，以当天开放为准",
+    "moods": [
+      "night"
+    ],
+    "traits": [
+      "night",
+      "social",
+      "food"
+    ],
+    "mission": "核对商场当晚营业，选一家餐饮店吃饭，再到公众开放的滨河区域看建筑夜景；不擅入关闭露台，不预设展览开放。",
+    "steps": [
+      "出发前用官方渠道核对营业、收费及预约要求",
+      "按官方地址前往天安千树，先了解现场规则",
+      "核对商场当晚营业，选一家餐饮店吃饭，再到公众开放的滨河区域看建筑夜景；不擅入关闭露台，不预设展览开放。"
+    ],
+    "tip": "官方介绍用于核对地点及项目类型，不代表实时营业；付费体验、教练和装备须提前确认。",
+    "sourceTitle": "上海市文旅推广网：天安千树介绍",
+    "sourceUrl": "https://www.meet-in-shanghai.net/cn/shopping/cheonan-thousand-trees-010053/",
+    "verifiedAt": "2026-10-23",
+    "verificationScope": "官方地点和项目介绍；玩法为自助任务",
+    "status": "published",
+    "recommendable": true
+  },
+  {
     "id": "cur-urock-v2-thrill",
     "placeId": "cur-urock",
     "catalogVersion": 2,
@@ -869,6 +1921,83 @@
     "sourceTitle": "上海市政府：场馆或夜游目的地介绍",
     "sourceUrl": "https://english.shanghai.gov.cn/en-Fitness/20240723/8d4ed33e90b045f2bc1501a47d916234.html",
     "verifiedAt": "2026-10-19",
+    "verificationScope": "官方地点和项目介绍；玩法为自助任务",
+    "status": "published",
+    "recommendable": true
+  },
+  {
+    "id": "cur-wanda-chongming-night-v2-night",
+    "placeId": "cur-wanda-chongming-night",
+    "catalogVersion": 2,
+    "emoji": "🌙",
+    "stamp": "城市夜游者",
+    "title": "万达影城（崇明万达店）：在岛上看一场晚场电影",
+    "kicker": "晚饭以后，还有一段城市时间。",
+    "district": "崇明",
+    "districts": [
+      "崇明"
+    ],
+    "location": "万达影城（崇明万达店）",
+    "address": "崇明区崇明大道8388号3楼",
+    "duration": "1～3小时",
+    "budget": "以场馆或店铺当前报价为准",
+    "bestTime": "18点后，以当天开放为准",
+    "moods": [
+      "night"
+    ],
+    "traits": [
+      "night",
+      "social",
+      "food"
+    ],
+    "mission": "从影院官方渠道核对门店和当晚18点后的实际排片，选好场次再购票，提前安排返程；没有合适场次时不前往等待。",
+    "steps": [
+      "出发前用官方渠道核对营业、收费及预约要求",
+      "按官方地址前往万达影城（崇明万达店），先了解现场规则",
+      "从影院官方渠道核对门店和当晚18点后的实际排片，选好场次再购票，提前安排返程；没有合适场次时不前往等待。"
+    ],
+    "tip": "官方介绍用于核对地点及项目类型，不代表实时营业；付费体验、教练和装备须提前确认。",
+    "sourceTitle": "上海市商务委：影院门店地址名录",
+    "sourceUrl": "https://sww.sh.gov.cn/cmsres/ae/ae6658e3f1e646d5b6b5ac8c248309cc/6c5492862a5bd2d562a54410489fd0f2.pdf",
+    "verifiedAt": "2026-10-23",
+    "verificationScope": "官方地点和项目介绍；玩法为自助任务",
+    "status": "published",
+    "recommendable": true
+  },
+  {
+    "id": "cur-weekend-qingpu-v2-thrill",
+    "placeId": "cur-weekend-qingpu",
+    "catalogVersion": 2,
+    "emoji": "🧗",
+    "stamp": "新体验玩家",
+    "title": "周末水上俱乐部：把第一次桨板体验交给教练",
+    "kicker": "第一次尝试，让这个周末不一样。",
+    "district": "青浦",
+    "districts": [
+      "青浦"
+    ],
+    "location": "周末水上俱乐部",
+    "address": "青浦区朱家角镇西井街300号",
+    "duration": "1～3小时",
+    "budget": "以场馆或店铺当前报价为准",
+    "bestTime": "提前核对开放并预约",
+    "moods": [
+      "thrill"
+    ],
+    "traits": [
+      "curious",
+      "active"
+    ],
+    "mission": "先咨询当前季节是否开课，核对水域、收费及健康要求，预约教练，穿救生衣从跪姿和平衡训练开始；不自行下水，不预设全年开放。",
+    "steps": [
+      "出发前用官方渠道核对营业、收费及预约要求",
+      "按官方地址前往周末水上俱乐部，先了解现场规则",
+      "先咨询当前季节是否开课，核对水域、收费及健康要求，预约教练，穿救生衣从跪姿和平衡训练开始；不自行下水，不预设全年开放。"
+    ],
+    "tip": "官方介绍用于核对地点及项目类型，不代表实时营业；付费体验、教练和装备须提前确认。",
+    "sourceTitle": "上海青浦：水上运动场所指南",
+    "sourceUrl": "https://www.shqp.gov.cn/shqp/ggfw/bmts/20240815/1182508.html",
+    "verifiedAt": "2026-10-23",
     "verificationScope": "官方地点和项目介绍；玩法为自助任务",
     "status": "published",
     "recommendable": true
@@ -913,6 +2042,44 @@
     "recommendable": true
   },
   {
+    "id": "cur-xiaoyan-hongkou-v2-thrill",
+    "placeId": "cur-xiaoyan-hongkou",
+    "catalogVersion": 2,
+    "emoji": "🧗",
+    "stamp": "新体验玩家",
+    "title": "啸岩馆：用一次基础攀爬认识自己的重心",
+    "kicker": "第一次尝试，让这个周末不一样。",
+    "district": "虹口",
+    "districts": [
+      "虹口"
+    ],
+    "location": "啸岩馆",
+    "address": "虹口区花园路128号运动LOFT一街区A座1楼",
+    "duration": "1～3小时",
+    "budget": "以场馆或店铺当前报价为准",
+    "bestTime": "提前核对开放并预约",
+    "moods": [
+      "thrill"
+    ],
+    "traits": [
+      "curious",
+      "active"
+    ],
+    "mission": "向场馆确认新手入门项目并预约，在教练指导下学习装备和落地保护，尝试一条适合自己的基础线路；不自行挑战高难度。",
+    "steps": [
+      "出发前用官方渠道核对营业、收费及预约要求",
+      "按官方地址前往啸岩馆，先了解现场规则",
+      "向场馆确认新手入门项目并预约，在教练指导下学习装备和落地保护，尝试一条适合自己的基础线路；不自行挑战高难度。"
+    ],
+    "tip": "官方介绍用于核对地点及项目类型，不代表实时营业；付费体验、教练和装备须提前确认。",
+    "sourceTitle": "上海虹口：运动场馆指南",
+    "sourceUrl": "https://www.shhk.gov.cn/xwzx/002008/002008040/20230416/fe1201ef-a095-42fa-bff8-59724bec1d69.html",
+    "verifiedAt": "2026-10-23",
+    "verificationScope": "官方地点和项目介绍；玩法为自助任务",
+    "status": "published",
+    "recommendable": true
+  },
+  {
     "id": "cur-xintiandi-night-v2-night",
     "placeId": "cur-xintiandi-night",
     "catalogVersion": 2,
@@ -952,6 +2119,84 @@
     "recommendable": true
   },
   {
+    "id": "cur-xiyunlou-night-v2-night",
+    "placeId": "cur-xiyunlou-night",
+    "catalogVersion": 2,
+    "emoji": "🌙",
+    "stamp": "城市夜游者",
+    "title": "西云楼夜间商业街区：到水街找一顿晚餐",
+    "kicker": "晚饭以后，还有一段城市时间。",
+    "district": "嘉定",
+    "districts": [
+      "嘉定"
+    ],
+    "location": "西云楼夜间商业街区",
+    "address": "嘉定区洪德路220号",
+    "duration": "1～3小时",
+    "budget": "以场馆或店铺当前报价为准",
+    "bestTime": "18点后，以当天开放为准",
+    "moods": [
+      "night"
+    ],
+    "traits": [
+      "night",
+      "social",
+      "food"
+    ],
+    "mission": "先查商业街区及餐厅当晚营业，预约晚饭后在开放的亮灯街面走一段；不预设过去的奇趣花园夜市、免费停车或限时福利仍然存在。",
+    "steps": [
+      "出发前用官方渠道核对营业、收费及预约要求",
+      "按官方地址前往西云楼夜间商业街区，先了解现场规则",
+      "先查商业街区及餐厅当晚营业，预约晚饭后在开放的亮灯街面走一段；不预设过去的奇趣花园夜市、免费停车或限时福利仍然存在。"
+    ],
+    "tip": "官方介绍用于核对地点及项目类型，不代表实时营业；付费体验、教练和装备须提前确认。",
+    "sourceTitle": "上海嘉定官方澎湃号：夜间商业街区指南",
+    "sourceUrl": "https://m.thepaper.cn/newsDetail_forward_7436093",
+    "verifiedAt": "2026-10-23",
+    "verificationScope": "官方地点和项目介绍；玩法为自助任务",
+    "status": "published",
+    "recommendable": true
+  },
+  {
+    "id": "cur-yunjian-night-v2-night",
+    "placeId": "cur-yunjian-night",
+    "catalogVersion": 2,
+    "emoji": "🌙",
+    "stamp": "城市夜游者",
+    "title": "云间粮仓夜间商业区：在老粮仓建筑里换一种晚餐氛围",
+    "kicker": "晚饭以后，还有一段城市时间。",
+    "district": "松江",
+    "districts": [
+      "松江"
+    ],
+    "location": "云间粮仓夜间商业区",
+    "address": "松江区松汇东路327号",
+    "duration": "1～3小时",
+    "budget": "以场馆或店铺当前报价为准",
+    "bestTime": "18点后，以当天开放为准",
+    "moods": [
+      "night"
+    ],
+    "traits": [
+      "night",
+      "social",
+      "food"
+    ],
+    "mission": "先确认园区及餐饮晚间营业，挑一家营业店铺吃晚饭，观察老粮仓改造后的建筑；演出、展览和啤酒博物馆另查开放与票务。",
+    "steps": [
+      "出发前用官方渠道核对营业、收费及预约要求",
+      "按官方地址前往云间粮仓夜间商业区，先了解现场规则",
+      "先确认园区及餐饮晚间营业，挑一家营业店铺吃晚饭，观察老粮仓改造后的建筑；演出、展览和啤酒博物馆另查开放与票务。"
+    ],
+    "tip": "官方介绍用于核对地点及项目类型，不代表实时营业；付费体验、教练和装备须提前确认。",
+    "sourceTitle": "上海市政府：云间粮仓夜生活介绍",
+    "sourceUrl": "https://english.shanghai.gov.cn/en-Nightlife/20231207/c30ed7bea35a4cbb94a867d29ef8ccb3.html",
+    "verifiedAt": "2026-10-23",
+    "verificationScope": "官方地点和项目介绍；玩法为自助任务",
+    "status": "published",
+    "recommendable": true
+  },
+  {
     "id": "cur-yuyuan-night-v2-night",
     "placeId": "cur-yuyuan-night",
     "catalogVersion": 2,
@@ -986,6 +2231,45 @@
     "sourceTitle": "上海市政府：场馆或夜游目的地介绍",
     "sourceUrl": "https://english.shanghai.gov.cn/en-PlanANightOut/20260623/77c5f8ba615140af9c6499c262607846.html",
     "verifiedAt": "2026-10-19",
+    "verificationScope": "官方地点和项目介绍；玩法为自助任务",
+    "status": "published",
+    "recommendable": true
+  },
+  {
+    "id": "cur-zhihuiwan-night-v2-night",
+    "placeId": "cur-zhihuiwan-night",
+    "catalogVersion": 2,
+    "emoji": "🌙",
+    "stamp": "城市夜游者",
+    "title": "智慧湾夜间商业区：在工业风园区吃一顿晚饭",
+    "kicker": "晚饭以后，还有一段城市时间。",
+    "district": "宝山",
+    "districts": [
+      "宝山"
+    ],
+    "location": "智慧湾夜间商业区",
+    "address": "宝山区蕰川路6号",
+    "duration": "1～3小时",
+    "budget": "以场馆或店铺当前报价为准",
+    "bestTime": "18点后，以当天开放为准",
+    "moods": [
+      "night"
+    ],
+    "traits": [
+      "night",
+      "social",
+      "food"
+    ],
+    "mission": "确认园区晚间开放区域，选一家当晚营业的餐饮店，饭后沿公共亮灯区域散步；不假设展馆、演出或水上项目夜间开放。",
+    "steps": [
+      "出发前用官方渠道核对营业、收费及预约要求",
+      "按官方地址前往智慧湾夜间商业区，先了解现场规则",
+      "确认园区晚间开放区域，选一家当晚营业的餐饮店，饭后沿公共亮灯区域散步；不假设展馆、演出或水上项目夜间开放。"
+    ],
+    "tip": "官方介绍用于核对地点及项目类型，不代表实时营业；付费体验、教练和装备须提前确认。",
+    "sourceTitle": "上海市商务委：宝山夜间消费场所指南",
+    "sourceUrl": "https://sww.sh.gov.cn/swdt/20250807/55c891486567464a91538412024b3fe8.html",
+    "verifiedAt": "2026-10-23",
     "verificationScope": "官方地点和项目介绍；玩法为自助任务",
     "status": "published",
     "recommendable": true

@@ -40,10 +40,16 @@ assert.deepStrictEqual(page.data.selectedMoods, [])
 assert.ok(page.data.moodRows[0].items[0].selected)
 page.selectDistrict({ currentTarget: { dataset: { id: '崇明' } } })
 page.selectMood({ currentTarget: { dataset: { id: 'thrill' } } })
+assert.strictEqual(page.data.availableCount, filterPlays(plays, { district: '崇明', mood: 'thrill' }).length)
+// Exercise the empty-state branch with an empty catalog, not a real district we have now populated.
+const populatedApp = global.getApp
+global.getApp = () => ({ getPlays: () => [], getState: () => ({ challenges: [], tagScores: {}, seenIds: [] }) })
+page.onShow()
 assert.strictEqual(page.data.availableCount, 0)
 assert.ok(page.data.emptyMessage)
 page.draw()
 assert.strictEqual(page.data.isDrawing, false)
+global.getApp = populatedApp
 storage['weekend-unboxed-filters-v1'] = { districts: ['杨浦', '长宁'], moods: ['healing', 'arts'] }
 page.onLoad()
 assert.deepStrictEqual(page.data.selectedDistricts, ['杨浦', '长宁'])

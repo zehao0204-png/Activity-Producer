@@ -6467,5 +6467,253 @@
         "address": "西藏北路166号(曲阜路地铁站出入口步行70米)"
       }
     ]
+  },
+  {
+    "placeId": "cur-xiyunlou-night",
+    "name": "西云楼夜间商业街区",
+    "address": "嘉定区洪德路220号",
+    "district": "嘉定",
+    "reason": "尚未查询",
+    "candidates": []
+  },
+  {
+    "placeId": "cur-aob-yangpu",
+    "name": "AOB攀研学院（创智天地）",
+    "address": "杨浦区淞沪路252号地下一层01、02、03室",
+    "district": "杨浦",
+    "reason": "尚未查询",
+    "candidates": []
+  },
+  {
+    "placeId": "cur-gonghui-yangpu",
+    "name": "共绘攀岩馆",
+    "address": "杨浦区国顺东路800号西楼2楼",
+    "district": "杨浦",
+    "reason": "尚未查询",
+    "candidates": []
+  },
+  {
+    "placeId": "cur-partyday-putuo",
+    "name": "PARTYDAY超星嘉年华（环球港）",
+    "address": "普陀区中山北路3300号上海环球港L4",
+    "district": "普陀",
+    "reason": "尚未查询",
+    "candidates": []
+  },
+  {
+    "placeId": "cur-smalltree-hongkou",
+    "name": "小树攀岩馆",
+    "address": "虹口区东江湾路444号虹口足球场4楼",
+    "district": "虹口",
+    "reason": "尚未查询",
+    "candidates": []
+  },
+  {
+    "placeId": "cur-xiaoyan-hongkou",
+    "name": "啸岩馆",
+    "address": "虹口区花园路128号运动LOFT一街区A座1楼",
+    "district": "虹口",
+    "reason": "尚未查询",
+    "candidates": []
+  },
+  {
+    "placeId": "cur-s10-baoshan",
+    "name": "S10国际潜水运动俱乐部（三邻桥）",
+    "address": "宝山区江杨南路485号三邻桥体育文化园",
+    "district": "宝山",
+    "reason": "尚未查询",
+    "candidates": []
+  },
+  {
+    "placeId": "cur-muxintang-baoshan",
+    "name": "沐心堂射箭馆（云瑞邻里中心）",
+    "address": "宝山区共和新路5219号云瑞邻里中心",
+    "district": "宝山",
+    "reason": "尚未查询",
+    "candidates": []
+  },
+  {
+    "placeId": "cur-jinwu-qingpu",
+    "name": "金坞半岛水上运动基地",
+    "address": "青浦区商周公路988号",
+    "district": "青浦",
+    "reason": "尚未查询",
+    "candidates": []
+  },
+  {
+    "placeId": "cur-weekend-qingpu",
+    "name": "周末水上俱乐部",
+    "address": "青浦区朱家角镇西井街300号",
+    "district": "青浦",
+    "reason": "尚未查询",
+    "candidates": []
+  },
+  {
+    "placeId": "cur-jinsuwan-kart",
+    "name": "金速湾卡丁车",
+    "address": "金山区沪杭公路7385号",
+    "district": "金山",
+    "reason": "尚未查询",
+    "candidates": []
+  },
+  {
+    "placeId": "cur-jinshan-water",
+    "name": "金山城市沙滩水上体验区",
+    "address": "金山区沪杭公路7555号金山城市沙滩",
+    "district": "金山",
+    "reason": "尚未查询",
+    "candidates": []
+  },
+  {
+    "placeId": "cur-changxing-climb",
+    "name": "长兴岛郊野公园攀岩乐园",
+    "address": "崇明区长兴镇秋柑路199号长兴岛郊野公园内",
+    "district": "崇明",
+    "reason": "尚未查询",
+    "candidates": []
+  },
+  {
+    "placeId": "cur-mingzhu-water",
+    "name": "明珠湖水上体验区",
+    "address": "崇明区三华公路333号西沙明珠湖景区",
+    "district": "崇明",
+    "reason": "尚未查询",
+    "candidates": []
+  },
+  {
+    "placeId": "cur-centurystar-minhang",
+    "name": "世纪星滑冰俱乐部（万象城）",
+    "address": "闵行区吴中路1551号万象城4楼",
+    "district": "闵行",
+    "reason": "尚未查询",
+    "candidates": []
+  },
+  {
+    "placeId": "cur-shuoguo-fengxian",
+    "name": "槊果水上运动中心",
+    "address": "奉贤区海涵路6号",
+    "district": "奉贤",
+    "reason": "尚未查询",
+    "candidates": []
+  },
+  {
+    "placeId": "cur-dahua-night",
+    "name": "大华夜巷",
+    "address": "宝山区大华路538号",
+    "district": "宝山",
+    "reason": "尚未查询",
+    "candidates": []
+  },
+  {
+    "placeId": "cur-zhihuiwan-night",
+    "name": "智慧湾夜间商业区",
+    "address": "宝山区蕰川路6号",
+    "district": "宝山",
+    "reason": "尚未查询",
+    "candidates": []
+  },
+  {
+    "placeId": "cur-meilan-night",
+    "name": "美兰湖小镇夜间街区",
+    "address": "宝山区罗芬路555弄至989弄",
+    "district": "宝山",
+    "reason": "尚未查询",
+    "candidates": []
+  },
+  {
+    "placeId": "cur-yunjian-night",
+    "name": "云间粮仓夜间商业区",
+    "address": "松江区松汇东路327号",
+    "district": "松江",
+    "reason": "尚未查询",
+    "candidates": []
+  },
+  {
+    "placeId": "cur-sijing-night",
+    "name": "泗泾夜市（三湘商业广场）",
+    "address": "松江区泗宝路18号三湘商业广场南侧",
+    "district": "松江",
+    "reason": "尚未查询",
+    "candidates": []
+  },
+  {
+    "placeId": "cur-panlong-night",
+    "name": "蟠龙天地夜间商业街区",
+    "address": "青浦区蟠鼎路123弄8号",
+    "district": "青浦",
+    "reason": "尚未查询",
+    "candidates": []
+  },
+  {
+    "placeId": "cur-powerlong-qingpu-night",
+    "name": "青浦宝龙广场",
+    "address": "青浦区汇金路590号",
+    "district": "青浦",
+    "reason": "尚未查询",
+    "candidates": []
+  },
+  {
+    "placeId": "cur-longfor-fengxian-night",
+    "name": "奉贤天街酒食肆",
+    "address": "奉贤区金海公路3800号奉贤天街",
+    "district": "奉贤",
+    "reason": "尚未查询",
+    "candidates": []
+  },
+  {
+    "placeId": "cur-mermaid-fengxian-night",
+    "name": "美人鱼休闲街",
+    "address": "奉贤区南桥镇南方国际广场美人鱼休闲街",
+    "district": "奉贤",
+    "reason": "尚未查询",
+    "candidates": []
+  },
+  {
+    "placeId": "cur-jinshanzui-night",
+    "name": "金山嘴渔村夜间餐饮街区",
+    "address": "金山区山阳镇沪杭公路6394号金山嘴渔村",
+    "district": "金山",
+    "reason": "尚未查询",
+    "candidates": []
+  },
+  {
+    "placeId": "cur-fengjing-night",
+    "name": "枫泾古镇夜间餐饮街区",
+    "address": "金山区亭枫公路8588弄28号枫泾古镇",
+    "district": "金山",
+    "reason": "尚未查询",
+    "candidates": []
+  },
+  {
+    "placeId": "cur-bayilu-night",
+    "name": "八一路商业街",
+    "address": "崇明区城桥镇八一路新崇中路至新崇南路段",
+    "district": "崇明",
+    "reason": "尚未查询",
+    "candidates": []
+  },
+  {
+    "placeId": "cur-wanda-chongming-night",
+    "name": "万达影城（崇明万达店）",
+    "address": "崇明区崇明大道8388号3楼",
+    "district": "崇明",
+    "reason": "尚未查询",
+    "candidates": []
+  },
+  {
+    "placeId": "cur-thousandtrees-night",
+    "name": "天安千树",
+    "address": "普陀区莫干山路600号",
+    "district": "普陀",
+    "reason": "尚未查询",
+    "candidates": []
+  },
+  {
+    "placeId": "cur-laowaijie-night",
+    "name": "老外街",
+    "address": "闵行区虹梅路3338弄",
+    "district": "闵行",
+    "reason": "尚未查询",
+    "candidates": []
   }
 ]

@@ -45,3 +45,12 @@ shanghaiPlays.forEach(play => {
 })
 
 console.log('recommendation checks passed')
+const seenIds = []
+const drawnPlaces = new Set()
+for (let draw = 0; draw < 4; draw++) {
+  const result = pickPlay(shanghaiPlays, { district: '杨浦', mood: 'thrill', seenIds, random: () => 0.5 })
+  assert.ok(result.play && result.play.districts.includes('杨浦') && result.play.moods.includes('thrill'))
+  assert.ok(!drawnPlaces.has(result.play.placeId), 'Yangpu thrill should offer four different venues before repeating')
+  seenIds.push(result.play.id)
+  drawnPlaces.add(result.play.placeId)
+}

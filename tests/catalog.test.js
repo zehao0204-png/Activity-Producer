@@ -10,11 +10,22 @@ const officialHosts = new Set([
   'www.shanghai.gov.cn',
   'english.shanghai.gov.cn',
   'www.meet-in-shanghai.net',
-  'www.library.sh.cn'
+  'www.library.sh.cn',
+  'www.jfdaily.com', 'shpt.gov.cn', 'www.shhk.gov.cn', 'www.shbsq.gov.cn',
+  'sww.sh.gov.cn', 'www.shqp.gov.cn', 'shcm.gov.cn', 'www.shcm.gov.cn',
+  'sh.people.com.cn', 'www.sh-italent.cn', 'touch.shio.gov.cn', 'm.thepaper.cn'
 ])
 const published = plays.filter(play => play.recommendable !== false && play.status === 'published')
 
 assert.ok(published.length >= 500)
+const { DISTRICTS, MOOD_LABELS, filterPlays } = require('../utils/filters')
+for (const district of DISTRICTS) {
+  for (const mood of Object.keys(MOOD_LABELS).filter(key => key !== 'random')) {
+    const pool = filterPlays(published, { district, mood })
+    assert.ok(new Set(pool.map(play => play.placeId)).size >= 2, `${district}/${mood} needs at least two distinct venues`)
+  }
+}
+assert.ok(new Set(filterPlays(published, { district: '杨浦', mood: 'thrill' }).map(play => play.placeId)).size >= 4)
 assert.strictEqual(seed.length, published.length)
 assert.ok(new Set(published.map(play => play.placeId)).size >= 400)
 assert.strictEqual(new Set(plays.map(play => play.id)).size, plays.length)

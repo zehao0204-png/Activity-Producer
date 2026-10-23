@@ -1,5 +1,27 @@
 // Reviewed venue coordinates with per-point source, address and coordinate system.
 module.exports = {
+  "cur-tashan-yangpu": {
+    "name": "TA山攀岩馆（百联又一城）",
+    "address": "杨浦区淞沪路8号百联又一城8楼南区",
+    "latitude": 31.301527,
+    "longitude": 121.515618,
+    "coordinateSystem": "gcj02",
+    "coordinateSourceUrl": "https://map.gaode.com/place/B0LKKHNP8O",
+    "coordinateCheckedAt": "2026-10-23",
+    "coordinateRevision": 20261023,
+    "coordinateNote": "高德公开地点页，名称和门牌匹配；实际入口以现场指引为准"
+  },
+  "cur-diskart-putuo": {
+    "name": "迪士卡卡丁车（118广场）",
+    "address": "普陀区金沙江路1685号118广场",
+    "latitude": 31.231885,
+    "longitude": 121.378742,
+    "coordinateSystem": "gcj02",
+    "coordinateSourceUrl": "https://www.amap.com/place/B0L0713W19",
+    "coordinateCheckedAt": "2026-10-23",
+    "coordinateRevision": 20261023,
+    "coordinateNote": "高德公开地点页，名称和门牌匹配；楼层信息存在差异，出发前向场馆确认入口"
+  },
   "dir-122cad35a53bfb4c": {
     "name": "张闻天故居",
     "address": "浦东新区川南奉公路4398号",
