@@ -5,6 +5,22 @@ const vm = require('vm')
 const root = path.resolve(__dirname, '..')
 const packIgnore = require('../project.config.json').packOptions.ignore
 assert.ok(packIgnore.some(item => item.type === 'folder' && item.value === 'scripts'), 'Node build scripts must not be packaged in the WeChat client')
+assert.ok(packIgnore.some(item => item.type === 'folder' && item.value === 'cloudfunctions'), 'Server functions and seeds must not be packaged in the frontend')
+assert.ok(packIgnore.some(item => item.type === 'file' && item.value === 'data/official-places.json'), 'The raw directory duplicates the generated client JS and must not be packaged')
+function excluded(filename) {
+  const relative = path.relative(root, filename).split(path.sep).join('/')
+  return packIgnore.some(rule => relative === rule.value || (rule.type === 'folder' && relative.startsWith(rule.value + '/')))
+}
+function sourceBytes(directory) {
+  return fs.readdirSync(directory, {withFileTypes:true}).reduce((total, entry) => {
+    const filename = path.join(directory, entry.name)
+    if (entry.name === '.git' || excluded(filename)) return total
+    return total + (entry.isDirectory() ? sourceBytes(filename) : fs.statSync(filename).size)
+  }, 0)
+}
+// Source-only estimate, not the WeChat compiler's final package size. Keep ample headroom.
+const frontendBytes = sourceBytes(root)
+assert.ok(frontendBytes < 1536 * 1024, `Frontend sources exceed the 1.5 MiB safety budget: ${frontendBytes}`)
 const cache = new Map()
 const pages = []
 let app
@@ -15,6 +31,7 @@ const wx = {
   showShareMenu() {}
 }
 function load(filename) {
+  assert.ok(!excluded(filename), `Runtime dependency is excluded from the frontend package: ${filename}`)
   if (cache.has(filename)) return cache.get(filename).exports
   const module = { exports: {} }
   cache.set(filename, module)
@@ -44,3 +61,4 @@ pages.forEach(page => {
 assert.strictEqual(pages[0].data.availableCount, 659)
 assert.ok(pages[0].data.districts.length === 17)
 console.log('JS-only client module loading and three-page startup checks passed')
+console.log(`Frontend source estimate after pack exclusions: ${(frontendBytes / 1024).toFixed(1)} KiB (compiler output may differ)`)
