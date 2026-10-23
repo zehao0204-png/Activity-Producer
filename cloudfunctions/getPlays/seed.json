@@ -120,7 +120,14 @@
     "verifiedAt": "2026-10-19",
     "verificationScope": "官方地点和项目介绍；玩法为自助任务",
     "status": "published",
-    "recommendable": true
+    "recommendable": true,
+    "latitude": 31.210117,
+    "longitude": 121.418786,
+    "coordinateSystem": "gcj02",
+    "coordinateSourceUrl": "https://ditu.amap.com/ssr/coordinate-picker",
+    "coordinateCheckedAt": "2026-10-23",
+    "coordinateRevision": 20261023,
+    "coordinateNote": "高德坐标拾取；匹配地点：香蕉攀岩(延安西路店)；匹配地址：昭化路658号104、105室；实际入口以现场指引为准"
   },
   {
     "id": "cur-climbism-v2-thrill",
@@ -1098,7 +1105,14 @@
     "verifiedAt": "2026-10-19",
     "verificationScope": "官方名录或官方介绍中的地点；玩法为自助任务",
     "status": "published",
-    "recommendable": true
+    "recommendable": true,
+    "latitude": 31.220673,
+    "longitude": 121.379427,
+    "coordinateSystem": "gcj02",
+    "coordinateSourceUrl": "https://ditu.amap.com/ssr/coordinate-picker",
+    "coordinateCheckedAt": "2026-10-23",
+    "coordinateRevision": 20261023,
+    "coordinateNote": "高德坐标拾取；匹配地点：苏州河工业文明展示馆；匹配地址：光复西路2690号；实际入口以现场指引为准"
   },
   {
     "id": "dir-01c5c94159df87e3-v2-healing",
@@ -1215,7 +1229,14 @@
     "verifiedAt": "2026-10-19",
     "verificationScope": "官方名录或官方介绍中的地点；玩法为自助任务",
     "status": "published",
-    "recommendable": true
+    "recommendable": true,
+    "latitude": 31.146944,
+    "longitude": 121.163996,
+    "coordinateSystem": "gcj02",
+    "coordinateSourceUrl": "https://ditu.amap.com/ssr/coordinate-picker",
+    "coordinateCheckedAt": "2026-10-23",
+    "coordinateRevision": 20261023,
+    "coordinateNote": "高德坐标拾取；匹配地点：上海崧泽遗址博物馆；匹配地址：沪青平公路3993号；实际入口以现场指引为准"
   },
   {
     "id": "dir-02c36c2bfb4d6928-v2-arts",
@@ -1296,7 +1317,14 @@
     "verifiedAt": "2026-10-19",
     "verificationScope": "官方名录或官方介绍中的地点；玩法为自助任务",
     "status": "published",
-    "recommendable": true
+    "recommendable": true,
+    "latitude": 31.197225,
+    "longitude": 121.407725,
+    "coordinateSystem": "gcj02",
+    "coordinateSourceUrl": "https://ditu.amap.com/ssr/coordinate-picker",
+    "coordinateCheckedAt": "2026-10-23",
+    "coordinateRevision": 20261023,
+    "coordinateNote": "高德坐标拾取；匹配地点：上海广播博物馆；匹配地址：虹桥路1376号；实际入口以现场指引为准"
   },
   {
     "id": "dir-03c6cf291edc8dd7-v2-healing",
@@ -1335,7 +1363,14 @@
     "verifiedAt": "2026-10-19",
     "verificationScope": "官方名录或官方介绍中的地点；玩法为自助任务",
     "status": "published",
-    "recommendable": true
+    "recommendable": true,
+    "latitude": 31.332213,
+    "longitude": 121.366873,
+    "coordinateSystem": "gcj02",
+    "coordinateSourceUrl": "https://ditu.amap.com/ssr/coordinate-picker",
+    "coordinateCheckedAt": "2026-10-23",
+    "coordinateRevision": 20261023,
+    "coordinateNote": "高德坐标拾取；匹配地点：沈杨公园；匹配地址：顾陈路1115号；实际入口以现场指引为准"
   },
   {
     "id": "dir-03c6cf291edc8dd7-v2-outdoors",
@@ -1375,7 +1410,14 @@
     "verifiedAt": "2026-10-19",
     "verificationScope": "官方名录或官方介绍中的地点；玩法为自助任务",
     "status": "published",
-    "recommendable": true
+    "recommendable": true,
+    "latitude": 31.332213,
+    "longitude": 121.366873,
+    "coordinateSystem": "gcj02",
+    "coordinateSourceUrl": "https://ditu.amap.com/ssr/coordinate-picker",
+    "coordinateCheckedAt": "2026-10-23",
+    "coordinateRevision": 20261023,
+    "coordinateNote": "高德坐标拾取；匹配地点：沈杨公园；匹配地址：顾陈路1115号；实际入口以现场指引为准"
   },
   {
     "id": "dir-0496faa0f39a3330-v2-healing",
@@ -1571,7 +1613,14 @@
     "verifiedAt": "2026-10-19",
     "verificationScope": "官方名录或官方介绍中的地点；玩法为自助任务",
     "status": "published",
-    "recommendable": true
+    "recommendable": true,
+    "latitude": 31.088963,
+    "longitude": 121.575438,
+    "coordinateSystem": "gcj02",
+    "coordinateSourceUrl": "https://ditu.amap.com/ssr/coordinate-picker",
+    "coordinateCheckedAt": "2026-10-23",
+    "coordinateRevision": 20261023,
+    "coordinateNote": "高德坐标拾取；匹配地点：上海浦东新区库伯美术馆；匹配地址：沈梅路123弄57号；实际入口以现场指引为准"
   },
   {
     "id": "dir-066804ba8a5d16d2-v2-arts",
@@ -1610,7 +1659,14 @@
     "verifiedAt": "2026-10-19",
     "verificationScope": "官方名录或官方介绍中的地点；玩法为自助任务",
     "status": "published",
-    "recommendable": true
+    "recommendable": true,
+    "latitude": 31.128317,
+    "longitude": 121.605717,
+    "coordinateSystem": "gcj02",
+    "coordinateSourceUrl": "https://ditu.amap.com/ssr/coordinate-picker",
+    "coordinateCheckedAt": "2026-10-23",
+    "coordinateRevision": 20261023,
+    "coordinateNote": "高德坐标拾取；匹配地点：上海火炬众创孵化博物馆；匹配地址：秀浦路2388号1号楼；实际入口以现场指引为准"
   },
   {
     "id": "dir-06f7f68fce960b23-v2-healing",
@@ -1728,7 +1784,14 @@
     "verifiedAt": "2026-10-19",
     "verificationScope": "官方名录或官方介绍中的地点；玩法为自助任务",
     "status": "published",
-    "recommendable": true
+    "recommendable": true,
+    "latitude": 31.219764,
+    "longitude": 121.422985,
+    "coordinateSystem": "gcj02",
+    "coordinateSourceUrl": "https://ditu.amap.com/ssr/coordinate-picker",
+    "coordinateCheckedAt": "2026-10-23",
+    "coordinateRevision": 20261023,
+    "coordinateNote": "高德坐标拾取；匹配地点：上海市长宁区革命文物陈列馆；匹配地址：愚园路1376弄34号；实际入口以现场指引为准"
   },
   {
     "id": "dir-0837e7150a226b08-v2-arts",
@@ -1767,7 +1830,14 @@
     "verifiedAt": "2026-10-19",
     "verificationScope": "官方名录或官方介绍中的地点；玩法为自助任务",
     "status": "published",
-    "recommendable": true
+    "recommendable": true,
+    "latitude": 31.195022,
+    "longitude": 121.410522,
+    "coordinateSystem": "gcj02",
+    "coordinateSourceUrl": "https://ditu.amap.com/ssr/coordinate-picker",
+    "coordinateCheckedAt": "2026-10-23",
+    "coordinateRevision": 20261023,
+    "coordinateNote": "高德坐标拾取；匹配地点：宋庆龄生平事迹陈列馆；匹配地址：宋园路21号；实际入口以现场指引为准"
   },
   {
     "id": "dir-08853070f1d6c085-v2-healing",
@@ -1806,7 +1876,14 @@
     "verifiedAt": "2026-10-19",
     "verificationScope": "官方名录或官方介绍中的地点；玩法为自助任务",
     "status": "published",
-    "recommendable": true
+    "recommendable": true,
+    "latitude": 31.113136,
+    "longitude": 121.420146,
+    "coordinateSystem": "gcj02",
+    "coordinateSourceUrl": "https://ditu.amap.com/ssr/coordinate-picker",
+    "coordinateCheckedAt": "2026-10-23",
+    "coordinateRevision": 20261023,
+    "coordinateNote": "高德坐标拾取；匹配地点：锦梅公园；匹配地址：梅强路与锦梅路交叉口东南180米；实际入口以现场指引为准"
   },
   {
     "id": "dir-08853070f1d6c085-v2-outdoors",
@@ -1845,7 +1922,14 @@
     "verifiedAt": "2026-10-19",
     "verificationScope": "官方名录或官方介绍中的地点；玩法为自助任务",
     "status": "published",
-    "recommendable": true
+    "recommendable": true,
+    "latitude": 31.113136,
+    "longitude": 121.420146,
+    "coordinateSystem": "gcj02",
+    "coordinateSourceUrl": "https://ditu.amap.com/ssr/coordinate-picker",
+    "coordinateCheckedAt": "2026-10-23",
+    "coordinateRevision": 20261023,
+    "coordinateNote": "高德坐标拾取；匹配地点：锦梅公园；匹配地址：梅强路与锦梅路交叉口东南180米；实际入口以现场指引为准"
   },
   {
     "id": "dir-093025f7856b7326-v2-arts",
@@ -1930,7 +2014,14 @@
     "verifiedAt": "2026-10-19",
     "verificationScope": "官方名录或官方介绍中的地点；玩法为自助任务",
     "status": "published",
-    "recommendable": true
+    "recommendable": true,
+    "latitude": 31.090282,
+    "longitude": 121.232096,
+    "coordinateSystem": "gcj02",
+    "coordinateSourceUrl": "https://ditu.amap.com/ssr/coordinate-picker",
+    "coordinateCheckedAt": "2026-10-23",
+    "coordinateRevision": 20261023,
+    "coordinateNote": "高德坐标拾取；匹配地点：上海艺术百代美术馆；匹配地址：王家厍路885弄云堡未来市艺术文创园区3号楼；实际入口以现场指引为准"
   },
   {
     "id": "dir-0b2485d382621c78-v2-healing",
@@ -2048,7 +2139,14 @@
     "verifiedAt": "2026-10-19",
     "verificationScope": "官方名录或官方介绍中的地点；玩法为自助任务",
     "status": "published",
-    "recommendable": true
+    "recommendable": true,
+    "latitude": 31.230405,
+    "longitude": 121.465505,
+    "coordinateSystem": "gcj02",
+    "coordinateSourceUrl": "https://ditu.amap.com/ssr/coordinate-picker",
+    "coordinateCheckedAt": "2026-10-23",
+    "coordinateRevision": 20261023,
+    "coordinateNote": "高德坐标拾取；匹配地点：上海棋牌文化博物馆；匹配地址：南京西路595号上海棋院大楼一楼；实际入口以现场指引为准"
   },
   {
     "id": "dir-0d0bcf4b37c3a516-v2-arts",
@@ -2129,7 +2227,14 @@
     "verifiedAt": "2026-10-19",
     "verificationScope": "官方名录或官方介绍中的地点；玩法为自助任务",
     "status": "published",
-    "recommendable": true
+    "recommendable": true,
+    "latitude": 31.218987,
+    "longitude": 121.511417,
+    "coordinateSystem": "gcj02",
+    "coordinateSourceUrl": "https://ditu.amap.com/ssr/coordinate-picker",
+    "coordinateCheckedAt": "2026-10-23",
+    "coordinateRevision": 20261023,
+    "coordinateNote": "高德坐标拾取；匹配地点：老白渡滨江绿地；匹配地址：滨江大道潍坊西路；实际入口以现场指引为准"
   },
   {
     "id": "dir-0d1babe8e2c4139c-v2-outdoors",
@@ -2169,7 +2274,14 @@
     "verifiedAt": "2026-10-19",
     "verificationScope": "官方名录或官方介绍中的地点；玩法为自助任务",
     "status": "published",
-    "recommendable": true
+    "recommendable": true,
+    "latitude": 31.218987,
+    "longitude": 121.511417,
+    "coordinateSystem": "gcj02",
+    "coordinateSourceUrl": "https://ditu.amap.com/ssr/coordinate-picker",
+    "coordinateCheckedAt": "2026-10-23",
+    "coordinateRevision": 20261023,
+    "coordinateNote": "高德坐标拾取；匹配地点：老白渡滨江绿地；匹配地址：滨江大道潍坊西路；实际入口以现场指引为准"
   },
   {
     "id": "dir-0f88eb19ef65595a-v2-arts",
@@ -2208,7 +2320,14 @@
     "verifiedAt": "2026-10-19",
     "verificationScope": "官方名录或官方介绍中的地点；玩法为自助任务",
     "status": "published",
-    "recommendable": true
+    "recommendable": true,
+    "latitude": 31.243601,
+    "longitude": 121.448356,
+    "coordinateSystem": "gcj02",
+    "coordinateSourceUrl": "https://ditu.amap.com/ssr/coordinate-picker",
+    "coordinateCheckedAt": "2026-10-23",
+    "coordinateRevision": 20261023,
+    "coordinateNote": "高德坐标拾取；匹配地点：沪西工人半日学校史料陈列馆；匹配地址：西苏州路1037号(江宁路地铁站2号口步行370米)；实际入口以现场指引为准"
   },
   {
     "id": "dir-109332545fb16c57-v2-arts",
@@ -2368,7 +2487,14 @@
     "verifiedAt": "2026-10-19",
     "verificationScope": "官方名录或官方介绍中的地点；玩法为自助任务",
     "status": "published",
-    "recommendable": true
+    "recommendable": true,
+    "latitude": 31.030787,
+    "longitude": 121.132388,
+    "coordinateSystem": "gcj02",
+    "coordinateSourceUrl": "https://ditu.amap.com/ssr/coordinate-picker",
+    "coordinateCheckedAt": "2026-10-23",
+    "coordinateRevision": 20261023,
+    "coordinateNote": "高德坐标拾取；匹配地点：临云园；匹配地址：文翔路昆水街交叉口；实际入口以现场指引为准"
   },
   {
     "id": "dir-112f6ab5b5daa2cd-v2-outdoors",
@@ -2408,7 +2534,14 @@
     "verifiedAt": "2026-10-19",
     "verificationScope": "官方名录或官方介绍中的地点；玩法为自助任务",
     "status": "published",
-    "recommendable": true
+    "recommendable": true,
+    "latitude": 31.030787,
+    "longitude": 121.132388,
+    "coordinateSystem": "gcj02",
+    "coordinateSourceUrl": "https://ditu.amap.com/ssr/coordinate-picker",
+    "coordinateCheckedAt": "2026-10-23",
+    "coordinateRevision": 20261023,
+    "coordinateNote": "高德坐标拾取；匹配地点：临云园；匹配地址：文翔路昆水街交叉口；实际入口以现场指引为准"
   },
   {
     "id": "dir-11ee2a9f8faf4e84-v2-healing",
@@ -2526,7 +2659,14 @@
     "verifiedAt": "2026-10-19",
     "verificationScope": "官方名录或官方介绍中的地点；玩法为自助任务",
     "status": "published",
-    "recommendable": true
+    "recommendable": true,
+    "latitude": 31.224725,
+    "longitude": 121.446568,
+    "coordinateSystem": "gcj02",
+    "coordinateSourceUrl": "https://ditu.amap.com/ssr/coordinate-picker",
+    "coordinateCheckedAt": "2026-10-23",
+    "coordinateRevision": 20261023,
+    "coordinateNote": "高德坐标拾取；匹配地点：中共上海地下组织斗争史陈列馆；匹配地址：愚园路81号(静安寺地铁站出入口步行310米)；实际入口以现场指引为准"
   },
   {
     "id": "dir-122cad35a53bfb4c-v2-arts",
@@ -2809,7 +2949,14 @@
     "verifiedAt": "2026-10-19",
     "verificationScope": "官方名录或官方介绍中的地点；玩法为自助任务",
     "status": "published",
-    "recommendable": true
+    "recommendable": true,
+    "latitude": 31.335053,
+    "longitude": 121.615992,
+    "coordinateSystem": "gcj02",
+    "coordinateSourceUrl": "https://ditu.amap.com/ssr/coordinate-picker",
+    "coordinateCheckedAt": "2026-10-23",
+    "coordinateRevision": 20261023,
+    "coordinateNote": "高德坐标拾取；匹配地点：高东镇孝亲敬老主题公园；匹配地址：高东镇高东新路236号；实际入口以现场指引为准"
   },
   {
     "id": "dir-1439e321db780b4d-v2-outdoors",
@@ -2849,7 +2996,14 @@
     "verifiedAt": "2026-10-19",
     "verificationScope": "官方名录或官方介绍中的地点；玩法为自助任务",
     "status": "published",
-    "recommendable": true
+    "recommendable": true,
+    "latitude": 31.335053,
+    "longitude": 121.615992,
+    "coordinateSystem": "gcj02",
+    "coordinateSourceUrl": "https://ditu.amap.com/ssr/coordinate-picker",
+    "coordinateCheckedAt": "2026-10-23",
+    "coordinateRevision": 20261023,
+    "coordinateNote": "高德坐标拾取；匹配地点：高东镇孝亲敬老主题公园；匹配地址：高东镇高东新路236号；实际入口以现场指引为准"
   },
   {
     "id": "dir-14dc6abbf25e79af-v2-healing",
@@ -3045,7 +3199,14 @@
     "verifiedAt": "2026-10-19",
     "verificationScope": "官方名录或官方介绍中的地点；玩法为自助任务",
     "status": "published",
-    "recommendable": true
+    "recommendable": true,
+    "latitude": 31.383373,
+    "longitude": 121.251289,
+    "coordinateSystem": "gcj02",
+    "coordinateSourceUrl": "https://ditu.amap.com/ssr/coordinate-picker",
+    "coordinateCheckedAt": "2026-10-23",
+    "coordinateRevision": 20261023,
+    "coordinateNote": "高德坐标拾取；匹配地点：嘉定竹刻博物馆；匹配地址：南大街321号；实际入口以现场指引为准"
   },
   {
     "id": "dir-1684b11b1339aa42-v2-healing",
@@ -3084,7 +3245,14 @@
     "verifiedAt": "2026-10-19",
     "verificationScope": "官方名录或官方介绍中的地点；玩法为自助任务",
     "status": "published",
-    "recommendable": true
+    "recommendable": true,
+    "latitude": 31.266594,
+    "longitude": 121.399518,
+    "coordinateSystem": "gcj02",
+    "coordinateSourceUrl": "https://ditu.amap.com/ssr/coordinate-picker",
+    "coordinateCheckedAt": "2026-10-23",
+    "coordinateRevision": 20261023,
+    "coordinateNote": "高德坐标拾取；匹配地点：万泉花园；匹配地址：富平路与万泉路交叉口东北40米；实际入口以现场指引为准"
   },
   {
     "id": "dir-1684b11b1339aa42-v2-outdoors",
@@ -3124,7 +3292,14 @@
     "verifiedAt": "2026-10-19",
     "verificationScope": "官方名录或官方介绍中的地点；玩法为自助任务",
     "status": "published",
-    "recommendable": true
+    "recommendable": true,
+    "latitude": 31.266594,
+    "longitude": 121.399518,
+    "coordinateSystem": "gcj02",
+    "coordinateSourceUrl": "https://ditu.amap.com/ssr/coordinate-picker",
+    "coordinateCheckedAt": "2026-10-23",
+    "coordinateRevision": 20261023,
+    "coordinateNote": "高德坐标拾取；匹配地点：万泉花园；匹配地址：富平路与万泉路交叉口东北40米；实际入口以现场指引为准"
   },
   {
     "id": "dir-17f1115342b38ce6-v2-arts",
@@ -3163,7 +3338,14 @@
     "verifiedAt": "2026-10-19",
     "verificationScope": "官方名录或官方介绍中的地点；玩法为自助任务",
     "status": "published",
-    "recommendable": true
+    "recommendable": true,
+    "latitude": 31.220489,
+    "longitude": 121.468151,
+    "coordinateSystem": "gcj02",
+    "coordinateSourceUrl": "https://ditu.amap.com/ssr/coordinate-picker",
+    "coordinateCheckedAt": "2026-10-23",
+    "coordinateRevision": 20261023,
+    "coordinateNote": "高德坐标拾取；匹配地点：中国社会主义青年团中央机关旧址纪念馆；匹配地址：淮海中路567弄1-6号(淮海中路地铁站1号口步行370米)；实际入口以现场指引为准"
   },
   {
     "id": "dir-1820bdbb15f760bc-v2-healing",
@@ -3360,7 +3542,14 @@
     "verifiedAt": "2026-10-19",
     "verificationScope": "官方名录或官方介绍中的地点；玩法为自助任务",
     "status": "published",
-    "recommendable": true
+    "recommendable": true,
+    "latitude": 31.190515,
+    "longitude": 121.543864,
+    "coordinateSystem": "gcj02",
+    "coordinateSourceUrl": "https://ditu.amap.com/ssr/coordinate-picker",
+    "coordinateCheckedAt": "2026-10-23",
+    "coordinateRevision": 20261023,
+    "coordinateNote": "高德坐标拾取；匹配地点：锦绣文化公园；匹配地址：高科西路2599号；实际入口以现场指引为准"
   },
   {
     "id": "dir-18617d2666389f0b-v2-outdoors",
@@ -3400,7 +3589,14 @@
     "verifiedAt": "2026-10-19",
     "verificationScope": "官方名录或官方介绍中的地点；玩法为自助任务",
     "status": "published",
-    "recommendable": true
+    "recommendable": true,
+    "latitude": 31.190515,
+    "longitude": 121.543864,
+    "coordinateSystem": "gcj02",
+    "coordinateSourceUrl": "https://ditu.amap.com/ssr/coordinate-picker",
+    "coordinateCheckedAt": "2026-10-23",
+    "coordinateRevision": 20261023,
+    "coordinateNote": "高德坐标拾取；匹配地点：锦绣文化公园；匹配地址：高科西路2599号；实际入口以现场指引为准"
   },
   {
     "id": "dir-189ebe52be9b34f0-v2-arts",
@@ -3439,7 +3635,14 @@
     "verifiedAt": "2026-10-19",
     "verificationScope": "官方名录或官方介绍中的地点；玩法为自助任务",
     "status": "published",
-    "recommendable": true
+    "recommendable": true,
+    "latitude": 31.242302,
+    "longitude": 121.49147,
+    "coordinateSystem": "gcj02",
+    "coordinateSourceUrl": "https://ditu.amap.com/ssr/coordinate-picker",
+    "coordinateCheckedAt": "2026-10-23",
+    "coordinateRevision": 20261023,
+    "coordinateNote": "高德坐标拾取；匹配地点：黄浦公园-外滩历史纪念馆；匹配地址：中山东一路475号；实际入口以现场指引为准"
   },
   {
     "id": "dir-19b63c520ba63830-v2-healing",
@@ -3478,7 +3681,14 @@
     "verifiedAt": "2026-10-19",
     "verificationScope": "官方名录或官方介绍中的地点；玩法为自助任务",
     "status": "published",
-    "recommendable": true
+    "recommendable": true,
+    "latitude": 31.329478,
+    "longitude": 121.493755,
+    "coordinateSystem": "gcj02",
+    "coordinateSourceUrl": "https://ditu.amap.com/ssr/coordinate-picker",
+    "coordinateCheckedAt": "2026-10-23",
+    "coordinateRevision": 20261023,
+    "coordinateNote": "高德坐标拾取；匹配地点：何家湾小游园；匹配地址：何家湾路逸仙路东南侧(长江南路地铁站1号口步行380米)；实际入口以现场指引为准"
   },
   {
     "id": "dir-19b63c520ba63830-v2-outdoors",
@@ -3518,7 +3728,14 @@
     "verifiedAt": "2026-10-19",
     "verificationScope": "官方名录或官方介绍中的地点；玩法为自助任务",
     "status": "published",
-    "recommendable": true
+    "recommendable": true,
+    "latitude": 31.329478,
+    "longitude": 121.493755,
+    "coordinateSystem": "gcj02",
+    "coordinateSourceUrl": "https://ditu.amap.com/ssr/coordinate-picker",
+    "coordinateCheckedAt": "2026-10-23",
+    "coordinateRevision": 20261023,
+    "coordinateNote": "高德坐标拾取；匹配地点：何家湾小游园；匹配地址：何家湾路逸仙路东南侧(长江南路地铁站1号口步行380米)；实际入口以现场指引为准"
   },
   {
     "id": "dir-19f0d5b4e4c09ec9-v2-healing",
@@ -3636,7 +3853,14 @@
     "verifiedAt": "2026-10-19",
     "verificationScope": "官方名录或官方介绍中的地点；玩法为自助任务",
     "status": "published",
-    "recommendable": true
+    "recommendable": true,
+    "latitude": 30.945653,
+    "longitude": 121.473476,
+    "coordinateSystem": "gcj02",
+    "coordinateSourceUrl": "https://ditu.amap.com/ssr/coordinate-picker",
+    "coordinateCheckedAt": "2026-10-23",
+    "coordinateRevision": 20261023,
+    "coordinateNote": "高德坐标拾取；匹配地点：南上海中央公园；匹配地址：东方美谷大道与汇丰西路交叉口东南100米；实际入口以现场指引为准"
   },
   {
     "id": "dir-19ffcc4809e76b69-v2-outdoors",
@@ -3676,7 +3900,14 @@
     "verifiedAt": "2026-10-19",
     "verificationScope": "官方名录或官方介绍中的地点；玩法为自助任务",
     "status": "published",
-    "recommendable": true
+    "recommendable": true,
+    "latitude": 30.945653,
+    "longitude": 121.473476,
+    "coordinateSystem": "gcj02",
+    "coordinateSourceUrl": "https://ditu.amap.com/ssr/coordinate-picker",
+    "coordinateCheckedAt": "2026-10-23",
+    "coordinateRevision": 20261023,
+    "coordinateNote": "高德坐标拾取；匹配地点：南上海中央公园；匹配地址：东方美谷大道与汇丰西路交叉口东南100米；实际入口以现场指引为准"
   },
   {
     "id": "dir-1b5ea1c7b524d7bd-v2-arts",
@@ -3925,7 +4156,14 @@
     "verifiedAt": "2026-10-19",
     "verificationScope": "官方名录或官方介绍中的地点；玩法为自助任务",
     "status": "published",
-    "recommendable": true
+    "recommendable": true,
+    "latitude": 31.215361,
+    "longitude": 121.433762,
+    "coordinateSystem": "gcj02",
+    "coordinateSourceUrl": "https://ditu.amap.com/ssr/coordinate-picker",
+    "coordinateCheckedAt": "2026-10-23",
+    "coordinateRevision": 20261023,
+    "coordinateNote": "高德坐标拾取；匹配地点：上海杨培明宣传画收藏艺术馆；匹配地址：延安西路726号7楼K座；实际入口以现场指引为准"
   },
   {
     "id": "dir-1fa9be094488e05f-v2-healing",
@@ -4042,7 +4280,14 @@
     "verifiedAt": "2026-10-19",
     "verificationScope": "官方名录或官方介绍中的地点；玩法为自助任务",
     "status": "published",
-    "recommendable": true
+    "recommendable": true,
+    "latitude": 30.877494,
+    "longitude": 121.924906,
+    "coordinateSystem": "gcj02",
+    "coordinateSourceUrl": "https://ditu.amap.com/ssr/coordinate-picker",
+    "coordinateCheckedAt": "2026-10-23",
+    "coordinateRevision": 20261023,
+    "coordinateNote": "高德坐标拾取；匹配地点：莫比乌斯公园；匹配地址：振桥路与申轮路交叉口西南120米；实际入口以现场指引为准"
   },
   {
     "id": "dir-200ee9b1466af64c-v2-outdoors",
@@ -4081,7 +4326,14 @@
     "verifiedAt": "2026-10-19",
     "verificationScope": "官方名录或官方介绍中的地点；玩法为自助任务",
     "status": "published",
-    "recommendable": true
+    "recommendable": true,
+    "latitude": 30.877494,
+    "longitude": 121.924906,
+    "coordinateSystem": "gcj02",
+    "coordinateSourceUrl": "https://ditu.amap.com/ssr/coordinate-picker",
+    "coordinateCheckedAt": "2026-10-23",
+    "coordinateRevision": 20261023,
+    "coordinateNote": "高德坐标拾取；匹配地点：莫比乌斯公园；匹配地址：振桥路与申轮路交叉口西南120米；实际入口以现场指引为准"
   },
   {
     "id": "dir-21cceff196180174-v2-healing",
@@ -4278,7 +4530,14 @@
     "verifiedAt": "2026-10-19",
     "verificationScope": "官方名录或官方介绍中的地点；玩法为自助任务",
     "status": "published",
-    "recommendable": true
+    "recommendable": true,
+    "latitude": 31.17147,
+    "longitude": 121.743609,
+    "coordinateSystem": "gcj02",
+    "coordinateSourceUrl": "https://ditu.amap.com/ssr/coordinate-picker",
+    "coordinateCheckedAt": "2026-10-23",
+    "coordinateRevision": 20261023,
+    "coordinateNote": "高德坐标拾取；匹配地点：上海浦东林隐美术馆；匹配地址：江镇西街71号3幢；实际入口以现场指引为准"
   },
   {
     "id": "dir-2301a7f58171b094-v2-arts",
@@ -4356,7 +4615,14 @@
     "verifiedAt": "2026-10-19",
     "verificationScope": "官方名录或官方介绍中的地点；玩法为自助任务",
     "status": "published",
-    "recommendable": true
+    "recommendable": true,
+    "latitude": 31.266569,
+    "longitude": 121.479085,
+    "coordinateSystem": "gcj02",
+    "coordinateSourceUrl": "https://ditu.amap.com/ssr/coordinate-picker",
+    "coordinateCheckedAt": "2026-10-23",
+    "coordinateRevision": 20261023,
+    "coordinateNote": "高德坐标拾取；匹配地点：青藤美术馆；匹配地址：同心路1号3幢；实际入口以现场指引为准"
   },
   {
     "id": "dir-27b9d149f5fc0447-v2-arts",
@@ -4395,7 +4661,14 @@
     "verifiedAt": "2026-10-19",
     "verificationScope": "官方名录或官方介绍中的地点；玩法为自助任务",
     "status": "published",
-    "recommendable": true
+    "recommendable": true,
+    "latitude": 31.233591,
+    "longitude": 121.505708,
+    "coordinateSystem": "gcj02",
+    "coordinateSourceUrl": "https://ditu.amap.com/ssr/coordinate-picker",
+    "coordinateCheckedAt": "2026-10-23",
+    "coordinateRevision": 20261023,
+    "coordinateNote": "高德坐标拾取；匹配地点：上海观复博物馆；匹配地址：银城中路501号上海中心大厦37层；实际入口以现场指引为准"
   },
   {
     "id": "dir-27c1f8023c2ddf42-v2-arts",
@@ -4434,7 +4707,14 @@
     "verifiedAt": "2026-10-19",
     "verificationScope": "官方名录或官方介绍中的地点；玩法为自助任务",
     "status": "published",
-    "recommendable": true
+    "recommendable": true,
+    "latitude": 31.292126,
+    "longitude": 121.520083,
+    "coordinateSystem": "gcj02",
+    "coordinateSourceUrl": "https://ditu.amap.com/ssr/coordinate-picker",
+    "coordinateCheckedAt": "2026-10-23",
+    "coordinateRevision": 20261023,
+    "coordinateNote": "高德坐标拾取；匹配地点：上海鸿一美术馆；匹配地址：五角场街道黄兴路1818号海上财智商务中心办公楼南座11层；实际入口以现场指引为准"
   },
   {
     "id": "dir-27ca2c76048e74d0-v2-healing",
@@ -4590,7 +4870,14 @@
     "verifiedAt": "2026-10-19",
     "verificationScope": "官方名录或官方介绍中的地点；玩法为自助任务",
     "status": "published",
-    "recommendable": true
+    "recommendable": true,
+    "latitude": 31.265351,
+    "longitude": 121.320421,
+    "coordinateSystem": "gcj02",
+    "coordinateSourceUrl": "https://ditu.amap.com/ssr/coordinate-picker",
+    "coordinateCheckedAt": "2026-10-23",
+    "coordinateRevision": 20261023,
+    "coordinateNote": "高德坐标拾取；匹配地点：上海秦古美术馆；匹配地址：曹安公路2888号；实际入口以现场指引为准"
   },
   {
     "id": "dir-29cdbf4e1cbe2e9f-v2-arts",
@@ -4629,7 +4916,14 @@
     "verifiedAt": "2026-10-19",
     "verificationScope": "官方名录或官方介绍中的地点；玩法为自助任务",
     "status": "published",
-    "recommendable": true
+    "recommendable": true,
+    "latitude": 31.158382,
+    "longitude": 121.357859,
+    "coordinateSystem": "gcj02",
+    "coordinateSourceUrl": "https://ditu.amap.com/ssr/coordinate-picker",
+    "coordinateCheckedAt": "2026-10-23",
+    "coordinateRevision": 20261023,
+    "coordinateNote": "高德坐标拾取；匹配地点：上海宝龙美术馆；匹配地址：漕宝路3055号；实际入口以现场指引为准"
   },
   {
     "id": "dir-29ef9cbad12f16c2-v2-arts",
@@ -4870,7 +5164,14 @@
     "verifiedAt": "2026-10-19",
     "verificationScope": "官方名录或官方介绍中的地点；玩法为自助任务",
     "status": "published",
-    "recommendable": true
+    "recommendable": true,
+    "latitude": 31.212709,
+    "longitude": 121.458872,
+    "coordinateSystem": "gcj02",
+    "coordinateSourceUrl": "https://ditu.amap.com/ssr/coordinate-picker",
+    "coordinateCheckedAt": "2026-10-23",
+    "coordinateRevision": 20261023,
+    "coordinateNote": "高德坐标拾取；匹配地点：上海明圆美术馆；匹配地址：复兴中路1199号明园商务中心A座地下一层；实际入口以现场指引为准"
   },
   {
     "id": "dir-2b87ab7f36f7c779-v2-arts",
@@ -4909,7 +5210,14 @@
     "verifiedAt": "2026-10-19",
     "verificationScope": "官方名录或官方介绍中的地点；玩法为自助任务",
     "status": "published",
-    "recommendable": true
+    "recommendable": true,
+    "latitude": 31.233526,
+    "longitude": 121.505386,
+    "coordinateSystem": "gcj02",
+    "coordinateSourceUrl": "https://ditu.amap.com/ssr/coordinate-picker",
+    "coordinateCheckedAt": "2026-10-23",
+    "coordinateRevision": 20261023,
+    "coordinateNote": "高德坐标拾取；匹配地点：上海宝库匠心博物馆；匹配地址：银城中路501号上海中心大厦38层；实际入口以现场指引为准"
   },
   {
     "id": "dir-2bed7e53d0147aa8-v2-arts",
@@ -4948,7 +5256,14 @@
     "verifiedAt": "2026-10-19",
     "verificationScope": "官方名录或官方介绍中的地点；玩法为自助任务",
     "status": "published",
-    "recommendable": true
+    "recommendable": true,
+    "latitude": 31.235184,
+    "longitude": 121.456101,
+    "coordinateSystem": "gcj02",
+    "coordinateSourceUrl": "https://ditu.amap.com/ssr/coordinate-picker",
+    "coordinateCheckedAt": "2026-10-23",
+    "coordinateRevision": 20261023,
+    "coordinateNote": "高德坐标拾取；匹配地点：元利当铺旧址博物馆；匹配地址：武定路203号；实际入口以现场指引为准"
   },
   {
     "id": "dir-2bf7fed8a01b51e7-v2-healing",
@@ -5189,7 +5504,14 @@
     "verifiedAt": "2026-10-19",
     "verificationScope": "官方名录或官方介绍中的地点；玩法为自助任务",
     "status": "published",
-    "recommendable": true
+    "recommendable": true,
+    "latitude": 31.1507,
+    "longitude": 121.477679,
+    "coordinateSystem": "gcj02",
+    "coordinateSourceUrl": "https://ditu.amap.com/ssr/coordinate-picker",
+    "coordinateCheckedAt": "2026-10-23",
+    "coordinateRevision": 20261023,
+    "coordinateNote": "高德坐标拾取；匹配地点：前滩中心公园；匹配地址：海阳西路和平家桥路交叉口；实际入口以现场指引为准"
   },
   {
     "id": "dir-2cf6306a6e395487-v2-outdoors",
@@ -5229,7 +5551,14 @@
     "verifiedAt": "2026-10-19",
     "verificationScope": "官方名录或官方介绍中的地点；玩法为自助任务",
     "status": "published",
-    "recommendable": true
+    "recommendable": true,
+    "latitude": 31.1507,
+    "longitude": 121.477679,
+    "coordinateSystem": "gcj02",
+    "coordinateSourceUrl": "https://ditu.amap.com/ssr/coordinate-picker",
+    "coordinateCheckedAt": "2026-10-23",
+    "coordinateRevision": 20261023,
+    "coordinateNote": "高德坐标拾取；匹配地点：前滩中心公园；匹配地址：海阳西路和平家桥路交叉口；实际入口以现场指引为准"
   },
   {
     "id": "dir-2cf9dd8ba0975345-v2-healing",
@@ -5557,7 +5886,14 @@
     "verifiedAt": "2026-10-19",
     "verificationScope": "官方名录或官方介绍中的地点；玩法为自助任务",
     "status": "published",
-    "recommendable": true
+    "recommendable": true,
+    "latitude": 31.142713,
+    "longitude": 121.393288,
+    "coordinateSystem": "gcj02",
+    "coordinateSourceUrl": "https://ditu.amap.com/ssr/coordinate-picker",
+    "coordinateCheckedAt": "2026-10-23",
+    "coordinateRevision": 20261023,
+    "coordinateNote": "高德坐标拾取；匹配地点：古美公园；匹配地址：平吉路799号(顾戴路地铁站4号口步行270米)；实际入口以现场指引为准"
   },
   {
     "id": "dir-2f98ce557b8d8a36-v2-outdoors",
@@ -5596,7 +5932,14 @@
     "verifiedAt": "2026-10-19",
     "verificationScope": "官方名录或官方介绍中的地点；玩法为自助任务",
     "status": "published",
-    "recommendable": true
+    "recommendable": true,
+    "latitude": 31.142713,
+    "longitude": 121.393288,
+    "coordinateSystem": "gcj02",
+    "coordinateSourceUrl": "https://ditu.amap.com/ssr/coordinate-picker",
+    "coordinateCheckedAt": "2026-10-23",
+    "coordinateRevision": 20261023,
+    "coordinateNote": "高德坐标拾取；匹配地点：古美公园；匹配地址：平吉路799号(顾戴路地铁站4号口步行270米)；实际入口以现场指引为准"
   },
   {
     "id": "dir-2fb1d456e0d201b3-v2-arts",
@@ -5674,7 +6017,14 @@
     "verifiedAt": "2026-10-19",
     "verificationScope": "官方名录或官方介绍中的地点；玩法为自助任务",
     "status": "published",
-    "recommendable": true
+    "recommendable": true,
+    "latitude": 31.223347,
+    "longitude": 121.378132,
+    "coordinateSystem": "gcj02",
+    "coordinateSourceUrl": "https://ditu.amap.com/ssr/coordinate-picker",
+    "coordinateCheckedAt": "2026-10-23",
+    "coordinateRevision": 20261023,
+    "coordinateNote": "高德坐标拾取；匹配地点：云岭公园；匹配地址：云岭东路与真北路交叉口东南240米；实际入口以现场指引为准"
   },
   {
     "id": "dir-302690db677d669c-v2-outdoors",
@@ -5714,7 +6064,14 @@
     "verifiedAt": "2026-10-19",
     "verificationScope": "官方名录或官方介绍中的地点；玩法为自助任务",
     "status": "published",
-    "recommendable": true
+    "recommendable": true,
+    "latitude": 31.223347,
+    "longitude": 121.378132,
+    "coordinateSystem": "gcj02",
+    "coordinateSourceUrl": "https://ditu.amap.com/ssr/coordinate-picker",
+    "coordinateCheckedAt": "2026-10-23",
+    "coordinateRevision": 20261023,
+    "coordinateNote": "高德坐标拾取；匹配地点：云岭公园；匹配地址：云岭东路与真北路交叉口东南240米；实际入口以现场指引为准"
   },
   {
     "id": "dir-30a286a31c6b46fe-v2-healing",
@@ -5753,7 +6110,14 @@
     "verifiedAt": "2026-10-19",
     "verificationScope": "官方名录或官方介绍中的地点；玩法为自助任务",
     "status": "published",
-    "recommendable": true
+    "recommendable": true,
+    "latitude": 31.083138,
+    "longitude": 121.491588,
+    "coordinateSystem": "gcj02",
+    "coordinateSourceUrl": "https://ditu.amap.com/ssr/coordinate-picker",
+    "coordinateCheckedAt": "2026-10-23",
+    "coordinateRevision": 20261023,
+    "coordinateNote": "高德坐标拾取；匹配地点：美树里；匹配地址：浦秀路与立跃路交叉口南200米；实际入口以现场指引为准"
   },
   {
     "id": "dir-30a286a31c6b46fe-v2-outdoors",
@@ -5793,7 +6157,14 @@
     "verifiedAt": "2026-10-19",
     "verificationScope": "官方名录或官方介绍中的地点；玩法为自助任务",
     "status": "published",
-    "recommendable": true
+    "recommendable": true,
+    "latitude": 31.083138,
+    "longitude": 121.491588,
+    "coordinateSystem": "gcj02",
+    "coordinateSourceUrl": "https://ditu.amap.com/ssr/coordinate-picker",
+    "coordinateCheckedAt": "2026-10-23",
+    "coordinateRevision": 20261023,
+    "coordinateNote": "高德坐标拾取；匹配地点：美树里；匹配地址：浦秀路与立跃路交叉口南200米；实际入口以现场指引为准"
   },
   {
     "id": "dir-321aea7e1da778db-v2-arts",
@@ -5832,7 +6203,14 @@
     "verifiedAt": "2026-10-19",
     "verificationScope": "官方名录或官方介绍中的地点；玩法为自助任务",
     "status": "published",
-    "recommendable": true
+    "recommendable": true,
+    "latitude": 31.202922,
+    "longitude": 121.413704,
+    "coordinateSystem": "gcj02",
+    "coordinateSourceUrl": "https://ditu.amap.com/ssr/coordinate-picker",
+    "coordinateCheckedAt": "2026-10-23",
+    "coordinateRevision": 20261023,
+    "coordinateNote": "高德坐标拾取；匹配地点：上海纺织服饰博物馆；匹配地址：延安西路1882号；实际入口以现场指引为准"
   },
   {
     "id": "dir-327816d5587fb976-v2-healing",
@@ -5950,7 +6328,14 @@
     "verifiedAt": "2026-10-19",
     "verificationScope": "官方名录或官方介绍中的地点；玩法为自助任务",
     "status": "published",
-    "recommendable": true
+    "recommendable": true,
+    "latitude": 31.216109,
+    "longitude": 121.467744,
+    "coordinateSystem": "gcj02",
+    "coordinateSourceUrl": "https://ditu.amap.com/ssr/coordinate-picker",
+    "coordinateCheckedAt": "2026-10-23",
+    "coordinateRevision": 20261023,
+    "coordinateNote": "高德坐标拾取；匹配地点：上海孙中山故居纪念馆；匹配地址：香山路7号；实际入口以现场指引为准"
   },
   {
     "id": "dir-33378a5864813046-v2-arts",
@@ -5989,7 +6374,14 @@
     "verifiedAt": "2026-10-19",
     "verificationScope": "官方名录或官方介绍中的地点；玩法为自助任务",
     "status": "published",
-    "recommendable": true
+    "recommendable": true,
+    "latitude": 31.052544,
+    "longitude": 121.288677,
+    "coordinateSystem": "gcj02",
+    "coordinateSourceUrl": "https://ditu.amap.com/ssr/coordinate-picker",
+    "coordinateCheckedAt": "2026-10-23",
+    "coordinateRevision": 20261023,
+    "coordinateNote": "高德坐标拾取；匹配地点：清控人居美术馆；匹配地址：新腾路9号1幢1层108室；实际入口以现场指引为准"
   },
   {
     "id": "dir-3374ea44ae3709da-v2-arts",
@@ -6028,7 +6420,14 @@
     "verifiedAt": "2026-10-19",
     "verificationScope": "官方名录或官方介绍中的地点；玩法为自助任务",
     "status": "published",
-    "recommendable": true
+    "recommendable": true,
+    "latitude": 31.033303,
+    "longitude": 121.193635,
+    "coordinateSystem": "gcj02",
+    "coordinateSourceUrl": "https://ditu.amap.com/ssr/coordinate-picker",
+    "coordinateCheckedAt": "2026-10-23",
+    "coordinateRevision": 20261023,
+    "coordinateNote": "高德坐标拾取；匹配地点：上海YOUNG美术馆；匹配地址：三新北路900弄910号；实际入口以现场指引为准"
   },
   {
     "id": "dir-33d1a233e7ca2f34-v2-healing",
@@ -6225,7 +6624,14 @@
     "verifiedAt": "2026-10-19",
     "verificationScope": "官方名录或官方介绍中的地点；玩法为自助任务",
     "status": "published",
-    "recommendable": true
+    "recommendable": true,
+    "latitude": 31.241257,
+    "longitude": 121.509423,
+    "coordinateSystem": "gcj02",
+    "coordinateSourceUrl": "https://ditu.amap.com/ssr/coordinate-picker",
+    "coordinateCheckedAt": "2026-10-23",
+    "coordinateRevision": 20261023,
+    "coordinateNote": "高德坐标拾取；匹配地点：上海浦东新区叁柒贰叁美术馆；匹配地址：上海市陆家嘴街道银城路66号尚悦湾广场2层207；实际入口以现场指引为准"
   },
   {
     "id": "dir-34c2844f435e466e-v2-healing",
@@ -6343,7 +6749,14 @@
     "verifiedAt": "2026-10-19",
     "verificationScope": "官方名录或官方介绍中的地点；玩法为自助任务",
     "status": "published",
-    "recommendable": true
+    "recommendable": true,
+    "latitude": 31.048008,
+    "longitude": 121.200566,
+    "coordinateSystem": "gcj02",
+    "coordinateSourceUrl": "https://ditu.amap.com/ssr/coordinate-picker",
+    "coordinateCheckedAt": "2026-10-23",
+    "coordinateRevision": 20261023,
+    "coordinateNote": "高德坐标拾取；匹配地点：上海立信会计学院中国会计博物馆；匹配地址：文翔路2800号；实际入口以现场指引为准"
   },
   {
     "id": "dir-363bcd38bb33f125-v2-arts",
@@ -6382,7 +6795,14 @@
     "verifiedAt": "2026-10-19",
     "verificationScope": "官方名录或官方介绍中的地点；玩法为自助任务",
     "status": "published",
-    "recommendable": true
+    "recommendable": true,
+    "latitude": 31.21817,
+    "longitude": 121.411362,
+    "coordinateSystem": "gcj02",
+    "coordinateSourceUrl": "https://ditu.amap.com/ssr/coordinate-picker",
+    "coordinateCheckedAt": "2026-10-23",
+    "coordinateRevision": 20261023,
+    "coordinateNote": "高德坐标拾取；匹配地点：上海消防博物馆；匹配地址：中山西路229号；实际入口以现场指引为准"
   },
   {
     "id": "dir-38a78b393c52ce39-v2-arts",
@@ -6509,7 +6929,14 @@
     "verifiedAt": "2026-10-19",
     "verificationScope": "官方名录或官方介绍中的地点；玩法为自助任务",
     "status": "published",
-    "recommendable": true
+    "recommendable": true,
+    "latitude": 31.282192,
+    "longitude": 121.327122,
+    "coordinateSystem": "gcj02",
+    "coordinateSourceUrl": "https://ditu.amap.com/ssr/coordinate-picker",
+    "coordinateCheckedAt": "2026-10-23",
+    "coordinateRevision": 20261023,
+    "coordinateNote": "高德坐标拾取；匹配地点：南翔镇银翔湖公园；匹配地址：南翔镇槎溪路；实际入口以现场指引为准"
   },
   {
     "id": "dir-3a0f32be1c41cb2c-v2-outdoors",
@@ -6549,7 +6976,14 @@
     "verifiedAt": "2026-10-19",
     "verificationScope": "官方名录或官方介绍中的地点；玩法为自助任务",
     "status": "published",
-    "recommendable": true
+    "recommendable": true,
+    "latitude": 31.282192,
+    "longitude": 121.327122,
+    "coordinateSystem": "gcj02",
+    "coordinateSourceUrl": "https://ditu.amap.com/ssr/coordinate-picker",
+    "coordinateCheckedAt": "2026-10-23",
+    "coordinateRevision": 20261023,
+    "coordinateNote": "高德坐标拾取；匹配地点：南翔镇银翔湖公园；匹配地址：南翔镇槎溪路；实际入口以现场指引为准"
   },
   {
     "id": "dir-3a8470526608cedb-v2-arts",
@@ -6627,7 +7061,14 @@
     "verifiedAt": "2026-10-19",
     "verificationScope": "官方名录或官方介绍中的地点；玩法为自助任务",
     "status": "published",
-    "recommendable": true
+    "recommendable": true,
+    "latitude": 30.93474,
+    "longitude": 121.602025,
+    "coordinateSystem": "gcj02",
+    "coordinateSourceUrl": "https://ditu.amap.com/ssr/coordinate-picker",
+    "coordinateCheckedAt": "2026-10-23",
+    "coordinateRevision": 20261023,
+    "coordinateNote": "高德坐标拾取；匹配地点：上海电线电缆博物馆；匹配地址：青伟路233号4层；实际入口以现场指引为准"
   },
   {
     "id": "dir-3b84aa607346ceba-v2-arts",
@@ -6666,7 +7107,14 @@
     "verifiedAt": "2026-10-19",
     "verificationScope": "官方名录或官方介绍中的地点；玩法为自助任务",
     "status": "published",
-    "recommendable": true
+    "recommendable": true,
+    "latitude": 30.801751,
+    "longitude": 121.285745,
+    "coordinateSystem": "gcj02",
+    "coordinateSourceUrl": "https://ditu.amap.com/ssr/coordinate-picker",
+    "coordinateCheckedAt": "2026-10-23",
+    "coordinateRevision": 20261023,
+    "coordinateNote": "高德坐标拾取；匹配地点：上海南社纪念馆；匹配地址：新建路130号；实际入口以现场指引为准"
   },
   {
     "id": "dir-3c3f35a515f4ae4a-v2-arts",
@@ -6829,7 +7277,14 @@
     "verifiedAt": "2026-10-19",
     "verificationScope": "官方名录或官方介绍中的地点；玩法为自助任务",
     "status": "published",
-    "recommendable": true
+    "recommendable": true,
+    "latitude": 31.236772,
+    "longitude": 121.506922,
+    "coordinateSystem": "gcj02",
+    "coordinateSourceUrl": "https://ditu.amap.com/ssr/coordinate-picker",
+    "coordinateCheckedAt": "2026-10-23",
+    "coordinateRevision": 20261023,
+    "coordinateNote": "高德坐标拾取；匹配地点：上海吴昌硕纪念馆；匹配地址：陆家嘴东路15号(陆家嘴地铁站5号口步行400米)；实际入口以现场指引为准"
   },
   {
     "id": "dir-3daf26b48065ec19-v2-night",
@@ -6868,7 +7323,14 @@
     "verifiedAt": "2026-10-19",
     "verificationScope": "官方名录或官方介绍中的地点；玩法为自助任务",
     "status": "published",
-    "recommendable": true
+    "recommendable": true,
+    "latitude": 31.236772,
+    "longitude": 121.506922,
+    "coordinateSystem": "gcj02",
+    "coordinateSourceUrl": "https://ditu.amap.com/ssr/coordinate-picker",
+    "coordinateCheckedAt": "2026-10-23",
+    "coordinateRevision": 20261023,
+    "coordinateNote": "高德坐标拾取；匹配地点：上海吴昌硕纪念馆；匹配地址：陆家嘴东路15号(陆家嘴地铁站5号口步行400米)；实际入口以现场指引为准"
   },
   {
     "id": "dir-3df41d5515591825-v2-arts",
@@ -7110,7 +7572,14 @@
     "verifiedAt": "2026-10-19",
     "verificationScope": "官方名录或官方介绍中的地点；玩法为自助任务",
     "status": "published",
-    "recommendable": true
+    "recommendable": true,
+    "latitude": 31.195334,
+    "longitude": 121.272736,
+    "coordinateSystem": "gcj02",
+    "coordinateSourceUrl": "https://ditu.amap.com/ssr/coordinate-picker",
+    "coordinateCheckedAt": "2026-10-23",
+    "coordinateRevision": 20261023,
+    "coordinateNote": "高德坐标拾取；匹配地点：上海青浦区金夜美术馆；匹配地址：汇龙路168号；实际入口以现场指引为准"
   },
   {
     "id": "dir-3f80c7479851e711-v2-arts",
@@ -7149,7 +7618,14 @@
     "verifiedAt": "2026-10-19",
     "verificationScope": "官方名录或官方介绍中的地点；玩法为自助任务",
     "status": "published",
-    "recommendable": true
+    "recommendable": true,
+    "latitude": 31.314273,
+    "longitude": 121.404567,
+    "coordinateSystem": "gcj02",
+    "coordinateSourceUrl": "https://ditu.amap.com/ssr/coordinate-picker",
+    "coordinateCheckedAt": "2026-10-23",
+    "coordinateRevision": 20261023,
+    "coordinateNote": "高德坐标拾取；匹配地点：南京路上好八连事迹陈列馆；匹配地址：上大路55号(上大路地铁站3号口步行460米)；实际入口以现场指引为准"
   },
   {
     "id": "dir-3f8d49369b731e2b-v2-healing",
@@ -7392,7 +7868,14 @@
     "verifiedAt": "2026-10-19",
     "verificationScope": "官方名录或官方介绍中的地点；玩法为自助任务",
     "status": "published",
-    "recommendable": true
+    "recommendable": true,
+    "latitude": 31.202747,
+    "longitude": 121.366004,
+    "coordinateSystem": "gcj02",
+    "coordinateSourceUrl": "https://ditu.amap.com/ssr/coordinate-picker",
+    "coordinateCheckedAt": "2026-10-23",
+    "coordinateRevision": 20261023,
+    "coordinateNote": "高德坐标拾取；匹配地点：中新泾公园；匹配地址：哈密路1233号；实际入口以现场指引为准"
   },
   {
     "id": "dir-4017018015b03ba5-v2-outdoors",
@@ -7432,7 +7915,14 @@
     "verifiedAt": "2026-10-19",
     "verificationScope": "官方名录或官方介绍中的地点；玩法为自助任务",
     "status": "published",
-    "recommendable": true
+    "recommendable": true,
+    "latitude": 31.202747,
+    "longitude": 121.366004,
+    "coordinateSystem": "gcj02",
+    "coordinateSourceUrl": "https://ditu.amap.com/ssr/coordinate-picker",
+    "coordinateCheckedAt": "2026-10-23",
+    "coordinateRevision": 20261023,
+    "coordinateNote": "高德坐标拾取；匹配地点：中新泾公园；匹配地址：哈密路1233号；实际入口以现场指引为准"
   },
   {
     "id": "dir-404ad3189921bcc9-v2-arts",
@@ -7471,7 +7961,14 @@
     "verifiedAt": "2026-10-19",
     "verificationScope": "官方名录或官方介绍中的地点；玩法为自助任务",
     "status": "published",
-    "recommendable": true
+    "recommendable": true,
+    "latitude": 31.230796,
+    "longitude": 121.443625,
+    "coordinateSystem": "gcj02",
+    "coordinateSourceUrl": "https://ditu.amap.com/ssr/coordinate-picker",
+    "coordinateCheckedAt": "2026-10-23",
+    "coordinateRevision": 20261023,
+    "coordinateNote": "高德坐标拾取；匹配地点：中共中央特科机关旧址；匹配地址：武定路930弄14号(昌平路地铁站3号口步行490米)；实际入口以现场指引为准"
   },
   {
     "id": "dir-40e812158dce6b7f-v2-arts",
@@ -7549,7 +8046,14 @@
     "verifiedAt": "2026-10-19",
     "verificationScope": "官方名录或官方介绍中的地点；玩法为自助任务",
     "status": "published",
-    "recommendable": true
+    "recommendable": true,
+    "latitude": 31.229681,
+    "longitude": 121.317457,
+    "coordinateSystem": "gcj02",
+    "coordinateSourceUrl": "https://ditu.amap.com/ssr/coordinate-picker",
+    "coordinateCheckedAt": "2026-10-23",
+    "coordinateRevision": 20261023,
+    "coordinateNote": "高德坐标拾取；匹配地点：上海嘉定区北虹桥美术馆；匹配地址：景域大道88号13幢；实际入口以现场指引为准"
   },
   {
     "id": "dir-421cd5668aaf0f21-v2-arts",
@@ -7627,7 +8131,14 @@
     "verifiedAt": "2026-10-19",
     "verificationScope": "官方名录或官方介绍中的地点；玩法为自助任务",
     "status": "published",
-    "recommendable": true
+    "recommendable": true,
+    "latitude": 31.207875,
+    "longitude": 121.399425,
+    "coordinateSystem": "gcj02",
+    "coordinateSourceUrl": "https://ditu.amap.com/ssr/coordinate-picker",
+    "coordinateCheckedAt": "2026-10-23",
+    "coordinateRevision": 20261023,
+    "coordinateNote": "高德坐标拾取；匹配地点：上海对外经贸大学博物馆；匹配地址：古北路620号上海对外经贸大学古北校区综合楼；实际入口以现场指引为准"
   },
   {
     "id": "dir-427046eedbb1043c-v2-arts",
@@ -7791,7 +8302,14 @@
     "verifiedAt": "2026-10-19",
     "verificationScope": "官方名录或官方介绍中的地点；玩法为自助任务",
     "status": "published",
-    "recommendable": true
+    "recommendable": true,
+    "latitude": 31.168244,
+    "longitude": 121.14888,
+    "coordinateSystem": "gcj02",
+    "coordinateSourceUrl": "https://ditu.amap.com/ssr/coordinate-picker",
+    "coordinateCheckedAt": "2026-10-23",
+    "coordinateRevision": 20261023,
+    "coordinateNote": "高德坐标拾取；匹配地点：上海中华印刷博物馆；匹配地址：汇金路889号；实际入口以现场指引为准"
   },
   {
     "id": "dir-448444d581cf4d80-v2-arts",
@@ -7830,7 +8348,14 @@
     "verifiedAt": "2026-10-19",
     "verificationScope": "官方名录或官方介绍中的地点；玩法为自助任务",
     "status": "published",
-    "recommendable": true
+    "recommendable": true,
+    "latitude": 31.278457,
+    "longitude": 121.543633,
+    "coordinateSystem": "gcj02",
+    "coordinateSourceUrl": "https://ditu.amap.com/ssr/coordinate-picker",
+    "coordinateCheckedAt": "2026-10-23",
+    "coordinateRevision": 20261023,
+    "coordinateNote": "高德坐标拾取；匹配地点：中国近现代新闻出版博物馆；匹配地址：周家嘴路3678号；实际入口以现场指引为准"
   },
   {
     "id": "dir-45eb2b511fe8ccd7-v2-healing",
@@ -7869,7 +8394,14 @@
     "verifiedAt": "2026-10-19",
     "verificationScope": "官方名录或官方介绍中的地点；玩法为自助任务",
     "status": "published",
-    "recommendable": true
+    "recommendable": true,
+    "latitude": 31.118623,
+    "longitude": 121.42877,
+    "coordinateSystem": "gcj02",
+    "coordinateSourceUrl": "https://ditu.amap.com/ssr/coordinate-picker",
+    "coordinateCheckedAt": "2026-10-23",
+    "coordinateRevision": 20261023,
+    "coordinateNote": "高德坐标拾取；匹配地点：春申公园；匹配地址：虹梅南路1528弄68号；实际入口以现场指引为准"
   },
   {
     "id": "dir-45eb2b511fe8ccd7-v2-outdoors",
@@ -7909,7 +8441,14 @@
     "verifiedAt": "2026-10-19",
     "verificationScope": "官方名录或官方介绍中的地点；玩法为自助任务",
     "status": "published",
-    "recommendable": true
+    "recommendable": true,
+    "latitude": 31.118623,
+    "longitude": 121.42877,
+    "coordinateSystem": "gcj02",
+    "coordinateSourceUrl": "https://ditu.amap.com/ssr/coordinate-picker",
+    "coordinateCheckedAt": "2026-10-23",
+    "coordinateRevision": 20261023,
+    "coordinateNote": "高德坐标拾取；匹配地点：春申公园；匹配地址：虹梅南路1528弄68号；实际入口以现场指引为准"
   },
   {
     "id": "dir-464bd3cc8372a56c-v2-thrill",
@@ -7948,7 +8487,14 @@
     "verifiedAt": "2026-10-19",
     "verificationScope": "官方名录或官方介绍中的地点；玩法为自助任务",
     "status": "published",
-    "recommendable": true
+    "recommendable": true,
+    "latitude": 30.9128,
+    "longitude": 121.926924,
+    "coordinateSystem": "gcj02",
+    "coordinateSourceUrl": "https://ditu.amap.com/ssr/coordinate-picker",
+    "coordinateCheckedAt": "2026-10-23",
+    "coordinateRevision": 20261023,
+    "coordinateNote": "高德坐标拾取；匹配地点：上海天文馆(上海科技馆分馆)；匹配地址：临港大道380号；实际入口以现场指引为准"
   },
   {
     "id": "dir-472570e0da365e79-v2-arts",
@@ -7987,7 +8533,14 @@
     "verifiedAt": "2026-10-19",
     "verificationScope": "官方名录或官方介绍中的地点；玩法为自助任务",
     "status": "published",
-    "recommendable": true
+    "recommendable": true,
+    "latitude": 31.197851,
+    "longitude": 121.441928,
+    "coordinateSystem": "gcj02",
+    "coordinateSourceUrl": "https://ditu.amap.com/ssr/coordinate-picker",
+    "coordinateCheckedAt": "2026-10-23",
+    "coordinateRevision": 20261023,
+    "coordinateNote": "高德坐标拾取；匹配地点：义勇军进行曲灌制地纪念馆；匹配地址：衡山路811号；实际入口以现场指引为准"
   },
   {
     "id": "dir-4780d93c274b9894-v2-healing",
@@ -8026,7 +8579,14 @@
     "verifiedAt": "2026-10-19",
     "verificationScope": "官方名录或官方介绍中的地点；玩法为自助任务",
     "status": "published",
-    "recommendable": true
+    "recommendable": true,
+    "latitude": 31.148459,
+    "longitude": 121.14867,
+    "coordinateSystem": "gcj02",
+    "coordinateSourceUrl": "https://ditu.amap.com/ssr/coordinate-picker",
+    "coordinateCheckedAt": "2026-10-23",
+    "coordinateRevision": 20261023,
+    "coordinateNote": "高德坐标拾取；匹配地点：绿地·秀；匹配地址：秀泉路与崧涵路交叉口西南80米；实际入口以现场指引为准"
   },
   {
     "id": "dir-4780d93c274b9894-v2-outdoors",
@@ -8066,7 +8626,14 @@
     "verifiedAt": "2026-10-19",
     "verificationScope": "官方名录或官方介绍中的地点；玩法为自助任务",
     "status": "published",
-    "recommendable": true
+    "recommendable": true,
+    "latitude": 31.148459,
+    "longitude": 121.14867,
+    "coordinateSystem": "gcj02",
+    "coordinateSourceUrl": "https://ditu.amap.com/ssr/coordinate-picker",
+    "coordinateCheckedAt": "2026-10-23",
+    "coordinateRevision": 20261023,
+    "coordinateNote": "高德坐标拾取；匹配地点：绿地·秀；匹配地址：秀泉路与崧涵路交叉口西南80米；实际入口以现场指引为准"
   },
   {
     "id": "dir-47845deb9ce45f8e-v2-arts",
@@ -8105,7 +8672,14 @@
     "verifiedAt": "2026-10-19",
     "verificationScope": "官方名录或官方介绍中的地点；玩法为自助任务",
     "status": "published",
-    "recommendable": true
+    "recommendable": true,
+    "latitude": 31.144288,
+    "longitude": 121.345657,
+    "coordinateSystem": "gcj02",
+    "coordinateSourceUrl": "https://ditu.amap.com/ssr/coordinate-picker",
+    "coordinateCheckedAt": "2026-10-23",
+    "coordinateRevision": 20261023,
+    "coordinateNote": "高德坐标拾取；匹配地点：上海民族乐器博物馆；匹配地址：联明路400号；实际入口以现场指引为准"
   },
   {
     "id": "dir-483de158ea5b969c-v2-arts",
@@ -8144,7 +8718,14 @@
     "verifiedAt": "2026-10-19",
     "verificationScope": "官方名录或官方介绍中的地点；玩法为自助任务",
     "status": "published",
-    "recommendable": true
+    "recommendable": true,
+    "latitude": 31.385963,
+    "longitude": 121.25346,
+    "coordinateSystem": "gcj02",
+    "coordinateSourceUrl": "https://ditu.amap.com/ssr/coordinate-picker",
+    "coordinateCheckedAt": "2026-10-23",
+    "coordinateRevision": 20261023,
+    "coordinateNote": "高德坐标拾取；匹配地点：陆俨少艺术院；匹配地址：东大街358号；实际入口以现场指引为准"
   },
   {
     "id": "dir-48489d782dc3b689-v2-healing",
@@ -8183,7 +8764,14 @@
     "verifiedAt": "2026-10-19",
     "verificationScope": "官方名录或官方介绍中的地点；玩法为自助任务",
     "status": "published",
-    "recommendable": true
+    "recommendable": true,
+    "latitude": 30.719772,
+    "longitude": 121.333199,
+    "coordinateSystem": "gcj02",
+    "coordinateSourceUrl": "https://ditu.amap.com/ssr/coordinate-picker",
+    "coordinateCheckedAt": "2026-10-23",
+    "coordinateRevision": 20261023,
+    "coordinateNote": "高德坐标拾取；匹配地点：涟园；匹配地址：临桂路2581-3室；实际入口以现场指引为准"
   },
   {
     "id": "dir-48489d782dc3b689-v2-outdoors",
@@ -8223,7 +8811,14 @@
     "verifiedAt": "2026-10-19",
     "verificationScope": "官方名录或官方介绍中的地点；玩法为自助任务",
     "status": "published",
-    "recommendable": true
+    "recommendable": true,
+    "latitude": 30.719772,
+    "longitude": 121.333199,
+    "coordinateSystem": "gcj02",
+    "coordinateSourceUrl": "https://ditu.amap.com/ssr/coordinate-picker",
+    "coordinateCheckedAt": "2026-10-23",
+    "coordinateRevision": 20261023,
+    "coordinateNote": "高德坐标拾取；匹配地点：涟园；匹配地址：临桂路2581-3室；实际入口以现场指引为准"
   },
   {
     "id": "dir-48b4832fb60c47dc-v2-arts",
@@ -8301,7 +8896,14 @@
     "verifiedAt": "2026-10-19",
     "verificationScope": "官方名录或官方介绍中的地点；玩法为自助任务",
     "status": "published",
-    "recommendable": true
+    "recommendable": true,
+    "latitude": 31.24476,
+    "longitude": 121.588967,
+    "coordinateSystem": "gcj02",
+    "coordinateSourceUrl": "https://ditu.amap.com/ssr/coordinate-picker",
+    "coordinateCheckedAt": "2026-10-23",
+    "coordinateRevision": 20261023,
+    "coordinateNote": "高德坐标拾取；匹配地点：浦东碧云美术馆；匹配地址：红枫路135号；实际入口以现场指引为准"
   },
   {
     "id": "dir-49b009d185542501-v2-night",
@@ -8340,7 +8942,14 @@
     "verifiedAt": "2026-10-19",
     "verificationScope": "官方名录或官方介绍中的地点；玩法为自助任务",
     "status": "published",
-    "recommendable": true
+    "recommendable": true,
+    "latitude": 31.24476,
+    "longitude": 121.588967,
+    "coordinateSystem": "gcj02",
+    "coordinateSourceUrl": "https://ditu.amap.com/ssr/coordinate-picker",
+    "coordinateCheckedAt": "2026-10-23",
+    "coordinateRevision": 20261023,
+    "coordinateNote": "高德坐标拾取；匹配地点：浦东碧云美术馆；匹配地址：红枫路135号；实际入口以现场指引为准"
   },
   {
     "id": "dir-4a9d430641a92328-v2-arts",
@@ -8418,7 +9027,14 @@
     "verifiedAt": "2026-10-19",
     "verificationScope": "官方名录或官方介绍中的地点；玩法为自助任务",
     "status": "published",
-    "recommendable": true
+    "recommendable": true,
+    "latitude": 31.198877,
+    "longitude": 121.435896,
+    "coordinateSystem": "gcj02",
+    "coordinateSourceUrl": "https://ditu.amap.com/ssr/coordinate-picker",
+    "coordinateCheckedAt": "2026-10-23",
+    "coordinateRevision": 20261023,
+    "coordinateNote": "高德坐标拾取；匹配地点：上海交通大学校史博物馆；匹配地址：华山路1954号(徐家汇地铁站16号口步行450米)；实际入口以现场指引为准"
   },
   {
     "id": "dir-4b4d76ac4d0a192f-v2-healing",
@@ -8457,7 +9073,14 @@
     "verifiedAt": "2026-10-19",
     "verificationScope": "官方名录或官方介绍中的地点；玩法为自助任务",
     "status": "published",
-    "recommendable": true
+    "recommendable": true,
+    "latitude": 31.166461,
+    "longitude": 121.536594,
+    "coordinateSystem": "gcj02",
+    "coordinateSourceUrl": "https://ditu.amap.com/ssr/coordinate-picker",
+    "coordinateCheckedAt": "2026-10-23",
+    "coordinateRevision": 20261023,
+    "coordinateNote": "高德坐标拾取；匹配地点：木兰公园；匹配地址：东书房路411号；实际入口以现场指引为准"
   },
   {
     "id": "dir-4b4d76ac4d0a192f-v2-outdoors",
@@ -8497,7 +9120,14 @@
     "verifiedAt": "2026-10-19",
     "verificationScope": "官方名录或官方介绍中的地点；玩法为自助任务",
     "status": "published",
-    "recommendable": true
+    "recommendable": true,
+    "latitude": 31.166461,
+    "longitude": 121.536594,
+    "coordinateSystem": "gcj02",
+    "coordinateSourceUrl": "https://ditu.amap.com/ssr/coordinate-picker",
+    "coordinateCheckedAt": "2026-10-23",
+    "coordinateRevision": 20261023,
+    "coordinateNote": "高德坐标拾取；匹配地点：木兰公园；匹配地址：东书房路411号；实际入口以现场指引为准"
   },
   {
     "id": "dir-4b7bfcf37d421f0a-v2-arts",
@@ -8674,7 +9304,14 @@
     "verifiedAt": "2026-10-19",
     "verificationScope": "官方名录或官方介绍中的地点；玩法为自助任务",
     "status": "published",
-    "recommendable": true
+    "recommendable": true,
+    "latitude": 31.021034,
+    "longitude": 121.428951,
+    "coordinateSystem": "gcj02",
+    "coordinateSourceUrl": "https://ditu.amap.com/ssr/coordinate-picker",
+    "coordinateCheckedAt": "2026-10-23",
+    "coordinateRevision": 20261023,
+    "coordinateNote": "高德坐标拾取；匹配地点：上海交通大学程及美术馆；匹配地址：东川路800号；实际入口以现场指引为准"
   },
   {
     "id": "dir-4b96d86a577ba962-v2-healing",
@@ -8792,7 +9429,14 @@
     "verifiedAt": "2026-10-19",
     "verificationScope": "官方名录或官方介绍中的地点；玩法为自助任务",
     "status": "published",
-    "recommendable": true
+    "recommendable": true,
+    "latitude": 31.135624,
+    "longitude": 121.096252,
+    "coordinateSystem": "gcj02",
+    "coordinateSourceUrl": "https://ditu.amap.com/ssr/coordinate-picker",
+    "coordinateCheckedAt": "2026-10-23",
+    "coordinateRevision": 20261023,
+    "coordinateNote": "高德坐标拾取；匹配地点：月季园；匹配地址：海盈路与漕程路交叉口西南220米；实际入口以现场指引为准"
   },
   {
     "id": "dir-4c0d2c5cd646bf62-v2-outdoors",
@@ -8831,7 +9475,14 @@
     "verifiedAt": "2026-10-19",
     "verificationScope": "官方名录或官方介绍中的地点；玩法为自助任务",
     "status": "published",
-    "recommendable": true
+    "recommendable": true,
+    "latitude": 31.135624,
+    "longitude": 121.096252,
+    "coordinateSystem": "gcj02",
+    "coordinateSourceUrl": "https://ditu.amap.com/ssr/coordinate-picker",
+    "coordinateCheckedAt": "2026-10-23",
+    "coordinateRevision": 20261023,
+    "coordinateNote": "高德坐标拾取；匹配地点：月季园；匹配地址：海盈路与漕程路交叉口西南220米；实际入口以现场指引为准"
   },
   {
     "id": "dir-4c0e7a50e5d83020-v2-arts",
@@ -8870,7 +9521,14 @@
     "verifiedAt": "2026-10-19",
     "verificationScope": "官方名录或官方介绍中的地点；玩法为自助任务",
     "status": "published",
-    "recommendable": true
+    "recommendable": true,
+    "latitude": 31.235919,
+    "longitude": 121.463593,
+    "coordinateSystem": "gcj02",
+    "coordinateSourceUrl": "https://ditu.amap.com/ssr/coordinate-picker",
+    "coordinateCheckedAt": "2026-10-23",
+    "coordinateRevision": 20261023,
+    "coordinateNote": "高德坐标拾取；匹配地点：中共淞浦特委机关旧址陈列馆；匹配地址：山海关路339号(自然博物馆地铁站1号口步行230米)；实际入口以现场指引为准"
   },
   {
     "id": "dir-4c51cd9823abb06d-v2-arts",
@@ -8948,7 +9606,14 @@
     "verifiedAt": "2026-10-19",
     "verificationScope": "官方名录或官方介绍中的地点；玩法为自助任务",
     "status": "published",
-    "recommendable": true
+    "recommendable": true,
+    "latitude": 31.210331,
+    "longitude": 121.495446,
+    "coordinateSystem": "gcj02",
+    "coordinateSourceUrl": "https://ditu.amap.com/ssr/coordinate-picker",
+    "coordinateCheckedAt": "2026-10-23",
+    "coordinateRevision": 20261023,
+    "coordinateNote": "高德坐标拾取；匹配地点：上海民政博物馆；匹配地址：普育西路105号1号楼；实际入口以现场指引为准"
   },
   {
     "id": "dir-4d8c5a8098074042-v2-healing",
@@ -8987,7 +9652,14 @@
     "verifiedAt": "2026-10-19",
     "verificationScope": "官方名录或官方介绍中的地点；玩法为自助任务",
     "status": "published",
-    "recommendable": true
+    "recommendable": true,
+    "latitude": 30.935591,
+    "longitude": 121.469564,
+    "coordinateSystem": "gcj02",
+    "coordinateSourceUrl": "https://ditu.amap.com/ssr/coordinate-picker",
+    "coordinateCheckedAt": "2026-10-23",
+    "coordinateRevision": 20261023,
+    "coordinateNote": "高德坐标拾取；匹配地点：奉浦四季生态园；匹配地址：奉浦社区韩谊路515号(绿庭国际大厦旁边)；实际入口以现场指引为准"
   },
   {
     "id": "dir-4d8c5a8098074042-v2-outdoors",
@@ -9027,7 +9699,14 @@
     "verifiedAt": "2026-10-19",
     "verificationScope": "官方名录或官方介绍中的地点；玩法为自助任务",
     "status": "published",
-    "recommendable": true
+    "recommendable": true,
+    "latitude": 30.935591,
+    "longitude": 121.469564,
+    "coordinateSystem": "gcj02",
+    "coordinateSourceUrl": "https://ditu.amap.com/ssr/coordinate-picker",
+    "coordinateCheckedAt": "2026-10-23",
+    "coordinateRevision": 20261023,
+    "coordinateNote": "高德坐标拾取；匹配地点：奉浦四季生态园；匹配地址：奉浦社区韩谊路515号(绿庭国际大厦旁边)；实际入口以现场指引为准"
   },
   {
     "id": "dir-4d9dbabf0c277799-v2-arts",
@@ -9105,7 +9784,14 @@
     "verifiedAt": "2026-10-19",
     "verificationScope": "官方名录或官方介绍中的地点；玩法为自助任务",
     "status": "published",
-    "recommendable": true
+    "recommendable": true,
+    "latitude": 31.160573,
+    "longitude": 121.358258,
+    "coordinateSystem": "gcj02",
+    "coordinateSourceUrl": "https://ditu.amap.com/ssr/coordinate-picker",
+    "coordinateCheckedAt": "2026-10-23",
+    "coordinateRevision": 20261023,
+    "coordinateNote": "高德坐标拾取；匹配地点：上海海派艺术馆；匹配地址：新镇路1536号；实际入口以现场指引为准"
   },
   {
     "id": "dir-4f9e356c24b96503-v2-arts",
@@ -9229,7 +9915,14 @@
     "verifiedAt": "2026-10-19",
     "verificationScope": "官方名录或官方介绍中的地点；玩法为自助任务",
     "status": "published",
-    "recommendable": true
+    "recommendable": true,
+    "latitude": 31.005278,
+    "longitude": 121.210213,
+    "coordinateSystem": "gcj02",
+    "coordinateSourceUrl": "https://ditu.amap.com/ssr/coordinate-picker",
+    "coordinateCheckedAt": "2026-10-23",
+    "coordinateRevision": 20261023,
+    "coordinateNote": "高德坐标拾取；匹配地点：松江云间美术馆；匹配地址：秀南街106-108号；实际入口以现场指引为准"
   },
   {
     "id": "dir-532c8a73b8f2b36b-v2-arts",
@@ -9268,7 +9961,14 @@
     "verifiedAt": "2026-10-19",
     "verificationScope": "官方名录或官方介绍中的地点；玩法为自助任务",
     "status": "published",
-    "recommendable": true
+    "recommendable": true,
+    "latitude": 31.224193,
+    "longitude": 121.466693,
+    "coordinateSystem": "gcj02",
+    "coordinateSourceUrl": "https://ditu.amap.com/ssr/coordinate-picker",
+    "coordinateCheckedAt": "2026-10-23",
+    "coordinateRevision": 20261023,
+    "coordinateNote": "高德坐标拾取；匹配地点：中共二大会址纪念馆；匹配地址：老成都北路7弄30号；实际入口以现场指引为准"
   },
   {
     "id": "dir-5366b13ac62e4afb-v2-arts",
@@ -9307,7 +10007,14 @@
     "verifiedAt": "2026-10-19",
     "verificationScope": "官方名录或官方介绍中的地点；玩法为自助任务",
     "status": "published",
-    "recommendable": true
+    "recommendable": true,
+    "latitude": 31.160636,
+    "longitude": 121.359371,
+    "coordinateSystem": "gcj02",
+    "coordinateSourceUrl": "https://ditu.amap.com/ssr/coordinate-picker",
+    "coordinateCheckedAt": "2026-10-23",
+    "coordinateRevision": 20261023,
+    "coordinateNote": "高德坐标拾取；匹配地点：闵行博物馆；匹配地址：新镇路1538号；实际入口以现场指引为准"
   },
   {
     "id": "dir-538a1e8c4df3a885-v2-arts",
@@ -9543,7 +10250,14 @@
     "verifiedAt": "2026-10-19",
     "verificationScope": "官方名录或官方介绍中的地点；玩法为自助任务",
     "status": "published",
-    "recommendable": true
+    "recommendable": true,
+    "latitude": 31.157863,
+    "longitude": 121.51024,
+    "coordinateSystem": "gcj02",
+    "coordinateSourceUrl": "https://ditu.amap.com/ssr/coordinate-picker",
+    "coordinateCheckedAt": "2026-10-23",
+    "coordinateRevision": 20261023,
+    "coordinateNote": "高德坐标拾取；匹配地点：中汾泾休闲绿地；匹配地址：高青路1157号；实际入口以现场指引为准"
   },
   {
     "id": "dir-54747c14e353315c-v2-outdoors",
@@ -9583,7 +10297,14 @@
     "verifiedAt": "2026-10-19",
     "verificationScope": "官方名录或官方介绍中的地点；玩法为自助任务",
     "status": "published",
-    "recommendable": true
+    "recommendable": true,
+    "latitude": 31.157863,
+    "longitude": 121.51024,
+    "coordinateSystem": "gcj02",
+    "coordinateSourceUrl": "https://ditu.amap.com/ssr/coordinate-picker",
+    "coordinateCheckedAt": "2026-10-23",
+    "coordinateRevision": 20261023,
+    "coordinateNote": "高德坐标拾取；匹配地点：中汾泾休闲绿地；匹配地址：高青路1157号；实际入口以现场指引为准"
   },
   {
     "id": "dir-54bf64dc6841fcf9-v2-arts",
@@ -9661,7 +10382,14 @@
     "verifiedAt": "2026-10-19",
     "verificationScope": "官方名录或官方介绍中的地点；玩法为自助任务",
     "status": "published",
-    "recommendable": true
+    "recommendable": true,
+    "latitude": 31.234825,
+    "longitude": 121.499404,
+    "coordinateSystem": "gcj02",
+    "coordinateSourceUrl": "https://ditu.amap.com/ssr/coordinate-picker",
+    "coordinateCheckedAt": "2026-10-23",
+    "coordinateRevision": 20261023,
+    "coordinateNote": "高德坐标拾取；匹配地点：上海震旦博物馆；匹配地址：富城路99号；实际入口以现场指引为准"
   },
   {
     "id": "dir-550cc75d54e3a7fc-v2-healing",
@@ -9779,7 +10507,14 @@
     "verifiedAt": "2026-10-19",
     "verificationScope": "官方名录或官方介绍中的地点；玩法为自助任务",
     "status": "published",
-    "recommendable": true
+    "recommendable": true,
+    "latitude": 31.045726,
+    "longitude": 120.973273,
+    "coordinateSystem": "gcj02",
+    "coordinateSourceUrl": "https://ditu.amap.com/ssr/coordinate-picker",
+    "coordinateCheckedAt": "2026-10-23",
+    "coordinateRevision": 20261023,
+    "coordinateNote": "高德坐标拾取；匹配地点：上海市青浦区任屯血防陈列馆；匹配地址：金泽镇任屯村111号；实际入口以现场指引为准"
   },
   {
     "id": "dir-55a031caf61407f3-v2-arts",
@@ -9857,7 +10592,14 @@
     "verifiedAt": "2026-10-19",
     "verificationScope": "官方名录或官方介绍中的地点；玩法为自助任务",
     "status": "published",
-    "recommendable": true
+    "recommendable": true,
+    "latitude": 31.164519,
+    "longitude": 121.464321,
+    "coordinateSystem": "gcj02",
+    "coordinateSourceUrl": "https://ditu.amap.com/ssr/coordinate-picker",
+    "coordinateCheckedAt": "2026-10-23",
+    "coordinateRevision": 20261023,
+    "coordinateNote": "高德坐标拾取；匹配地点：上海油罐艺术中心；匹配地址：龙腾大道2380号；实际入口以现场指引为准"
   },
   {
     "id": "dir-56991f87817cefa3-v2-healing",
@@ -9975,7 +10717,14 @@
     "verifiedAt": "2026-10-19",
     "verificationScope": "官方名录或官方介绍中的地点；玩法为自助任务",
     "status": "published",
-    "recommendable": true
+    "recommendable": true,
+    "latitude": 30.851603,
+    "longitude": 121.563833,
+    "coordinateSystem": "gcj02",
+    "coordinateSourceUrl": "https://ditu.amap.com/ssr/coordinate-picker",
+    "coordinateCheckedAt": "2026-10-23",
+    "coordinateRevision": 20261023,
+    "coordinateNote": "高德坐标拾取；匹配地点：星火公园；匹配地址：海湾镇莲塘路明城路；实际入口以现场指引为准"
   },
   {
     "id": "dir-5839d1ce819d09ee-v2-outdoors",
@@ -10015,7 +10764,14 @@
     "verifiedAt": "2026-10-19",
     "verificationScope": "官方名录或官方介绍中的地点；玩法为自助任务",
     "status": "published",
-    "recommendable": true
+    "recommendable": true,
+    "latitude": 30.851603,
+    "longitude": 121.563833,
+    "coordinateSystem": "gcj02",
+    "coordinateSourceUrl": "https://ditu.amap.com/ssr/coordinate-picker",
+    "coordinateCheckedAt": "2026-10-23",
+    "coordinateRevision": 20261023,
+    "coordinateNote": "高德坐标拾取；匹配地点：星火公园；匹配地址：海湾镇莲塘路明城路；实际入口以现场指引为准"
   },
   {
     "id": "dir-587ebd0d4ab5efef-v2-arts",
@@ -10096,7 +10852,14 @@
     "verifiedAt": "2026-10-19",
     "verificationScope": "官方名录或官方介绍中的地点；玩法为自助任务",
     "status": "published",
-    "recommendable": true
+    "recommendable": true,
+    "latitude": 31.070207,
+    "longitude": 121.286137,
+    "coordinateSystem": "gcj02",
+    "coordinateSourceUrl": "https://ditu.amap.com/ssr/coordinate-picker",
+    "coordinateCheckedAt": "2026-10-23",
+    "coordinateRevision": 20261023,
+    "coordinateNote": "高德坐标拾取；匹配地点：新桥美术馆；匹配地址：新桥镇泗砖南路255弄名企公馆·新桥艺术园区；实际入口以现场指引为准"
   },
   {
     "id": "dir-599ff3be5dc843f3-v2-healing",
@@ -10378,7 +11141,14 @@
     "verifiedAt": "2026-10-19",
     "verificationScope": "官方名录或官方介绍中的地点；玩法为自助任务",
     "status": "published",
-    "recommendable": true
+    "recommendable": true,
+    "latitude": 31.310658,
+    "longitude": 121.586647,
+    "coordinateSystem": "gcj02",
+    "coordinateSourceUrl": "https://ditu.amap.com/ssr/coordinate-picker",
+    "coordinateCheckedAt": "2026-10-23",
+    "coordinateRevision": 20261023,
+    "coordinateNote": "高德坐标拾取；匹配地点：紫蝶公园；匹配地址：繁锦路1003号(洲海路地铁站2号口步行470米)；实际入口以现场指引为准"
   },
   {
     "id": "dir-5e9ee4b3fdc016f5-v2-outdoors",
@@ -10418,7 +11188,14 @@
     "verifiedAt": "2026-10-19",
     "verificationScope": "官方名录或官方介绍中的地点；玩法为自助任务",
     "status": "published",
-    "recommendable": true
+    "recommendable": true,
+    "latitude": 31.310658,
+    "longitude": 121.586647,
+    "coordinateSystem": "gcj02",
+    "coordinateSourceUrl": "https://ditu.amap.com/ssr/coordinate-picker",
+    "coordinateCheckedAt": "2026-10-23",
+    "coordinateRevision": 20261023,
+    "coordinateNote": "高德坐标拾取；匹配地点：紫蝶公园；匹配地址：繁锦路1003号(洲海路地铁站2号口步行470米)；实际入口以现场指引为准"
   },
   {
     "id": "dir-5ea58a840b3d3d69-v2-arts",
@@ -10653,7 +11430,14 @@
     "verifiedAt": "2026-10-19",
     "verificationScope": "官方名录或官方介绍中的地点；玩法为自助任务",
     "status": "published",
-    "recommendable": true
+    "recommendable": true,
+    "latitude": 31.210155,
+    "longitude": 121.448216,
+    "coordinateSystem": "gcj02",
+    "coordinateSourceUrl": "https://ditu.amap.com/ssr/coordinate-picker",
+    "coordinateCheckedAt": "2026-10-23",
+    "coordinateRevision": 20261023,
+    "coordinateNote": "高德坐标拾取；匹配地点：上海市徐汇区艺术馆；匹配地址：淮海中路1413号(常熟路地铁站7号口步行330米)；实际入口以现场指引为准"
   },
   {
     "id": "dir-62483a9769693afc-v2-arts",
@@ -10776,7 +11560,14 @@
     "verifiedAt": "2026-10-19",
     "verificationScope": "官方名录或官方介绍中的地点；玩法为自助任务",
     "status": "published",
-    "recommendable": true
+    "recommendable": true,
+    "latitude": 31.356722,
+    "longitude": 121.366633,
+    "coordinateSystem": "gcj02",
+    "coordinateSourceUrl": "https://ditu.amap.com/ssr/coordinate-picker",
+    "coordinateCheckedAt": "2026-10-23",
+    "coordinateRevision": 20261023,
+    "coordinateNote": "高德坐标拾取；匹配地点：上海宝山区龙现代美术馆；匹配地址：黄海路888号(刘行地铁站2号口步行420米)；实际入口以现场指引为准"
   },
   {
     "id": "dir-647e689fe5f81a1c-v2-arts",
@@ -10815,7 +11606,14 @@
     "verifiedAt": "2026-10-19",
     "verificationScope": "官方名录或官方介绍中的地点；玩法为自助任务",
     "status": "published",
-    "recommendable": true
+    "recommendable": true,
+    "latitude": 30.730236,
+    "longitude": 121.351314,
+    "coordinateSystem": "gcj02",
+    "coordinateSourceUrl": "https://ditu.amap.com/ssr/coordinate-picker",
+    "coordinateCheckedAt": "2026-10-23",
+    "coordinateRevision": 20261023,
+    "coordinateNote": "高德坐标拾取；匹配地点：上海金山区海鸥美术馆；匹配地址：卫清西路55号2层；实际入口以现场指引为准"
   },
   {
     "id": "dir-6796e8fb5a55cfd6-v2-healing",
@@ -10933,7 +11731,14 @@
     "verifiedAt": "2026-10-19",
     "verificationScope": "官方名录或官方介绍中的地点；玩法为自助任务",
     "status": "published",
-    "recommendable": true
+    "recommendable": true,
+    "latitude": 31.192794,
+    "longitude": 121.599295,
+    "coordinateSystem": "gcj02",
+    "coordinateSourceUrl": "https://ditu.amap.com/ssr/coordinate-picker",
+    "coordinateCheckedAt": "2026-10-23",
+    "coordinateRevision": 20261023,
+    "coordinateNote": "高德坐标拾取；匹配地点：上海中医药博物馆；匹配地址：蔡伦路1200号；实际入口以现场指引为准"
   },
   {
     "id": "dir-6889779ee29c66de-v2-healing",
@@ -10972,7 +11777,14 @@
     "verifiedAt": "2026-10-19",
     "verificationScope": "官方名录或官方介绍中的地点；玩法为自助任务",
     "status": "published",
-    "recommendable": true
+    "recommendable": true,
+    "latitude": 31.387616,
+    "longitude": 121.341737,
+    "coordinateSystem": "gcj02",
+    "coordinateSourceUrl": "https://ditu.amap.com/ssr/coordinate-picker",
+    "coordinateCheckedAt": "2026-10-23",
+    "coordinateRevision": 20261023,
+    "coordinateNote": "高德坐标拾取；匹配地点：美平路小游园；匹配地址：美平路罗南路东南角；实际入口以现场指引为准"
   },
   {
     "id": "dir-6889779ee29c66de-v2-outdoors",
@@ -11012,7 +11824,14 @@
     "verifiedAt": "2026-10-19",
     "verificationScope": "官方名录或官方介绍中的地点；玩法为自助任务",
     "status": "published",
-    "recommendable": true
+    "recommendable": true,
+    "latitude": 31.387616,
+    "longitude": 121.341737,
+    "coordinateSystem": "gcj02",
+    "coordinateSourceUrl": "https://ditu.amap.com/ssr/coordinate-picker",
+    "coordinateCheckedAt": "2026-10-23",
+    "coordinateRevision": 20261023,
+    "coordinateNote": "高德坐标拾取；匹配地点：美平路小游园；匹配地址：美平路罗南路东南角；实际入口以现场指引为准"
   },
   {
     "id": "dir-69045c8bcc7ee5df-v2-arts",
@@ -11051,7 +11870,14 @@
     "verifiedAt": "2026-10-19",
     "verificationScope": "官方名录或官方介绍中的地点；玩法为自助任务",
     "status": "published",
-    "recommendable": true
+    "recommendable": true,
+    "latitude": 31.256016,
+    "longitude": 121.515494,
+    "coordinateSystem": "gcj02",
+    "coordinateSourceUrl": "https://ditu.amap.com/ssr/coordinate-picker",
+    "coordinateCheckedAt": "2026-10-23",
+    "coordinateRevision": 20261023,
+    "coordinateNote": "高德坐标拾取；匹配地点：刘小晴艺术馆；匹配地址：平凉路街道惠民路379弄9-11号；实际入口以现场指引为准"
   },
   {
     "id": "dir-69a6c5dbc8226a50-v2-arts",
@@ -11090,7 +11916,14 @@
     "verifiedAt": "2026-10-19",
     "verificationScope": "官方名录或官方介绍中的地点；玩法为自助任务",
     "status": "published",
-    "recommendable": true
+    "recommendable": true,
+    "latitude": 31.19007,
+    "longitude": 121.315813,
+    "coordinateSystem": "gcj02",
+    "coordinateSourceUrl": "https://ditu.amap.com/ssr/coordinate-picker",
+    "coordinateCheckedAt": "2026-10-23",
+    "coordinateRevision": 20261023,
+    "coordinateNote": "高德坐标拾取；匹配地点：上海金臣亦飞鸣美术馆；匹配地址：甬虹路88号；实际入口以现场指引为准"
   },
   {
     "id": "dir-69eaeb39f2910072-v2-arts",
@@ -11490,7 +12323,14 @@
     "verifiedAt": "2026-10-19",
     "verificationScope": "官方名录或官方介绍中的地点；玩法为自助任务",
     "status": "published",
-    "recommendable": true
+    "recommendable": true,
+    "latitude": 31.143283,
+    "longitude": 121.103918,
+    "coordinateSystem": "gcj02",
+    "coordinateSourceUrl": "https://ditu.amap.com/ssr/coordinate-picker",
+    "coordinateCheckedAt": "2026-10-23",
+    "coordinateRevision": 20261023,
+    "coordinateNote": "高德坐标拾取；匹配地点：如心公园；匹配地址：港俞路以东海盈路以南；实际入口以现场指引为准"
   },
   {
     "id": "dir-6f9b7c9aa8ea97ef-v2-outdoors",
@@ -11529,7 +12369,14 @@
     "verifiedAt": "2026-10-19",
     "verificationScope": "官方名录或官方介绍中的地点；玩法为自助任务",
     "status": "published",
-    "recommendable": true
+    "recommendable": true,
+    "latitude": 31.143283,
+    "longitude": 121.103918,
+    "coordinateSystem": "gcj02",
+    "coordinateSourceUrl": "https://ditu.amap.com/ssr/coordinate-picker",
+    "coordinateCheckedAt": "2026-10-23",
+    "coordinateRevision": 20261023,
+    "coordinateNote": "高德坐标拾取；匹配地点：如心公园；匹配地址：港俞路以东海盈路以南；实际入口以现场指引为准"
   },
   {
     "id": "dir-7102adb82f87fd88-v2-thrill",
@@ -11568,7 +12415,14 @@
     "verifiedAt": "2026-10-19",
     "verificationScope": "官方名录或官方介绍中的地点；玩法为自助任务",
     "status": "published",
-    "recommendable": true
+    "recommendable": true,
+    "latitude": 31.250035,
+    "longitude": 121.476228,
+    "coordinateSystem": "gcj02",
+    "coordinateSourceUrl": "https://ditu.amap.com/ssr/coordinate-picker",
+    "coordinateCheckedAt": "2026-10-23",
+    "coordinateRevision": 20261023,
+    "coordinateNote": "高德坐标拾取；匹配地点：上海铁路博物馆；匹配地址：天目东路200号；实际入口以现场指引为准"
   },
   {
     "id": "dir-713d352de7670687-v2-arts",
@@ -11685,7 +12539,14 @@
     "verifiedAt": "2026-10-19",
     "verificationScope": "官方名录或官方介绍中的地点；玩法为自助任务",
     "status": "published",
-    "recommendable": true
+    "recommendable": true,
+    "latitude": 31.230594,
+    "longitude": 121.470891,
+    "coordinateSystem": "gcj02",
+    "coordinateSourceUrl": "https://ditu.amap.com/ssr/coordinate-picker",
+    "coordinateCheckedAt": "2026-10-23",
+    "coordinateRevision": 20261023,
+    "coordinateNote": "高德坐标拾取；匹配地点：上海市历史博物馆；匹配地址：南京西路325号(人民广场地铁站11号口步行200米)；实际入口以现场指引为准"
   },
   {
     "id": "dir-719dc69b1fb39004-v2-healing",
@@ -11920,7 +12781,14 @@
     "verifiedAt": "2026-10-19",
     "verificationScope": "官方名录或官方介绍中的地点；玩法为自助任务",
     "status": "published",
-    "recommendable": true
+    "recommendable": true,
+    "latitude": 31.033764,
+    "longitude": 121.669364,
+    "coordinateSystem": "gcj02",
+    "coordinateSourceUrl": "https://ditu.amap.com/ssr/coordinate-picker",
+    "coordinateCheckedAt": "2026-10-23",
+    "coordinateRevision": 20261023,
+    "coordinateNote": "高德坐标拾取；匹配地点：新场北岛公园；匹配地址：沪南公路与沪南立交桥交叉口东北180米；实际入口以现场指引为准"
   },
   {
     "id": "dir-726dbf8d6e520fa3-v2-outdoors",
@@ -11959,7 +12827,14 @@
     "verifiedAt": "2026-10-19",
     "verificationScope": "官方名录或官方介绍中的地点；玩法为自助任务",
     "status": "published",
-    "recommendable": true
+    "recommendable": true,
+    "latitude": 31.033764,
+    "longitude": 121.669364,
+    "coordinateSystem": "gcj02",
+    "coordinateSourceUrl": "https://ditu.amap.com/ssr/coordinate-picker",
+    "coordinateCheckedAt": "2026-10-23",
+    "coordinateRevision": 20261023,
+    "coordinateNote": "高德坐标拾取；匹配地点：新场北岛公园；匹配地址：沪南公路与沪南立交桥交叉口东北180米；实际入口以现场指引为准"
   },
   {
     "id": "dir-7298200c480dfb6a-v2-healing",
@@ -11998,7 +12873,14 @@
     "verifiedAt": "2026-10-19",
     "verificationScope": "官方名录或官方介绍中的地点；玩法为自助任务",
     "status": "published",
-    "recommendable": true
+    "recommendable": true,
+    "latitude": 31.169523,
+    "longitude": 121.503768,
+    "coordinateSystem": "gcj02",
+    "coordinateSourceUrl": "https://ditu.amap.com/ssr/coordinate-picker",
+    "coordinateCheckedAt": "2026-10-23",
+    "coordinateRevision": 20261023,
+    "coordinateNote": "高德坐标拾取；匹配地点：德韵园；匹配地址：德州路南侧云台路往西180米；实际入口以现场指引为准"
   },
   {
     "id": "dir-7298200c480dfb6a-v2-outdoors",
@@ -12038,7 +12920,14 @@
     "verifiedAt": "2026-10-19",
     "verificationScope": "官方名录或官方介绍中的地点；玩法为自助任务",
     "status": "published",
-    "recommendable": true
+    "recommendable": true,
+    "latitude": 31.169523,
+    "longitude": 121.503768,
+    "coordinateSystem": "gcj02",
+    "coordinateSourceUrl": "https://ditu.amap.com/ssr/coordinate-picker",
+    "coordinateCheckedAt": "2026-10-23",
+    "coordinateRevision": 20261023,
+    "coordinateNote": "高德坐标拾取；匹配地点：德韵园；匹配地址：德州路南侧云台路往西180米；实际入口以现场指引为准"
   },
   {
     "id": "dir-72f82374dc39df57-v2-healing",
@@ -12077,7 +12966,14 @@
     "verifiedAt": "2026-10-19",
     "verificationScope": "官方名录或官方介绍中的地点；玩法为自助任务",
     "status": "published",
-    "recommendable": true
+    "recommendable": true,
+    "latitude": 31.069595,
+    "longitude": 121.497604,
+    "coordinateSystem": "gcj02",
+    "coordinateSourceUrl": "https://ditu.amap.com/ssr/coordinate-picker",
+    "coordinateCheckedAt": "2026-10-23",
+    "coordinateRevision": 20261023,
+    "coordinateNote": "高德坐标拾取；匹配地点：锦绣园；匹配地址：江龙路与浦秀路交叉口东南20米；实际入口以现场指引为准"
   },
   {
     "id": "dir-72f82374dc39df57-v2-outdoors",
@@ -12116,7 +13012,14 @@
     "verifiedAt": "2026-10-19",
     "verificationScope": "官方名录或官方介绍中的地点；玩法为自助任务",
     "status": "published",
-    "recommendable": true
+    "recommendable": true,
+    "latitude": 31.069595,
+    "longitude": 121.497604,
+    "coordinateSystem": "gcj02",
+    "coordinateSourceUrl": "https://ditu.amap.com/ssr/coordinate-picker",
+    "coordinateCheckedAt": "2026-10-23",
+    "coordinateRevision": 20261023,
+    "coordinateNote": "高德坐标拾取；匹配地点：锦绣园；匹配地址：江龙路与浦秀路交叉口东南20米；实际入口以现场指引为准"
   },
   {
     "id": "dir-73667bd4640cb4a3-v2-healing",
@@ -12234,7 +13137,14 @@
     "verifiedAt": "2026-10-19",
     "verificationScope": "官方名录或官方介绍中的地点；玩法为自助任务",
     "status": "published",
-    "recommendable": true
+    "recommendable": true,
+    "latitude": 31.027521,
+    "longitude": 121.448289,
+    "coordinateSystem": "gcj02",
+    "coordinateSourceUrl": "https://ditu.amap.com/ssr/coordinate-picker",
+    "coordinateCheckedAt": "2026-10-23",
+    "coordinateRevision": 20261023,
+    "coordinateNote": "高德坐标拾取；匹配地点：上海交通大学博物馆；匹配地址：东川路800号文博楼；实际入口以现场指引为准"
   },
   {
     "id": "dir-73d0511141a1a1b8-v2-healing",
@@ -12352,7 +13262,14 @@
     "verifiedAt": "2026-10-19",
     "verificationScope": "官方名录或官方介绍中的地点；玩法为自助任务",
     "status": "published",
-    "recommendable": true
+    "recommendable": true,
+    "latitude": 31.205204,
+    "longitude": 121.495846,
+    "coordinateSystem": "gcj02",
+    "coordinateSourceUrl": "https://ditu.amap.com/ssr/coordinate-picker",
+    "coordinateCheckedAt": "2026-10-23",
+    "coordinateRevision": 20261023,
+    "coordinateNote": "高德坐标拾取；匹配地点：上海三山会馆；匹配地址：中山南路1551号(南浦大桥地铁站2号口步行470米)；实际入口以现场指引为准"
   },
   {
     "id": "dir-74787814a3d90b4d-v2-arts",
@@ -12391,7 +13308,14 @@
     "verifiedAt": "2026-10-19",
     "verificationScope": "官方名录或官方介绍中的地点；玩法为自助任务",
     "status": "published",
-    "recommendable": true
+    "recommendable": true,
+    "latitude": 31.23754,
+    "longitude": 121.449229,
+    "coordinateSystem": "gcj02",
+    "coordinateSourceUrl": "https://ditu.amap.com/ssr/coordinate-picker",
+    "coordinateCheckedAt": "2026-10-23",
+    "coordinateRevision": 20261023,
+    "coordinateNote": "高德坐标拾取；匹配地点：中共中央秘书处机关旧址纪念馆；匹配地址：江宁路673弄10号；实际入口以现场指引为准"
   },
   {
     "id": "dir-74dde30e96406e4c-v2-arts",
@@ -12430,7 +13354,14 @@
     "verifiedAt": "2026-10-19",
     "verificationScope": "官方名录或官方介绍中的地点；玩法为自助任务",
     "status": "published",
-    "recommendable": true
+    "recommendable": true,
+    "latitude": 31.1745,
+    "longitude": 121.572673,
+    "coordinateSystem": "gcj02",
+    "coordinateSourceUrl": "https://ditu.amap.com/ssr/coordinate-picker",
+    "coordinateCheckedAt": "2026-10-23",
+    "coordinateRevision": 20261023,
+    "coordinateNote": "高德坐标拾取；匹配地点：上海老相机摄影博物馆；匹配地址：五星路676弄39号；实际入口以现场指引为准"
   },
   {
     "id": "dir-76f452f80a4af19d-v2-arts",
@@ -12469,7 +13400,14 @@
     "verifiedAt": "2026-10-19",
     "verificationScope": "官方名录或官方介绍中的地点；玩法为自助任务",
     "status": "published",
-    "recommendable": true
+    "recommendable": true,
+    "latitude": 31.233853,
+    "longitude": 121.471965,
+    "coordinateSystem": "gcj02",
+    "coordinateSourceUrl": "https://ditu.amap.com/ssr/coordinate-picker",
+    "coordinateCheckedAt": "2026-10-23",
+    "coordinateRevision": 20261023,
+    "coordinateNote": "高德坐标拾取；匹配地点：上海体育博物馆；匹配地址：南京西路150号(人民广场地铁站10号口步行170米)；实际入口以现场指引为准"
   },
   {
     "id": "dir-775aa1eec9769be9-v2-healing",
@@ -12508,7 +13446,14 @@
     "verifiedAt": "2026-10-19",
     "verificationScope": "官方名录或官方介绍中的地点；玩法为自助任务",
     "status": "published",
-    "recommendable": true
+    "recommendable": true,
+    "latitude": 30.985216,
+    "longitude": 121.509223,
+    "coordinateSystem": "gcj02",
+    "coordinateSourceUrl": "https://ditu.amap.com/ssr/coordinate-picker",
+    "coordinateCheckedAt": "2026-10-23",
+    "coordinateRevision": 20261023,
+    "coordinateNote": "高德坐标拾取；匹配地点：达令港公园；匹配地址：金汇镇汇中路与金闸公路交叉口东南500米；实际入口以现场指引为准"
   },
   {
     "id": "dir-775aa1eec9769be9-v2-outdoors",
@@ -12548,7 +13493,14 @@
     "verifiedAt": "2026-10-19",
     "verificationScope": "官方名录或官方介绍中的地点；玩法为自助任务",
     "status": "published",
-    "recommendable": true
+    "recommendable": true,
+    "latitude": 30.985216,
+    "longitude": 121.509223,
+    "coordinateSystem": "gcj02",
+    "coordinateSourceUrl": "https://ditu.amap.com/ssr/coordinate-picker",
+    "coordinateCheckedAt": "2026-10-23",
+    "coordinateRevision": 20261023,
+    "coordinateNote": "高德坐标拾取；匹配地点：达令港公园；匹配地址：金汇镇汇中路与金闸公路交叉口东南500米；实际入口以现场指引为准"
   },
   {
     "id": "dir-77b14486203759b9-v2-arts",
@@ -12626,7 +13578,14 @@
     "verifiedAt": "2026-10-19",
     "verificationScope": "官方名录或官方介绍中的地点；玩法为自助任务",
     "status": "published",
-    "recommendable": true
+    "recommendable": true,
+    "latitude": 31.37866,
+    "longitude": 121.256377,
+    "coordinateSystem": "gcj02",
+    "coordinateSourceUrl": "https://ditu.amap.com/ssr/coordinate-picker",
+    "coordinateCheckedAt": "2026-10-23",
+    "coordinateRevision": 20261023,
+    "coordinateNote": "高德坐标拾取；匹配地点：韩天衡美术馆；匹配地址：博乐路70号；实际入口以现场指引为准"
   },
   {
     "id": "dir-78c82fd2352fef96-v2-arts",
@@ -12665,7 +13624,14 @@
     "verifiedAt": "2026-10-19",
     "verificationScope": "官方名录或官方介绍中的地点；玩法为自助任务",
     "status": "published",
-    "recommendable": true
+    "recommendable": true,
+    "latitude": 31.114876,
+    "longitude": 121.225844,
+    "coordinateSystem": "gcj02",
+    "coordinateSourceUrl": "https://ditu.amap.com/ssr/coordinate-picker",
+    "coordinateCheckedAt": "2026-10-23",
+    "coordinateRevision": 20261023,
+    "coordinateNote": "高德坐标拾取；匹配地点：上海国稷美术馆；匹配地址：泗陈公路3388弄16号；实际入口以现场指引为准"
   },
   {
     "id": "dir-79064f7dfb60b243-v2-arts",
@@ -12704,7 +13670,14 @@
     "verifiedAt": "2026-10-19",
     "verificationScope": "官方名录或官方介绍中的地点；玩法为自助任务",
     "status": "published",
-    "recommendable": true
+    "recommendable": true,
+    "latitude": 31.22287,
+    "longitude": 121.379036,
+    "coordinateSystem": "gcj02",
+    "coordinateSourceUrl": "https://ditu.amap.com/ssr/coordinate-picker",
+    "coordinateCheckedAt": "2026-10-23",
+    "coordinateRevision": 20261023,
+    "coordinateNote": "高德坐标拾取；匹配地点：上海苏宁艺术馆；匹配地址：丹巴路99号C3座；实际入口以现场指引为准"
   },
   {
     "id": "dir-7930f808002b84af-v2-healing",
@@ -12743,7 +13716,14 @@
     "verifiedAt": "2026-10-19",
     "verificationScope": "官方名录或官方介绍中的地点；玩法为自助任务",
     "status": "published",
-    "recommendable": true
+    "recommendable": true,
+    "latitude": 31.391997,
+    "longitude": 121.333259,
+    "coordinateSystem": "gcj02",
+    "coordinateSourceUrl": "https://ditu.amap.com/ssr/coordinate-picker",
+    "coordinateCheckedAt": "2026-10-23",
+    "coordinateRevision": 20261023,
+    "coordinateNote": "高德坐标拾取；匹配地点：联杨小游园；匹配地址：罗和路西侧张墅村路东侧；实际入口以现场指引为准"
   },
   {
     "id": "dir-7930f808002b84af-v2-outdoors",
@@ -12782,7 +13762,14 @@
     "verifiedAt": "2026-10-19",
     "verificationScope": "官方名录或官方介绍中的地点；玩法为自助任务",
     "status": "published",
-    "recommendable": true
+    "recommendable": true,
+    "latitude": 31.391997,
+    "longitude": 121.333259,
+    "coordinateSystem": "gcj02",
+    "coordinateSourceUrl": "https://ditu.amap.com/ssr/coordinate-picker",
+    "coordinateCheckedAt": "2026-10-23",
+    "coordinateRevision": 20261023,
+    "coordinateNote": "高德坐标拾取；匹配地点：联杨小游园；匹配地址：罗和路西侧张墅村路东侧；实际入口以现场指引为准"
   },
   {
     "id": "dir-79503e9a6f6e028c-v2-arts",
@@ -12899,7 +13886,14 @@
     "verifiedAt": "2026-10-19",
     "verificationScope": "官方名录或官方介绍中的地点；玩法为自助任务",
     "status": "published",
-    "recommendable": true
+    "recommendable": true,
+    "latitude": 31.237878,
+    "longitude": 121.464112,
+    "coordinateSystem": "gcj02",
+    "coordinateSourceUrl": "https://ditu.amap.com/ssr/coordinate-picker",
+    "coordinateCheckedAt": "2026-10-23",
+    "coordinateRevision": 20261023,
+    "coordinateNote": "高德坐标拾取；匹配地点：中国劳动组合书记部旧址陈列馆；匹配地址：成都北路893弄1-11号；实际入口以现场指引为准"
   },
   {
     "id": "dir-7aec814111d809d2-v2-arts",
@@ -13063,7 +14057,14 @@
     "verifiedAt": "2026-10-19",
     "verificationScope": "官方名录或官方介绍中的地点；玩法为自助任务",
     "status": "published",
-    "recommendable": true
+    "recommendable": true,
+    "latitude": 31.140646,
+    "longitude": 121.553961,
+    "coordinateSystem": "gcj02",
+    "coordinateSourceUrl": "https://ditu.amap.com/ssr/coordinate-picker",
+    "coordinateCheckedAt": "2026-10-23",
+    "coordinateRevision": 20261023,
+    "coordinateNote": "高德坐标拾取；匹配地点：秀南公园；匹配地址：秀康路197号；实际入口以现场指引为准"
   },
   {
     "id": "dir-7c70f3a5cd189526-v2-outdoors",
@@ -13103,7 +14104,14 @@
     "verifiedAt": "2026-10-19",
     "verificationScope": "官方名录或官方介绍中的地点；玩法为自助任务",
     "status": "published",
-    "recommendable": true
+    "recommendable": true,
+    "latitude": 31.140646,
+    "longitude": 121.553961,
+    "coordinateSystem": "gcj02",
+    "coordinateSourceUrl": "https://ditu.amap.com/ssr/coordinate-picker",
+    "coordinateCheckedAt": "2026-10-23",
+    "coordinateRevision": 20261023,
+    "coordinateNote": "高德坐标拾取；匹配地点：秀南公园；匹配地址：秀康路197号；实际入口以现场指引为准"
   },
   {
     "id": "dir-7ca3d4156ca1ce85-v2-arts",
@@ -13181,7 +14189,14 @@
     "verifiedAt": "2026-10-19",
     "verificationScope": "官方名录或官方介绍中的地点；玩法为自助任务",
     "status": "published",
-    "recommendable": true
+    "recommendable": true,
+    "latitude": 31.226303,
+    "longitude": 121.460555,
+    "coordinateSystem": "gcj02",
+    "coordinateSourceUrl": "https://ditu.amap.com/ssr/coordinate-picker",
+    "coordinateCheckedAt": "2026-10-23",
+    "coordinateRevision": 20261023,
+    "coordinateNote": "高德坐标拾取；匹配地点：上海毛泽东旧居陈列馆；匹配地址：茂名北路120弄5-9号；实际入口以现场指引为准"
   },
   {
     "id": "dir-7d8b84e561b2525a-v2-thrill",
@@ -13220,7 +14235,14 @@
     "verifiedAt": "2026-10-19",
     "verificationScope": "官方名录或官方介绍中的地点；玩法为自助任务",
     "status": "published",
-    "recommendable": true
+    "recommendable": true,
+    "latitude": 31.235021,
+    "longitude": 121.462672,
+    "coordinateSystem": "gcj02",
+    "coordinateSourceUrl": "https://ditu.amap.com/ssr/coordinate-picker",
+    "coordinateCheckedAt": "2026-10-23",
+    "coordinateRevision": 20261023,
+    "coordinateNote": "高德坐标拾取；匹配地点：上海自然博物馆；匹配地址：北京西路510号；实际入口以现场指引为准"
   },
   {
     "id": "dir-7e752b5424b06f62-v2-arts",
@@ -13259,7 +14281,14 @@
     "verifiedAt": "2026-10-19",
     "verificationScope": "官方名录或官方介绍中的地点；玩法为自助任务",
     "status": "published",
-    "recommendable": true
+    "recommendable": true,
+    "latitude": 31.211836,
+    "longitude": 121.627078,
+    "coordinateSystem": "gcj02",
+    "coordinateSourceUrl": "https://ditu.amap.com/ssr/coordinate-picker",
+    "coordinateCheckedAt": "2026-10-23",
+    "coordinateRevision": 20261023,
+    "coordinateNote": "高德坐标拾取；匹配地点：昊美术馆；匹配地址：祖冲之路2277弄1号；实际入口以现场指引为准"
   },
   {
     "id": "dir-7ed1925a39637bf5-v2-arts",
@@ -13298,7 +14327,14 @@
     "verifiedAt": "2026-10-19",
     "verificationScope": "官方名录或官方介绍中的地点；玩法为自助任务",
     "status": "published",
-    "recommendable": true
+    "recommendable": true,
+    "latitude": 31.409837,
+    "longitude": 121.493826,
+    "coordinateSystem": "gcj02",
+    "coordinateSourceUrl": "https://ditu.amap.com/ssr/coordinate-picker",
+    "coordinateCheckedAt": "2026-10-23",
+    "coordinateRevision": 20261023,
+    "coordinateNote": "高德坐标拾取；匹配地点：上海淞沪抗战纪念公园-陈化成纪念馆；匹配地址：友谊路1号；实际入口以现场指引为准"
   },
   {
     "id": "dir-7f28bff870fa3183-v2-arts",
@@ -13337,7 +14373,14 @@
     "verifiedAt": "2026-10-19",
     "verificationScope": "官方名录或官方介绍中的地点；玩法为自助任务",
     "status": "published",
-    "recommendable": true
+    "recommendable": true,
+    "latitude": 31.305892,
+    "longitude": 121.501987,
+    "coordinateSystem": "gcj02",
+    "coordinateSourceUrl": "https://ditu.amap.com/ssr/coordinate-picker",
+    "coordinateCheckedAt": "2026-10-23",
+    "coordinateRevision": 20261023,
+    "coordinateNote": "高德坐标拾取；匹配地点：上海财经大学商学博物馆；匹配地址：国定路777号；实际入口以现场指引为准"
   },
   {
     "id": "dir-7fb2850b86ac82a0-v2-healing",
@@ -13376,7 +14419,14 @@
     "verifiedAt": "2026-10-19",
     "verificationScope": "官方名录或官方介绍中的地点；玩法为自助任务",
     "status": "published",
-    "recommendable": true
+    "recommendable": true,
+    "latitude": 31.369425,
+    "longitude": 121.160725,
+    "coordinateSystem": "gcj02",
+    "coordinateSourceUrl": "https://ditu.amap.com/ssr/coordinate-picker",
+    "coordinateCheckedAt": "2026-10-23",
+    "coordinateRevision": 20261023,
+    "coordinateNote": "高德坐标拾取；匹配地点：喜泉公园；匹配地址：喜泉路与百安公路交叉口西南80米；实际入口以现场指引为准"
   },
   {
     "id": "dir-7fb2850b86ac82a0-v2-outdoors",
@@ -13415,7 +14465,14 @@
     "verifiedAt": "2026-10-19",
     "verificationScope": "官方名录或官方介绍中的地点；玩法为自助任务",
     "status": "published",
-    "recommendable": true
+    "recommendable": true,
+    "latitude": 31.369425,
+    "longitude": 121.160725,
+    "coordinateSystem": "gcj02",
+    "coordinateSourceUrl": "https://ditu.amap.com/ssr/coordinate-picker",
+    "coordinateCheckedAt": "2026-10-23",
+    "coordinateRevision": 20261023,
+    "coordinateNote": "高德坐标拾取；匹配地点：喜泉公园；匹配地址：喜泉路与百安公路交叉口西南80米；实际入口以现场指引为准"
   },
   {
     "id": "dir-7fb8aa42a2436e70-v2-healing",
@@ -13618,7 +14675,14 @@
     "verifiedAt": "2026-10-19",
     "verificationScope": "官方名录或官方介绍中的地点；玩法为自助任务",
     "status": "published",
-    "recommendable": true
+    "recommendable": true,
+    "latitude": 31.179856,
+    "longitude": 121.531384,
+    "coordinateSystem": "gcj02",
+    "coordinateSourceUrl": "https://ditu.amap.com/ssr/coordinate-picker",
+    "coordinateCheckedAt": "2026-10-23",
+    "coordinateRevision": 20261023,
+    "coordinateNote": "高德坐标拾取；匹配地点：锦尊体育公园；匹配地址：锦尊路468号；实际入口以现场指引为准"
   },
   {
     "id": "dir-8044a34fe241fc97-v2-outdoors",
@@ -13658,7 +14722,14 @@
     "verifiedAt": "2026-10-19",
     "verificationScope": "官方名录或官方介绍中的地点；玩法为自助任务",
     "status": "published",
-    "recommendable": true
+    "recommendable": true,
+    "latitude": 31.179856,
+    "longitude": 121.531384,
+    "coordinateSystem": "gcj02",
+    "coordinateSourceUrl": "https://ditu.amap.com/ssr/coordinate-picker",
+    "coordinateCheckedAt": "2026-10-23",
+    "coordinateRevision": 20261023,
+    "coordinateNote": "高德坐标拾取；匹配地点：锦尊体育公园；匹配地址：锦尊路468号；实际入口以现场指引为准"
   },
   {
     "id": "dir-809eaa3c8d0b7977-v2-healing",
@@ -13855,7 +14926,14 @@
     "verifiedAt": "2026-10-19",
     "verificationScope": "官方名录或官方介绍中的地点；玩法为自助任务",
     "status": "published",
-    "recommendable": true
+    "recommendable": true,
+    "latitude": 31.256108,
+    "longitude": 121.356779,
+    "coordinateSystem": "gcj02",
+    "coordinateSourceUrl": "https://ditu.amap.com/ssr/coordinate-picker",
+    "coordinateCheckedAt": "2026-10-23",
+    "coordinateRevision": 20261023,
+    "coordinateNote": "高德坐标拾取；匹配地点：四海壶具博物馆；匹配地址：曹安公路1978号；实际入口以现场指引为准"
   },
   {
     "id": "dir-8157f8f0aa68d656-v2-arts",
@@ -13894,7 +14972,14 @@
     "verifiedAt": "2026-10-19",
     "verificationScope": "官方名录或官方介绍中的地点；玩法为自助任务",
     "status": "published",
-    "recommendable": true
+    "recommendable": true,
+    "latitude": 31.218916,
+    "longitude": 121.447808,
+    "coordinateSystem": "gcj02",
+    "coordinateSourceUrl": "https://ditu.amap.com/ssr/coordinate-picker",
+    "coordinateCheckedAt": "2026-10-23",
+    "coordinateRevision": 20261023,
+    "coordinateNote": "高德坐标拾取；匹配地点：上海蔡元培故居陈列馆；匹配地址：华山路303弄16号(静安寺地铁站12号口步行310米)；实际入口以现场指引为准"
   },
   {
     "id": "dir-829dc10074ca44e3-v2-arts",
@@ -13933,7 +15018,14 @@
     "verifiedAt": "2026-10-19",
     "verificationScope": "官方名录或官方介绍中的地点；玩法为自助任务",
     "status": "published",
-    "recommendable": true
+    "recommendable": true,
+    "latitude": 31.275961,
+    "longitude": 121.266294,
+    "coordinateSystem": "gcj02",
+    "coordinateSourceUrl": "https://ditu.amap.com/ssr/coordinate-picker",
+    "coordinateCheckedAt": "2026-10-23",
+    "coordinateRevision": 20261023,
+    "coordinateNote": "高德坐标拾取；匹配地点：泰美术馆；匹配地址：曹安公路4058号东华环球产业园D馆；实际入口以现场指引为准"
   },
   {
     "id": "dir-82aeaf88ae55f574-v2-healing",
@@ -13972,7 +15064,14 @@
     "verifiedAt": "2026-10-19",
     "verificationScope": "官方名录或官方介绍中的地点；玩法为自助任务",
     "status": "published",
-    "recommendable": true
+    "recommendable": true,
+    "latitude": 31.214748,
+    "longitude": 121.485407,
+    "coordinateSystem": "gcj02",
+    "coordinateSourceUrl": "https://ditu.amap.com/ssr/coordinate-picker",
+    "coordinateCheckedAt": "2026-10-23",
+    "coordinateRevision": 20261023,
+    "coordinateNote": "高德坐标拾取；匹配地点：大吉路绿地；匹配地址：西藏南路与大吉路交叉口东北40米；实际入口以现场指引为准"
   },
   {
     "id": "dir-82aeaf88ae55f574-v2-outdoors",
@@ -14012,7 +15111,14 @@
     "verifiedAt": "2026-10-19",
     "verificationScope": "官方名录或官方介绍中的地点；玩法为自助任务",
     "status": "published",
-    "recommendable": true
+    "recommendable": true,
+    "latitude": 31.214748,
+    "longitude": 121.485407,
+    "coordinateSystem": "gcj02",
+    "coordinateSourceUrl": "https://ditu.amap.com/ssr/coordinate-picker",
+    "coordinateCheckedAt": "2026-10-23",
+    "coordinateRevision": 20261023,
+    "coordinateNote": "高德坐标拾取；匹配地点：大吉路绿地；匹配地址：西藏南路与大吉路交叉口东北40米；实际入口以现场指引为准"
   },
   {
     "id": "dir-82cb39a91787cb82-v2-arts",
@@ -14129,7 +15235,14 @@
     "verifiedAt": "2026-10-19",
     "verificationScope": "官方名录或官方介绍中的地点；玩法为自助任务",
     "status": "published",
-    "recommendable": true
+    "recommendable": true,
+    "latitude": 31.203154,
+    "longitude": 121.584215,
+    "coordinateSystem": "gcj02",
+    "coordinateSourceUrl": "https://ditu.amap.com/ssr/coordinate-picker",
+    "coordinateCheckedAt": "2026-10-23",
+    "coordinateRevision": 20261023,
+    "coordinateNote": "高德坐标拾取；匹配地点：张江艺术公园；匹配地址：张江高科技园区张江高科技园区张江高科技园区张江高科技园区张江镇张江高科技园区松涛路666号；实际入口以现场指引为准"
   },
   {
     "id": "dir-83bb839f77c76940-v2-outdoors",
@@ -14169,7 +15282,14 @@
     "verifiedAt": "2026-10-19",
     "verificationScope": "官方名录或官方介绍中的地点；玩法为自助任务",
     "status": "published",
-    "recommendable": true
+    "recommendable": true,
+    "latitude": 31.203154,
+    "longitude": 121.584215,
+    "coordinateSystem": "gcj02",
+    "coordinateSourceUrl": "https://ditu.amap.com/ssr/coordinate-picker",
+    "coordinateCheckedAt": "2026-10-23",
+    "coordinateRevision": 20261023,
+    "coordinateNote": "高德坐标拾取；匹配地点：张江艺术公园；匹配地址：张江高科技园区张江高科技园区张江高科技园区张江高科技园区张江镇张江高科技园区松涛路666号；实际入口以现场指引为准"
   },
   {
     "id": "dir-85fc8666f8f83363-v2-healing",
@@ -14287,7 +15407,14 @@
     "verifiedAt": "2026-10-19",
     "verificationScope": "官方名录或官方介绍中的地点；玩法为自助任务",
     "status": "published",
-    "recommendable": true
+    "recommendable": true,
+    "latitude": 30.909426,
+    "longitude": 121.940785,
+    "coordinateSystem": "gcj02",
+    "coordinateSourceUrl": "https://ditu.amap.com/ssr/coordinate-picker",
+    "coordinateCheckedAt": "2026-10-23",
+    "coordinateRevision": 20261023,
+    "coordinateNote": "高德坐标拾取；匹配地点：滴水湖樱花岛；匹配地址：环湖北一路与香柏路交叉口东180米；实际入口以现场指引为准"
   },
   {
     "id": "dir-867da3648919fd86-v2-outdoors",
@@ -14327,7 +15454,14 @@
     "verifiedAt": "2026-10-19",
     "verificationScope": "官方名录或官方介绍中的地点；玩法为自助任务",
     "status": "published",
-    "recommendable": true
+    "recommendable": true,
+    "latitude": 30.909426,
+    "longitude": 121.940785,
+    "coordinateSystem": "gcj02",
+    "coordinateSourceUrl": "https://ditu.amap.com/ssr/coordinate-picker",
+    "coordinateCheckedAt": "2026-10-23",
+    "coordinateRevision": 20261023,
+    "coordinateNote": "高德坐标拾取；匹配地点：滴水湖樱花岛；匹配地址：环湖北一路与香柏路交叉口东180米；实际入口以现场指引为准"
   },
   {
     "id": "dir-875f0348b44c1673-v2-arts",
@@ -14366,7 +15500,14 @@
     "verifiedAt": "2026-10-19",
     "verificationScope": "官方名录或官方介绍中的地点；玩法为自助任务",
     "status": "published",
-    "recommendable": true
+    "recommendable": true,
+    "latitude": 31.309205,
+    "longitude": 121.150372,
+    "coordinateSystem": "gcj02",
+    "coordinateSourceUrl": "https://ditu.amap.com/ssr/coordinate-picker",
+    "coordinateCheckedAt": "2026-10-23",
+    "coordinateRevision": 20261023,
+    "coordinateNote": "高德坐标拾取；匹配地点：上海翥云艺术博物馆；匹配地址：新源路1375号；实际入口以现场指引为准"
   },
   {
     "id": "dir-87794fae113ef5fd-v2-arts",
@@ -14405,7 +15546,14 @@
     "verifiedAt": "2026-10-19",
     "verificationScope": "官方名录或官方介绍中的地点；玩法为自助任务",
     "status": "published",
-    "recommendable": true
+    "recommendable": true,
+    "latitude": 31.154687,
+    "longitude": 121.191752,
+    "coordinateSystem": "gcj02",
+    "coordinateSourceUrl": "https://ditu.amap.com/ssr/coordinate-picker",
+    "coordinateCheckedAt": "2026-10-23",
+    "coordinateRevision": 20261023,
+    "coordinateNote": "高德坐标拾取；匹配地点：上海红十字历史文化陈列馆；匹配地址：赵重公路135号；实际入口以现场指引为准"
   },
   {
     "id": "dir-8869b1d40443ade4-v2-arts",
@@ -14444,7 +15592,14 @@
     "verifiedAt": "2026-10-19",
     "verificationScope": "官方名录或官方介绍中的地点；玩法为自助任务",
     "status": "published",
-    "recommendable": true
+    "recommendable": true,
+    "latitude": 31.033245,
+    "longitude": 121.198175,
+    "coordinateSystem": "gcj02",
+    "coordinateSourceUrl": "https://ditu.amap.com/ssr/coordinate-picker",
+    "coordinateCheckedAt": "2026-10-23",
+    "coordinateRevision": 20261023,
+    "coordinateNote": "高德坐标拾取；匹配地点：松江美术馆；匹配地址：三新北路900弄601号；实际入口以现场指引为准"
   },
   {
     "id": "dir-8881edea9005b773-v2-arts",
@@ -14483,7 +15638,14 @@
     "verifiedAt": "2026-10-19",
     "verificationScope": "官方名录或官方介绍中的地点；玩法为自助任务",
     "status": "published",
-    "recommendable": true
+    "recommendable": true,
+    "latitude": 31.233625,
+    "longitude": 121.482418,
+    "coordinateSystem": "gcj02",
+    "coordinateSourceUrl": "https://ditu.amap.com/ssr/coordinate-picker",
+    "coordinateCheckedAt": "2026-10-23",
+    "coordinateRevision": 20261023,
+    "coordinateNote": "高德坐标拾取；匹配地点：上海笔墨博物馆；匹配地址：福州路429号；实际入口以现场指引为准"
   },
   {
     "id": "dir-88877ad6c69da570-v2-healing",
@@ -14680,7 +15842,14 @@
     "verifiedAt": "2026-10-19",
     "verificationScope": "官方名录或官方介绍中的地点；玩法为自助任务",
     "status": "published",
-    "recommendable": true
+    "recommendable": true,
+    "latitude": 31.188575,
+    "longitude": 121.178225,
+    "coordinateSystem": "gcj02",
+    "coordinateSourceUrl": "https://ditu.amap.com/ssr/coordinate-picker",
+    "coordinateCheckedAt": "2026-10-23",
+    "coordinateRevision": 20261023,
+    "coordinateNote": "高德坐标拾取；匹配地点：上海青浦青渚美术馆；匹配地址：北青公路7203号；实际入口以现场指引为准"
   },
   {
     "id": "dir-897d95cce6518bf3-v2-arts",
@@ -14719,7 +15888,14 @@
     "verifiedAt": "2026-10-19",
     "verificationScope": "官方名录或官方介绍中的地点；玩法为自助任务",
     "status": "published",
-    "recommendable": true
+    "recommendable": true,
+    "latitude": 31.23225,
+    "longitude": 121.478545,
+    "coordinateSystem": "gcj02",
+    "coordinateSourceUrl": "https://ditu.amap.com/ssr/coordinate-picker",
+    "coordinateCheckedAt": "2026-10-23",
+    "coordinateRevision": 20261023,
+    "coordinateNote": "高德坐标拾取；匹配地点：上海春美术馆；匹配地址：福州路655号2层(人民广场地铁站15号口步行290米)；实际入口以现场指引为准"
   },
   {
     "id": "dir-89d0cdd966af46dd-v2-arts",
@@ -14758,7 +15934,14 @@
     "verifiedAt": "2026-10-19",
     "verificationScope": "官方名录或官方介绍中的地点；玩法为自助任务",
     "status": "published",
-    "recommendable": true
+    "recommendable": true,
+    "latitude": 31.256475,
+    "longitude": 121.357125,
+    "coordinateSystem": "gcj02",
+    "coordinateSourceUrl": "https://ditu.amap.com/ssr/coordinate-picker",
+    "coordinateCheckedAt": "2026-10-23",
+    "coordinateRevision": 20261023,
+    "coordinateNote": "高德坐标拾取；匹配地点：上海海纳吴觉农茶文化博物馆；匹配地址：曹安公路1978号1号楼；实际入口以现场指引为准"
   },
   {
     "id": "dir-8a0a0d403bd16a2d-v2-healing",
@@ -14797,7 +15980,14 @@
     "verifiedAt": "2026-10-19",
     "verificationScope": "官方名录或官方介绍中的地点；玩法为自助任务",
     "status": "published",
-    "recommendable": true
+    "recommendable": true,
+    "latitude": 31.256712,
+    "longitude": 121.541687,
+    "coordinateSystem": "gcj02",
+    "coordinateSourceUrl": "https://ditu.amap.com/ssr/coordinate-picker",
+    "coordinateCheckedAt": "2026-10-23",
+    "coordinateRevision": 20261023,
+    "coordinateNote": "高德坐标拾取；匹配地点：大桥公园；匹配地址：杨树浦路宁国南路交叉口；实际入口以现场指引为准"
   },
   {
     "id": "dir-8a0a0d403bd16a2d-v2-outdoors",
@@ -14837,7 +16027,14 @@
     "verifiedAt": "2026-10-19",
     "verificationScope": "官方名录或官方介绍中的地点；玩法为自助任务",
     "status": "published",
-    "recommendable": true
+    "recommendable": true,
+    "latitude": 31.256712,
+    "longitude": 121.541687,
+    "coordinateSystem": "gcj02",
+    "coordinateSourceUrl": "https://ditu.amap.com/ssr/coordinate-picker",
+    "coordinateCheckedAt": "2026-10-23",
+    "coordinateRevision": 20261023,
+    "coordinateNote": "高德坐标拾取；匹配地点：大桥公园；匹配地址：杨树浦路宁国南路交叉口；实际入口以现场指引为准"
   },
   {
     "id": "dir-8ab49f9eac3137d5-v2-arts",
@@ -15197,7 +16394,14 @@
     "verifiedAt": "2026-10-19",
     "verificationScope": "官方名录或官方介绍中的地点；玩法为自助任务",
     "status": "published",
-    "recommendable": true
+    "recommendable": true,
+    "latitude": 31.219812,
+    "longitude": 121.3099,
+    "coordinateSystem": "gcj02",
+    "coordinateSourceUrl": "https://ditu.amap.com/ssr/coordinate-picker",
+    "coordinateCheckedAt": "2026-10-23",
+    "coordinateRevision": 20261023,
+    "coordinateNote": "高德坐标拾取；匹配地点：上海中闵虹桥美术馆；匹配地址：申长北路156号；实际入口以现场指引为准"
   },
   {
     "id": "dir-905a6604baaed71b-v2-arts",
@@ -15236,7 +16440,14 @@
     "verifiedAt": "2026-10-19",
     "verificationScope": "官方名录或官方介绍中的地点；玩法为自助任务",
     "status": "published",
-    "recommendable": true
+    "recommendable": true,
+    "latitude": 31.340306,
+    "longitude": 121.496755,
+    "coordinateSystem": "gcj02",
+    "coordinateSourceUrl": "https://ditu.amap.com/ssr/coordinate-picker",
+    "coordinateCheckedAt": "2026-10-23",
+    "coordinateRevision": 20261023,
+    "coordinateNote": "高德坐标拾取；匹配地点：上海中国工业设计博物馆；匹配地址：逸仙路3000号3号楼2层；实际入口以现场指引为准"
   },
   {
     "id": "dir-90da5b28fccbd1ce-v2-arts",
@@ -15275,7 +16486,14 @@
     "verifiedAt": "2026-10-19",
     "verificationScope": "官方名录或官方介绍中的地点；玩法为自助任务",
     "status": "published",
-    "recommendable": true
+    "recommendable": true,
+    "latitude": 31.25409,
+    "longitude": 121.509211,
+    "coordinateSystem": "gcj02",
+    "coordinateSourceUrl": "https://ditu.amap.com/ssr/coordinate-picker",
+    "coordinateCheckedAt": "2026-10-23",
+    "coordinateRevision": 20261023,
+    "coordinateNote": "高德坐标拾取；匹配地点：上海犹太难民纪念馆；匹配地址：长阳路62号；实际入口以现场指引为准"
   },
   {
     "id": "dir-913e6f505fd67bc3-v2-arts",
@@ -15353,7 +16571,14 @@
     "verifiedAt": "2026-10-19",
     "verificationScope": "官方名录或官方介绍中的地点；玩法为自助任务",
     "status": "published",
-    "recommendable": true
+    "recommendable": true,
+    "latitude": 30.8086,
+    "longitude": 121.3584,
+    "coordinateSystem": "gcj02",
+    "coordinateSourceUrl": "https://ditu.amap.com/ssr/coordinate-picker",
+    "coordinateCheckedAt": "2026-10-23",
+    "coordinateRevision": 20261023,
+    "coordinateNote": "高德坐标拾取；匹配地点：上海市沧海盐田盐文化博物馆；匹配地址：蒋庄路2067号-1；实际入口以现场指引为准"
   },
   {
     "id": "dir-924d626e8fbf758e-v2-healing",
@@ -15471,7 +16696,14 @@
     "verifiedAt": "2026-10-19",
     "verificationScope": "官方名录或官方介绍中的地点；玩法为自助任务",
     "status": "published",
-    "recommendable": true
+    "recommendable": true,
+    "latitude": 31.281439,
+    "longitude": 121.504066,
+    "coordinateSystem": "gcj02",
+    "coordinateSourceUrl": "https://ditu.amap.com/ssr/coordinate-picker",
+    "coordinateCheckedAt": "2026-10-23",
+    "coordinateRevision": 20261023,
+    "coordinateNote": "高德坐标拾取；匹配地点：同济大学博物馆；匹配地址：四平路1239号一二九大楼；实际入口以现场指引为准"
   },
   {
     "id": "dir-934ccaa0588f5bc3-v2-healing",
@@ -15668,7 +16900,14 @@
     "verifiedAt": "2026-10-19",
     "verificationScope": "官方名录或官方介绍中的地点；玩法为自助任务",
     "status": "published",
-    "recommendable": true
+    "recommendable": true,
+    "latitude": 31.147133,
+    "longitude": 121.107465,
+    "coordinateSystem": "gcj02",
+    "coordinateSourceUrl": "https://ditu.amap.com/ssr/coordinate-picker",
+    "coordinateCheckedAt": "2026-10-23",
+    "coordinateRevision": 20261023,
+    "coordinateNote": "高德坐标拾取；匹配地点：西部绿苑；匹配地址：城中西路以北海盈路以东；实际入口以现场指引为准"
   },
   {
     "id": "dir-944cf6be1676ea9f-v2-outdoors",
@@ -15708,7 +16947,14 @@
     "verifiedAt": "2026-10-19",
     "verificationScope": "官方名录或官方介绍中的地点；玩法为自助任务",
     "status": "published",
-    "recommendable": true
+    "recommendable": true,
+    "latitude": 31.147133,
+    "longitude": 121.107465,
+    "coordinateSystem": "gcj02",
+    "coordinateSourceUrl": "https://ditu.amap.com/ssr/coordinate-picker",
+    "coordinateCheckedAt": "2026-10-23",
+    "coordinateRevision": 20261023,
+    "coordinateNote": "高德坐标拾取；匹配地点：西部绿苑；匹配地址：城中西路以北海盈路以东；实际入口以现场指引为准"
   },
   {
     "id": "dir-9587c39f919e7a57-v2-arts",
@@ -15747,7 +16993,14 @@
     "verifiedAt": "2026-10-19",
     "verificationScope": "官方名录或官方介绍中的地点；玩法为自助任务",
     "status": "published",
-    "recommendable": true
+    "recommendable": true,
+    "latitude": 31.227122,
+    "longitude": 121.490957,
+    "coordinateSystem": "gcj02",
+    "coordinateSourceUrl": "https://ditu.amap.com/ssr/coordinate-picker",
+    "coordinateCheckedAt": "2026-10-23",
+    "coordinateRevision": 20261023,
+    "coordinateNote": "高德坐标拾取；匹配地点：童涵春堂中药博物馆；匹配地址：豫园新路20号3层(豫园地铁站7号口步行330米)；实际入口以现场指引为准"
   },
   {
     "id": "dir-986fddfaebef05c7-v2-healing",
@@ -15865,7 +17118,14 @@
     "verifiedAt": "2026-10-19",
     "verificationScope": "官方名录或官方介绍中的地点；玩法为自助任务",
     "status": "published",
-    "recommendable": true
+    "recommendable": true,
+    "latitude": 31.186616,
+    "longitude": 121.435149,
+    "coordinateSystem": "gcj02",
+    "coordinateSourceUrl": "https://ditu.amap.com/ssr/coordinate-picker",
+    "coordinateCheckedAt": "2026-10-23",
+    "coordinateRevision": 20261023,
+    "coordinateNote": "高德坐标拾取；匹配地点：上海土山湾博物馆；匹配地址：蒲汇塘路55号-1临；实际入口以现场指引为准"
   },
   {
     "id": "dir-9977aa13243d5d89-v2-healing",
@@ -15904,7 +17164,14 @@
     "verifiedAt": "2026-10-19",
     "verificationScope": "官方名录或官方介绍中的地点；玩法为自助任务",
     "status": "published",
-    "recommendable": true
+    "recommendable": true,
+    "latitude": 30.728263,
+    "longitude": 121.352,
+    "coordinateSystem": "gcj02",
+    "coordinateSourceUrl": "https://ditu.amap.com/ssr/coordinate-picker",
+    "coordinateCheckedAt": "2026-10-23",
+    "coordinateRevision": 20261023,
+    "coordinateNote": "高德坐标拾取；匹配地点：山阳广场；匹配地址：龙胜路与杭州湾大道交叉口西140米；实际入口以现场指引为准"
   },
   {
     "id": "dir-9977aa13243d5d89-v2-outdoors",
@@ -15944,7 +17211,14 @@
     "verifiedAt": "2026-10-19",
     "verificationScope": "官方名录或官方介绍中的地点；玩法为自助任务",
     "status": "published",
-    "recommendable": true
+    "recommendable": true,
+    "latitude": 30.728263,
+    "longitude": 121.352,
+    "coordinateSystem": "gcj02",
+    "coordinateSourceUrl": "https://ditu.amap.com/ssr/coordinate-picker",
+    "coordinateCheckedAt": "2026-10-23",
+    "coordinateRevision": 20261023,
+    "coordinateNote": "高德坐标拾取；匹配地点：山阳广场；匹配地址：龙胜路与杭州湾大道交叉口西140米；实际入口以现场指引为准"
   },
   {
     "id": "dir-99dc5d83dc3915c9-v2-arts",
@@ -15983,7 +17257,14 @@
     "verifiedAt": "2026-10-19",
     "verificationScope": "官方名录或官方介绍中的地点；玩法为自助任务",
     "status": "published",
-    "recommendable": true
+    "recommendable": true,
+    "latitude": 30.883876,
+    "longitude": 121.011946,
+    "coordinateSystem": "gcj02",
+    "coordinateSourceUrl": "https://ditu.amap.com/ssr/coordinate-picker",
+    "coordinateCheckedAt": "2026-10-23",
+    "coordinateRevision": 20261023,
+    "coordinateNote": "高德坐标拾取；匹配地点：丁聪美术馆；匹配地址：青枫街49号；实际入口以现场指引为准"
   },
   {
     "id": "dir-9b31be6a1d413e0a-v2-healing",
@@ -16461,7 +17742,14 @@
     "verifiedAt": "2026-10-19",
     "verificationScope": "官方名录或官方介绍中的地点；玩法为自助任务",
     "status": "published",
-    "recommendable": true
+    "recommendable": true,
+    "latitude": 30.96028,
+    "longitude": 121.514934,
+    "coordinateSystem": "gcj02",
+    "coordinateSourceUrl": "https://ditu.amap.com/ssr/coordinate-picker",
+    "coordinateCheckedAt": "2026-10-23",
+    "coordinateRevision": 20261023,
+    "coordinateNote": "高德坐标拾取；匹配地点：美谷公园；匹配地址：万顺路2089号；实际入口以现场指引为准"
   },
   {
     "id": "dir-a11a8a8e5030de44-v2-outdoors",
@@ -16501,7 +17789,14 @@
     "verifiedAt": "2026-10-19",
     "verificationScope": "官方名录或官方介绍中的地点；玩法为自助任务",
     "status": "published",
-    "recommendable": true
+    "recommendable": true,
+    "latitude": 30.96028,
+    "longitude": 121.514934,
+    "coordinateSystem": "gcj02",
+    "coordinateSourceUrl": "https://ditu.amap.com/ssr/coordinate-picker",
+    "coordinateCheckedAt": "2026-10-23",
+    "coordinateRevision": 20261023,
+    "coordinateNote": "高德坐标拾取；匹配地点：美谷公园；匹配地址：万顺路2089号；实际入口以现场指引为准"
   },
   {
     "id": "dir-a1d2d9fce275beda-v2-arts",
@@ -16540,7 +17835,14 @@
     "verifiedAt": "2026-10-19",
     "verificationScope": "官方名录或官方介绍中的地点；玩法为自助任务",
     "status": "published",
-    "recommendable": true
+    "recommendable": true,
+    "latitude": 31.263586,
+    "longitude": 121.481035,
+    "coordinateSystem": "gcj02",
+    "coordinateSourceUrl": "https://ditu.amap.com/ssr/coordinate-picker",
+    "coordinateCheckedAt": "2026-10-23",
+    "coordinateRevision": 20261023,
+    "coordinateNote": "高德坐标拾取；匹配地点：左联会址纪念馆；匹配地址：多伦路201弄2号(东宝兴路地铁站1号口步行480米)；实际入口以现场指引为准"
   },
   {
     "id": "dir-a1e0ed3362759778-v2-healing",
@@ -16579,7 +17881,14 @@
     "verifiedAt": "2026-10-19",
     "verificationScope": "官方名录或官方介绍中的地点；玩法为自助任务",
     "status": "published",
-    "recommendable": true
+    "recommendable": true,
+    "latitude": 30.931765,
+    "longitude": 121.500716,
+    "coordinateSystem": "gcj02",
+    "coordinateSourceUrl": "https://ditu.amap.com/ssr/coordinate-picker",
+    "coordinateCheckedAt": "2026-10-23",
+    "coordinateRevision": 20261023,
+    "coordinateNote": "高德坐标拾取；匹配地点：上海之鱼湖心岛公园；匹配地址：金海公路与航南公路交叉口；实际入口以现场指引为准"
   },
   {
     "id": "dir-a1e0ed3362759778-v2-outdoors",
@@ -16619,7 +17928,14 @@
     "verifiedAt": "2026-10-19",
     "verificationScope": "官方名录或官方介绍中的地点；玩法为自助任务",
     "status": "published",
-    "recommendable": true
+    "recommendable": true,
+    "latitude": 30.931765,
+    "longitude": 121.500716,
+    "coordinateSystem": "gcj02",
+    "coordinateSourceUrl": "https://ditu.amap.com/ssr/coordinate-picker",
+    "coordinateCheckedAt": "2026-10-23",
+    "coordinateRevision": 20261023,
+    "coordinateNote": "高德坐标拾取；匹配地点：上海之鱼湖心岛公园；匹配地址：金海公路与航南公路交叉口；实际入口以现场指引为准"
   },
   {
     "id": "dir-a2a15d4f42c9e1fe-v2-arts",
@@ -16939,7 +18255,14 @@
     "verifiedAt": "2026-10-19",
     "verificationScope": "官方名录或官方介绍中的地点；玩法为自助任务",
     "status": "published",
-    "recommendable": true
+    "recommendable": true,
+    "latitude": 31.116792,
+    "longitude": 121.40062,
+    "coordinateSystem": "gcj02",
+    "coordinateSourceUrl": "https://ditu.amap.com/ssr/coordinate-picker",
+    "coordinateCheckedAt": "2026-10-23",
+    "coordinateRevision": 20261023,
+    "coordinateNote": "高德坐标拾取；匹配地点：上海市闵行区蔡兵美术馆；匹配地址：伟业路881号；实际入口以现场指引为准"
   },
   {
     "id": "dir-a6e901396b84bb25-v2-arts",
@@ -16978,7 +18301,14 @@
     "verifiedAt": "2026-10-19",
     "verificationScope": "官方名录或官方介绍中的地点；玩法为自助任务",
     "status": "published",
-    "recommendable": true
+    "recommendable": true,
+    "latitude": 31.187793,
+    "longitude": 121.470273,
+    "coordinateSystem": "gcj02",
+    "coordinateSourceUrl": "https://ditu.amap.com/ssr/coordinate-picker",
+    "coordinateCheckedAt": "2026-10-23",
+    "coordinateRevision": 20261023,
+    "coordinateNote": "高德坐标拾取；匹配地点：START星美术馆；匹配地址：瑞宁路111号；实际入口以现场指引为准"
   },
   {
     "id": "dir-a73568d907631644-v2-arts",
@@ -17017,7 +18347,14 @@
     "verifiedAt": "2026-10-19",
     "verificationScope": "官方名录或官方介绍中的地点；玩法为自助任务",
     "status": "published",
-    "recommendable": true
+    "recommendable": true,
+    "latitude": 31.228449,
+    "longitude": 121.470334,
+    "coordinateSystem": "gcj02",
+    "coordinateSourceUrl": "https://ditu.amap.com/ssr/coordinate-picker",
+    "coordinateCheckedAt": "2026-10-23",
+    "coordinateRevision": 20261023,
+    "coordinateNote": "高德坐标拾取；匹配地点：上海民生现代美术馆；匹配地址：威海路48号5-6层；实际入口以现场指引为准"
   },
   {
     "id": "dir-a78124d3c20b1fb3-v2-arts",
@@ -17056,7 +18393,14 @@
     "verifiedAt": "2026-10-19",
     "verificationScope": "官方名录或官方介绍中的地点；玩法为自助任务",
     "status": "published",
-    "recommendable": true
+    "recommendable": true,
+    "latitude": 31.34549,
+    "longitude": 121.583857,
+    "coordinateSystem": "gcj02",
+    "coordinateSourceUrl": "https://ditu.amap.com/ssr/coordinate-picker",
+    "coordinateCheckedAt": "2026-10-23",
+    "coordinateRevision": 20261023,
+    "coordinateNote": "高德坐标拾取；匹配地点：高桥历史文化陈列馆；匹配地址：义王路1号；实际入口以现场指引为准"
   },
   {
     "id": "dir-a781f003d7e02850-v2-arts",
@@ -17095,7 +18439,14 @@
     "verifiedAt": "2026-10-19",
     "verificationScope": "官方名录或官方介绍中的地点；玩法为自助任务",
     "status": "published",
-    "recommendable": true
+    "recommendable": true,
+    "latitude": 31.268021,
+    "longitude": 121.481397,
+    "coordinateSystem": "gcj02",
+    "coordinateSourceUrl": "https://ditu.amap.com/ssr/coordinate-picker",
+    "coordinateCheckedAt": "2026-10-23",
+    "coordinateRevision": 20261023,
+    "coordinateNote": "高德坐标拾取；匹配地点：李白烈士故居；匹配地址：黄渡路107弄15号(虹口足球场地铁站6号口步行280米)；实际入口以现场指引为准"
   },
   {
     "id": "dir-a7b2b7cf0890db42-v2-arts",
@@ -17134,7 +18485,14 @@
     "verifiedAt": "2026-10-19",
     "verificationScope": "官方名录或官方介绍中的地点；玩法为自助任务",
     "status": "published",
-    "recommendable": true
+    "recommendable": true,
+    "latitude": 31.237338,
+    "longitude": 121.462466,
+    "coordinateSystem": "gcj02",
+    "coordinateSourceUrl": "https://ditu.amap.com/ssr/coordinate-picker",
+    "coordinateCheckedAt": "2026-10-23",
+    "coordinateRevision": 20261023,
+    "coordinateNote": "高德坐标拾取；匹配地点：中共中央军委机关旧址纪念馆；匹配地址：新闸路613弄12号(自然博物馆地铁站3号口步行50米)；实际入口以现场指引为准"
   },
   {
     "id": "dir-a8233f86833538d7-v2-healing",
@@ -17173,7 +18531,14 @@
     "verifiedAt": "2026-10-19",
     "verificationScope": "官方名录或官方介绍中的地点；玩法为自助任务",
     "status": "published",
-    "recommendable": true
+    "recommendable": true,
+    "latitude": 31.373777,
+    "longitude": 121.251045,
+    "coordinateSystem": "gcj02",
+    "coordinateSourceUrl": "https://ditu.amap.com/ssr/coordinate-picker",
+    "coordinateCheckedAt": "2026-10-23",
+    "coordinateRevision": 20261023,
+    "coordinateNote": "高德坐标拾取；匹配地点：蔷薇园；匹配地址：沪宜公路3388号绿色项链内(南侧)；实际入口以现场指引为准"
   },
   {
     "id": "dir-a8233f86833538d7-v2-outdoors",
@@ -17213,7 +18578,14 @@
     "verifiedAt": "2026-10-19",
     "verificationScope": "官方名录或官方介绍中的地点；玩法为自助任务",
     "status": "published",
-    "recommendable": true
+    "recommendable": true,
+    "latitude": 31.373777,
+    "longitude": 121.251045,
+    "coordinateSystem": "gcj02",
+    "coordinateSourceUrl": "https://ditu.amap.com/ssr/coordinate-picker",
+    "coordinateCheckedAt": "2026-10-23",
+    "coordinateRevision": 20261023,
+    "coordinateNote": "高德坐标拾取；匹配地点：蔷薇园；匹配地址：沪宜公路3388号绿色项链内(南侧)；实际入口以现场指引为准"
   },
   {
     "id": "dir-a8bc6b24e0acd194-v2-healing",
@@ -17331,7 +18703,14 @@
     "verifiedAt": "2026-10-19",
     "verificationScope": "官方名录或官方介绍中的地点；玩法为自助任务",
     "status": "published",
-    "recommendable": true
+    "recommendable": true,
+    "latitude": 31.24034,
+    "longitude": 121.471104,
+    "coordinateSystem": "gcj02",
+    "coordinateSourceUrl": "https://ditu.amap.com/ssr/coordinate-picker",
+    "coordinateCheckedAt": "2026-10-23",
+    "coordinateRevision": 20261023,
+    "coordinateNote": "高德坐标拾取；匹配地点：上海四行仓库抗战纪念馆；匹配地址：光复路21号(曲阜路地铁站2号口步行300米)；实际入口以现场指引为准"
   },
   {
     "id": "dir-a9a10b177bd1baa6-v2-arts",
@@ -17455,7 +18834,14 @@
     "verifiedAt": "2026-10-19",
     "verificationScope": "官方名录或官方介绍中的地点；玩法为自助任务",
     "status": "published",
-    "recommendable": true
+    "recommendable": true,
+    "latitude": 31.619561,
+    "longitude": 121.428193,
+    "coordinateSystem": "gcj02",
+    "coordinateSourceUrl": "https://ditu.amap.com/ssr/coordinate-picker",
+    "coordinateCheckedAt": "2026-10-23",
+    "coordinateRevision": 20261023,
+    "coordinateNote": "高德坐标拾取；匹配地点：崇明美术馆；匹配地址：崇明大道7897号；实际入口以现场指引为准"
   },
   {
     "id": "dir-ab6b98537781ae6b-v2-arts",
@@ -17533,7 +18919,14 @@
     "verifiedAt": "2026-10-19",
     "verificationScope": "官方名录或官方介绍中的地点；玩法为自助任务",
     "status": "published",
-    "recommendable": true
+    "recommendable": true,
+    "latitude": 31.205925,
+    "longitude": 121.387754,
+    "coordinateSystem": "gcj02",
+    "coordinateSourceUrl": "https://ditu.amap.com/ssr/coordinate-picker",
+    "coordinateCheckedAt": "2026-10-23",
+    "coordinateRevision": 20261023,
+    "coordinateNote": "高德坐标拾取；匹配地点：上海虹桥当代艺术馆；匹配地址：仙霞路650号；实际入口以现场指引为准"
   },
   {
     "id": "dir-ac128c72f8059fcf-v2-arts",
@@ -17618,7 +19011,14 @@
     "verifiedAt": "2026-10-19",
     "verificationScope": "官方名录或官方介绍中的地点；玩法为自助任务",
     "status": "published",
-    "recommendable": true
+    "recommendable": true,
+    "latitude": 31.354277,
+    "longitude": 121.754162,
+    "coordinateSystem": "gcj02",
+    "coordinateSourceUrl": "https://ditu.amap.com/ssr/coordinate-picker",
+    "coordinateCheckedAt": "2026-10-23",
+    "coordinateRevision": 20261023,
+    "coordinateNote": "高德坐标拾取；匹配地点：江南造船展示馆；匹配地址：长兴江南大道988号；实际入口以现场指引为准"
   },
   {
     "id": "dir-accff4a9900ae9b1-v2-arts",
@@ -17657,7 +19057,14 @@
     "verifiedAt": "2026-10-19",
     "verificationScope": "官方名录或官方介绍中的地点；玩法为自助任务",
     "status": "published",
-    "recommendable": true
+    "recommendable": true,
+    "latitude": 31.239082,
+    "longitude": 121.503887,
+    "coordinateSystem": "gcj02",
+    "coordinateSourceUrl": "https://ditu.amap.com/ssr/coordinate-picker",
+    "coordinateCheckedAt": "2026-10-23",
+    "coordinateRevision": 20261023,
+    "coordinateNote": "高德坐标拾取；匹配地点：交通银行博物馆；匹配地址：银城中路188号47层(陆家嘴地铁站3号口步行220米)；实际入口以现场指引为准"
   },
   {
     "id": "dir-ad1ef2f1d0360615-v2-arts",
@@ -17735,7 +19142,14 @@
     "verifiedAt": "2026-10-19",
     "verificationScope": "官方名录或官方介绍中的地点；玩法为自助任务",
     "status": "published",
-    "recommendable": true
+    "recommendable": true,
+    "latitude": 31.26499,
+    "longitude": 121.40786,
+    "coordinateSystem": "gcj02",
+    "coordinateSourceUrl": "https://ditu.amap.com/ssr/coordinate-picker",
+    "coordinateCheckedAt": "2026-10-23",
+    "coordinateRevision": 20261023,
+    "coordinateNote": "高德坐标拾取；匹配地点：万里公园；匹配地址：富平路715号附近；实际入口以现场指引为准"
   },
   {
     "id": "dir-ad5ec4830fe19a91-v2-outdoors",
@@ -17775,7 +19189,14 @@
     "verifiedAt": "2026-10-19",
     "verificationScope": "官方名录或官方介绍中的地点；玩法为自助任务",
     "status": "published",
-    "recommendable": true
+    "recommendable": true,
+    "latitude": 31.26499,
+    "longitude": 121.40786,
+    "coordinateSystem": "gcj02",
+    "coordinateSourceUrl": "https://ditu.amap.com/ssr/coordinate-picker",
+    "coordinateCheckedAt": "2026-10-23",
+    "coordinateRevision": 20261023,
+    "coordinateNote": "高德坐标拾取；匹配地点：万里公园；匹配地址：富平路715号附近；实际入口以现场指引为准"
   },
   {
     "id": "dir-adf8f04336b55f27-v2-arts",
@@ -17906,7 +19327,14 @@
     "verifiedAt": "2026-10-19",
     "verificationScope": "官方名录或官方介绍中的地点；玩法为自助任务",
     "status": "published",
-    "recommendable": true
+    "recommendable": true,
+    "latitude": 31.189282,
+    "longitude": 121.434317,
+    "coordinateSystem": "gcj02",
+    "coordinateSourceUrl": "https://ditu.amap.com/ssr/coordinate-picker",
+    "coordinateCheckedAt": "2026-10-23",
+    "coordinateRevision": 20261023,
+    "coordinateNote": "高德坐标拾取；匹配地点：徐光启纪念馆；匹配地址：徐家汇街道南丹路17号(徐家汇地铁站1号口步行290米)；实际入口以现场指引为准"
   },
   {
     "id": "dir-aeeede6117134ec8-v2-healing",
@@ -18023,7 +19451,14 @@
     "verifiedAt": "2026-10-19",
     "verificationScope": "官方名录或官方介绍中的地点；玩法为自助任务",
     "status": "published",
-    "recommendable": true
+    "recommendable": true,
+    "latitude": 31.380474,
+    "longitude": 121.314487,
+    "coordinateSystem": "gcj02",
+    "coordinateSourceUrl": "https://ditu.amap.com/ssr/coordinate-picker",
+    "coordinateCheckedAt": "2026-10-23",
+    "coordinateRevision": 20261023,
+    "coordinateNote": "高德坐标拾取；匹配地点：嘉源海美术馆；匹配地址：马陆镇大治路39号；实际入口以现场指引为准"
   },
   {
     "id": "dir-b025c012c5f29593-v2-healing",
@@ -18140,7 +19575,14 @@
     "verifiedAt": "2026-10-19",
     "verificationScope": "官方名录或官方介绍中的地点；玩法为自助任务",
     "status": "published",
-    "recommendable": true
+    "recommendable": true,
+    "latitude": 31.136452,
+    "longitude": 121.406043,
+    "coordinateSystem": "gcj02",
+    "coordinateSourceUrl": "https://ditu.amap.com/ssr/coordinate-picker",
+    "coordinateCheckedAt": "2026-10-23",
+    "coordinateRevision": 20261023,
+    "coordinateNote": "高德坐标拾取；匹配地点：上海航宇科普中心；匹配地址：沪闵路7900号；实际入口以现场指引为准"
   },
   {
     "id": "dir-b1791ccf6d19c897-v2-arts",
@@ -18179,7 +19621,14 @@
     "verifiedAt": "2026-10-19",
     "verificationScope": "官方名录或官方介绍中的地点；玩法为自助任务",
     "status": "published",
-    "recommendable": true
+    "recommendable": true,
+    "latitude": 31.296698,
+    "longitude": 121.499453,
+    "coordinateSystem": "gcj02",
+    "coordinateSourceUrl": "https://ditu.amap.com/ssr/coordinate-picker",
+    "coordinateCheckedAt": "2026-10-23",
+    "coordinateRevision": 20261023,
+    "coordinateNote": "高德坐标拾取；匹配地点：复旦大学博物馆；匹配地址：邯郸路220号；实际入口以现场指引为准"
   },
   {
     "id": "dir-b240fa9e913377a2-v2-arts",
@@ -18218,7 +19667,14 @@
     "verifiedAt": "2026-10-19",
     "verificationScope": "官方名录或官方介绍中的地点；玩法为自助任务",
     "status": "published",
-    "recommendable": true
+    "recommendable": true,
+    "latitude": 31.234807,
+    "longitude": 121.507515,
+    "coordinateSystem": "gcj02",
+    "coordinateSourceUrl": "https://ditu.amap.com/ssr/coordinate-picker",
+    "coordinateCheckedAt": "2026-10-23",
+    "coordinateRevision": 20261023,
+    "coordinateNote": "高德坐标拾取；匹配地点：上海浦东云间美术馆；匹配地址：上海浦东新区世纪大道100号环球金融中心29楼；实际入口以现场指引为准"
   },
   {
     "id": "dir-b31539e6a386843e-v2-arts",
@@ -18257,7 +19713,14 @@
     "verifiedAt": "2026-10-19",
     "verificationScope": "官方名录或官方介绍中的地点；玩法为自助任务",
     "status": "published",
-    "recommendable": true
+    "recommendable": true,
+    "latitude": 31.112218,
+    "longitude": 121.279656,
+    "coordinateSystem": "gcj02",
+    "coordinateSourceUrl": "https://ditu.amap.com/ssr/coordinate-picker",
+    "coordinateCheckedAt": "2026-10-23",
+    "coordinateRevision": 20261023,
+    "coordinateNote": "高德坐标拾取；匹配地点：上海贤禾美术馆；匹配地址：开江东路173号；实际入口以现场指引为准"
   },
   {
     "id": "dir-b38ec28e06ce277e-v2-healing",
@@ -18296,7 +19759,14 @@
     "verifiedAt": "2026-10-19",
     "verificationScope": "官方名录或官方介绍中的地点；玩法为自助任务",
     "status": "published",
-    "recommendable": true
+    "recommendable": true,
+    "latitude": 31.124439,
+    "longitude": 121.227591,
+    "coordinateSystem": "gcj02",
+    "coordinateSourceUrl": "https://ditu.amap.com/ssr/coordinate-picker",
+    "coordinateCheckedAt": "2026-10-23",
+    "coordinateRevision": 20261023,
+    "coordinateNote": "高德坐标拾取；匹配地点：赵巷体育公园；匹配地址：业文路北侧；实际入口以现场指引为准"
   },
   {
     "id": "dir-b38ec28e06ce277e-v2-outdoors",
@@ -18336,7 +19806,14 @@
     "verifiedAt": "2026-10-19",
     "verificationScope": "官方名录或官方介绍中的地点；玩法为自助任务",
     "status": "published",
-    "recommendable": true
+    "recommendable": true,
+    "latitude": 31.124439,
+    "longitude": 121.227591,
+    "coordinateSystem": "gcj02",
+    "coordinateSourceUrl": "https://ditu.amap.com/ssr/coordinate-picker",
+    "coordinateCheckedAt": "2026-10-23",
+    "coordinateRevision": 20261023,
+    "coordinateNote": "高德坐标拾取；匹配地点：赵巷体育公园；匹配地址：业文路北侧；实际入口以现场指引为准"
   },
   {
     "id": "dir-b49345558c7b3b11-v2-arts",
@@ -18414,7 +19891,14 @@
     "verifiedAt": "2026-10-19",
     "verificationScope": "官方名录或官方介绍中的地点；玩法为自助任务",
     "status": "published",
-    "recommendable": true
+    "recommendable": true,
+    "latitude": 30.926421,
+    "longitude": 121.453687,
+    "coordinateSystem": "gcj02",
+    "coordinateSourceUrl": "https://ditu.amap.com/ssr/coordinate-picker",
+    "coordinateCheckedAt": "2026-10-23",
+    "coordinateRevision": 20261023,
+    "coordinateNote": "高德坐标拾取；匹配地点：上海真静传统木作博物馆；匹配地址：南桥路839号；实际入口以现场指引为准"
   },
   {
     "id": "dir-b5dc79ee6bc1226e-v2-healing",
@@ -18453,7 +19937,14 @@
     "verifiedAt": "2026-10-19",
     "verificationScope": "官方名录或官方介绍中的地点；玩法为自助任务",
     "status": "published",
-    "recommendable": true
+    "recommendable": true,
+    "latitude": 30.730507,
+    "longitude": 121.33733,
+    "coordinateSystem": "gcj02",
+    "coordinateSourceUrl": "https://ditu.amap.com/ssr/coordinate-picker",
+    "coordinateCheckedAt": "2026-10-23",
+    "coordinateRevision": 20261023,
+    "coordinateNote": "高德坐标拾取；匹配地点：山龙绿地广场；匹配地址：板桥西路与山龙街交叉口东北120米；实际入口以现场指引为准"
   },
   {
     "id": "dir-b5dc79ee6bc1226e-v2-outdoors",
@@ -18492,7 +19983,14 @@
     "verifiedAt": "2026-10-19",
     "verificationScope": "官方名录或官方介绍中的地点；玩法为自助任务",
     "status": "published",
-    "recommendable": true
+    "recommendable": true,
+    "latitude": 30.730507,
+    "longitude": 121.33733,
+    "coordinateSystem": "gcj02",
+    "coordinateSourceUrl": "https://ditu.amap.com/ssr/coordinate-picker",
+    "coordinateCheckedAt": "2026-10-23",
+    "coordinateRevision": 20261023,
+    "coordinateNote": "高德坐标拾取；匹配地点：山龙绿地广场；匹配地址：板桥西路与山龙街交叉口东北120米；实际入口以现场指引为准"
   },
   {
     "id": "dir-b6e0c5a7e009ae96-v2-healing",
@@ -18609,7 +20107,14 @@
     "verifiedAt": "2026-10-19",
     "verificationScope": "官方名录或官方介绍中的地点；玩法为自助任务",
     "status": "published",
-    "recommendable": true
+    "recommendable": true,
+    "latitude": 31.276569,
+    "longitude": 121.409529,
+    "coordinateSystem": "gcj02",
+    "coordinateSourceUrl": "https://ditu.amap.com/ssr/coordinate-picker",
+    "coordinateCheckedAt": "2026-10-23",
+    "coordinateRevision": 20261023,
+    "coordinateNote": "高德坐标拾取；匹配地点：上海市陶行知纪念馆；匹配地址：大场镇武威东路76号；实际入口以现场指引为准"
   },
   {
     "id": "dir-b7807ca10e1fda5c-v2-arts",
@@ -18648,7 +20153,14 @@
     "verifiedAt": "2026-10-19",
     "verificationScope": "官方名录或官方介绍中的地点；玩法为自助任务",
     "status": "published",
-    "recommendable": true
+    "recommendable": true,
+    "latitude": 31.201055,
+    "longitude": 121.435504,
+    "coordinateSystem": "gcj02",
+    "coordinateSourceUrl": "https://ditu.amap.com/ssr/coordinate-picker",
+    "coordinateCheckedAt": "2026-10-23",
+    "coordinateRevision": 20261023,
+    "coordinateNote": "高德坐标拾取；匹配地点：钱学森图书馆；匹配地址：华山路1800号；实际入口以现场指引为准"
   },
   {
     "id": "dir-b82d4e25f7ba30a9-v2-healing",
@@ -18962,7 +20474,14 @@
     "verifiedAt": "2026-10-19",
     "verificationScope": "官方名录或官方介绍中的地点；玩法为自助任务",
     "status": "published",
-    "recommendable": true
+    "recommendable": true,
+    "latitude": 31.054744,
+    "longitude": 121.767743,
+    "coordinateSystem": "gcj02",
+    "coordinateSourceUrl": "https://ditu.amap.com/ssr/coordinate-picker",
+    "coordinateCheckedAt": "2026-10-23",
+    "coordinateRevision": 20261023,
+    "coordinateNote": "高德坐标拾取；匹配地点：浦东历史博物馆；匹配地址：惠南镇文师街18号；实际入口以现场指引为准"
   },
   {
     "id": "dir-bcd43756f74cd92c-v2-healing",
@@ -19080,7 +20599,14 @@
     "verifiedAt": "2026-10-19",
     "verificationScope": "官方名录或官方介绍中的地点；玩法为自助任务",
     "status": "published",
-    "recommendable": true
+    "recommendable": true,
+    "latitude": 31.282273,
+    "longitude": 121.543429,
+    "coordinateSystem": "gcj02",
+    "coordinateSourceUrl": "https://ditu.amap.com/ssr/coordinate-picker",
+    "coordinateCheckedAt": "2026-10-23",
+    "coordinateRevision": 20261023,
+    "coordinateNote": "高德坐标拾取；匹配地点：上海理工大学印刷博物馆；匹配地址：水丰路100号；实际入口以现场指引为准"
   },
   {
     "id": "dir-bd5b456d97e4ada6-v2-arts",
@@ -19119,7 +20645,14 @@
     "verifiedAt": "2026-10-19",
     "verificationScope": "官方名录或官方介绍中的地点；玩法为自助任务",
     "status": "published",
-    "recommendable": true
+    "recommendable": true,
+    "latitude": 31.220264,
+    "longitude": 121.419438,
+    "coordinateSystem": "gcj02",
+    "coordinateSourceUrl": "https://ditu.amap.com/ssr/coordinate-picker",
+    "coordinateCheckedAt": "2026-10-23",
+    "coordinateRevision": 20261023,
+    "coordinateNote": "高德坐标拾取；匹配地点：上海凝聚力工程博物馆；匹配地址：长宁路878号(中山公园地铁站7号口步行120米)；实际入口以现场指引为准"
   },
   {
     "id": "dir-be50e33a20b3ce28-v2-arts",
@@ -19204,7 +20737,14 @@
     "verifiedAt": "2026-10-19",
     "verificationScope": "官方名录或官方介绍中的地点；玩法为自助任务",
     "status": "published",
-    "recommendable": true
+    "recommendable": true,
+    "latitude": 30.985888,
+    "longitude": 121.1182,
+    "coordinateSystem": "gcj02",
+    "coordinateSourceUrl": "https://ditu.amap.com/ssr/coordinate-picker",
+    "coordinateCheckedAt": "2026-10-23",
+    "coordinateRevision": 20261023,
+    "coordinateNote": "高德坐标拾取；匹配地点：石湖荡镇控烟主题公园；匹配地址：上海市石湖荡镇东栅路162号附近；实际入口以现场指引为准"
   },
   {
     "id": "dir-bfa2c24970927c05-v2-outdoors",
@@ -19243,7 +20783,14 @@
     "verifiedAt": "2026-10-19",
     "verificationScope": "官方名录或官方介绍中的地点；玩法为自助任务",
     "status": "published",
-    "recommendable": true
+    "recommendable": true,
+    "latitude": 30.985888,
+    "longitude": 121.1182,
+    "coordinateSystem": "gcj02",
+    "coordinateSourceUrl": "https://ditu.amap.com/ssr/coordinate-picker",
+    "coordinateCheckedAt": "2026-10-23",
+    "coordinateRevision": 20261023,
+    "coordinateNote": "高德坐标拾取；匹配地点：石湖荡镇控烟主题公园；匹配地址：上海市石湖荡镇东栅路162号附近；实际入口以现场指引为准"
   },
   {
     "id": "dir-c09fd09ebba75c4e-v2-healing",
@@ -19282,7 +20829,14 @@
     "verifiedAt": "2026-10-19",
     "verificationScope": "官方名录或官方介绍中的地点；玩法为自助任务",
     "status": "published",
-    "recommendable": true
+    "recommendable": true,
+    "latitude": 30.885739,
+    "longitude": 121.154817,
+    "coordinateSystem": "gcj02",
+    "coordinateSourceUrl": "https://ditu.amap.com/ssr/coordinate-picker",
+    "coordinateCheckedAt": "2026-10-23",
+    "coordinateRevision": 20261023,
+    "coordinateNote": "高德坐标拾取；匹配地点：紫金生态园；匹配地址：珠泰路与金龙新街交叉口西120米；实际入口以现场指引为准"
   },
   {
     "id": "dir-c09fd09ebba75c4e-v2-outdoors",
@@ -19322,7 +20876,14 @@
     "verifiedAt": "2026-10-19",
     "verificationScope": "官方名录或官方介绍中的地点；玩法为自助任务",
     "status": "published",
-    "recommendable": true
+    "recommendable": true,
+    "latitude": 30.885739,
+    "longitude": 121.154817,
+    "coordinateSystem": "gcj02",
+    "coordinateSourceUrl": "https://ditu.amap.com/ssr/coordinate-picker",
+    "coordinateCheckedAt": "2026-10-23",
+    "coordinateRevision": 20261023,
+    "coordinateNote": "高德坐标拾取；匹配地点：紫金生态园；匹配地址：珠泰路与金龙新街交叉口西120米；实际入口以现场指引为准"
   },
   {
     "id": "dir-c161e7b024f843fd-v2-arts",
@@ -19361,7 +20922,14 @@
     "verifiedAt": "2026-10-19",
     "verificationScope": "官方名录或官方介绍中的地点；玩法为自助任务",
     "status": "published",
-    "recommendable": true
+    "recommendable": true,
+    "latitude": 31.186294,
+    "longitude": 121.438473,
+    "coordinateSystem": "gcj02",
+    "coordinateSourceUrl": "https://ditu.amap.com/ssr/coordinate-picker",
+    "coordinateCheckedAt": "2026-10-23",
+    "coordinateRevision": 20261023,
+    "coordinateNote": "高德坐标拾取；匹配地点：上海电影博物馆；匹配地址：漕溪北路595号A座(上海体育馆地铁站1号口步行450米)；实际入口以现场指引为准"
   },
   {
     "id": "dir-c1f7c56ea09a653e-v2-healing",
@@ -19478,7 +21046,14 @@
     "verifiedAt": "2026-10-19",
     "verificationScope": "官方名录或官方介绍中的地点；玩法为自助任务",
     "status": "published",
-    "recommendable": true
+    "recommendable": true,
+    "latitude": 31.007093,
+    "longitude": 121.044155,
+    "coordinateSystem": "gcj02",
+    "coordinateSourceUrl": "https://ditu.amap.com/ssr/coordinate-picker",
+    "coordinateCheckedAt": "2026-10-23",
+    "coordinateRevision": 20261023,
+    "coordinateNote": "高德坐标拾取；匹配地点：陈云纪念馆；匹配地址：老朱枫公路3516号；实际入口以现场指引为准"
   },
   {
     "id": "dir-c271db58ef50f248-v2-arts",
@@ -19517,7 +21092,14 @@
     "verifiedAt": "2026-10-19",
     "verificationScope": "官方名录或官方介绍中的地点；玩法为自助任务",
     "status": "published",
-    "recommendable": true
+    "recommendable": true,
+    "latitude": 31.193773,
+    "longitude": 121.412937,
+    "coordinateSystem": "gcj02",
+    "coordinateSourceUrl": "https://ditu.amap.com/ssr/coordinate-picker",
+    "coordinateCheckedAt": "2026-10-23",
+    "coordinateRevision": 20261023,
+    "coordinateNote": "高德坐标拾取；匹配地点：上海儿童博物馆；匹配地址：宋园路61号；实际入口以现场指引为准"
   },
   {
     "id": "dir-c4757dfa1bb2eb2a-v2-healing",
@@ -19634,7 +21216,14 @@
     "verifiedAt": "2026-10-19",
     "verificationScope": "官方名录或官方介绍中的地点；玩法为自助任务",
     "status": "published",
-    "recommendable": true
+    "recommendable": true,
+    "latitude": 31.271229,
+    "longitude": 121.534465,
+    "coordinateSystem": "gcj02",
+    "coordinateSourceUrl": "https://ditu.amap.com/ssr/coordinate-picker",
+    "coordinateCheckedAt": "2026-10-23",
+    "coordinateRevision": 20261023,
+    "coordinateNote": "高德坐标拾取；匹配地点：敦煌当代美术馆；匹配地址：长阳路1687号长阳创谷南3号楼；实际入口以现场指引为准"
   },
   {
     "id": "dir-c53f3a7a476b1802-v2-arts",
@@ -19673,7 +21262,14 @@
     "verifiedAt": "2026-10-19",
     "verificationScope": "官方名录或官方介绍中的地点；玩法为自助任务",
     "status": "published",
-    "recommendable": true
+    "recommendable": true,
+    "latitude": 31.25742,
+    "longitude": 121.645541,
+    "coordinateSystem": "gcj02",
+    "coordinateSourceUrl": "https://ditu.amap.com/ssr/coordinate-picker",
+    "coordinateCheckedAt": "2026-10-23",
+    "coordinateRevision": 20261023,
+    "coordinateNote": "高德坐标拾取；匹配地点：上海浦东新区联明美术馆；匹配地址：民唐路202号2幢；实际入口以现场指引为准"
   },
   {
     "id": "dir-c59e2ee5e20da04e-v2-healing",
@@ -19712,7 +21308,14 @@
     "verifiedAt": "2026-10-19",
     "verificationScope": "官方名录或官方介绍中的地点；玩法为自助任务",
     "status": "published",
-    "recommendable": true
+    "recommendable": true,
+    "latitude": 31.330323,
+    "longitude": 121.334601,
+    "coordinateSystem": "gcj02",
+    "coordinateSourceUrl": "https://ditu.amap.com/ssr/coordinate-picker",
+    "coordinateCheckedAt": "2026-10-23",
+    "coordinateRevision": 20261023,
+    "coordinateNote": "高德坐标拾取；匹配地点：南翔水生态公园；匹配地址：南翔镇顺丰路168号；实际入口以现场指引为准"
   },
   {
     "id": "dir-c59e2ee5e20da04e-v2-outdoors",
@@ -19752,7 +21355,14 @@
     "verifiedAt": "2026-10-19",
     "verificationScope": "官方名录或官方介绍中的地点；玩法为自助任务",
     "status": "published",
-    "recommendable": true
+    "recommendable": true,
+    "latitude": 31.330323,
+    "longitude": 121.334601,
+    "coordinateSystem": "gcj02",
+    "coordinateSourceUrl": "https://ditu.amap.com/ssr/coordinate-picker",
+    "coordinateCheckedAt": "2026-10-23",
+    "coordinateRevision": 20261023,
+    "coordinateNote": "高德坐标拾取；匹配地点：南翔水生态公园；匹配地址：南翔镇顺丰路168号；实际入口以现场指引为准"
   },
   {
     "id": "dir-c6d874dfcc81c0b2-v2-healing",
@@ -19791,7 +21401,14 @@
     "verifiedAt": "2026-10-19",
     "verificationScope": "官方名录或官方介绍中的地点；玩法为自助任务",
     "status": "published",
-    "recommendable": true
+    "recommendable": true,
+    "latitude": 31.299566,
+    "longitude": 121.458328,
+    "coordinateSystem": "gcj02",
+    "coordinateSourceUrl": "https://ditu.amap.com/ssr/coordinate-picker",
+    "coordinateCheckedAt": "2026-10-23",
+    "coordinateRevision": 20261023,
+    "coordinateNote": "高德坐标拾取；匹配地点：市北绿地；匹配地址：江阳路寿阳路口；实际入口以现场指引为准"
   },
   {
     "id": "dir-c6d874dfcc81c0b2-v2-outdoors",
@@ -19831,7 +21448,14 @@
     "verifiedAt": "2026-10-19",
     "verificationScope": "官方名录或官方介绍中的地点；玩法为自助任务",
     "status": "published",
-    "recommendable": true
+    "recommendable": true,
+    "latitude": 31.299566,
+    "longitude": 121.458328,
+    "coordinateSystem": "gcj02",
+    "coordinateSourceUrl": "https://ditu.amap.com/ssr/coordinate-picker",
+    "coordinateCheckedAt": "2026-10-23",
+    "coordinateRevision": 20261023,
+    "coordinateNote": "高德坐标拾取；匹配地点：市北绿地；匹配地址：江阳路寿阳路口；实际入口以现场指引为准"
   },
   {
     "id": "dir-c6f8d82985959fe6-v2-arts",
@@ -19955,7 +21579,14 @@
     "verifiedAt": "2026-10-19",
     "verificationScope": "官方名录或官方介绍中的地点；玩法为自助任务",
     "status": "published",
-    "recommendable": true
+    "recommendable": true,
+    "latitude": 31.176658,
+    "longitude": 121.449023,
+    "coordinateSystem": "gcj02",
+    "coordinateSourceUrl": "https://ditu.amap.com/ssr/coordinate-picker",
+    "coordinateCheckedAt": "2026-10-23",
+    "coordinateRevision": 20261023,
+    "coordinateNote": "高德坐标拾取；匹配地点：上海市龙华烈士纪念馆；匹配地址：龙华西路180号；实际入口以现场指引为准"
   },
   {
     "id": "dir-c8844b386bc7ee23-v2-arts",
@@ -19994,7 +21625,14 @@
     "verifiedAt": "2026-10-19",
     "verificationScope": "官方名录或官方介绍中的地点；玩法为自助任务",
     "status": "published",
-    "recommendable": true
+    "recommendable": true,
+    "latitude": 31.204502,
+    "longitude": 121.452796,
+    "coordinateSystem": "gcj02",
+    "coordinateSourceUrl": "https://ditu.amap.com/ssr/coordinate-picker",
+    "coordinateCheckedAt": "2026-10-23",
+    "coordinateRevision": 20261023,
+    "coordinateNote": "高德坐标拾取；匹配地点：上海中国画院美术馆；匹配地址：岳阳路197号；实际入口以现场指引为准"
   },
   {
     "id": "dir-c898af120654c412-v2-arts",
@@ -20033,7 +21671,14 @@
     "verifiedAt": "2026-10-19",
     "verificationScope": "官方名录或官方介绍中的地点；玩法为自助任务",
     "status": "published",
-    "recommendable": true
+    "recommendable": true,
+    "latitude": 31.32202,
+    "longitude": 121.403514,
+    "coordinateSystem": "gcj02",
+    "coordinateSourceUrl": "https://ditu.amap.com/ssr/coordinate-picker",
+    "coordinateCheckedAt": "2026-10-23",
+    "coordinateRevision": 20261023,
+    "coordinateNote": "高德坐标拾取；匹配地点：上海百诺巧克力博物馆；匹配地址：大场镇锦秋路117号(南陈路地铁站1号口步行440米)；实际入口以现场指引为准"
   },
   {
     "id": "dir-c8a735a1d7f0d997-v2-healing",
@@ -20190,7 +21835,14 @@
     "verifiedAt": "2026-10-19",
     "verificationScope": "官方名录或官方介绍中的地点；玩法为自助任务",
     "status": "published",
-    "recommendable": true
+    "recommendable": true,
+    "latitude": 31.228392,
+    "longitude": 121.535278,
+    "coordinateSystem": "gcj02",
+    "coordinateSourceUrl": "https://ditu.amap.com/ssr/coordinate-picker",
+    "coordinateCheckedAt": "2026-10-23",
+    "coordinateRevision": 20261023,
+    "coordinateNote": "高德坐标拾取；匹配地点：上海王狮美术馆；匹配地址：潍坊路328号B1层；实际入口以现场指引为准"
   },
   {
     "id": "dir-c99d6ea4babc160a-v2-arts",
@@ -20229,7 +21881,14 @@
     "verifiedAt": "2026-10-19",
     "verificationScope": "官方名录或官方介绍中的地点；玩法为自助任务",
     "status": "published",
-    "recommendable": true
+    "recommendable": true,
+    "latitude": 31.193284,
+    "longitude": 121.481237,
+    "coordinateSystem": "gcj02",
+    "coordinateSourceUrl": "https://ditu.amap.com/ssr/coordinate-picker",
+    "coordinateCheckedAt": "2026-10-23",
+    "coordinateRevision": 20261023,
+    "coordinateNote": "高德坐标拾取；匹配地点：国际乒联博物馆；匹配地址：局门路796号；实际入口以现场指引为准"
   },
   {
     "id": "dir-c9e3bce3517d6fe0-v2-healing",
@@ -20268,7 +21927,14 @@
     "verifiedAt": "2026-10-19",
     "verificationScope": "官方名录或官方介绍中的地点；玩法为自助任务",
     "status": "published",
-    "recommendable": true
+    "recommendable": true,
+    "latitude": 31.323289,
+    "longitude": 121.519378,
+    "coordinateSystem": "gcj02",
+    "coordinateSourceUrl": "https://ditu.amap.com/ssr/coordinate-picker",
+    "coordinateCheckedAt": "2026-10-23",
+    "coordinateRevision": 20261023,
+    "coordinateNote": "高德坐标拾取；匹配地点：新江湾城生态走廊二期绿地；匹配地址：政悦路195号；实际入口以现场指引为准"
   },
   {
     "id": "dir-c9e3bce3517d6fe0-v2-outdoors",
@@ -20308,7 +21974,14 @@
     "verifiedAt": "2026-10-19",
     "verificationScope": "官方名录或官方介绍中的地点；玩法为自助任务",
     "status": "published",
-    "recommendable": true
+    "recommendable": true,
+    "latitude": 31.323289,
+    "longitude": 121.519378,
+    "coordinateSystem": "gcj02",
+    "coordinateSourceUrl": "https://ditu.amap.com/ssr/coordinate-picker",
+    "coordinateCheckedAt": "2026-10-23",
+    "coordinateRevision": 20261023,
+    "coordinateNote": "高德坐标拾取；匹配地点：新江湾城生态走廊二期绿地；匹配地址：政悦路195号；实际入口以现场指引为准"
   },
   {
     "id": "dir-c9eada70207b785b-v2-arts",
@@ -20347,7 +22020,14 @@
     "verifiedAt": "2026-10-19",
     "verificationScope": "官方名录或官方介绍中的地点；玩法为自助任务",
     "status": "published",
-    "recommendable": true
+    "recommendable": true,
+    "latitude": 30.864286,
+    "longitude": 121.677589,
+    "coordinateSystem": "gcj02",
+    "coordinateSourceUrl": "https://ditu.amap.com/ssr/coordinate-picker",
+    "coordinateCheckedAt": "2026-10-23",
+    "coordinateRevision": 20261023,
+    "coordinateNote": "高德坐标拾取；匹配地点：上海农垦博物馆；匹配地址：随塘河路1677号；实际入口以现场指引为准"
   },
   {
     "id": "dir-ca6041ca755d08c5-v2-arts",
@@ -20386,7 +22066,14 @@
     "verifiedAt": "2026-10-19",
     "verificationScope": "官方名录或官方介绍中的地点；玩法为自助任务",
     "status": "published",
-    "recommendable": true
+    "recommendable": true,
+    "latitude": 31.204495,
+    "longitude": 121.42837,
+    "coordinateSystem": "gcj02",
+    "coordinateSourceUrl": "https://ditu.amap.com/ssr/coordinate-picker",
+    "coordinateCheckedAt": "2026-10-23",
+    "coordinateRevision": 20261023,
+    "coordinateNote": "高德坐标拾取；匹配地点：上海正好美术馆；匹配地址：番禺路300弄7号B幢；实际入口以现场指引为准"
   },
   {
     "id": "dir-ca6041ca755d08c5-v2-night",
@@ -20425,7 +22112,14 @@
     "verifiedAt": "2026-10-19",
     "verificationScope": "官方名录或官方介绍中的地点；玩法为自助任务",
     "status": "published",
-    "recommendable": true
+    "recommendable": true,
+    "latitude": 31.204495,
+    "longitude": 121.42837,
+    "coordinateSystem": "gcj02",
+    "coordinateSourceUrl": "https://ditu.amap.com/ssr/coordinate-picker",
+    "coordinateCheckedAt": "2026-10-23",
+    "coordinateRevision": 20261023,
+    "coordinateNote": "高德坐标拾取；匹配地点：上海正好美术馆；匹配地址：番禺路300弄7号B幢；实际入口以现场指引为准"
   },
   {
     "id": "dir-ca8d001464bd182b-v2-arts",
@@ -20464,7 +22158,14 @@
     "verifiedAt": "2026-10-19",
     "verificationScope": "官方名录或官方介绍中的地点；玩法为自助任务",
     "status": "published",
-    "recommendable": true
+    "recommendable": true,
+    "latitude": 31.2528,
+    "longitude": 121.384883,
+    "coordinateSystem": "gcj02",
+    "coordinateSourceUrl": "https://ditu.amap.com/ssr/coordinate-picker",
+    "coordinateCheckedAt": "2026-10-23",
+    "coordinateRevision": 20261023,
+    "coordinateNote": "高德坐标拾取；匹配地点：刘海粟美术馆(分馆)；匹配地址：铜川路1869号(真光路地铁站2号口步行90米)；实际入口以现场指引为准"
   },
   {
     "id": "dir-ca9bc1b9a3806099-v2-healing",
@@ -20503,7 +22204,14 @@
     "verifiedAt": "2026-10-19",
     "verificationScope": "官方名录或官方介绍中的地点；玩法为自助任务",
     "status": "published",
-    "recommendable": true
+    "recommendable": true,
+    "latitude": 31.618358,
+    "longitude": 121.39414,
+    "coordinateSystem": "gcj02",
+    "coordinateSourceUrl": "https://ditu.amap.com/ssr/coordinate-picker",
+    "coordinateCheckedAt": "2026-10-23",
+    "coordinateRevision": 20261023,
+    "coordinateNote": "高德坐标拾取；匹配地点：南门广场；匹配地址：崇明南门路；实际入口以现场指引为准"
   },
   {
     "id": "dir-ca9bc1b9a3806099-v2-outdoors",
@@ -20543,7 +22251,14 @@
     "verifiedAt": "2026-10-19",
     "verificationScope": "官方名录或官方介绍中的地点；玩法为自助任务",
     "status": "published",
-    "recommendable": true
+    "recommendable": true,
+    "latitude": 31.618358,
+    "longitude": 121.39414,
+    "coordinateSystem": "gcj02",
+    "coordinateSourceUrl": "https://ditu.amap.com/ssr/coordinate-picker",
+    "coordinateCheckedAt": "2026-10-23",
+    "coordinateRevision": 20261023,
+    "coordinateNote": "高德坐标拾取；匹配地点：南门广场；匹配地址：崇明南门路；实际入口以现场指引为准"
   },
   {
     "id": "dir-cadc737d3d201a3a-v2-arts",
@@ -20621,7 +22336,14 @@
     "verifiedAt": "2026-10-19",
     "verificationScope": "官方名录或官方介绍中的地点；玩法为自助任务",
     "status": "published",
-    "recommendable": true
+    "recommendable": true,
+    "latitude": 31.23333,
+    "longitude": 121.4908,
+    "coordinateSystem": "gcj02",
+    "coordinateSourceUrl": "https://ditu.amap.com/ssr/coordinate-picker",
+    "coordinateCheckedAt": "2026-10-23",
+    "coordinateRevision": 20261023,
+    "coordinateNote": "高德坐标拾取；匹配地点：上海电信博物馆；匹配地址：延安东路34号；实际入口以现场指引为准"
   },
   {
     "id": "dir-cb811864ad247e56-v2-arts",
@@ -20660,7 +22382,14 @@
     "verifiedAt": "2026-10-19",
     "verificationScope": "官方名录或官方介绍中的地点；玩法为自助任务",
     "status": "published",
-    "recommendable": true
+    "recommendable": true,
+    "latitude": 30.81546,
+    "longitude": 121.511827,
+    "coordinateSystem": "gcj02",
+    "coordinateSourceUrl": "https://ditu.amap.com/ssr/coordinate-picker",
+    "coordinateCheckedAt": "2026-10-23",
+    "coordinateRevision": 20261023,
+    "coordinateNote": "高德坐标拾取；匹配地点：上海知青博物馆；匹配地址：海乐路200号；实际入口以现场指引为准"
   },
   {
     "id": "dir-cc4ca9c1067363e1-v2-healing",
@@ -21054,7 +22783,14 @@
     "verifiedAt": "2026-10-19",
     "verificationScope": "官方名录或官方介绍中的地点；玩法为自助任务",
     "status": "published",
-    "recommendable": true
+    "recommendable": true,
+    "latitude": 31.187238,
+    "longitude": 121.624076,
+    "coordinateSystem": "gcj02",
+    "coordinateSourceUrl": "https://ditu.amap.com/ssr/coordinate-picker",
+    "coordinateCheckedAt": "2026-10-23",
+    "coordinateRevision": 20261023,
+    "coordinateNote": "高德坐标拾取；匹配地点：张江红叶公园；匹配地址：中科路与申江路交叉口东80米；实际入口以现场指引为准"
   },
   {
     "id": "dir-ce257ced7042383c-v2-outdoors",
@@ -21094,7 +22830,14 @@
     "verifiedAt": "2026-10-19",
     "verificationScope": "官方名录或官方介绍中的地点；玩法为自助任务",
     "status": "published",
-    "recommendable": true
+    "recommendable": true,
+    "latitude": 31.187238,
+    "longitude": 121.624076,
+    "coordinateSystem": "gcj02",
+    "coordinateSourceUrl": "https://ditu.amap.com/ssr/coordinate-picker",
+    "coordinateCheckedAt": "2026-10-23",
+    "coordinateRevision": 20261023,
+    "coordinateNote": "高德坐标拾取；匹配地点：张江红叶公园；匹配地址：中科路与申江路交叉口东80米；实际入口以现场指引为准"
   },
   {
     "id": "dir-ce57ac46c1618580-v2-arts",
@@ -21133,7 +22876,14 @@
     "verifiedAt": "2026-10-19",
     "verificationScope": "官方名录或官方介绍中的地点；玩法为自助任务",
     "status": "published",
-    "recommendable": true
+    "recommendable": true,
+    "latitude": 31.214363,
+    "longitude": 121.453649,
+    "coordinateSystem": "gcj02",
+    "coordinateSourceUrl": "https://ditu.amap.com/ssr/coordinate-picker",
+    "coordinateCheckedAt": "2026-10-23",
+    "coordinateRevision": 20261023,
+    "coordinateNote": "高德坐标拾取；匹配地点：上海音乐学院东方乐器博物馆；匹配地址：淮海中路1189号；实际入口以现场指引为准"
   },
   {
     "id": "dir-cff21e486bda32ca-v2-arts",
@@ -21218,7 +22968,14 @@
     "verifiedAt": "2026-10-19",
     "verificationScope": "官方名录或官方介绍中的地点；玩法为自助任务",
     "status": "published",
-    "recommendable": true
+    "recommendable": true,
+    "latitude": 31.227714,
+    "longitude": 121.492497,
+    "coordinateSystem": "gcj02",
+    "coordinateSourceUrl": "https://ditu.amap.com/ssr/coordinate-picker",
+    "coordinateCheckedAt": "2026-10-23",
+    "coordinateRevision": 20261023,
+    "coordinateNote": "高德坐标拾取；匹配地点：上海豫园；匹配地址：福佑路168号；实际入口以现场指引为准"
   },
   {
     "id": "dir-d16006e9537a6755-v2-arts",
@@ -21257,7 +23014,14 @@
     "verifiedAt": "2026-10-19",
     "verificationScope": "官方名录或官方介绍中的地点；玩法为自助任务",
     "status": "published",
-    "recommendable": true
+    "recommendable": true,
+    "latitude": 31.214504,
+    "longitude": 121.384445,
+    "coordinateSystem": "gcj02",
+    "coordinateSourceUrl": "https://ditu.amap.com/ssr/coordinate-picker",
+    "coordinateCheckedAt": "2026-10-23",
+    "coordinateRevision": 20261023,
+    "coordinateNote": "高德坐标拾取；匹配地点：上海长宁王小慧艺术馆；匹配地址：威宁路369号(威宁路地铁站3号口步行230米)；实际入口以现场指引为准"
   },
   {
     "id": "dir-d179242feecd8090-v2-arts",
@@ -21342,7 +23106,14 @@
     "verifiedAt": "2026-10-19",
     "verificationScope": "官方名录或官方介绍中的地点；玩法为自助任务",
     "status": "published",
-    "recommendable": true
+    "recommendable": true,
+    "latitude": 30.741793,
+    "longitude": 121.348717,
+    "coordinateSystem": "gcj02",
+    "coordinateSourceUrl": "https://ditu.amap.com/ssr/coordinate-picker",
+    "coordinateCheckedAt": "2026-10-23",
+    "coordinateRevision": 20261023,
+    "coordinateNote": "高德坐标拾取；匹配地点：龙泉港公园；匹配地址：杭州湾大道金山大道路口；实际入口以现场指引为准"
   },
   {
     "id": "dir-d193121e393a0fd9-v2-outdoors",
@@ -21382,7 +23153,14 @@
     "verifiedAt": "2026-10-19",
     "verificationScope": "官方名录或官方介绍中的地点；玩法为自助任务",
     "status": "published",
-    "recommendable": true
+    "recommendable": true,
+    "latitude": 30.741793,
+    "longitude": 121.348717,
+    "coordinateSystem": "gcj02",
+    "coordinateSourceUrl": "https://ditu.amap.com/ssr/coordinate-picker",
+    "coordinateCheckedAt": "2026-10-23",
+    "coordinateRevision": 20261023,
+    "coordinateNote": "高德坐标拾取；匹配地点：龙泉港公园；匹配地址：杭州湾大道金山大道路口；实际入口以现场指引为准"
   },
   {
     "id": "dir-d1b4094b8894a467-v2-arts",
@@ -21421,7 +23199,14 @@
     "verifiedAt": "2026-10-19",
     "verificationScope": "官方名录或官方介绍中的地点；玩法为自助任务",
     "status": "published",
-    "recommendable": true
+    "recommendable": true,
+    "latitude": 31.000421,
+    "longitude": 121.231395,
+    "coordinateSystem": "gcj02",
+    "coordinateSourceUrl": "https://ditu.amap.com/ssr/coordinate-picker",
+    "coordinateCheckedAt": "2026-10-23",
+    "coordinateRevision": 20261023,
+    "coordinateNote": "高德坐标拾取；匹配地点：云间会堂文化艺术中心；匹配地址：松江区人民南路6弄69号(醉白池地铁站2号口步行130米)；实际入口以现场指引为准"
   },
   {
     "id": "dir-d2353964199d903a-v2-thrill",
@@ -21460,7 +23245,14 @@
     "verifiedAt": "2026-10-19",
     "verificationScope": "官方名录或官方介绍中的地点；玩法为自助任务",
     "status": "published",
-    "recommendable": true
+    "recommendable": true,
+    "latitude": 31.177477,
+    "longitude": 121.783294,
+    "coordinateSystem": "gcj02",
+    "coordinateSourceUrl": "https://ditu.amap.com/ssr/coordinate-picker",
+    "coordinateCheckedAt": "2026-10-23",
+    "coordinateRevision": 20261023,
+    "coordinateNote": "高德坐标拾取；匹配地点：上海东方地质博物馆；匹配地址：江镇路100号；实际入口以现场指引为准"
   },
   {
     "id": "dir-d25c92ce57cf9ff5-v2-arts",
@@ -21499,7 +23291,14 @@
     "verifiedAt": "2026-10-19",
     "verificationScope": "官方名录或官方介绍中的地点；玩法为自助任务",
     "status": "published",
-    "recommendable": true
+    "recommendable": true,
+    "latitude": 31.260081,
+    "longitude": 121.472707,
+    "coordinateSystem": "gcj02",
+    "coordinateSourceUrl": "https://ditu.amap.com/ssr/coordinate-picker",
+    "coordinateCheckedAt": "2026-10-23",
+    "coordinateRevision": 20261023,
+    "coordinateNote": "高德坐标拾取；匹配地点：上海眼镜博物馆；匹配地址：宝昌路533号；实际入口以现场指引为准"
   },
   {
     "id": "dir-d287f9604531d27d-v2-arts",
@@ -21538,7 +23337,14 @@
     "verifiedAt": "2026-10-19",
     "verificationScope": "官方名录或官方介绍中的地点；玩法为自助任务",
     "status": "published",
-    "recommendable": true
+    "recommendable": true,
+    "latitude": 31.261175,
+    "longitude": 121.564075,
+    "coordinateSystem": "gcj02",
+    "coordinateSourceUrl": "https://ditu.amap.com/ssr/coordinate-picker",
+    "coordinateCheckedAt": "2026-10-23",
+    "coordinateRevision": 20261023,
+    "coordinateNote": "高德坐标拾取；匹配地点：上海双拥工作展览馆；匹配地址：浦东大道2601号上海双拥大厦；实际入口以现场指引为准"
   },
   {
     "id": "dir-d344b3d965108d93-v2-arts",
@@ -21577,7 +23383,14 @@
     "verifiedAt": "2026-10-19",
     "verificationScope": "官方名录或官方介绍中的地点；玩法为自助任务",
     "status": "published",
-    "recommendable": true
+    "recommendable": true,
+    "latitude": 31.195094,
+    "longitude": 121.70507,
+    "coordinateSystem": "gcj02",
+    "coordinateSourceUrl": "https://ditu.amap.com/ssr/coordinate-picker",
+    "coordinateCheckedAt": "2026-10-23",
+    "coordinateRevision": 20261023,
+    "coordinateNote": "高德坐标拾取；匹配地点：黄炎培故居；匹配地址：新川路218号；实际入口以现场指引为准"
   },
   {
     "id": "dir-d3ccae63bdb6f49b-v2-arts",
@@ -21616,7 +23429,14 @@
     "verifiedAt": "2026-10-19",
     "verificationScope": "官方名录或官方介绍中的地点；玩法为自助任务",
     "status": "published",
-    "recommendable": true
+    "recommendable": true,
+    "latitude": 31.386582,
+    "longitude": 121.251932,
+    "coordinateSystem": "gcj02",
+    "coordinateSourceUrl": "https://ditu.amap.com/ssr/coordinate-picker",
+    "coordinateCheckedAt": "2026-10-23",
+    "coordinateRevision": 20261023,
+    "coordinateNote": "高德坐标拾取；匹配地点：嘉定博物馆；匹配地址：博乐路215号；实际入口以现场指引为准"
   },
   {
     "id": "dir-d4e16376f972f14b-v2-arts",
@@ -21773,7 +23593,14 @@
     "verifiedAt": "2026-10-19",
     "verificationScope": "官方名录或官方介绍中的地点；玩法为自助任务",
     "status": "published",
-    "recommendable": true
+    "recommendable": true,
+    "latitude": 31.238651,
+    "longitude": 121.627576,
+    "coordinateSystem": "gcj02",
+    "coordinateSourceUrl": "https://ditu.amap.com/ssr/coordinate-picker",
+    "coordinateCheckedAt": "2026-10-23",
+    "coordinateRevision": 20261023,
+    "coordinateNote": "高德坐标拾取；匹配地点：金葵绿地；匹配地址：金桥镇金葵路960号绿地园林；实际入口以现场指引为准"
   },
   {
     "id": "dir-d60479d4e5ba9966-v2-outdoors",
@@ -21812,7 +23639,14 @@
     "verifiedAt": "2026-10-19",
     "verificationScope": "官方名录或官方介绍中的地点；玩法为自助任务",
     "status": "published",
-    "recommendable": true
+    "recommendable": true,
+    "latitude": 31.238651,
+    "longitude": 121.627576,
+    "coordinateSystem": "gcj02",
+    "coordinateSourceUrl": "https://ditu.amap.com/ssr/coordinate-picker",
+    "coordinateCheckedAt": "2026-10-23",
+    "coordinateRevision": 20261023,
+    "coordinateNote": "高德坐标拾取；匹配地点：金葵绿地；匹配地址：金桥镇金葵路960号绿地园林；实际入口以现场指引为准"
   },
   {
     "id": "dir-d69631dbe082c79e-v2-healing",
@@ -21851,7 +23685,14 @@
     "verifiedAt": "2026-10-19",
     "verificationScope": "官方名录或官方介绍中的地点；玩法为自助任务",
     "status": "published",
-    "recommendable": true
+    "recommendable": true,
+    "latitude": 31.290331,
+    "longitude": 121.43251,
+    "coordinateSystem": "gcj02",
+    "coordinateSourceUrl": "https://ditu.amap.com/ssr/coordinate-picker",
+    "coordinateCheckedAt": "2026-10-23",
+    "coordinateRevision": 20261023,
+    "coordinateNote": "高德坐标拾取；匹配地点：永和公园；匹配地址：原平路702号；实际入口以现场指引为准"
   },
   {
     "id": "dir-d69631dbe082c79e-v2-outdoors",
@@ -21891,7 +23732,14 @@
     "verifiedAt": "2026-10-19",
     "verificationScope": "官方名录或官方介绍中的地点；玩法为自助任务",
     "status": "published",
-    "recommendable": true
+    "recommendable": true,
+    "latitude": 31.290331,
+    "longitude": 121.43251,
+    "coordinateSystem": "gcj02",
+    "coordinateSourceUrl": "https://ditu.amap.com/ssr/coordinate-picker",
+    "coordinateCheckedAt": "2026-10-23",
+    "coordinateRevision": 20261023,
+    "coordinateNote": "高德坐标拾取；匹配地点：永和公园；匹配地址：原平路702号；实际入口以现场指引为准"
   },
   {
     "id": "dir-d6dd249714c552c4-v2-arts",
@@ -22173,7 +24021,14 @@
     "verifiedAt": "2026-10-19",
     "verificationScope": "官方名录或官方介绍中的地点；玩法为自助任务",
     "status": "published",
-    "recommendable": true
+    "recommendable": true,
+    "latitude": 31.007227,
+    "longitude": 121.227625,
+    "coordinateSystem": "gcj02",
+    "coordinateSourceUrl": "https://ditu.amap.com/ssr/coordinate-picker",
+    "coordinateCheckedAt": "2026-10-23",
+    "coordinateRevision": 20261023,
+    "coordinateNote": "高德坐标拾取；匹配地点：程十发艺术馆；匹配地址：中山中路458号；实际入口以现场指引为准"
   },
   {
     "id": "dir-dcbaa564d8acc390-v2-healing",
@@ -22212,7 +24067,14 @@
     "verifiedAt": "2026-10-19",
     "verificationScope": "官方名录或官方介绍中的地点；玩法为自助任务",
     "status": "published",
-    "recommendable": true
+    "recommendable": true,
+    "latitude": 31.129236,
+    "longitude": 121.39768,
+    "coordinateSystem": "gcj02",
+    "coordinateSourceUrl": "https://ditu.amap.com/ssr/coordinate-picker",
+    "coordinateCheckedAt": "2026-10-23",
+    "coordinateRevision": 20261023,
+    "coordinateNote": "高德坐标拾取；匹配地点：梅陇南方公园；匹配地址：闵虹路与万源路交叉口西南240米；实际入口以现场指引为准"
   },
   {
     "id": "dir-dcbaa564d8acc390-v2-outdoors",
@@ -22252,7 +24114,14 @@
     "verifiedAt": "2026-10-19",
     "verificationScope": "官方名录或官方介绍中的地点；玩法为自助任务",
     "status": "published",
-    "recommendable": true
+    "recommendable": true,
+    "latitude": 31.129236,
+    "longitude": 121.39768,
+    "coordinateSystem": "gcj02",
+    "coordinateSourceUrl": "https://ditu.amap.com/ssr/coordinate-picker",
+    "coordinateCheckedAt": "2026-10-23",
+    "coordinateRevision": 20261023,
+    "coordinateNote": "高德坐标拾取；匹配地点：梅陇南方公园；匹配地址：闵虹路与万源路交叉口西南240米；实际入口以现场指引为准"
   },
   {
     "id": "dir-de0d70d6c4179b4c-v2-healing",
@@ -22449,7 +24318,14 @@
     "verifiedAt": "2026-10-19",
     "verificationScope": "官方名录或官方介绍中的地点；玩法为自助任务",
     "status": "published",
-    "recommendable": true
+    "recommendable": true,
+    "latitude": 31.255274,
+    "longitude": 121.451405,
+    "coordinateSystem": "gcj02",
+    "coordinateSourceUrl": "https://ditu.amap.com/ssr/coordinate-picker",
+    "coordinateCheckedAt": "2026-10-23",
+    "coordinateRevision": 20261023,
+    "coordinateNote": "高德坐标拾取；匹配地点：上海静安大风堂美术馆；匹配地址：恒丰北路100号林顿大厦26楼；实际入口以现场指引为准"
   },
   {
     "id": "dir-de626787e70b0e75-v2-arts",
@@ -22527,7 +24403,14 @@
     "verifiedAt": "2026-10-19",
     "verificationScope": "官方名录或官方介绍中的地点；玩法为自助任务",
     "status": "published",
-    "recommendable": true
+    "recommendable": true,
+    "latitude": 31.326717,
+    "longitude": 121.597762,
+    "coordinateSystem": "gcj02",
+    "coordinateSourceUrl": "https://ditu.amap.com/ssr/coordinate-picker",
+    "coordinateCheckedAt": "2026-10-23",
+    "coordinateRevision": 20261023,
+    "coordinateNote": "高德坐标拾取；匹配地点：绿洲公园；匹配地址：高行镇近兰谷路庭安路交叉口；实际入口以现场指引为准"
   },
   {
     "id": "dir-dfb399ba7d6139c7-v2-outdoors",
@@ -22567,7 +24450,14 @@
     "verifiedAt": "2026-10-19",
     "verificationScope": "官方名录或官方介绍中的地点；玩法为自助任务",
     "status": "published",
-    "recommendable": true
+    "recommendable": true,
+    "latitude": 31.326717,
+    "longitude": 121.597762,
+    "coordinateSystem": "gcj02",
+    "coordinateSourceUrl": "https://ditu.amap.com/ssr/coordinate-picker",
+    "coordinateCheckedAt": "2026-10-23",
+    "coordinateRevision": 20261023,
+    "coordinateNote": "高德坐标拾取；匹配地点：绿洲公园；匹配地址：高行镇近兰谷路庭安路交叉口；实际入口以现场指引为准"
   },
   {
     "id": "dir-e1fc9fa0bcf2cd99-v2-thrill",
@@ -22606,7 +24496,14 @@
     "verifiedAt": "2026-10-19",
     "verificationScope": "官方名录或官方介绍中的地点；玩法为自助任务",
     "status": "published",
-    "recommendable": true
+    "recommendable": true,
+    "latitude": 31.278709,
+    "longitude": 121.170248,
+    "coordinateSystem": "gcj02",
+    "coordinateSourceUrl": "https://ditu.amap.com/ssr/coordinate-picker",
+    "coordinateCheckedAt": "2026-10-23",
+    "coordinateRevision": 20261023,
+    "coordinateNote": "高德坐标拾取；匹配地点：上海汽车博物馆；匹配地址：博园路7565号；实际入口以现场指引为准"
   },
   {
     "id": "dir-e282feed801d34bb-v2-healing",
@@ -22724,7 +24621,14 @@
     "verifiedAt": "2026-10-19",
     "verificationScope": "官方名录或官方介绍中的地点；玩法为自助任务",
     "status": "published",
-    "recommendable": true
+    "recommendable": true,
+    "latitude": 31.258552,
+    "longitude": 121.487422,
+    "coordinateSystem": "gcj02",
+    "coordinateSourceUrl": "https://ditu.amap.com/ssr/coordinate-picker",
+    "coordinateCheckedAt": "2026-10-23",
+    "coordinateRevision": 20261023,
+    "coordinateNote": "高德坐标拾取；匹配地点：沈尹默故居；匹配地址：海伦路504号(海伦路地铁站5号口步行210米)；实际入口以现场指引为准"
   },
   {
     "id": "dir-e328298ffd50541d-v2-thrill",
@@ -22763,7 +24667,14 @@
     "verifiedAt": "2026-10-19",
     "verificationScope": "官方名录或官方介绍中的地点；玩法为自助任务",
     "status": "published",
-    "recommendable": true
+    "recommendable": true,
+    "latitude": 31.190156,
+    "longitude": 121.436219,
+    "coordinateSystem": "gcj02",
+    "coordinateSourceUrl": "https://ditu.amap.com/ssr/coordinate-picker",
+    "coordinateCheckedAt": "2026-10-23",
+    "coordinateRevision": 20261023,
+    "coordinateNote": "高德坐标拾取；匹配地点：上海气象博物馆；匹配地址：蒲西路166号(徐家汇地铁站出入口步行150米)；实际入口以现场指引为准"
   },
   {
     "id": "dir-e3a173231921dce9-v2-healing",
@@ -23038,7 +24949,14 @@
     "verifiedAt": "2026-10-19",
     "verificationScope": "官方名录或官方介绍中的地点；玩法为自助任务",
     "status": "published",
-    "recommendable": true
+    "recommendable": true,
+    "latitude": 31.002028,
+    "longitude": 121.231287,
+    "coordinateSystem": "gcj02",
+    "coordinateSourceUrl": "https://ditu.amap.com/ssr/coordinate-picker",
+    "coordinateCheckedAt": "2026-10-23",
+    "coordinateRevision": 20261023,
+    "coordinateNote": "高德坐标拾取；匹配地点：董其昌书画艺术博物馆；匹配地址：人民南路64号(醉白池公园内)；实际入口以现场指引为准"
   },
   {
     "id": "dir-e5a998582a14775b-v2-healing",
@@ -23077,7 +24995,14 @@
     "verifiedAt": "2026-10-19",
     "verificationScope": "官方名录或官方介绍中的地点；玩法为自助任务",
     "status": "published",
-    "recommendable": true
+    "recommendable": true,
+    "latitude": 30.920458,
+    "longitude": 121.486025,
+    "coordinateSystem": "gcj02",
+    "coordinateSourceUrl": "https://ditu.amap.com/ssr/coordinate-picker",
+    "coordinateCheckedAt": "2026-10-23",
+    "coordinateRevision": 20261023,
+    "coordinateNote": "高德坐标拾取；匹配地点：和合社区公园；匹配地址：解放东路与德政路交叉口东北角；实际入口以现场指引为准"
   },
   {
     "id": "dir-e5a998582a14775b-v2-outdoors",
@@ -23116,7 +25041,14 @@
     "verifiedAt": "2026-10-19",
     "verificationScope": "官方名录或官方介绍中的地点；玩法为自助任务",
     "status": "published",
-    "recommendable": true
+    "recommendable": true,
+    "latitude": 30.920458,
+    "longitude": 121.486025,
+    "coordinateSystem": "gcj02",
+    "coordinateSourceUrl": "https://ditu.amap.com/ssr/coordinate-picker",
+    "coordinateCheckedAt": "2026-10-23",
+    "coordinateRevision": 20261023,
+    "coordinateNote": "高德坐标拾取；匹配地点：和合社区公园；匹配地址：解放东路与德政路交叉口东北角；实际入口以现场指引为准"
   },
   {
     "id": "dir-e61e4d2628e38b17-v2-healing",
@@ -23155,7 +25087,14 @@
     "verifiedAt": "2026-10-19",
     "verificationScope": "官方名录或官方介绍中的地点；玩法为自助任务",
     "status": "published",
-    "recommendable": true
+    "recommendable": true,
+    "latitude": 31.151724,
+    "longitude": 121.103043,
+    "coordinateSystem": "gcj02",
+    "coordinateSourceUrl": "https://ditu.amap.com/ssr/coordinate-picker",
+    "coordinateCheckedAt": "2026-10-23",
+    "coordinateRevision": 20261023,
+    "coordinateNote": "高德坐标拾取；匹配地点：七彩公园；匹配地址：青赵公路与漕稼一路交叉口东60米；实际入口以现场指引为准"
   },
   {
     "id": "dir-e61e4d2628e38b17-v2-outdoors",
@@ -23194,7 +25133,14 @@
     "verifiedAt": "2026-10-19",
     "verificationScope": "官方名录或官方介绍中的地点；玩法为自助任务",
     "status": "published",
-    "recommendable": true
+    "recommendable": true,
+    "latitude": 31.151724,
+    "longitude": 121.103043,
+    "coordinateSystem": "gcj02",
+    "coordinateSourceUrl": "https://ditu.amap.com/ssr/coordinate-picker",
+    "coordinateCheckedAt": "2026-10-23",
+    "coordinateRevision": 20261023,
+    "coordinateNote": "高德坐标拾取；匹配地点：七彩公园；匹配地址：青赵公路与漕稼一路交叉口东60米；实际入口以现场指引为准"
   },
   {
     "id": "dir-e6e960b81c16db4a-v2-arts",
@@ -23272,7 +25218,14 @@
     "verifiedAt": "2026-10-19",
     "verificationScope": "官方名录或官方介绍中的地点；玩法为自助任务",
     "status": "published",
-    "recommendable": true
+    "recommendable": true,
+    "latitude": 31.309879,
+    "longitude": 121.412129,
+    "coordinateSystem": "gcj02",
+    "coordinateSourceUrl": "https://ditu.amap.com/ssr/coordinate-picker",
+    "coordinateCheckedAt": "2026-10-23",
+    "coordinateRevision": 20261023,
+    "coordinateNote": "高德坐标拾取；匹配地点：上海木文化博物馆；匹配地址：沪太路2751号；实际入口以现场指引为准"
   },
   {
     "id": "dir-e7247b86efdad969-v2-healing",
@@ -23311,7 +25264,14 @@
     "verifiedAt": "2026-10-19",
     "verificationScope": "官方名录或官方介绍中的地点；玩法为自助任务",
     "status": "published",
-    "recommendable": true
+    "recommendable": true,
+    "latitude": 30.748489,
+    "longitude": 121.323352,
+    "coordinateSystem": "gcj02",
+    "coordinateSourceUrl": "https://ditu.amap.com/ssr/coordinate-picker",
+    "coordinateCheckedAt": "2026-10-23",
+    "coordinateRevision": 20261023,
+    "coordinateNote": "高德坐标拾取；匹配地点：仓河绿地；匹配地址：龙皓路1573号；实际入口以现场指引为准"
   },
   {
     "id": "dir-e7247b86efdad969-v2-outdoors",
@@ -23351,7 +25311,14 @@
     "verifiedAt": "2026-10-19",
     "verificationScope": "官方名录或官方介绍中的地点；玩法为自助任务",
     "status": "published",
-    "recommendable": true
+    "recommendable": true,
+    "latitude": 30.748489,
+    "longitude": 121.323352,
+    "coordinateSystem": "gcj02",
+    "coordinateSourceUrl": "https://ditu.amap.com/ssr/coordinate-picker",
+    "coordinateCheckedAt": "2026-10-23",
+    "coordinateRevision": 20261023,
+    "coordinateNote": "高德坐标拾取；匹配地点：仓河绿地；匹配地址：龙皓路1573号；实际入口以现场指引为准"
   },
   {
     "id": "dir-e86978705549c252-v2-healing",
@@ -23586,7 +25553,14 @@
     "verifiedAt": "2026-10-19",
     "verificationScope": "官方名录或官方介绍中的地点；玩法为自助任务",
     "status": "published",
-    "recommendable": true
+    "recommendable": true,
+    "latitude": 31.170048,
+    "longitude": 121.406938,
+    "coordinateSystem": "gcj02",
+    "coordinateSourceUrl": "https://ditu.amap.com/ssr/coordinate-picker",
+    "coordinateCheckedAt": "2026-10-23",
+    "coordinateRevision": 20261023,
+    "coordinateNote": "高德坐标拾取；匹配地点：上海无线电博物馆；匹配地址：田林路200号B幢1层；实际入口以现场指引为准"
   },
   {
     "id": "dir-ea9952eb878ddc48-v2-arts",
@@ -23625,7 +25599,14 @@
     "verifiedAt": "2026-10-19",
     "verificationScope": "官方名录或官方介绍中的地点；玩法为自助任务",
     "status": "published",
-    "recommendable": true
+    "recommendable": true,
+    "latitude": 31.21266,
+    "longitude": 121.611653,
+    "coordinateSystem": "gcj02",
+    "coordinateSourceUrl": "https://ditu.amap.com/ssr/coordinate-picker",
+    "coordinateCheckedAt": "2026-10-23",
+    "coordinateRevision": 20261023,
+    "coordinateNote": "高德坐标拾取；匹配地点：上海动漫博物馆；匹配地址：张江路69号；实际入口以现场指引为准"
   },
   {
     "id": "dir-ed4f5529f766f20d-v2-arts",
@@ -23664,7 +25645,14 @@
     "verifiedAt": "2026-10-19",
     "verificationScope": "官方名录或官方介绍中的地点；玩法为自助任务",
     "status": "published",
-    "recommendable": true
+    "recommendable": true,
+    "latitude": 31.300976,
+    "longitude": 121.164943,
+    "coordinateSystem": "gcj02",
+    "coordinateSourceUrl": "https://ditu.amap.com/ssr/coordinate-picker",
+    "coordinateCheckedAt": "2026-10-23",
+    "coordinateRevision": 20261023,
+    "coordinateNote": "高德坐标拾取；匹配地点：上海大来时间博物馆；匹配地址：和静路981号；实际入口以现场指引为准"
   },
   {
     "id": "dir-ed8c540e208e4a91-v2-healing",
@@ -23781,7 +25769,14 @@
     "verifiedAt": "2026-10-19",
     "verificationScope": "官方名录或官方介绍中的地点；玩法为自助任务",
     "status": "published",
-    "recommendable": true
+    "recommendable": true,
+    "latitude": 31.148126,
+    "longitude": 121.476909,
+    "coordinateSystem": "gcj02",
+    "coordinateSourceUrl": "https://ditu.amap.com/ssr/coordinate-picker",
+    "coordinateCheckedAt": "2026-10-23",
+    "coordinateRevision": 20261023,
+    "coordinateNote": "高德坐标拾取；匹配地点：前滩小黄浦江公园；匹配地址：春眺路245号；实际入口以现场指引为准"
   },
   {
     "id": "dir-ee40ab338f87e48b-v2-outdoors",
@@ -23821,7 +25816,14 @@
     "verifiedAt": "2026-10-19",
     "verificationScope": "官方名录或官方介绍中的地点；玩法为自助任务",
     "status": "published",
-    "recommendable": true
+    "recommendable": true,
+    "latitude": 31.148126,
+    "longitude": 121.476909,
+    "coordinateSystem": "gcj02",
+    "coordinateSourceUrl": "https://ditu.amap.com/ssr/coordinate-picker",
+    "coordinateCheckedAt": "2026-10-23",
+    "coordinateRevision": 20261023,
+    "coordinateNote": "高德坐标拾取；匹配地点：前滩小黄浦江公园；匹配地址：春眺路245号；实际入口以现场指引为准"
   },
   {
     "id": "dir-ef091e587e88a4e0-v2-arts",
@@ -23860,7 +25862,14 @@
     "verifiedAt": "2026-10-19",
     "verificationScope": "官方名录或官方介绍中的地点；玩法为自助任务",
     "status": "published",
-    "recommendable": true
+    "recommendable": true,
+    "latitude": 31.190801,
+    "longitude": 121.388532,
+    "coordinateSystem": "gcj02",
+    "coordinateSourceUrl": "https://ditu.amap.com/ssr/coordinate-picker",
+    "coordinateCheckedAt": "2026-10-23",
+    "coordinateRevision": 20261023,
+    "coordinateNote": "高德坐标拾取；匹配地点：上海翰林匾额博物馆；匹配地址：虹许路731号8号楼1层；实际入口以现场指引为准"
   },
   {
     "id": "dir-ef982ed2d7be35be-v2-arts",
@@ -23899,7 +25908,14 @@
     "verifiedAt": "2026-10-19",
     "verificationScope": "官方名录或官方介绍中的地点；玩法为自助任务",
     "status": "published",
-    "recommendable": true
+    "recommendable": true,
+    "latitude": 31.207795,
+    "longitude": 121.470292,
+    "coordinateSystem": "gcj02",
+    "coordinateSourceUrl": "https://ditu.amap.com/ssr/coordinate-picker",
+    "coordinateCheckedAt": "2026-10-23",
+    "coordinateRevision": 20261023,
+    "coordinateNote": "高德坐标拾取；匹配地点：上海琉璃艺术博物馆；匹配地址：泰康路25号；实际入口以现场指引为准"
   },
   {
     "id": "dir-f096e2a4a312cd7f-v2-arts",
@@ -24056,7 +26072,14 @@
     "verifiedAt": "2026-10-19",
     "verificationScope": "官方名录或官方介绍中的地点；玩法为自助任务",
     "status": "published",
-    "recommendable": true
+    "recommendable": true,
+    "latitude": 31.190174,
+    "longitude": 121.519382,
+    "coordinateSystem": "gcj02",
+    "coordinateSourceUrl": "https://ditu.amap.com/ssr/coordinate-picker",
+    "coordinateCheckedAt": "2026-10-23",
+    "coordinateRevision": 20261023,
+    "coordinateNote": "高德坐标拾取；匹配地点：吟风公园；匹配地址：齐恒路19号(杨高南路地铁站4号口步行490米)；实际入口以现场指引为准"
   },
   {
     "id": "dir-f353a81a0c922ec4-v2-outdoors",
@@ -24096,7 +26119,14 @@
     "verifiedAt": "2026-10-19",
     "verificationScope": "官方名录或官方介绍中的地点；玩法为自助任务",
     "status": "published",
-    "recommendable": true
+    "recommendable": true,
+    "latitude": 31.190174,
+    "longitude": 121.519382,
+    "coordinateSystem": "gcj02",
+    "coordinateSourceUrl": "https://ditu.amap.com/ssr/coordinate-picker",
+    "coordinateCheckedAt": "2026-10-23",
+    "coordinateRevision": 20261023,
+    "coordinateNote": "高德坐标拾取；匹配地点：吟风公园；匹配地址：齐恒路19号(杨高南路地铁站4号口步行490米)；实际入口以现场指引为准"
   },
   {
     "id": "dir-f36cb02e87015c72-v2-healing",
@@ -24493,7 +26523,14 @@
     "verifiedAt": "2026-10-19",
     "verificationScope": "官方名录或官方介绍中的地点；玩法为自助任务",
     "status": "published",
-    "recommendable": true
+    "recommendable": true,
+    "latitude": 31.134477,
+    "longitude": 121.418598,
+    "coordinateSystem": "gcj02",
+    "coordinateSourceUrl": "https://ditu.amap.com/ssr/coordinate-picker",
+    "coordinateCheckedAt": "2026-10-23",
+    "coordinateRevision": 20261023,
+    "coordinateNote": "高德坐标拾取；匹配地点：嘉川路小游园；匹配地址：凌云路283号；实际入口以现场指引为准"
   },
   {
     "id": "dir-f90573fe696bd8e3-v2-outdoors",
@@ -24533,7 +26570,14 @@
     "verifiedAt": "2026-10-19",
     "verificationScope": "官方名录或官方介绍中的地点；玩法为自助任务",
     "status": "published",
-    "recommendable": true
+    "recommendable": true,
+    "latitude": 31.134477,
+    "longitude": 121.418598,
+    "coordinateSystem": "gcj02",
+    "coordinateSourceUrl": "https://ditu.amap.com/ssr/coordinate-picker",
+    "coordinateCheckedAt": "2026-10-23",
+    "coordinateRevision": 20261023,
+    "coordinateNote": "高德坐标拾取；匹配地点：嘉川路小游园；匹配地址：凌云路283号；实际入口以现场指引为准"
   },
   {
     "id": "dir-f91e33d13268480c-v2-arts",
@@ -24572,7 +26616,14 @@
     "verifiedAt": "2026-10-19",
     "verificationScope": "官方名录或官方介绍中的地点；玩法为自助任务",
     "status": "published",
-    "recommendable": true
+    "recommendable": true,
+    "latitude": 31.228361,
+    "longitude": 121.49279,
+    "coordinateSystem": "gcj02",
+    "coordinateSourceUrl": "https://ditu.amap.com/ssr/coordinate-picker",
+    "coordinateCheckedAt": "2026-10-23",
+    "coordinateRevision": 20261023,
+    "coordinateNote": "高德坐标拾取；匹配地点：胡问遂艺术馆；匹配地址：福佑路199号(豫园地铁站7号口步行320米)；实际入口以现场指引为准"
   },
   {
     "id": "dir-fa31c9d52c13bac3-v2-healing",
@@ -24736,7 +26787,14 @@
     "verifiedAt": "2026-10-19",
     "verificationScope": "官方名录或官方介绍中的地点；玩法为自助任务",
     "status": "published",
-    "recommendable": true
+    "recommendable": true,
+    "latitude": 31.218727,
+    "longitude": 121.401277,
+    "coordinateSystem": "gcj02",
+    "coordinateSourceUrl": "https://ditu.amap.com/ssr/coordinate-picker",
+    "coordinateCheckedAt": "2026-10-23",
+    "coordinateRevision": 20261023,
+    "coordinateNote": "高德坐标拾取；匹配地点：上海长宁华萃当代美术馆；匹配地址：长宁路1978号；实际入口以现场指引为准"
   },
   {
     "id": "dir-fcae12fa675b8c42-v2-arts",
@@ -24814,7 +26872,14 @@
     "verifiedAt": "2026-10-19",
     "verificationScope": "官方名录或官方介绍中的地点；玩法为自助任务",
     "status": "published",
-    "recommendable": true
+    "recommendable": true,
+    "latitude": 31.430275,
+    "longitude": 121.367075,
+    "coordinateSystem": "gcj02",
+    "coordinateSourceUrl": "https://ditu.amap.com/ssr/coordinate-picker",
+    "coordinateCheckedAt": "2026-10-23",
+    "coordinateRevision": 20261023,
+    "coordinateNote": "高德坐标拾取；匹配地点：上海湫光美术馆；匹配地址：罗新东路800号5幢；实际入口以现场指引为准"
   },
   {
     "id": "dir-fd27a8284c481940-v2-arts",
@@ -24971,7 +27036,14 @@
     "verifiedAt": "2026-10-19",
     "verificationScope": "官方名录或官方介绍中的地点；玩法为自助任务",
     "status": "published",
-    "recommendable": true
+    "recommendable": true,
+    "latitude": 31.239697,
+    "longitude": 121.469617,
+    "coordinateSystem": "gcj02",
+    "coordinateSourceUrl": "https://ditu.amap.com/ssr/coordinate-picker",
+    "coordinateCheckedAt": "2026-10-23",
+    "coordinateRevision": 20261023,
+    "coordinateNote": "高德坐标拾取；匹配地点：Fotografiska影像艺术中心；匹配地址：光复路127号(新闸路地铁站1号口步行370米)；实际入口以现场指引为准"
   },
   {
     "id": "dir-fe12fc0424fa88ea-v2-night",
@@ -25010,7 +27082,14 @@
     "verifiedAt": "2026-10-19",
     "verificationScope": "官方名录或官方介绍中的地点；玩法为自助任务",
     "status": "published",
-    "recommendable": true
+    "recommendable": true,
+    "latitude": 31.239697,
+    "longitude": 121.469617,
+    "coordinateSystem": "gcj02",
+    "coordinateSourceUrl": "https://ditu.amap.com/ssr/coordinate-picker",
+    "coordinateCheckedAt": "2026-10-23",
+    "coordinateRevision": 20261023,
+    "coordinateNote": "高德坐标拾取；匹配地点：Fotografiska影像艺术中心；匹配地址：光复路127号(新闸路地铁站1号口步行370米)；实际入口以现场指引为准"
   },
   {
     "id": "dir-fe49ac63fd248cc1-v2-healing",
@@ -25253,7 +27332,14 @@
     "verifiedAt": "2026-10-19",
     "verificationScope": "官方名录或官方介绍中的地点；玩法为自助任务",
     "status": "published",
-    "recommendable": true
+    "recommendable": true,
+    "latitude": 31.200222,
+    "longitude": 121.435326,
+    "coordinateSystem": "gcj02",
+    "coordinateSourceUrl": "https://ditu.amap.com/ssr/coordinate-picker",
+    "coordinateCheckedAt": "2026-10-23",
+    "coordinateRevision": 20261023,
+    "coordinateNote": "高德坐标拾取；匹配地点：上海交通大学董浩云航运博物馆；匹配地址：华山路1954号；实际入口以现场指引为准"
   },
   {
     "id": "dir-ff611142b81589ea-v2-arts",
